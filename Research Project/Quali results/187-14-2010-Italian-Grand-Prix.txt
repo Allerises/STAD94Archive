@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+187	14	2010	Italian Grand Prix	1	8	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	23	1:21.962					
+187	14	2010	Italian Grand Prix	2	1	Jenson Button	Great Britain	Vodafone McLaren Mercedes	21	1:22.084	0.122	0.122			
+187	14	2010	Italian Grand Prix	3	7	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	25	1:22.293	0.331	0.209			
+187	14	2010	Italian Grand Prix	4	6	Mark Webber	Australia	Red Bull Racing	26	1:22.433	0.471	0.140			
+187	14	2010	Italian Grand Prix	5	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	17	1:22.623	0.661	0.190			
+187	14	2010	Italian Grand Prix	6	5	Sebastian Vettel	Germany	Red Bull Racing	23	1:22.675	0.713	0.052			
+187	14	2010	Italian Grand Prix	7	4	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	23	1:23.027	1.065	0.352			
+187	14	2010	Italian Grand Prix	8	10	Nico Hülkenberg	Germany	AT&T Williams	23	1:23.037	1.075	0.010			
+187	14	2010	Italian Grand Prix	9	11	Robert Kubica	Poland	Renault F1 Team	18	1:23.039	1.077	0.002			
+187	14	2010	Italian Grand Prix	10	9	Rubens Barrichello	Brazil	AT&T Williams	26	1:23.328	1.366	0.289			
+187	14	2010	Italian Grand Prix	11	14	Adrian Sutil	Germany	Force India F1 Team	16	1:23.199	1.237	0.160			
+187	14	2010	Italian Grand Prix	12	3	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	19	1:23.388	1.426	0.189			
+187	14	2010	Italian Grand Prix	13	23	Kamui Kobayashi	Japan	BMW Sauber F1 Team	17	1:23.659	1.697	0.271			
+187	14	2010	Italian Grand Prix	14	16	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	19	1:23.681	1.719	0.022			
+187	14	2010	Italian Grand Prix	15	12	Vitaly Petrov	Russia	Renault F1 Team	17	1:23.819	1.857	0.138			
+187	14	2010	Italian Grand Prix	16	17	Jaime Alguersuari	Spain	Scuderia Toro Rosso	19	1:23.919	1.957	0.100			
+187	14	2010	Italian Grand Prix	17	22	Pedro de la Rosa	Spain	BMW Sauber F1 Team	16	1:24.044	2.082	0.125			
+187	14	2010	Italian Grand Prix	18	18	Jarno Trulli	Italy	Lotus Racing	10	1:25.540	3.578	1.496			
+187	14	2010	Italian Grand Prix	19	19	Heikki Kovalainen	Finland	Lotus Racing	11	1:25.742	3.780	0.202			
+187	14	2010	Italian Grand Prix	20	15	Vitantonio Liuzzi	Italy	Force India F1 Team	3	1:25.774	3.812	0.032			
+187	14	2010	Italian Grand Prix	21	24	Timo Glock	Germany	Virgin Racing	11	1:25.934	3.972	0.160			
+187	14	2010	Italian Grand Prix	22	25	Lucas di Grassi	Brazil	Virgin Racing	10	1:25.974	4.012	0.040			
+187	14	2010	Italian Grand Prix	23	21	Bruno Senna	Brazil	HRT F1 Team	11	1:26.847	4.885	0.873			
+187	14	2010	Italian Grand Prix	24	20	Sakon Yamamoto	Japan	HRT F1 Team	10	1:27.020	5.058	0.173			

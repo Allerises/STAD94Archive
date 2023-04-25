@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+348	10	2019	British Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Motorsport	21	1:25.093			249.228		
+348	10	2019	British Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Motorsport	17	1:25.099	0.006	0.006	249.210		
+348	10	2019	British Grand Prix	3	16	Charles Leclerc	Monaco	Scuderia Ferrari	18	1:25.172	0.079	0.073	248.997		
+348	10	2019	British Grand Prix	4	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	21	1:25.276	0.183	0.104	248.693		
+348	10	2019	British Grand Prix	5	10	Pierre Gasly	France	Aston Martin Red Bull Racing	21	1:25.590	0.497	0.314	247.781		
+348	10	2019	British Grand Prix	6	5	Sebastian Vettel	Germany	Scuderia Ferrari	19	1:25.787	0.694	0.197	247.212		
+348	10	2019	British Grand Prix	7	3	Daniel Ricciardo	Australia	Renault F1 Team	21	1:26.182	1.089	0.395	246.079		
+348	10	2019	British Grand Prix	8	4	Lando Norris	Great Britain	McLaren F1 Team	21	1:26.224	1.131	0.042	245.959		
+348	10	2019	British Grand Prix	9	23	Alexander Albon	Thailand	Red Bull Toro Rosso Honda	24	1:26.345	1.252	0.121	245.614		
+348	10	2019	British Grand Prix	10	27	Nico Hülkenberg	Germany	Renault F1 Team	21	1:26.386	1.293	0.041	245.498		
+348	10	2019	British Grand Prix	11	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing	18	1:26.519	1.426	0.133	245.120		
+348	10	2019	British Grand Prix	12	7	Kimi Räikkönen	Finland	Alfa Romeo Racing	18	1:26.546	1.453	0.027	245.044		
+348	10	2019	British Grand Prix	13	55	Carlos Sainz	Spain	McLaren F1 Team	15	1:26.578	1.485	0.032	244.953		
+348	10	2019	British Grand Prix	14	8	Romain Grosjean	France	Rich Energy Haas F1 Team	17	1:26.757	1.664	0.179	244.448		
+348	10	2019	British Grand Prix	15	11	Sergio Pérez	Mexico	SportPesa Racing Point F1 Team	14	1:26.928	1.835	0.171	243.967		
+348	10	2019	British Grand Prix	16	20	Kevin Magnussen	Denmark	Rich Energy Haas F1 Team	9	1:26.662	1.569		244.716		
+348	10	2019	British Grand Prix	17	26	Daniil Kvyat	Russia	Red Bull Toro Rosso Honda	10	1:26.721	1.628	0.059	244.549		
+348	10	2019	British Grand Prix	18	18	Lance Stroll	Canada	SportPesa Racing Point F1 Team	9	1:26.762	1.669	0.041	244.434		
+348	10	2019	British Grand Prix	19	63	George Russell	Great Britain	ROKiT Williams Racing	9	1:27.789	2.696	1.027	241.574		
+348	10	2019	British Grand Prix	20	88	Robert Kubica	Poland	ROKiT Williams Racing	10	1:28.257	3.164	0.468	240.293		

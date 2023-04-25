@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+30	14	2001	Belgian Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	36	1:08:05.002			221.050	1:49.758	3
+30	14	2001	Belgian Grand Prix	2	4	David Coulthard	Great Britain	McLaren	36	1:08:15.100	+ 10.098	+ 10.098	220.505	1:51.608	31
+30	14	2001	Belgian Grand Prix	3	7	Giancarlo Fisichella	Italy	Benneton	36	1:08:32.744	+ 27.742	+ 17.644	219.559	1:51.725	10
+30	14	2001	Belgian Grand Prix	4	3	Mika Hakkinen	Finland	McLaren	36	1:08:41.089	+ 36.087	+ 8.345	219.114	1:51.741	9
+30	14	2001	Belgian Grand Prix	5	2	Rubens Barrichello	Brazil	Ferrari	36	1:08:59.523	+ 54.521	+ 18.434	218.139	1:51.776	20
+30	14	2001	Belgian Grand Prix	6	12	Jean Alesi	France	Jordan	36	1:09:04.686	+ 59.684	+ 5.163	217.867	1:51.996	5
+30	14	2001	Belgian Grand Prix	7	5	Ralf Schumacher	Germany	Williams	36	1:09:04.988	+ 59.986	+ 0.302	217.851	1:51.058	21
+30	14	2001	Belgian Grand Prix	8	10	Jacques Villeneuve	Canada	BAR	36	1:09:09.972	+ 1:04.970	+ 4.984	217.589	1:52.372	11
+30	14	2001	Belgian Grand Prix	9	22	Heinz-Harald Frentzen	Germany	Prost	35	1:08:06.458	1 Lap	1 Lap	214.833	1:54.051	15
+30	14	2001	Belgian Grand Prix	10	14	Jos Verstappen	Netherlands	Arrows	35	1:08:18.496	1 Lap	+ 12.038	214.202	1:54.095	4
+30	14	2001	Belgian Grand Prix	11	9	Olivier Panis	France	BAR	35	1:08:25.741	1 Lap	+ 7.245	213.824	1:52.533	24
+30	14	2001	Belgian Grand Prix	12	15	Enrique Bernoldi	Brazil	Arrows	35	1:08:53.227	1 Lap	+ 27.486	212.402	1:55.196	4
+30	14	2001	Belgian Grand Prix	13	20	Tarso Marques	Brazil	Minardi	32	1:09:02.143	4 Laps	3 Laps	193.777	1:56.484	8
+30	14	2001	Belgian Grand Prix	14	11	Jarno Trulli	Italy	Jordan	31	59:25.687			218.069	1:51.828	4
+30	14	2001	Belgian Grand Prix	15	8	Jenson Button	Great Britain	Benneton	17	32:51.083			216.317	1:53.409	17
+30	14	2001	Belgian Grand Prix	16	6	Juan Pablo Montoya	Colombia	Williams	1	2:05.821			198.882		
+30	14	2001	Belgian Grand Prix	17	19	Pedro de la Rosa	Spain	Jaguar	1	3:49.381			109.091		
+30	14	2001	Belgian Grand Prix	18	16	Nick Heidfeld	Germany	Sauber							
+30	14	2001	Belgian Grand Prix	19	17	Kimi Räikkönen	Finland	Sauber							
+30	14	2001	Belgian Grand Prix	20	18	Eddie Irvine	Great Britain	Jaguar							
+30	14	2001	Belgian Grand Prix	21	23	Luciano Burti	Brazil	Prost							
+30	14	2001	Belgian Grand Prix	22	21	Fernando Alonso	Spain	Minardi							

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+147	9	2008	British Grand Prix	1	23	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	15	1:21.049	0.875	0.448			
+147	9	2008	British Grand Prix	2	10	Mark Webber	Australia	Red Bull Racing	16	1:21.554	0.505	0.505			
+147	9	2008	British Grand Prix	3	1	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	18	1:21.706	0.657	0.152			
+147	9	2008	British Grand Prix	4	22	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	13	1:21.835	0.786	0.129			
+147	9	2008	British Grand Prix	5	3	Nick Heidfeld	Germany	BMW Sauber F1 Team	16	1:21.873	0.824	0.038			
+147	9	2008	British Grand Prix	6	5	Fernando Alonso	Spain	ING Renault F1 Team	15	1:22.029	0.980	0.156			
+147	9	2008	British Grand Prix	7	6	Nelson Piquet Jr.	Brazil	Renault	19	1:22.491	1.442	0.462			
+147	9	2008	British Grand Prix	8	15	Sebastian Vettel	Germany	Scuderia Toro Rosso	16	1:23.251	2.202	0.760			
+147	9	2008	British Grand Prix	9	2	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	16	1:23.305	2.256	0.054			
+147	9	2008	British Grand Prix	10	4	Robert Kubica	Poland	BMW Sauber F1 Team	12						
+147	9	2008	British Grand Prix	11	9	David Coulthard	Great Britain	Red Bull Racing	14	1:20.174					
+147	9	2008	British Grand Prix	12	12	Timo Glock	Germany	Panasonic Toyota Racing	14	1:20.274	0.100	0.100			
+147	9	2008	British Grand Prix	13	14	Sebastien Bourdais	France	Scuderia Toro Rosso	16	1:20.531	0.357	0.257			
+147	9	2008	British Grand Prix	14	11	Jarno Trulli	Italy	Panasonic Toyota Racing	13	1:20.601	0.427	0.070			
+147	9	2008	British Grand Prix	15	8	Kazuki Nakajima	Japan	AT&T Williams	14	1:21.112	0.063	0.511			
+147	9	2008	British Grand Prix	16	17	Rubens Barrichello	Brazil	Honda Racing F1 Team	9	1:21.512	0.463	0.400			
+147	9	2008	British Grand Prix	17	16	Jenson Button	Great Britain	Honda Racing F1 Team	11	1:21.631	0.582	0.119			
+147	9	2008	British Grand Prix	18	7	Nico Rosberg	Germany	AT&T Williams	6	1:21.668	0.619	0.037			
+147	9	2008	British Grand Prix	19	20	Adrian Sutil	Germany	Force India F1 Team	9	1:21.786	0.737	0.118			
+147	9	2008	British Grand Prix	20	21	Giancarlo Fisichella	Italy	Force India F1 Team	8	1:21.885	0.836	0.099			

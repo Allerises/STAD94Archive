@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+245	14	2013	Korean Grand Prix	1	1	Sebastian Vettel	Germany	Infiniti Red Bull Racing	5	1:37.202					
+245	14	2013	Korean Grand Prix	2	10	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team	6	1:37.420	0.218	0.218			
+245	14	2013	Korean Grand Prix	3	2	Mark Webber	Australia	Infiniti Red Bull Racing	5	1:37.464	0.262	0.044			
+245	14	2013	Korean Grand Prix	4	8	Romain Grosjean	France	Lotus F1 Team	6	1:37.531	0.329	0.067			
+245	14	2013	Korean Grand Prix	5	9	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	6	1:37.679	0.477	0.148			
+245	14	2013	Korean Grand Prix	6	3	Fernando Alonso	Spain	Scuderia Ferrari	3	1:38.038	0.836	0.359			
+245	14	2013	Korean Grand Prix	7	4	Felipe Massa	Brazil	Scuderia Ferrari	3	1:38.223	1.021	0.185			
+245	14	2013	Korean Grand Prix	8	11	Nico Hülkenberg	Germany	Sauber F1 Team	3	1:38.237	1.035	0.014			
+245	14	2013	Korean Grand Prix	9	12	Esteban Gutiérrez	Mexico	Sauber F1 Team	3	1:38.405	1.203	0.168			
+245	14	2013	Korean Grand Prix	10	7	Kimi Räikkönen	Finland	Lotus F1 Team	3	1:38.822	1.620	0.417			
+245	14	2013	Korean Grand Prix	11	6	Sergio Pérez	Mexico	Vodafone McLaren Mercedes	6	1:38.362	1.160	0.125			
+245	14	2013	Korean Grand Prix	12	5	Jenson Button	Great Britain	Vodafone McLaren Mercedes	6	1:38.365	1.163	0.003			
+245	14	2013	Korean Grand Prix	13	19	Daniel Ricciardo	Australia	Scuderia Toro Rosso	6	1:38.417	1.215	0.052			
+245	14	2013	Korean Grand Prix	14	15	Adrian Sutil	Germany	Sahara Force India F1 Team	6	1:38.431	1.229	0.014			
+245	14	2013	Korean Grand Prix	15	14	Paul di Resta	Great Britain	Sahara Force India F1 Team	6	1:38.718	1.516	0.287			
+245	14	2013	Korean Grand Prix	16	18	Jean-Eric Vergne	France	Scuderia Toro Rosso	5	1:38.781	1.579	0.063			
+245	14	2013	Korean Grand Prix	17	17	Valtteri Bottas	Finland	Williams F1 Team	8	1:39.470	2.268	0.689			
+245	14	2013	Korean Grand Prix	18	16	Pastor Maldonado	Venezuela	Williams F1 Team	8	1:39.987	2.785	0.517			
+245	14	2013	Korean Grand Prix	19	20	Charles Pic	France	Caterham F1 Team	6	1:40.864	3.662	0.877			
+245	14	2013	Korean Grand Prix	20	21	Giedo van der Garde	Netherlands	Caterham F1 Team	6	1:40.871	3.669	0.007			
+245	14	2013	Korean Grand Prix	21	22	Jules Bianchi	France	Marussia F1 Team	6	1:41.169	3.967	0.298			
+245	14	2013	Korean Grand Prix	22	23	Max Chilton	Great Britain	Marussia F1 Team	6	1:41.322	4.120	0.153			

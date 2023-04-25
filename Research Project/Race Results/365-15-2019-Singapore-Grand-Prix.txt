@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+365	15	2019	Singapore Grand Prix	1	5	Sebastian Vettel	Germany	Ferrari	61	1:58:33.667			156.226	1:44.802	57
+365	15	2019	Singapore Grand Prix	2	16	Charles Leclerc	Monaco	Ferrari	61	1:58:36.308	+ 2.641	+ 2.641	156.168	1:44.723	59
+365	15	2019	Singapore Grand Prix	3	33	Max Verstappen	Netherlands	Red Bull	61	1:58:37.488	+ 3.821	+ 1.180	156.142	1:45.176	56
+365	15	2019	Singapore Grand Prix	4	44	Lewis Hamilton	Great Britain	Mercedes	61	1:58:38.275	+ 4.608	+ 0.787	156.125	1:44.914	58
+365	15	2019	Singapore Grand Prix	5	77	Valtteri Bottas	Finland	Mercedes	61	1:58:39.786	+ 6.119	+ 1.511	156.091	1:43.534	58
+365	15	2019	Singapore Grand Prix	6	23	Alexander Albon	Thailand	Red Bull	61	1:58:45.330	+ 11.663	+ 5.544	155.970	1:45.260	59
+365	15	2019	Singapore Grand Prix	7	4	Lando Norris	Great Britain	McLaren	61	1:58:48.436	+ 14.769	+ 3.106	155.902	1:45.716	58
+365	15	2019	Singapore Grand Prix	8	10	Pierre Gasly	France	Toro Rosso	61	1:58:49.214	+ 15.547	+ 0.778	155.885	1:45.769	58
+365	15	2019	Singapore Grand Prix	9	27	Nico Hülkenberg	Germany	Renault	61	1:58:50.385	+ 16.718	+ 1.171	155.859	1:45.765	59
+365	15	2019	Singapore Grand Prix	10	99	Antonio Giovinazzi	Italy	Sauber	61	1:59:01.522	+ 27.855	+ 11.137	155.616	1:45.630	59
+365	15	2019	Singapore Grand Prix	11	8	Romain Grosjean	France	Haas	61	1:59:09.103	+ 35.436	+ 7.581	155.451	1:46.274	54
+365	15	2019	Singapore Grand Prix	12	55	Carlos Sainz	Spain	McLaren	61	1:59:09.641	+ 35.974	+ 0.538	155.440	1:45.969	41
+365	15	2019	Singapore Grand Prix	13	18	Lance Stroll	Canada	Aston Martin	61	1:59:10.086	+ 36.419	+ 0.445	155.430	1:44.896	57
+365	15	2019	Singapore Grand Prix	14	3	Daniel Ricciardo	Australia	Renault	61	1:59:11.327	+ 37.660	+ 1.241	155.403	1:45.915	55
+365	15	2019	Singapore Grand Prix	15	26	Daniil Kvyat	Russia	Toro Rosso	61	1:59:11.845	+ 38.178	+ 0.518	155.392	1:44.371	57
+365	15	2019	Singapore Grand Prix	16	88	Robert Kubica	Poland	Williams	61	1:59:20.691	+ 47.024	+ 8.846	155.200	1:46.793	59
+365	15	2019	Singapore Grand Prix	17	20	Kevin Magnussen	Denmark	Haas	61	2:00:00.189	+ 1:26.522	+ 39.498	154.348	1:42.301	58
+365	15	2019	Singapore Grand Prix	18	7	Kimi Räikkönen	Finland	Sauber	49	1:36:21.711			154.386	1:47.062	18
+365	15	2019	Singapore Grand Prix	19	11	Sergio Pérez	Mexico	Aston Martin	42	1:20:32.029			158.325	1:46.683	15
+365	15	2019	Singapore Grand Prix	20	63	George Russell	Great Britain	Williams	34	1:02:56.102			163.983	1:48.285	29

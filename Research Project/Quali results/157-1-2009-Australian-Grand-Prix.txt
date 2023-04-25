@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+157	1	2009	Australian Grand Prix	1	22	Jenson Button	Great Britain	Brawn GP Formula 1 Team	19	1:26.202	0.698	0.476			
+157	1	2009	Australian Grand Prix	2	23	Rubens Barrichello	Brazil	Brawn GP Formula 1 Team	21	1:26.505	0.303	0.303			
+157	1	2009	Australian Grand Prix	3	15	Sebastian Vettel	Germany	Red Bull Racing	21	1:26.830	0.628	0.325			
+157	1	2009	Australian Grand Prix	4	5	Robert Kubica	Poland	BMW Sauber F1 Team	19	1:26.914	0.712	0.084			
+157	1	2009	Australian Grand Prix	5	16	Nico Rosberg	Germany	AT&T Williams	21	1:26.973	0.771	0.059			
+157	1	2009	Australian Grand Prix	6	10	Timo Glock	Germany	Panasonic Toyota Racing	19	1:26.975	0.773	0.002			
+157	1	2009	Australian Grand Prix	7	3	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	21	1:27.033	0.831	0.058			
+157	1	2009	Australian Grand Prix	8	9	Jarno Trulli	Italy	Panasonic Toyota Racing	20	1:27.127	0.925	0.094			
+157	1	2009	Australian Grand Prix	9	4	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	21	1:27.163	0.961	0.036			
+157	1	2009	Australian Grand Prix	10	14	Mark Webber	Australia	Red Bull Racing	20	1:27.246	1.044	0.083			
+157	1	2009	Australian Grand Prix	11	6	Nick Heidfeld	Germany	BMW Sauber F1 Team	14	1:25.504					
+157	1	2009	Australian Grand Prix	12	7	Fernando Alonso	Spain	ING Renault F1 Team	12	1:25.605	0.101	0.101			
+157	1	2009	Australian Grand Prix	13	17	Kazuki Nakajima	Japan	AT&T Williams	16	1:25.607	0.103	0.002			
+157	1	2009	Australian Grand Prix	14	2	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	15	1:25.726	0.222	0.119			
+157	1	2009	Australian Grand Prix	15	1	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	5						
+157	1	2009	Australian Grand Prix	16	12	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	10	1:26.503	0.301	0.301			
+157	1	2009	Australian Grand Prix	17	8	Nelson Piquet Jr.	Brazil	Renault	12	1:26.598	0.396	0.095			
+157	1	2009	Australian Grand Prix	18	21	Giancarlo Fisichella	Italy	Force India F1 Team	10	1:26.677	0.475	0.079			
+157	1	2009	Australian Grand Prix	19	20	Adrian Sutil	Germany	Force India F1 Team	9	1:26.742	0.540	0.065			
+157	1	2009	Australian Grand Prix	20	11	Sebastien Bourdais	France	Scuderia Toro Rosso	10	1:26.964	0.762	0.222			

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+72	6	2004	Monaco Grand Prix	1	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team	3	1:13.985					
+72	6	2004	Monaco Grand Prix	2	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team	3	1:14.345	0.360	0.360			
+72	6	2004	Monaco Grand Prix	3	9	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:14.396	0.411	0.051			
+72	6	2004	Monaco Grand Prix	4	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:14.408	0.423	0.012			
+72	6	2004	Monaco Grand Prix	5	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:14.516	0.531	0.108			
+72	6	2004	Monaco Grand Prix	6	6	Kimi Räikkönen	Finland	West McLaren Mercedes	3	1:14.592	0.607	0.076			
+72	6	2004	Monaco Grand Prix	7	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:14.716	0.731	0.124			
+72	6	2004	Monaco Grand Prix	8	10	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:14.827	0.842	0.111			
+72	6	2004	Monaco Grand Prix	9	5	David Coulthard	Great Britain	West McLaren Mercedes	3	1:14.951	0.966	0.124			
+72	6	2004	Monaco Grand Prix	10	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team	3	1:15.039	1.054	0.088			
+72	6	2004	Monaco Grand Prix	11	11	Giancarlo Fisichella	Italy	Sauber Petronas	3	1:15.352	1.367	0.313			
+72	6	2004	Monaco Grand Prix	12	14	Mark Webber	Australia	Jaguar Racing	3	1:15.725	1.740	0.373			
+72	6	2004	Monaco Grand Prix	13	17	Olivier Panis	France	Panasonic Toyota Racing	3	1:15.859	1.874	0.134			
+72	6	2004	Monaco Grand Prix	14	15	Christian Klien	Austria	Jaguar Racing	3	1:15.919	1.934	0.060			
+72	6	2004	Monaco Grand Prix	15	16	Cristiano da Matta	Brazil	Panasonic Toyota Racing	3	1:16.169	2.184	0.250			
+72	6	2004	Monaco Grand Prix	16	12	Felipe Massa	Brazil	Sauber Petronas	3	1:16.248	2.263	0.079			
+72	6	2004	Monaco Grand Prix	17	18	Nick Heidfeld	Germany	Jordan Ford	3	1:16.488	2.503	0.240			
+72	6	2004	Monaco Grand Prix	18	19	Giorgio Pantano	Italy	Jordan Ford	3	1:17.433	3.448	0.945			
+72	6	2004	Monaco Grand Prix	19	21	Zsolt Baumgartner	Hungary	Minardi Cosworth	3	1:20.060	6.075	2.627			
+72	6	2004	Monaco Grand Prix	20	20	Gianmaria Bruni	Italy	Minardi Cosworth	3	1:20.115	6.130	0.055			

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+46	13	2002	Hungarian Grand Prix	1	2	Rubens Barrichello	Brazil	Ferrari	77	1:41:49.001			180.364	1:16.891	31
+46	13	2002	Hungarian Grand Prix	2	1	Michael Schumacher	Germany	Ferrari	77	1:41:49.435	+ 0.434	+ 0.434	180.351	1:16.207	72
+46	13	2002	Hungarian Grand Prix	3	5	Ralf Schumacher	Germany	Williams	77	1:42:02.357	+ 13.356	+ 12.922	179.971	1:17.783	30
+46	13	2002	Hungarian Grand Prix	4	4	Kimi Räikkönen	Finland	McLaren	77	1:42:18.480	+ 29.479	+ 16.123	179.498	1:16.926	54
+46	13	2002	Hungarian Grand Prix	5	3	David Coulthard	Great Britain	McLaren	77	1:42:26.801	+ 37.800	+ 8.321	179.255	1:17.290	33
+46	13	2002	Hungarian Grand Prix	6	9	Giancarlo Fisichella	Italy	Jordan	77	1:42:57.805	+ 1:08.804	+ 31.004	178.355	1:18.578	49
+46	13	2002	Hungarian Grand Prix	7	8	Felipe Massa	Brazil	Sauber	77	1:43:02.613	+ 1:13.612	+ 4.808	178.217	1:18.458	52
+46	13	2002	Hungarian Grand Prix	8	14	Jarno Trulli	Italy	Renault	76	1:41:57.189	1 Lap	1 Lap	177.784	1:18.438	51
+46	13	2002	Hungarian Grand Prix	9	7	Nick Heidfeld	Germany	Sauber	76	1:41:58.160	1 Lap	+ 0.971	177.755	1:18.185	35
+46	13	2002	Hungarian Grand Prix	10	10	Takuma Sato	Japan	Jordan	76	1:42:09.568	1 Lap	+ 11.408	177.424	1:18.247	46
+46	13	2002	Hungarian Grand Prix	11	6	Juan Pablo Montoya	Colombia	Williams	76	1:42:10.653	1 Lap	+ 1.085	177.393	1:18.163	51
+46	13	2002	Hungarian Grand Prix	12	12	Olivier Panis	France	BAR	76	1:42:52.712	1 Lap	+ 42.059	176.184	1:18.126	28
+46	13	2002	Hungarian Grand Prix	13	17	Pedro de la Rosa	Spain	Jaguar	75	1:42:32.766	2 Laps	1 Lap	174.430	1:19.646	48
+46	13	2002	Hungarian Grand Prix	14	25	Allan McNish	Great Britain	Toyota	75	1:42:33.737	2 Laps	+ 0.971	174.402	1:19.937	28
+46	13	2002	Hungarian Grand Prix	15	24	Mika Salo	Finland	Toyota	75	1:42:57.333	2 Laps	+ 23.596	173.736	1:19.408	30
+46	13	2002	Hungarian Grand Prix	16	23	Mark Webber	Australia	Minardi	75	1:43:01.162	2 Laps	+ 3.829	173.628	1:19.567	30
+46	13	2002	Hungarian Grand Prix	17	22	Anthony Davidson	Great Britain	Minardi	58	1:20:08.878			172.588	1:19.347	54
+46	13	2002	Hungarian Grand Prix	18	15	Jenson Button	Great Britain	Renault	30	40:09.701			178.145	1:19.455	23
+46	13	2002	Hungarian Grand Prix	19	16	Eddie Irvine	Great Britain	Jaguar	23	31:04.329			176.529	1:18.889	19
+46	13	2002	Hungarian Grand Prix	20	11	Jacques Villeneuve	Canada	BAR	20	27:04.111			176.206	1:19.861	19

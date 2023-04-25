@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+150	12	2008	European Grand Prix	1	2	Felipe Massa	Brazil	Ferrari	57	1:35:32.339			193.983	1:38.708	36
+150	12	2008	European Grand Prix	2	22	Lewis Hamilton	Great Britain	McLaren	57	1:35:37.950	+ 5.611	+ 5.611	193.793	1:38.884	16
+150	12	2008	European Grand Prix	3	4	Robert Kubica	Poland	Sauber	57	1:36:09.692	+ 37.353	+ 31.742	192.727	1:39.330	38
+150	12	2008	European Grand Prix	4	23	Heikki Kovalainen	Finland	McLaren	57	1:36:12.042	+ 39.703	+ 2.350	192.649	1:39.112	19
+150	12	2008	European Grand Prix	5	11	Jarno Trulli	Italy	Toyota	57	1:36:23.023	+ 50.684	+ 10.981	192.283	1:39.657	37
+150	12	2008	European Grand Prix	6	15	Sebastian Vettel	Germany	Toro Rosso	57	1:36:24.964	+ 52.625	+ 1.941	192.218	1:39.485	36
+150	12	2008	European Grand Prix	7	12	Timo Glock	Germany	Toyota	57	1:36:40.329	+ 1:07.990	+ 15.365	191.709	1:39.535	54
+150	12	2008	European Grand Prix	8	7	Nico Rosberg	Germany	Williams	57	1:36:43.796	+ 1:11.457	+ 3.467	191.595	1:39.577	35
+150	12	2008	European Grand Prix	9	3	Nick Heidfeld	Germany	Sauber	57	1:36:54.516	+ 1:22.177	+ 10.720	191.241	1:39.526	57
+150	12	2008	European Grand Prix	10	14	Sebastien Bourdais	France	Toro Rosso	57	1:37:02.133	+ 1:29.794	+ 7.617	190.991	1:39.639	35
+150	12	2008	European Grand Prix	11	6	Nelson Piquet Jr.	Brazil	Renault	57	1:37:05.056	+ 1:32.717	+ 2.923	190.895	1:39.544	29
+150	12	2008	European Grand Prix	12	10	Mark Webber	Australia	Red Bull	56	1:35:42.553	1 Lap	1 Lap	190.241	1:40.264	27
+150	12	2008	European Grand Prix	13	16	Jenson Button	Great Britain	Honda	56	1:35:53.740	1 Lap	+ 11.187	189.871	1:40.763	21
+150	12	2008	European Grand Prix	14	21	Giancarlo Fisichella	Italy	Force India	56	1:36:04.448	1 Lap	+ 10.708	189.518	1:40.353	54
+150	12	2008	European Grand Prix	15	8	Kazuki Nakajima	Japan	Williams	56	1:36:19.117	1 Lap	+ 14.669	189.037	1:39.803	56
+150	12	2008	European Grand Prix	16	17	Rubens Barrichello	Brazil	Honda	56	1:36:29.660	1 Lap	+ 10.543	188.693	1:40.593	56
+150	12	2008	European Grand Prix	17	9	David Coulthard	Great Britain	Red Bull	56	1:37:07.559	1 Lap	+ 37.899	187.466	1:40.978	13
+150	12	2008	European Grand Prix	18	1	Kimi Räikkönen	Finland	Ferrari	45	1:16:24.280			191.497	1:39.424	34
+150	12	2008	European Grand Prix	19	20	Adrian Sutil	Germany	Force India	41	1:10:47.935			188.290	1:40.661	28
+150	12	2008	European Grand Prix	20	5	Fernando Alonso	Spain	Renault							

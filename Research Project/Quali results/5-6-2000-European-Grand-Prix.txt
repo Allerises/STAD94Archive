@@ -1,0 +1,22 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+5	6	2000	European Grand Prix	1	2	David Coulthard	Great Britain	West McLaren Mercedes		1:17.529					
+5	6	2000	European Grand Prix	2	3	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:17.667	0.138	0.138			
+5	6	2000	European Grand Prix	3	1	Mika Hakkinen	Finland	West McLaren Mercedes		1:17.785	0.256	0.118			
+5	6	2000	European Grand Prix	4	4	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:18.227	0.698	0.442			
+5	6	2000	European Grand Prix	5	9	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:18.515	0.986	0.288			
+5	6	2000	European Grand Prix	6	6	Jarno Trulli	Italy	Jordan		1:18.612	1.083	0.097			
+5	6	2000	European Grand Prix	7	11	Giancarlo Fisichella	Italy	Mild Seven Benetton Playlife		1:18.697	1.168	0.085			
+5	6	2000	European Grand Prix	8	7	Eddie Irvine	Great Britain	Jaguar Racing		1:18.703	1.174	0.006			
+5	6	2000	European Grand Prix	9	22	Jacques Villeneuve	Canada	Lucky Strike Reynard BAR Honda		1:18.742	1.213	0.039			
+5	6	2000	European Grand Prix	10	5	Heinz-Harald Frentzen	Germany	Jordan		1:18.830	1.301	0.088			
+5	6	2000	European Grand Prix	11	10	Jenson Button	Great Britain	BMW WilliamsF1 Team		1:18.887	1.358	0.057			
+5	6	2000	European Grand Prix	12	18	Pedro de la Rosa	Spain	Arrows F1 Team		1:19.024	1.495	0.137			
+5	6	2000	European Grand Prix	13	19	Jos Verstappen	Netherlands	Arrows F1 Team		1:19.190	1.661	0.166			
+5	6	2000	European Grand Prix	14	12	Alexander Wurz	Austria	Mild Seven Benetton Playlife		1:19.378	1.849	0.188			
+5	6	2000	European Grand Prix	15	16	Pedro Diniz	Brazil	Red Bull Sauber Petronas		1:19.422	1.893	0.044			
+5	6	2000	European Grand Prix	16	8	Johnny Herbert	Great Britain	Jaguar Racing		1:19.638	2.109	0.216			
+5	6	2000	European Grand Prix	17	14	Jean Alesi	France	Gauloises Prost Peugeot		1:19.651	2.122	0.013			
+5	6	2000	European Grand Prix	18	23	Ricardo Zonta	Brazil	Lucky Strike Reynard BAR Honda		1:19.766	2.237	0.115			
+5	6	2000	European Grand Prix	19	17	Mika Salo	Finland	Red Bull Sauber Petronas		1:19.814	2.285	0.048			
+5	6	2000	European Grand Prix	20	20	Marc Gene	Spain	Telefonica Minardi Fondmetal		1:20.162	2.633	0.348			
+5	6	2000	European Grand Prix	21	21	Gaston Mazzacane	Argentina	Telefonica Minardi Fondmetal		1:21.015	3.486	0.853			

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+265	15	2014	Japanese Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	44	1:51:43.021			137.064	1:51.600	39
+265	15	2014	Japanese Grand Prix	2	6	Nico Rosberg	Germany	Mercedes	44	1:51:52.201	+ 9.180	+ 9.180	136.877	1:52.551	15
+265	15	2014	Japanese Grand Prix	3	1	Sebastian Vettel	Germany	Red Bull	44	1:52:12.143	+ 29.122	+ 19.942	136.471	1:51.915	32
+265	15	2014	Japanese Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull	44	1:52:21.839	+ 38.818	+ 9.696	136.275	1:52.231	38
+265	15	2014	Japanese Grand Prix	5	22	Jenson Button	Great Britain	McLaren	44	1:52:50.571	+ 1:07.550	+ 28.732	135.697	1:51.721	33
+265	15	2014	Japanese Grand Prix	6	77	Valtteri Bottas	Finland	Williams	44	1:53:36.794	+ 1:53.773	+ 46.223	134.777	1:54.103	41
+265	15	2014	Japanese Grand Prix	7	19	Felipe Massa	Brazil	Williams	44	1:53:38.147	+ 1:55.126	+ 1.353	134.750	1:53.450	39
+265	15	2014	Japanese Grand Prix	8	27	Nico Hülkenberg	Germany	Force India	44	1:53:38.969	+ 1:55.948	+ 0.822	134.734	1:52.814	28
+265	15	2014	Japanese Grand Prix	9	25	Jean-Eric Vergne	France	Toro Rosso	44	1:53:50.659	+ 2:07.638	+ 11.690	134.503	1:53.562	35
+265	15	2014	Japanese Grand Prix	10	11	Sergio Pérez	Mexico	Force India	43	1:51:22.646	1 Lap	1 Lap	134.354	1:53.556	27
+265	15	2014	Japanese Grand Prix	11	26	Daniil Kvyat	Russia	Toro Rosso	43	1:51:48.409	1 Lap	+ 25.763	133.838	1:54.021	25
+265	15	2014	Japanese Grand Prix	12	7	Kimi Räikkönen	Finland	Ferrari	43	1:51:49.838	1 Lap	+ 1.429	133.810	1:52.426	36
+265	15	2014	Japanese Grand Prix	13	21	Esteban Gutiérrez	Mexico	Sauber	43	1:52:14.678	1 Lap	+ 24.840	133.316	1:55.372	40
+265	15	2014	Japanese Grand Prix	14	20	Kevin Magnussen	Denmark	McLaren	43	1:52:22.070	1 Lap	+ 7.392	133.170	1:53.510	38
+265	15	2014	Japanese Grand Prix	15	8	Romain Grosjean	France	Lotus	43	1:52:22.780	1 Lap	+ 0.710	133.156	1:55.302	28
+265	15	2014	Japanese Grand Prix	16	13	Pastor Maldonado	Venezuela	Lotus	43	1:52:42.898	1 Lap	+ 20.118	132.760	1:54.702	26
+265	15	2014	Japanese Grand Prix	17	9	Marcus Ericsson	Sweden	Caterham	43	1:52:50.427	1 Lap	+ 7.529	132.612	1:54.669	27
+265	15	2014	Japanese Grand Prix	18	4	Max Chilton	Great Britain	Marussia	43	1:53:36.282	1 Lap	+ 45.855	131.720	1:56.472	25
+265	15	2014	Japanese Grand Prix	19	10	Kamui Kobayashi	Japan	Caterham	43	1:53:59.121	1 Lap	+ 22.839	131.280	1:55.641	29
+265	15	2014	Japanese Grand Prix	20	17	Jules Bianchi	France	Marussia	41	1:48:14.109	3 Laps	2 Laps	131.816	1:55.985	27
+265	15	2014	Japanese Grand Prix	21	99	Adrian Sutil	Germany	Sauber	40	1:46:17.524	4 Laps	1 Lap	130.948	1:55.753	25
+265	15	2014	Japanese Grand Prix	22	14	Fernando Alonso	Spain	Ferrari	2	6:19.243			107.399		

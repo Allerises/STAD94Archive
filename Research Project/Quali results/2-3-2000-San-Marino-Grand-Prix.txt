@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+2	3	2000	San Marino Grand Prix	1	1	Mika Hakkinen	Finland	West McLaren Mercedes		1:24.714					
+2	3	2000	San Marino Grand Prix	2	3	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:24.805	0.091	0.091			
+2	3	2000	San Marino Grand Prix	3	2	David Coulthard	Great Britain	West McLaren Mercedes		1:25.014	0.300	0.209			
+2	3	2000	San Marino Grand Prix	4	4	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:25.242	0.528	0.228			
+2	3	2000	San Marino Grand Prix	5	9	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:25.871	1.157	0.629			
+2	3	2000	San Marino Grand Prix	6	5	Heinz-Harald Frentzen	Germany	Jordan		1:25.892	1.178	0.021			
+2	3	2000	San Marino Grand Prix	7	7	Eddie Irvine	Great Britain	Jaguar Racing		1:25.929	1.215	0.037			
+2	3	2000	San Marino Grand Prix	8	6	Jarno Trulli	Italy	Jordan		1:26.002	1.288	0.073			
+2	3	2000	San Marino Grand Prix	9	22	Jacques Villeneuve	Canada	Lucky Strike Reynard BAR Honda		1:26.124	1.410	0.122			
+2	3	2000	San Marino Grand Prix	10	16	Pedro Diniz	Brazil	Red Bull Sauber Petronas		1:26.238	1.524	0.114			
+2	3	2000	San Marino Grand Prix	11	12	Alexander Wurz	Austria	Mild Seven Benetton Playlife		1:26.281	1.567	0.043			
+2	3	2000	San Marino Grand Prix	12	17	Mika Salo	Finland	Red Bull Sauber Petronas		1:26.336	1.622	0.055			
+2	3	2000	San Marino Grand Prix	13	18	Pedro de la Rosa	Spain	Arrows F1 Team		1:26.349	1.635	0.013			
+2	3	2000	San Marino Grand Prix	14	23	Ricardo Zonta	Brazil	Lucky Strike Reynard BAR Honda		1:26.814	2.100	0.465			
+2	3	2000	San Marino Grand Prix	15	14	Jean Alesi	France	Gauloises Prost Peugeot		1:26.824	2.110	0.010			
+2	3	2000	San Marino Grand Prix	16	19	Jos Verstappen	Netherlands	Arrows F1 Team		1:26.845	2.131	0.021			
+2	3	2000	San Marino Grand Prix	17	8	Johnny Herbert	Great Britain	Jaguar Racing		1:27.051	2.337	0.206			
+2	3	2000	San Marino Grand Prix	18	10	Jenson Button	Great Britain	BMW WilliamsF1 Team		1:27.135	2.421	0.084			
+2	3	2000	San Marino Grand Prix	19	11	Giancarlo Fisichella	Italy	Mild Seven Benetton Playlife		1:27.253	2.539	0.118			
+2	3	2000	San Marino Grand Prix	20	21	Gaston Mazzacane	Argentina	Telefonica Minardi Fondmetal		1:28.231	3.517	0.978			
+2	3	2000	San Marino Grand Prix	21	20	Marc Gene	Spain	Telefonica Minardi Fondmetal		1:28.333	3.619	0.102			
+2	3	2000	San Marino Grand Prix	22	15	Nick Heidfeld	Germany	Gauloises Prost Peugeot		1:28.361	3.647	0.028			

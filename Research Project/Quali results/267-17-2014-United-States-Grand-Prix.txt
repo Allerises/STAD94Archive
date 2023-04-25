@@ -1,0 +1,19 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+267	17	2014	United States Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	6	1:36.067					
+267	17	2014	United States Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team	6	1:36.443	0.376	0.376			
+267	17	2014	United States Grand Prix	3	77	Valtteri Bottas	Finland	Williams Martini Racing	6	1:36.906	0.839	0.463			
+267	17	2014	United States Grand Prix	4	19	Felipe Massa	Brazil	Williams Martini Racing	6	1:37.205	1.138	0.299			
+267	17	2014	United States Grand Prix	5	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing	6	1:37.244	1.177	0.039			
+267	17	2014	United States Grand Prix	6	14	Fernando Alonso	Spain	Scuderia Ferrari	6	1:37.610	1.543	0.366			
+267	17	2014	United States Grand Prix	7	22	Jenson Button	Great Britain	McLaren Mercedes	6	1:37.655	1.588	0.045			
+267	17	2014	United States Grand Prix	8	20	Kevin Magnussen	Denmark	McLaren Mercedes	6	1:37.706	1.639	0.051			
+267	17	2014	United States Grand Prix	9	7	Kimi Räikkönen	Finland	Scuderia Ferrari	6	1:37.804	1.737	0.098			
+267	17	2014	United States Grand Prix	10	99	Adrian Sutil	Germany	Sauber F1 Team	3	1:38.810	2.743	1.006			
+267	17	2014	United States Grand Prix	11	13	Pastor Maldonado	Venezuela	Lotus F1 Team	8	1:38.467	2.400	0.663			
+267	17	2014	United States Grand Prix	12	11	Sergio Pérez	Mexico	Sahara Force India F1 Team	6	1:38.554	2.487	0.087			
+267	17	2014	United States Grand Prix	13	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team	6	1:38.598	2.531	0.044			
+267	17	2014	United States Grand Prix	14	26	Daniil Kvyat	Russia	Scuderia Toro Rosso	7	1:38.699	2.632	0.101			
+267	17	2014	United States Grand Prix	15	25	Jean-Eric Vergne	France	Scuderia Toro Rosso	10	1:39.250	3.183	0.551			
+267	17	2014	United States Grand Prix	16	21	Esteban Gutiérrez	Mexico	Sauber F1 Team	10	1:39.555	3.488	0.305			
+267	17	2014	United States Grand Prix	17	1	Sebastian Vettel	Germany	Infiniti Red Bull Racing	3	1:39.621	3.554	0.066			
+267	17	2014	United States Grand Prix	18	8	Romain Grosjean	France	Lotus F1 Team	8	1:39.679	3.612	0.058			

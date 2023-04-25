@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+140	2	2008	Malaysian Grand Prix	1	1	Kimi Räikkönen	Finland	Ferrari	56	1:31:18.555			203.971	1:35.405	37
+140	2	2008	Malaysian Grand Prix	2	4	Robert Kubica	Poland	Sauber	56	1:31:38.125	+ 19.570	+ 19.570	203.245	1:35.921	39
+140	2	2008	Malaysian Grand Prix	3	23	Heikki Kovalainen	Finland	McLaren	56	1:31:57.005	+ 38.450	+ 18.880	202.549	1:35.922	19
+140	2	2008	Malaysian Grand Prix	4	11	Jarno Trulli	Italy	Toyota	56	1:32:04.387	+ 45.832	+ 7.382	202.279	1:36.068	53
+140	2	2008	Malaysian Grand Prix	5	22	Lewis Hamilton	Great Britain	McLaren	56	1:32:05.103	+ 46.548	+ 0.716	202.253	1:35.462	53
+140	2	2008	Malaysian Grand Prix	6	3	Nick Heidfeld	Germany	Sauber	56	1:32:08.388	+ 49.833	+ 3.285	202.132	1:35.366	55
+140	2	2008	Malaysian Grand Prix	7	10	Mark Webber	Australia	Red Bull	56	1:32:26.685	+ 1:08.130	+ 18.297	201.466	1:36.696	53
+140	2	2008	Malaysian Grand Prix	8	5	Fernando Alonso	Spain	Renault	56	1:32:28.596	+ 1:10.041	+ 1.911	201.396	1:36.288	40
+140	2	2008	Malaysian Grand Prix	9	9	David Coulthard	Great Britain	Red Bull	56	1:32:34.775	+ 1:16.220	+ 6.179	201.172	1:36.206	55
+140	2	2008	Malaysian Grand Prix	10	16	Jenson Button	Great Britain	Honda	56	1:32:44.769	+ 1:26.214	+ 9.994	200.811	1:35.715	56
+140	2	2008	Malaysian Grand Prix	11	6	Nelson Piquet Jr.	Brazil	Renault	56	1:32:50.757	+ 1:32.202	+ 5.988	200.595	1:36.956	52
+140	2	2008	Malaysian Grand Prix	12	21	Giancarlo Fisichella	Italy	Force India	55	1:31:49.648	1 Lap	1 Lap	199.198	1:36.962	52
+140	2	2008	Malaysian Grand Prix	13	17	Rubens Barrichello	Brazil	Honda	55	1:31:52.069	1 Lap	+ 2.421	199.111	1:36.693	55
+140	2	2008	Malaysian Grand Prix	14	7	Nico Rosberg	Germany	Williams	55	1:32:01.227	1 Lap	+ 9.158	198.780	1:36.782	55
+140	2	2008	Malaysian Grand Prix	15	19	Anthony Davidson	Great Britain	Super Aguri	55	1:32:49.328	1 Lap	+ 48.101	197.063	1:38.171	55
+140	2	2008	Malaysian Grand Prix	16	18	Takuma Sato	Japan	Super Aguri	54	1:31:26.134	2 Laps	1 Lap	196.415	1:38.504	53
+140	2	2008	Malaysian Grand Prix	17	8	Kazuki Nakajima	Japan	Williams	54	1:31:37.131	2 Laps	+ 10.997	196.022	1:37.711	19
+140	2	2008	Malaysian Grand Prix	18	15	Sebastian Vettel	Germany	Toro Rosso	39	1:04:56.494			199.727	1:36.870	37
+140	2	2008	Malaysian Grand Prix	19	2	Felipe Massa	Brazil	Ferrari	30	48:59.371			203.663	1:35.914	15
+140	2	2008	Malaysian Grand Prix	20	20	Adrian Sutil	Germany	Force India	5	8:38.801			192.316	1:40.330	3
+140	2	2008	Malaysian Grand Prix	21	12	Timo Glock	Germany	Toyota	1	2:50.790			116.838		
+140	2	2008	Malaysian Grand Prix	22	14	Sebastien Bourdais	France	Toro Rosso							

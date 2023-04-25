@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+249	18	2013	United States Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	56	1:39:17.148			186.374	1:39.856	54
+249	18	2013	United States Grand Prix	2	8	Romain Grosjean	France	Lotus	56	1:39:23.432	+ 6.284	+ 6.284	186.177	1:40.445	52
+249	18	2013	United States Grand Prix	3	2	Mark Webber	Australia	Red Bull	56	1:39:25.544	+ 8.396	+ 2.112	186.111	1:40.591	52
+249	18	2013	United States Grand Prix	4	10	Lewis Hamilton	Great Britain	Mercedes	56	1:39:44.506	+ 27.358	+ 18.962	185.522	1:40.818	50
+249	18	2013	United States Grand Prix	5	3	Fernando Alonso	Spain	Ferrari	56	1:39:46.740	+ 29.592	+ 2.234	185.452	1:41.186	52
+249	18	2013	United States Grand Prix	6	11	Nico Hülkenberg	Germany	Sauber	56	1:39:47.548	+ 30.400	+ 0.808	185.427	1:40.952	54
+249	18	2013	United States Grand Prix	7	6	Sergio Pérez	Mexico	McLaren	56	1:40:03.840	+ 46.692	+ 16.292	184.924	1:41.830	47
+249	18	2013	United States Grand Prix	8	17	Valtteri Bottas	Finland	Williams	56	1:40:11.657	+ 54.509	+ 7.817	184.684	1:40.492	54
+249	18	2013	United States Grand Prix	9	9	Nico Rosberg	Germany	Mercedes	56	1:40:16.289	+ 59.141	+ 4.632	184.541	1:41.133	51
+249	18	2013	United States Grand Prix	10	5	Jenson Button	Great Britain	McLaren	56	1:40:34.426	+ 1:17.278	+ 18.137	183.987	1:41.285	50
+249	18	2013	United States Grand Prix	11	19	Daniel Ricciardo	Australia	Toro Rosso	56	1:40:38.152	+ 1:21.004	+ 3.726	183.873	1:42.119	45
+249	18	2013	United States Grand Prix	12	4	Felipe Massa	Brazil	Ferrari	56	1:40:44.062	+ 1:26.914	+ 5.910	183.693	1:41.209	53
+249	18	2013	United States Grand Prix	13	12	Esteban Gutiérrez	Mexico	Sauber	56	1:40:48.855	+ 1:31.707	+ 4.793	183.548	1:41.401	51
+249	18	2013	United States Grand Prix	14	7	Heikki Kovalainen	Finland	Lotus	56	1:40:52.211	+ 1:35.063	+ 3.356	183.446	1:41.028	52
+249	18	2013	United States Grand Prix	15	14	Paul di Resta	Great Britain	Force India	56	1:40:54.001	+ 1:36.853	+ 1.790	183.392	1:41.148	54
+249	18	2013	United States Grand Prix	16	18	Jean-Eric Vergne	France	Toro Rosso	56	1:41:01.722	+ 1:44.574	+ 7.721	183.765	1:41.320	52
+249	18	2013	United States Grand Prix	17	16	Pastor Maldonado	Venezuela	Williams	55	1:39:34.305	+ 17.157	1 Lap	182.516	1:43.058	42
+249	18	2013	United States Grand Prix	18	22	Jules Bianchi	France	Marussia	55	1:40:13.681	+ 56.533	+ 39.376	181.321	1:43.419	45
+249	18	2013	United States Grand Prix	19	21	Giedo van der Garde	Netherlands	Caterham	55	1:40:15.632	+ 58.484	+ 1.951	181.262	1:43.933	45
+249	18	2013	United States Grand Prix	20	20	Charles Pic	France	Caterham	55	1:40:45.887	+ 1:28.739	+ 30.255	180.355	1:43.968	48
+249	18	2013	United States Grand Prix	21	23	Max Chilton	Great Britain	Marussia	54	1:39:35.785	+ 18.637	1 Lap	179.150	1:43.775	48
+249	18	2013	United States Grand Prix	22	15	Adrian Sutil	Germany	Force India							

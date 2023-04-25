@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+207	15	2011	Japanese Grand Prix	1	4	Jenson Button	Great Britain	McLaren	53	1:30:53.427				1:36.568	52
+207	15	2011	Japanese Grand Prix	2	5	Fernando Alonso	Spain	Ferrari	53	1:30:54.587	+ 1.160	+ 1.160		1:36.682	50
+207	15	2011	Japanese Grand Prix	3	1	Sebastian Vettel	Germany	Red Bull	53	1:30:55.433	+ 2.006	+ 0.846		1:36.916	52
+207	15	2011	Japanese Grand Prix	4	2	Mark Webber	Australia	Red Bull	53	1:31:01.498	+ 8.071	+ 6.065		1:36.828	47
+207	15	2011	Japanese Grand Prix	5	3	Lewis Hamilton	Great Britain	McLaren	53	1:31:17.695	+ 24.268	+ 16.197		1:37.645	49
+207	15	2011	Japanese Grand Prix	6	7	Michael Schumacher	Germany	Mercedes	53	1:31:20.547	+ 27.120	+ 2.852		1:37.916	53
+207	15	2011	Japanese Grand Prix	7	6	Felipe Massa	Brazil	Ferrari	53	1:31:21.667	+ 28.240	+ 1.120		1:37.800	50
+207	15	2011	Japanese Grand Prix	8	17	Sergio Pérez	Mexico	Sauber	53	1:31:32.804	+ 39.377	+ 11.137		1:36.569	39
+207	15	2011	Japanese Grand Prix	9	10	Vitaly Petrov	Russia	Renault	53	1:31:36.034	+ 42.607	+ 3.230		1:37.053	47
+207	15	2011	Japanese Grand Prix	10	8	Nico Rosberg	Germany	Mercedes	53	1:31:37.749	+ 44.322	+ 1.715		1:36.614	50
+207	15	2011	Japanese Grand Prix	11	14	Adrian Sutil	Germany	Force India	53	1:31:47.874	+ 54.447	+ 10.125		1:38.133	43
+207	15	2011	Japanese Grand Prix	12	15	Paul di Resta	Great Britain	Force India	53	1:31:55.753	+ 1:02.326	+ 7.879		1:37.970	43
+207	15	2011	Japanese Grand Prix	13	16	Kamui Kobayashi	Japan	Sauber	53	1:31:57.132	+ 1:03.705	+ 1.379		1:39.724	44
+207	15	2011	Japanese Grand Prix	14	12	Pastor Maldonado	Venezuela	Williams	53	1:31:57.621	+ 1:04.194	+ 0.489		1:37.645	50
+207	15	2011	Japanese Grand Prix	15	19	Jaime Alguersuari	Spain	Toro Rosso	53	1:32:00.050	+ 1:06.623	+ 2.429		1:37.411	41
+207	15	2011	Japanese Grand Prix	16	9	Bruno Senna	Brazil	Renault	53	1:32:06.055	+ 1:12.628	+ 6.005		1:38.407	42
+207	15	2011	Japanese Grand Prix	17	11	Rubens Barrichello	Brazil	Williams	53	1:32:07.618	+ 1:14.191	+ 1.563		1:39.080	53
+207	15	2011	Japanese Grand Prix	18	20	Heikki Kovalainen	Finland	Lotus	53	1:32:21.251	+ 1:27.824	+ 13.633		1:39.297	50
+207	15	2011	Japanese Grand Prix	19	21	Jarno Trulli	Italy	Lotus	53	1:32:29.567	+ 1:36.140	+ 8.316		1:39.561	49
+207	15	2011	Japanese Grand Prix	20	24	Timo Glock	Germany	Virgin	51		2 Laps	2 Laps		1:41.704	46
+207	15	2011	Japanese Grand Prix	21	25	Jerome d'Ambrosio	Belgium	Virgin	51		2 Laps			1:41.794	45
+207	15	2011	Japanese Grand Prix	22	22	Daniel Ricciardo	Australia	HRT	51		2 Laps			1:41.437	49
+207	15	2011	Japanese Grand Prix	23	23	Vitantonio Liuzzi	Italy	HRT	50		3 Laps	1 Lap		1:42.409	37
+207	15	2011	Japanese Grand Prix	24	18	Sébastien Buemi	Switzerland	Toro Rosso	11					1:42.107	6

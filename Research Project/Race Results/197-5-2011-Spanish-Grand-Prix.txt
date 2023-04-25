@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+197	5	2011	Spanish Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	66	1:39:03.301				1:27.162	60
+197	5	2011	Spanish Grand Prix	2	3	Lewis Hamilton	Great Britain	McLaren	66	1:39:03.931	+ 0.630	+ 0.630		1:26.727	52
+197	5	2011	Spanish Grand Prix	3	4	Jenson Button	Great Britain	McLaren	66	1:39:38.998	+ 35.697	+ 35.067		1:27.518	63
+197	5	2011	Spanish Grand Prix	4	2	Mark Webber	Australia	Red Bull	66	1:39:51.267	+ 47.966	+ 12.269		1:27.187	50
+197	5	2011	Spanish Grand Prix	5	5	Fernando Alonso	Spain	Ferrari	65		1 Lap	1 Lap		1:28.737	22
+197	5	2011	Spanish Grand Prix	6	7	Michael Schumacher	Germany	Mercedes	65		1 Lap			1:29.463	34
+197	5	2011	Spanish Grand Prix	7	8	Nico Rosberg	Germany	Mercedes	65		1 Lap			1:29.155	34
+197	5	2011	Spanish Grand Prix	8	9	Nick Heidfeld	Germany	Renault	65		1 Lap			1:26.958	61
+197	5	2011	Spanish Grand Prix	9	17	Sergio Pérez	Mexico	Sauber	65		1 Lap			1:27.247	55
+197	5	2011	Spanish Grand Prix	10	16	Kamui Kobayashi	Japan	Sauber	65		1 Lap			1:27.615	52
+197	5	2011	Spanish Grand Prix	11	10	Vitaly Petrov	Russia	Renault	65		1 Lap			1:29.592	35
+197	5	2011	Spanish Grand Prix	12	15	Paul di Resta	Great Britain	Force India	65		1 Lap			1:29.469	42
+197	5	2011	Spanish Grand Prix	13	14	Adrian Sutil	Germany	Force India	65		1 Lap			1:28.791	52
+197	5	2011	Spanish Grand Prix	14	18	Sébastien Buemi	Switzerland	Toro Rosso	65		1 Lap			1:30.049	27
+197	5	2011	Spanish Grand Prix	15	12	Pastor Maldonado	Venezuela	Williams	65		1 Lap			1:29.391	64
+197	5	2011	Spanish Grand Prix	16	19	Jaime Alguersuari	Spain	Toro Rosso	64		2 Laps	1 Lap		1:29.132	52
+197	5	2011	Spanish Grand Prix	17	11	Rubens Barrichello	Brazil	Williams	64		2 Laps			1:26.891	60
+197	5	2011	Spanish Grand Prix	18	21	Jarno Trulli	Italy	Lotus	64		2 Laps			1:30.783	34
+197	5	2011	Spanish Grand Prix	19	24	Timo Glock	Germany	Virgin	63		3 Laps	1 Lap		1:31.635	40
+197	5	2011	Spanish Grand Prix	20	25	Jerome d'Ambrosio	Belgium	Virgin	62		4 Laps	1 Lap		1:32.549	36
+197	5	2011	Spanish Grand Prix	21	22	Narain Karthikeyan	India	HRT	61		5 Laps	1 Lap		1:32.848	33
+197	5	2011	Spanish Grand Prix	22	6	Felipe Massa	Brazil	Ferrari	57					1:29.081	24
+197	5	2011	Spanish Grand Prix	23	20	Heikki Kovalainen	Finland	Lotus	47					1:30.618	34
+197	5	2011	Spanish Grand Prix	24	23	Vitantonio Liuzzi	Italy	HRT	27					1:33.884	22

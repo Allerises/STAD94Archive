@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+170	14	2009	Singapore Grand Prix	1	1	Lewis Hamilton	Great Britain	McLaren	61	1:56:06.337			159.845	1:48.345	36
+170	14	2009	Singapore Grand Prix	2	10	Timo Glock	Germany	Toyota	61	1:56:15.971	+ 9.634	+ 9.634	159.624	1:48.396	34
+170	14	2009	Singapore Grand Prix	3	7	Fernando Alonso	Spain	Renault	61	1:56:22.961	+ 16.624	+ 6.990	159.464	1:48.240	53
+170	14	2009	Singapore Grand Prix	4	15	Sebastian Vettel	Germany	Red Bull	61	1:56:26.598	+ 20.261	+ 3.637	159.381	1:48.398	10
+170	14	2009	Singapore Grand Prix	5	22	Jenson Button	Great Britain	Brawn	61	1:56:36.352	+ 30.015	+ 9.754	159.159	1:48.369	54
+170	14	2009	Singapore Grand Prix	6	23	Rubens Barrichello	Brazil	Brawn	61	1:56:38.195	+ 31.858	+ 1.843	159.117	1:48.598	50
+170	14	2009	Singapore Grand Prix	7	2	Heikki Kovalainen	Finland	McLaren	61	1:56:42.494	+ 36.157	+ 4.299	159.020	1:49.283	36
+170	14	2009	Singapore Grand Prix	8	5	Robert Kubica	Poland	Sauber	61	1:57:01.391	+ 55.054	+ 18.897	158.592	1:48.847	44
+170	14	2009	Singapore Grand Prix	9	17	Kazuki Nakajima	Japan	Williams	61	1:57:02.391	+ 56.054	+ 1.000	158.569	1:49.371	45
+170	14	2009	Singapore Grand Prix	10	4	Kimi Räikkönen	Finland	Ferrari	61	1:57:05.229	+ 58.892	+ 2.838	158.505	1:48.391	54
+170	14	2009	Singapore Grand Prix	11	16	Nico Rosberg	Germany	Williams	61	1:57:06.114	+ 59.777	+ 0.885	158.485	1:48.352	9
+170	14	2009	Singapore Grand Prix	12	9	Jarno Trulli	Italy	Toyota	61	1:57:19.346	+ 1:13.009	+ 13.232	158.187	1:48.816	54
+170	14	2009	Singapore Grand Prix	13	3	Giancarlo Fisichella	Italy	Ferrari	61	1:57:26.227	+ 1:19.890	+ 6.881	158.033	1:49.417	49
+170	14	2009	Singapore Grand Prix	14	21	Vitantonio Liuzzi	Italy	Force India	61	1:57:39.839	+ 1:33.502	+ 13.612	157.728	1:49.852	48
+170	14	2009	Singapore Grand Prix	15	11	Jaime Alguersuari	Spain	Toro Rosso	47	1:32:25.568			154.692	1:52.483	32
+170	14	2009	Singapore Grand Prix	16	12	Sébastien Buemi	Switzerland	Toro Rosso	47	1:32:38.995			154.318	1:50.636	17
+170	14	2009	Singapore Grand Prix	17	14	Mark Webber	Australia	Red Bull	45	1:27:37.639			156.217	1:49.319	35
+170	14	2009	Singapore Grand Prix	18	20	Adrian Sutil	Germany	Force India	23	47:16.694			147.901	1:52.623	15
+170	14	2009	Singapore Grand Prix	19	6	Nick Heidfeld	Germany	Sauber	19	36:20.909			158.878	1:51.346	18
+170	14	2009	Singapore Grand Prix	20	8	Romain Grosjean	France	Renault	3	6:21.047			142.489	1:57.192	2

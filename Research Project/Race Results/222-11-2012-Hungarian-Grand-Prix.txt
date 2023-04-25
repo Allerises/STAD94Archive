@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+222	11	2012	Hungarian Grand Prix	1	4	Lewis Hamilton	Great Britain	McLaren	69	1:41:05.503					
+222	11	2012	Hungarian Grand Prix	2	9	Kimi Räikkönen	Finland	Lotus	69	1:41:06.535	+ 1.032	+ 1.032			
+222	11	2012	Hungarian Grand Prix	3	10	Romain Grosjean	France	Lotus	69	1:41:16.021	+ 10.518	+ 9.486			
+222	11	2012	Hungarian Grand Prix	4	1	Sebastian Vettel	Germany	Red Bull	69	1:41:17.117	+ 11.614	+ 1.096		1:24.136	
+222	11	2012	Hungarian Grand Prix	5	5	Fernando Alonso	Spain	Ferrari	69	1:41:32.156	+ 26.653	+ 15.039			
+222	11	2012	Hungarian Grand Prix	6	3	Jenson Button	Great Britain	McLaren	69	1:41:35.746	+ 30.243	+ 3.590			
+222	11	2012	Hungarian Grand Prix	7	19	Bruno Senna	Brazil	Williams	69	1:41:39.402	+ 33.899	+ 3.656			
+222	11	2012	Hungarian Grand Prix	8	2	Mark Webber	Australia	Red Bull	69	1:41:39.961	+ 34.458	+ 0.559			
+222	11	2012	Hungarian Grand Prix	9	6	Felipe Massa	Brazil	Ferrari	69	1:41:43.853	+ 38.350	+ 3.892			
+222	11	2012	Hungarian Grand Prix	10	8	Nico Rosberg	Germany	Mercedes	69	1:41:56.737	+ 51.234	+ 12.884			
+222	11	2012	Hungarian Grand Prix	11	12	Nico Hülkenberg	Germany	Force India	69	1:42:02.786	+ 57.283	+ 6.049			
+222	11	2012	Hungarian Grand Prix	12	11	Paul di Resta	Great Britain	Force India	69	1:42:08.390	+ 1:02.887	+ 5.604			
+222	11	2012	Hungarian Grand Prix	13	18	Pastor Maldonado	Venezuela	Williams	69	1:42:09.109	+ 1:03.606	+ 0.719			
+222	11	2012	Hungarian Grand Prix	14	15	Sergio Pérez	Mexico	Sauber	69	1:42:09.997	+ 1:04.494	+ 0.888			
+222	11	2012	Hungarian Grand Prix	15	16	Daniel Ricciardo	Australia	Toro Rosso	68		1 Lap	1 Lap			
+222	11	2012	Hungarian Grand Prix	16	17	Jean-Eric Vergne	France	Toro Rosso	68		1 Lap				
+222	11	2012	Hungarian Grand Prix	17	20	Heikki Kovalainen	Finland	Caterham	68		1 Lap				
+222	11	2012	Hungarian Grand Prix	18	14	Kamui Kobayashi	Japan	Sauber	67		2 Laps	1 Lap			
+222	11	2012	Hungarian Grand Prix	19	21	Vitaly Petrov	Russia	Caterham	67		2 Laps				
+222	11	2012	Hungarian Grand Prix	20	25	Charles Pic	France	Marussia	67		2 Laps				
+222	11	2012	Hungarian Grand Prix	21	24	Timo Glock	Germany	Marussia	66		3 Laps	1 Lap			
+222	11	2012	Hungarian Grand Prix	22	22	Pedro de la Rosa	Spain	HRT	66		3 Laps				
+222	11	2012	Hungarian Grand Prix	23	23	Narain Karthikeyan	India	HRT	60						
+222	11	2012	Hungarian Grand Prix	24	7	Michael Schumacher	Germany	Mercedes	58						

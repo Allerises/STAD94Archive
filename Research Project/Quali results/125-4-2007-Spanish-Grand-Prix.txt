@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+125	4	2007	Spanish Grand Prix	1	5	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	17	1:21.421					
+125	4	2007	Spanish Grand Prix	2	1	Fernando Alonso	Spain	Vodafone McLaren Mercedes	17	1:21.451	0.030	0.030			
+125	4	2007	Spanish Grand Prix	3	6	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	17	1:21.723	0.302	0.272			
+125	4	2007	Spanish Grand Prix	4	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	17	1:21.785	0.364	0.062			
+125	4	2007	Spanish Grand Prix	5	10	Robert Kubica	Poland	BMW Sauber F1 Team	21	1:22.253	0.832	0.468			
+125	4	2007	Spanish Grand Prix	6	12	Jarno Trulli	Italy	Panasonic Toyota Racing	25	1:22.324	0.903	0.071			
+125	4	2007	Spanish Grand Prix	7	9	Nick Heidfeld	Germany	BMW Sauber F1 Team	18	1:22.389	0.968	0.065			
+125	4	2007	Spanish Grand Prix	8	4	Heikki Kovalainen	Finland	ING Renault F1 Team	23	1:22.568	1.147	0.179			
+125	4	2007	Spanish Grand Prix	9	14	David Coulthard	Great Britain	Red Bull Racing	22	1:22.749	1.328	0.181			
+125	4	2007	Spanish Grand Prix	10	3	Giancarlo Fisichella	Italy	ING Renault F1 Team	23	1:22.881	1.460	0.132			
+125	4	2007	Spanish Grand Prix	11	16	Nico Rosberg	Germany	AT&T Williams	13	1:21.968	0.547	0.183			
+125	4	2007	Spanish Grand Prix	12	8	Rubens Barrichello	Brazil	Honda Racing F1 Team	12	1:22.097	0.676	0.129			
+125	4	2007	Spanish Grand Prix	13	22	Takuma Sato	Japan	Super Aguri F1 Team	9	1:22.115	0.694	0.018			
+125	4	2007	Spanish Grand Prix	14	7	Jenson Button	Great Britain	Honda Racing F1 Team	12	1:22.120	0.699	0.005			
+125	4	2007	Spanish Grand Prix	15	23	Anthony Davidson	Great Britain	Super Aguri F1 Team	10						
+125	4	2007	Spanish Grand Prix	16	18	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	7						
+125	4	2007	Spanish Grand Prix	17	11	Ralf Schumacher	Germany	Panasonic Toyota Racing	7	1:22.666	1.245	0.098			
+125	4	2007	Spanish Grand Prix	18	17	Alexander Wurz	Austria	AT&T Williams	7	1:22.769	1.348	0.103			
+125	4	2007	Spanish Grand Prix	19	15	Mark Webber	Australia	Red Bull Racing	3	1:23.398	1.977	0.629			
+125	4	2007	Spanish Grand Prix	20	20	Adrian Sutil	Germany	Etihad Aldar Spyker F1 Team	8	1:23.811	2.390	0.413			
+125	4	2007	Spanish Grand Prix	21	21	Christijan Albers	Netherlands	Etihad Aldar Spyker F1 Team	8	1:23.990	2.569	0.179			
+125	4	2007	Spanish Grand Prix	22	19	Scott Speed	USA	Scuderia Toro Rosso	2						

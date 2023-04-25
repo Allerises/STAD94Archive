@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+377	6	2020	Spanish Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	66	1:31:45.279			200.820	1:19.822	63
+377	6	2020	Spanish Grand Prix	2	33	Max Verstappen	Netherlands	Red Bull	66	1:32:09.456	+ 24.177	+ 24.177	199.942	1:21.477	53
+377	6	2020	Spanish Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes	66	1:32:30.031	+ 44.752	+ 20.575	199.201	1:18.183	66
+377	6	2020	Spanish Grand Prix	4	18	Lance Stroll	Canada	Aston Martin	65	1:32:06.724	1 Lap	1 Lap	197.009	1:22.024	56
+377	6	2020	Spanish Grand Prix	5	11	Sergio Pérez	Mexico	Aston Martin	65	1:32:09.464	1 Lap	+ 2.740	196.911	1:22.515	58
+377	6	2020	Spanish Grand Prix	6	55	Carlos Sainz	Spain	McLaren	65	1:32:11.045	1 Lap	+ 1.581	196.855	1:21.771	59
+377	6	2020	Spanish Grand Prix	7	5	Sebastian Vettel	Germany	Ferrari	65	1:32:23.813	1 Lap	+ 12.768	196.402	1:22.707	48
+377	6	2020	Spanish Grand Prix	8	23	Alexander Albon	Thailand	Red Bull	65	1:32:25.008	1 Lap	+ 1.195	196.359	1:22.194	41
+377	6	2020	Spanish Grand Prix	9	10	Pierre Gasly	France	Toro Rosso	65	1:32:25.597	1 Lap	+ 0.589	196.338	1:22.543	44
+377	6	2020	Spanish Grand Prix	10	4	Lando Norris	Great Britain	McLaren	65	1:32:26.154	1 Lap	+ 0.557	196.319	1:22.392	56
+377	6	2020	Spanish Grand Prix	11	3	Daniel Ricciardo	Australia	Renault	65	1:32:27.145	1 Lap	+ 0.991	196.284	1:22.464	51
+377	6	2020	Spanish Grand Prix	12	26	Daniil Kvyat	Russia	Toro Rosso	65	1:32:32.998	1 Lap	+ 5.853	196.077	1:22.336	47
+377	6	2020	Spanish Grand Prix	13	31	Esteban Ocon	France	Renault	65	1:32:41.207	1 Lap	+ 8.209	195.787	1:22.174	65
+377	6	2020	Spanish Grand Prix	14	7	Kimi Räikkönen	Finland	Sauber	65	1:32:46.682	1 Lap	+ 5.475	195.595	1:21.888	47
+377	6	2020	Spanish Grand Prix	15	20	Kevin Magnussen	Denmark	Haas	65	1:32:54.370	1 Lap	+ 7.688	195.325	1:23.474	64
+377	6	2020	Spanish Grand Prix	16	99	Antonio Giovinazzi	Italy	Sauber	65	1:32:55.069	1 Lap	+ 0.699	195.300	1:21.801	47
+377	6	2020	Spanish Grand Prix	17	63	George Russell	Great Britain	Williams	65	1:33:04.656	1 Lap	+ 9.587	194.965	1:22.503	37
+377	6	2020	Spanish Grand Prix	18	6	Nicholas Latifi	Canada	Williams	64	1:31:47.297	2 Laps	1 Lap	194.661	1:22.030	60
+377	6	2020	Spanish Grand Prix	19	8	Romain Grosjean	France	Haas	64	1:32:14.948	2 Laps	+ 27.651	193.688	1:20.409	64
+377	6	2020	Spanish Grand Prix	20	16	Charles Leclerc	Monaco	Ferrari	38	55:31.636			191.002	1:23.968	35

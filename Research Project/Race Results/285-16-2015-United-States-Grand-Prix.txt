@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+285	16	2015	United States Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	56	1:50:52.703			166.888	1:40.738	48
+285	16	2015	United States Grand Prix	2	6	Nico Rosberg	Germany	Mercedes	56	1:50:55.553	+ 2.850	+ 2.850	166.816	1:40.666	49
+285	16	2015	United States Grand Prix	3	5	Sebastian Vettel	Germany	Ferrari	56	1:50:56.084	+ 3.381	+ 0.531	166.803	1:41.330	52
+285	16	2015	United States Grand Prix	4	33	Max Verstappen	Netherlands	Toro Rosso	56	1:51:15.062	+ 22.359	+ 18.978	166.329	1:43.172	51
+285	16	2015	United States Grand Prix	5	11	Sergio Pérez	Mexico	Force India	56	1:51:17.116	+ 24.413	+ 2.054	166.278	1:43.010	54
+285	16	2015	United States Grand Prix	6	22	Jenson Button	Great Britain	McLaren	56	1:51:20.761	+ 28.058	+ 3.645	166.187	1:43.026	50
+285	16	2015	United States Grand Prix	7	55	Carlos Sainz	Spain	Toro Rosso	56	1:51:23.322	+ 30.619	+ 2.561	166.123	1:42.660	51
+285	16	2015	United States Grand Prix	8	13	Pastor Maldonado	Venezuela	Lotus	56	1:51:24.976	+ 32.273	+ 1.654	166.082	1:42.849	51
+285	16	2015	United States Grand Prix	9	12	Felipe Nasr	Brazil	Sauber	56	1:51:32.960	+ 40.257	+ 7.984	165.884	1:44.407	54
+285	16	2015	United States Grand Prix	10	3	Daniel Ricciardo	Australia	Red Bull	56	1:51:46.074	+ 53.371	+ 13.114	165.560	1:41.980	53
+285	16	2015	United States Grand Prix	11	14	Fernando Alonso	Spain	McLaren	56	1:51:47.519	+ 54.816	+ 1.445	165.524	1:44.323	55
+285	16	2015	United States Grand Prix	12	53	Alexander Rossi	USA	Manor	56	1:52:07.980	+ 1:15.277	+ 20.461	165.020	1:48.173	50
+285	16	2015	United States Grand Prix	13	26	Daniil Kvyat	Russia	Red Bull	41	1:22:52.311			163.416	1:43.728	41
+285	16	2015	United States Grand Prix	14	27	Nico Hülkenberg	Germany	Force India	35	1:11:04.285			162.624	1:45.095	24
+285	16	2015	United States Grand Prix	15	9	Marcus Ericsson	Sweden	Sauber	25	50:36.133			163.038	1:47.381	24
+285	16	2015	United States Grand Prix	16	7	Kimi Räikkönen	Finland	Ferrari	25	51:08.772			161.304	1:46.186	24
+285	16	2015	United States Grand Prix	17	19	Felipe Massa	Brazil	Williams	23	46:23.296			163.587	1:48.231	22
+285	16	2015	United States Grand Prix	18	8	Romain Grosjean	France	Lotus	10	22:48.643			144.161	1:59.612	8
+285	16	2015	United States Grand Prix	19	77	Valtteri Bottas	Finland	Williams	5	13:08.735			124.339	2:31.939	3
+285	16	2015	United States Grand Prix	20	28	Will Stevens	Great Britain	Manor	1	3:02.097			102.604		

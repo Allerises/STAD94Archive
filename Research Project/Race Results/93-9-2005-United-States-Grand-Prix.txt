@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+93	9	2005	United States Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	73	1:29:43.181			204.648	1:11.497	48
+93	9	2005	United States Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	73	1:29:44.703	+ 1.522	+ 1.522	204.590	1:11.649	48
+93	9	2005	United States Grand Prix	3	18	Tiago Monteiro	Portugal	Jordan	72	1:29:50.824	1 Lap	1 Lap	201.558	1:13.237	44
+93	9	2005	United States Grand Prix	4	19	Narain Karthikeyan	India	Jordan	72	1:30:21.953	1 Lap	+ 31.129	200.401	1:13.370	65
+93	9	2005	United States Grand Prix	5	21	Christijan Albers	Netherlands	Minardi	71	1:30:28.309	2 Laps	1 Lap	197.386	1:13.907	2
+93	9	2005	United States Grand Prix	6	20	Patrick Friesacher	Austria	Minardi	71	1:30:43.889	2 Laps	+ 15.580	196.821	1:14.490	43
+93	9	2005	United States Grand Prix	7	16	Jarno Trulli	Italy	Toyota							
+93	9	2005	United States Grand Prix	8	9	Kimi Räikkönen	Finland	McLaren							
+93	9	2005	United States Grand Prix	9	3	Jenson Button	Great Britain	BAR							
+93	9	2005	United States Grand Prix	10	6	Giancarlo Fisichella	Italy	Renault							
+93	9	2005	United States Grand Prix	11	5	Fernando Alonso	Spain	Renault							
+93	9	2005	United States Grand Prix	12	4	Takuma Sato	Japan	BAR							
+93	9	2005	United States Grand Prix	13	7	Mark Webber	Australia	Williams							
+93	9	2005	United States Grand Prix	14	12	Felipe Massa	Brazil	Sauber							
+93	9	2005	United States Grand Prix	15	10	Juan Pablo Montoya	Colombia	McLaren							
+93	9	2005	United States Grand Prix	16	11	Jacques Villeneuve	Canada	Sauber							
+93	9	2005	United States Grand Prix	17	17	Ricardo Zonta	Brazil	Toyota							
+93	9	2005	United States Grand Prix	18	15	Christian Klien	Austria	Red Bull							
+93	9	2005	United States Grand Prix	19	8	Nick Heidfeld	Germany	Williams							
+93	9	2005	United States Grand Prix	20	14	David Coulthard	Great Britain	Red Bull							

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+132	11	2007	Hungarian Grand Prix	1	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	17	1:19.781	0.107	0.107			
+132	11	2007	Hungarian Grand Prix	2	9	Nick Heidfeld	Germany	BMW Sauber F1 Team	22	1:20.259	0.478	0.478			
+132	11	2007	Hungarian Grand Prix	3	6	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	19	1:20.410	0.629	0.151			
+132	11	2007	Hungarian Grand Prix	4	16	Nico Rosberg	Germany	AT&T Williams	22	1:20.632	0.851	0.222			
+132	11	2007	Hungarian Grand Prix	5	11	Ralf Schumacher	Germany	Panasonic Toyota Racing	24	1:20.714	0.933	0.082			
+132	11	2007	Hungarian Grand Prix	6	1	Fernando Alonso	Spain	Vodafone McLaren Mercedes	17	1:19.674					
+132	11	2007	Hungarian Grand Prix	7	10	Robert Kubica	Poland	BMW Sauber F1 Team	23	1:20.876	1.095	1.202			
+132	11	2007	Hungarian Grand Prix	8	12	Jarno Trulli	Italy	Panasonic Toyota Racing	20	1:21.206	1.425	0.330			
+132	11	2007	Hungarian Grand Prix	9	15	Mark Webber	Australia	Red Bull Racing	22	1:21.256	1.475	0.050			
+132	11	2007	Hungarian Grand Prix	10	14	David Coulthard	Great Britain	Red Bull Racing	12	1:20.718	0.937	0.004			
+132	11	2007	Hungarian Grand Prix	11	4	Heikki Kovalainen	Finland	ING Renault F1 Team	12	1:20.779	0.998	0.061			
+132	11	2007	Hungarian Grand Prix	12	17	Alexander Wurz	Austria	AT&T Williams	18	1:20.865	1.084	0.086			
+132	11	2007	Hungarian Grand Prix	13	3	Giancarlo Fisichella	Italy	ING Renault F1 Team	25	1:21.079	1.298	0.214			
+132	11	2007	Hungarian Grand Prix	14	5	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	9	1:21.021	1.240	0.145			
+132	11	2007	Hungarian Grand Prix	15	23	Anthony Davidson	Great Britain	Super Aguri F1 Team	12	1:21.127	1.346	0.106			
+132	11	2007	Hungarian Grand Prix	16	18	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	16	1:21.993	2.212	0.866			
+132	11	2007	Hungarian Grand Prix	17	7	Jenson Button	Great Britain	Honda Racing F1 Team	6	1:21.737	1.956	0.481			
+132	11	2007	Hungarian Grand Prix	18	8	Rubens Barrichello	Brazil	Honda Racing F1 Team	6	1:21.877	2.096	0.140			
+132	11	2007	Hungarian Grand Prix	19	22	Takuma Sato	Japan	Super Aguri F1 Team	6	1:22.143	2.362	0.266			
+132	11	2007	Hungarian Grand Prix	20	19	Sebastian Vettel	Germany	Scuderia Toro Rosso	7	1:22.177	2.396	0.034			
+132	11	2007	Hungarian Grand Prix	21	20	Adrian Sutil	Germany	Etihad Aldar Spyker F1 Team	9	1:22.737	2.956	0.560			
+132	11	2007	Hungarian Grand Prix	22	21	Sakon Yamamoto	Japan	Etihad Aldar Spyker F1 Team	7	1:23.774	3.993	1.037			

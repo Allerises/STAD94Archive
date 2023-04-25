@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+350	12	2019	Hungarian Grand Prix	1	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	16	1:14.572			211.494		
+350	12	2019	Hungarian Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Motorsport	19	1:14.590	0.018	0.018	211.443		
+350	12	2019	Hungarian Grand Prix	3	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Motorsport	22	1:14.769	0.197	0.179	210.937		
+350	12	2019	Hungarian Grand Prix	4	16	Charles Leclerc	Monaco	Scuderia Ferrari	17	1:15.043	0.471	0.274	210.167		
+350	12	2019	Hungarian Grand Prix	5	5	Sebastian Vettel	Germany	Scuderia Ferrari	18	1:15.071	0.499	0.028	210.089		
+350	12	2019	Hungarian Grand Prix	6	10	Pierre Gasly	France	Aston Martin Red Bull Racing	19	1:15.450	0.878	0.379	209.033		
+350	12	2019	Hungarian Grand Prix	7	4	Lando Norris	Great Britain	McLaren F1 Team	18	1:15.800	1.228	0.350	208.068		
+350	12	2019	Hungarian Grand Prix	8	55	Carlos Sainz	Spain	McLaren F1 Team	20	1:15.852	1.280	0.052	207.925		
+350	12	2019	Hungarian Grand Prix	9	8	Romain Grosjean	France	Rich Energy Haas F1 Team	21	1:16.013	1.441	0.161	207.485		
+350	12	2019	Hungarian Grand Prix	10	7	Kimi Räikkönen	Finland	Alfa Romeo Racing	20	1:16.041	1.469	0.028	207.409		
+350	12	2019	Hungarian Grand Prix	11	27	Nico Hülkenberg	Germany	Renault F1 Team	12	1:16.565	1.993	0.524	205.989		
+350	12	2019	Hungarian Grand Prix	12	23	Alexander Albon	Thailand	Red Bull Toro Rosso Honda	14	1:16.687	2.115	0.122	205.661		
+350	12	2019	Hungarian Grand Prix	13	26	Daniil Kvyat	Russia	Red Bull Toro Rosso Honda	14	1:16.692	2.120	0.005	205.648		
+350	12	2019	Hungarian Grand Prix	14	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing	14	1:16.804	2.232	0.112	205.348		
+350	12	2019	Hungarian Grand Prix	15	20	Kevin Magnussen	Denmark	Rich Energy Haas F1 Team	13	1:17.081	2.509	0.277	204.610		
+350	12	2019	Hungarian Grand Prix	16	63	George Russell	Great Britain	ROKiT Williams Racing	9	1:17.031	2.459		204.743		
+350	12	2019	Hungarian Grand Prix	17	11	Sergio Pérez	Mexico	SportPesa Racing Point F1 Team	6	1:17.109	2.537	0.078	204.536		
+350	12	2019	Hungarian Grand Prix	18	3	Daniel Ricciardo	Australia	Renault F1 Team	6	1:17.257	2.685	0.148	204.144		
+350	12	2019	Hungarian Grand Prix	19	18	Lance Stroll	Canada	SportPesa Racing Point F1 Team	9	1:17.542	2.970	0.285	203.394		
+350	12	2019	Hungarian Grand Prix	20	88	Robert Kubica	Poland	ROKiT Williams Racing	9	1:18.324	3.752	0.782	201.363		

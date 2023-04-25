@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+20	4	2001	San Marino Grand Prix	1	5	Ralf Schumacher	Germany	Williams	62	1:30:44.817			202.062	1:25.524	27
+20	4	2001	San Marino Grand Prix	2	4	David Coulthard	Great Britain	McLaren	62	1:30:49.169	+ 4.352	+ 4.352	201.900	1:25.569	44
+20	4	2001	San Marino Grand Prix	3	2	Rubens Barrichello	Brazil	Ferrari	62	1:31:19.583	+ 34.766	+ 30.414	200.780	1:26.117	46
+20	4	2001	San Marino Grand Prix	4	3	Mika Hakkinen	Finland	McLaren	62	1:31:21.132	+ 36.315	+ 1.549	200.723	1:26.308	61
+20	4	2001	San Marino Grand Prix	5	12	Jarno Trulli	Italy	Jordan	62	1:32:10.375	+ 1:25.558	+ 49.243	198.936	1:27.358	20
+20	4	2001	San Marino Grand Prix	6	11	Heinz-Harald Frentzen	Germany	Jordan	61	1:30:49.780	1 Lap	1 Lap	198.619	1:27.243	36
+20	4	2001	San Marino Grand Prix	7	16	Nick Heidfeld	Germany	Sauber	61	1:31:00.302	1 Lap	+ 10.522	198.236	1:27.350	57
+20	4	2001	San Marino Grand Prix	8	9	Olivier Panis	France	BAR	61	1:31:43.589	1 Lap	+ 43.287	196.677	1:27.582	47
+20	4	2001	San Marino Grand Prix	9	22	Jean Alesi	France	Prost	61	1:31:58.806	1 Lap	+ 15.217	196.135	1:28.369	44
+20	4	2001	San Marino Grand Prix	10	15	Enrique Bernoldi	Brazil	Arrows	60	1:30:57.738	2 Laps	1 Lap	195.076	1:28.956	37
+20	4	2001	San Marino Grand Prix	11	19	Luciano Burti	Brazil	Jaguar	60	1:31:11.040	2 Laps	+ 13.302	194.601	1:27.932	29
+20	4	2001	San Marino Grand Prix	12	8	Jenson Button	Great Britain	Benneton	60	1:31:44.611	2 Laps	+ 33.571	193.415	1:29.096	38
+20	4	2001	San Marino Grand Prix	13	20	Tarso Marques	Brazil	Minardi	50	1:19:37.852			185.666	1:31.725	38
+20	4	2001	San Marino Grand Prix	14	6	Juan Pablo Montoya	Colombia	Williams	48	1:13:07.134			194.106	1:26.385	46
+20	4	2001	San Marino Grand Prix	15	18	Eddie Irvine	Great Britain	Jaguar	42	1:03:02.747			196.951	1:27.854	28
+20	4	2001	San Marino Grand Prix	16	7	Giancarlo Fisichella	Italy	Benneton	31	47:20.883			193.485	1:29.644	14
+20	4	2001	San Marino Grand Prix	17	10	Jacques Villeneuve	Canada	BAR	30	44:57.145			197.212	1:27.614	27
+20	4	2001	San Marino Grand Prix	18	23	Gaston Mazzacane	Argentina	Prost	28	42:56.733			192.644	1:28.954	21
+20	4	2001	San Marino Grand Prix	19	1	Michael Schumacher	Germany	Ferrari	24	36:52.806			192.225	1:27.229	21
+20	4	2001	San Marino Grand Prix	20	17	Kimi Räikkönen	Finland	Sauber	17	25:27.782			197.048	1:28.604	17
+20	4	2001	San Marino Grand Prix	21	14	Jos Verstappen	Netherlands	Arrows	6	9:13.643			190.916	1:30.403	4
+20	4	2001	San Marino Grand Prix	22	21	Fernando Alonso	Spain	Minardi	5	7:48.710			187.623	1:31.671	4

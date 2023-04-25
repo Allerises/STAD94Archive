@@ -1,0 +1,22 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+266	16	2014	Russian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	53	1:31:50.744			202.346	1:41.606	48
+266	16	2014	Russian Grand Prix	2	6	Nico Rosberg	Germany	Mercedes	53	1:32:04.401	+ 13.657	+ 13.657	201.846	1:41.360	52
+266	16	2014	Russian Grand Prix	3	77	Valtteri Bottas	Finland	Williams	53	1:32:08.169	+ 17.425	+ 3.768	201.709	1:40.896	53
+266	16	2014	Russian Grand Prix	4	22	Jenson Button	Great Britain	McLaren	53	1:32:20.978	+ 30.234	+ 12.809	201.242	1:41.964	47
+266	16	2014	Russian Grand Prix	5	20	Kevin Magnussen	Denmark	McLaren	53	1:32:44.360	+ 53.616	+ 23.382	200.397	1:43.076	44
+266	16	2014	Russian Grand Prix	6	14	Fernando Alonso	Spain	Ferrari	53	1:32:50.760	+ 1:00.016	+ 6.400	200.166	1:42.179	53
+266	16	2014	Russian Grand Prix	7	3	Daniel Ricciardo	Australia	Red Bull	53	1:32:52.556	+ 1:01.812	+ 1.796	200.102	1:43.050	50
+266	16	2014	Russian Grand Prix	8	1	Sebastian Vettel	Germany	Red Bull	53	1:32:56.929	+ 1:06.185	+ 4.373	199.945	1:42.630	53
+266	16	2014	Russian Grand Prix	9	7	Kimi Räikkönen	Finland	Ferrari	53	1:33:09.621	+ 1:18.877	+ 12.692	199.491	1:42.919	45
+266	16	2014	Russian Grand Prix	10	11	Sergio Pérez	Mexico	Force India	53	1:33:10.811	+ 1:20.067	+ 1.190	199.449	1:42.924	47
+266	16	2014	Russian Grand Prix	11	19	Felipe Massa	Brazil	Williams	53	1:33:11.621	+ 1:20.877	+ 0.810	199.420	1:42.879	47
+266	16	2014	Russian Grand Prix	12	27	Nico Hülkenberg	Germany	Force India	53	1:33:12.053	+ 1:21.309	+ 0.432	199.404	1:42.685	50
+266	16	2014	Russian Grand Prix	13	25	Jean-Eric Vergne	France	Toro Rosso	53	1:33:28.039	+ 1:37.295	+ 15.986	198.836	1:42.550	53
+266	16	2014	Russian Grand Prix	14	26	Daniil Kvyat	Russia	Toro Rosso	52	1:31:52.658	1 Lap	1 Lap	198.457	1:42.022	52
+266	16	2014	Russian Grand Prix	15	21	Esteban Gutiérrez	Mexico	Sauber	52	1:32:18.536	1 Lap	+ 25.878	197.530	1:44.075	45
+266	16	2014	Russian Grand Prix	16	99	Adrian Sutil	Germany	Sauber	52	1:32:35.037	1 Lap	+ 16.501	196.943	1:43.822	42
+266	16	2014	Russian Grand Prix	17	8	Romain Grosjean	France	Lotus	52	1:32:43.112	1 Lap	+ 8.075	196.657	1:44.461	49
+266	16	2014	Russian Grand Prix	18	13	Pastor Maldonado	Venezuela	Lotus	52	1:33:05.788	1 Lap	+ 22.676	195.859	1:44.030	50
+266	16	2014	Russian Grand Prix	19	9	Marcus Ericsson	Sweden	Caterham	51	1:31:55.857	2 Laps	1 Lap	194.525	1:43.979	48
+266	16	2014	Russian Grand Prix	20	10	Kamui Kobayashi	Japan	Caterham	21	38:20.400			191.876	1:47.407	17
+266	16	2014	Russian Grand Prix	21	4	Max Chilton	Great Britain	Marussia	9	17:23.275			180.929	1:48.268	8

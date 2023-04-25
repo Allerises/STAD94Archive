@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+30	14	2001	Belgian Grand Prix	1	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:52.072					
+30	14	2001	Belgian Grand Prix	2	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:52.959	0.887	0.887			
+30	14	2001	Belgian Grand Prix	3	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:54.685	2.613	1.726			
+30	14	2001	Belgian Grand Prix	4	22	Heinz-Harald Frentzen	Germany	Prost Acer		1:55.233	3.161	0.548			
+30	14	2001	Belgian Grand Prix	5	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:56.116	4.044	0.883			
+30	14	2001	Belgian Grand Prix	6	10	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:57.038	4.966	0.922			
+30	14	2001	Belgian Grand Prix	7	3	Mika Hakkinen	Finland	West McLaren Mercedes		1:57.043	4.971	0.005			
+30	14	2001	Belgian Grand Prix	8	7	Giancarlo Fisichella	Italy	Mild Seven Benetton Renault		1:57.668	5.596	0.625			
+30	14	2001	Belgian Grand Prix	9	4	David Coulthard	Great Britain	West McLaren Mercedes		1:58.008	5.936	0.340			
+30	14	2001	Belgian Grand Prix	10	19	Pedro de la Rosa	Spain	Jaguar Racing		1:58.519	6.447	0.511			
+30	14	2001	Belgian Grand Prix	11	9	Olivier Panis	France	Lucky Strike BAR Honda		1:58.838	6.766	0.319			
+30	14	2001	Belgian Grand Prix	12	17	Kimi Räikkönen	Finland	Red Bull Sauber Petronas		1:59.050	6.978	0.212			
+30	14	2001	Belgian Grand Prix	13	12	Jean Alesi	France	B&H Jordan Honda		1:59.128	7.056	0.078			
+30	14	2001	Belgian Grand Prix	14	16	Nick Heidfeld	Germany	Red Bull Sauber Petronas		1:59.302	7.230	0.174			
+30	14	2001	Belgian Grand Prix	15	8	Jenson Button	Great Britain	Mild Seven Benetton Renault		1:59.587	7.515	0.285			
+30	14	2001	Belgian Grand Prix	16	11	Jarno Trulli	Italy	B&H Jordan Honda		1:59.647	7.575	0.060			
+30	14	2001	Belgian Grand Prix	17	18	Eddie Irvine	Great Britain	Jaguar Racing		1:59.689	7.617	0.042			
+30	14	2001	Belgian Grand Prix	18	23	Luciano Burti	Brazil	Prost Acer		1:59.900	7.828	0.211			
+30	14	2001	Belgian Grand Prix	19	14	Jos Verstappen	Netherlands	Orange Arrows Asiatech		2:02.039	9.967	2.139			
+30	14	2001	Belgian Grand Prix	20	21	Fernando Alonso	Spain	European Minardi F1		2:02.594	10.522	0.555			
+30	14	2001	Belgian Grand Prix	21	15	Enrique Bernoldi	Brazil	Orange Arrows Asiatech		2:03.048	10.976	0.454			
+30	14	2001	Belgian Grand Prix	22	20	Tarso Marques	Brazil	European Minardi F1		2:04.204	12.132	1.156			

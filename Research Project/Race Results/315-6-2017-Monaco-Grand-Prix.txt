@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+315	6	2017	Monaco Grand Prix	1	5	Sebastian Vettel	Germany	Ferrari	78	1:44:44.340			149.105	1:15.238	38
+315	6	2017	Monaco Grand Prix	2	7	Kimi Räikkönen	Finland	Ferrari	78	1:44:47.485	+ 3.145	+ 3.145	149.030	1:15.527	39
+315	6	2017	Monaco Grand Prix	3	3	Daniel Ricciardo	Australia	Red Bull	78	1:44:48.085	+ 3.745	+ 0.600	149.016	1:15.756	51
+315	6	2017	Monaco Grand Prix	4	77	Valtteri Bottas	Finland	Mercedes	78	1:44:49.857	+ 5.517	+ 1.772	148.974	1:16.439	22
+315	6	2017	Monaco Grand Prix	5	33	Max Verstappen	Netherlands	Red Bull	78	1:44:50.539	+ 6.199	+ 0.682	148.958	1:16.329	56
+315	6	2017	Monaco Grand Prix	6	55	Carlos Sainz	Spain	Toro Rosso	78	1:44:56.378	+ 12.038	+ 5.839	148.820	1:16.649	39
+315	6	2017	Monaco Grand Prix	7	44	Lewis Hamilton	Great Britain	Mercedes	78	1:45:00.141	+ 15.801	+ 3.763	148.731	1:15.825	54
+315	6	2017	Monaco Grand Prix	8	8	Romain Grosjean	France	Haas	78	1:45:02.490	+ 18.150	+ 2.349	148.676	1:17.095	45
+315	6	2017	Monaco Grand Prix	9	19	Felipe Massa	Brazil	Williams	78	1:45:03.785	+ 19.445	+ 1.295	148.645	1:16.543	50
+315	6	2017	Monaco Grand Prix	10	20	Kevin Magnussen	Denmark	Haas	78	1:45:05.783	+ 21.443	+ 1.998	148.598	1:16.313	44
+315	6	2017	Monaco Grand Prix	11	30	Jolyon Palmer	Great Britain	Renault	78	1:45:07.077	+ 22.737	+ 1.294	148.567	1:16.614	55
+315	6	2017	Monaco Grand Prix	12	31	Esteban Ocon	France	Force India	78	1:45:08.065	+ 23.725	+ 0.988	148.544	1:16.482	52
+315	6	2017	Monaco Grand Prix	13	11	Sergio Pérez	Mexico	Force India	78	1:45:33.429	+ 49.089	+ 25.364	147.949	1:14.820	76
+315	6	2017	Monaco Grand Prix	14	26	Daniil Kvyat	Russia	Toro Rosso	71	1:35:56.482	7 Laps	7 Laps	148.169	1:16.539	43
+315	6	2017	Monaco Grand Prix	15	18	Lance Stroll	Canada	Williams	71	1:36:22.014	7 Laps	+ 25.532	147.515	1:16.075	71
+315	6	2017	Monaco Grand Prix	16	2	Stoffel Vandoorne	Belgium	McLaren	66	1:29:11.317			148.163	1:16.665	45
+315	6	2017	Monaco Grand Prix	17	9	Marcus Ericsson	Sweden	Sauber	63	1:25:09.966			148.108	1:16.829	39
+315	6	2017	Monaco Grand Prix	18	94	Pascal Wehrlein	Germany	Sauber	57	1:15:56.744			150.272	1:18.034	25
+315	6	2017	Monaco Grand Prix	19	22	Jenson Button	Great Britain	McLaren	57	1:15:53.814			150.368	1:16.912	47
+315	6	2017	Monaco Grand Prix	20	27	Nico Hülkenberg	Germany	Renault	15	19:50.068			151.418	1:17.885	13

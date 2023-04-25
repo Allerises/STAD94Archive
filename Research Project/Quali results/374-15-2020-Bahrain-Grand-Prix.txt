@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+374	15	2020	Bahrain Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Formula One Team	16	1:27.264			223.267		
+374	15	2020	Bahrain Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Formula One Team	16	1:27.553	0.289	0.289	222.530		
+374	15	2020	Bahrain Grand Prix	3	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	15	1:27.678	0.414	0.125	222.213		
+374	15	2020	Bahrain Grand Prix	4	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	18	1:28.274	1.010	0.596	220.712		
+374	15	2020	Bahrain Grand Prix	5	11	Sergio Pérez	Mexico	BWT Racing Point F1 Team	20	1:28.322	1.058	0.048	220.592		
+374	15	2020	Bahrain Grand Prix	6	3	Daniel Ricciardo	Australia	Renault DP World F1 Team	17	1:28.417	1.153	0.095	220.355		
+374	15	2020	Bahrain Grand Prix	7	31	Esteban Ocon	France	Renault DP World F1 Team	14	1:28.419	1.155	0.002	220.350		
+374	15	2020	Bahrain Grand Prix	8	10	Pierre Gasly	France	Scuderia AlphaTauri Honda	14	1:28.448	1.184	0.029	220.278		
+374	15	2020	Bahrain Grand Prix	9	4	Lando Norris	Great Britain	McLaren F1 Team	17	1:28.542	1.278	0.094	220.044		
+374	15	2020	Bahrain Grand Prix	10	26	Daniil Kvyat	Russia	Scuderia AlphaTauri Honda	17	1:28.618	1.354	0.076	219.856		
+374	15	2020	Bahrain Grand Prix	11	5	Sebastian Vettel	Germany	Scuderia Ferrari	11	1:29.149	1.885	0.531	218.546		
+374	15	2020	Bahrain Grand Prix	12	16	Charles Leclerc	Monaco	Scuderia Ferrari	11	1:29.165	1.901	0.016	218.507		
+374	15	2020	Bahrain Grand Prix	13	18	Lance Stroll	Canada	BWT Racing Point F1 Team	11	1:29.557	2.293	0.392	217.550		
+374	15	2020	Bahrain Grand Prix	14	63	George Russell	Great Britain	Williams Racing	11	1:31.218	3.954	1.661	213.589		
+374	15	2020	Bahrain Grand Prix	15	55	Carlos Sainz	Spain	McLaren F1 Team	5						
+374	15	2020	Bahrain Grand Prix	16	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing ORLEN	6	1:29.491	2.227		217.711		
+374	15	2020	Bahrain Grand Prix	17	7	Kimi Räikkönen	Finland	Alfa Romeo Racing ORLEN	6	1:29.810	2.546	0.319	216.937		
+374	15	2020	Bahrain Grand Prix	18	20	Kevin Magnussen	Denmark	Haas F1 Team	6	1:30.111	2.847	0.301	216.213		
+374	15	2020	Bahrain Grand Prix	19	8	Romain Grosjean	France	Haas F1 Team	6	1:30.138	2.874	0.027	216.148		
+374	15	2020	Bahrain Grand Prix	20	6	Nicholas Latifi	Canada	Williams Racing	6	1:30.182	2.918	0.044	216.043		

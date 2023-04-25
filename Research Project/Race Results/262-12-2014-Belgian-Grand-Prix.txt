@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+262	12	2014	Belgian Grand Prix	1	3	Daniel Ricciardo	Australia	Red Bull	44	1:24:36.556			218.452	1:52.974	44
+262	12	2014	Belgian Grand Prix	2	6	Nico Rosberg	Germany	Mercedes	44	1:24:39.939	+ 3.383	+ 3.383	218.307	1:50.511	36
+262	12	2014	Belgian Grand Prix	3	77	Valtteri Bottas	Finland	Williams	44	1:25:04.588	+ 28.032	+ 24.649	217.252	1:52.716	40
+262	12	2014	Belgian Grand Prix	4	7	Kimi Räikkönen	Finland	Ferrari	44	1:25:13.371	+ 36.815	+ 8.783	216.879	1:54.090	39
+262	12	2014	Belgian Grand Prix	5	1	Sebastian Vettel	Germany	Red Bull	44	1:25:28.752	+ 52.196	+ 15.381	216.229	1:52.953	36
+262	12	2014	Belgian Grand Prix	6	22	Jenson Button	Great Britain	McLaren	44	1:25:31.136	+ 54.580	+ 2.384	216.128	1:53.483	38
+262	12	2014	Belgian Grand Prix	7	14	Fernando Alonso	Spain	Ferrari	44	1:25:37.718	+ 1:01.162	+ 6.582	215.852	1:53.879	29
+262	12	2014	Belgian Grand Prix	8	11	Sergio Pérez	Mexico	Force India	44	1:25:40.849	+ 1:04.293	+ 3.131	215.720	1:54.532	28
+262	12	2014	Belgian Grand Prix	9	26	Daniil Kvyat	Russia	Toro Rosso	44	1:25:41.903	+ 1:05.347	+ 1.054	215.676	1:54.159	26
+262	12	2014	Belgian Grand Prix	10	27	Nico Hülkenberg	Germany	Force India	44	1:25:42.253	+ 1:05.697	+ 0.350	215.661	1:53.612	40
+262	12	2014	Belgian Grand Prix	11	25	Jean-Eric Vergne	France	Toro Rosso	44	1:25:48.476	+ 1:11.920	+ 6.223	215.401	1:53.276	31
+262	12	2014	Belgian Grand Prix	12	20	Kevin Magnussen	Denmark	McLaren	44	1:25:50.818	+ 1:14.262	+ 2.342	215.303	1:54.203	28
+262	12	2014	Belgian Grand Prix	13	19	Felipe Massa	Brazil	Williams	44	1:25:52.531	+ 1:15.975	+ 1.713	215.231	1:52.512	37
+262	12	2014	Belgian Grand Prix	14	99	Adrian Sutil	Germany	Sauber	44	1:25:59.003	+ 1:22.447	+ 6.472	214.961	1:52.413	36
+262	12	2014	Belgian Grand Prix	15	21	Esteban Gutiérrez	Mexico	Sauber	44	1:26:07.381	+ 1:30.825	+ 8.378	214.612	1:54.000	32
+262	12	2014	Belgian Grand Prix	16	4	Max Chilton	Great Britain	Marussia	43	1:25:38.307	1 Lap	1 Lap	210.920	1:55.247	31
+262	12	2014	Belgian Grand Prix	17	9	Marcus Ericsson	Sweden	Caterham	43	1:25:38.973	1 Lap	+ 0.666	210.892	1:55.900	26
+262	12	2014	Belgian Grand Prix	18	17	Jules Bianchi	France	Marussia	39	1:18:37.312	5 Laps	4 Laps	208.363	1:56.347	32
+262	12	2014	Belgian Grand Prix	19	44	Lewis Hamilton	Great Britain	Mercedes	38	1:15:10.080			212.346	1:53.707	33
+262	12	2014	Belgian Grand Prix	20	8	Romain Grosjean	France	Lotus	33	1:05:37.217			211.222	1:55.649	21
+262	12	2014	Belgian Grand Prix	21	13	Pastor Maldonado	Venezuela	Lotus	1	2:09.072			191.892		
+262	12	2014	Belgian Grand Prix	22	45	André Lotterer	Germany	Caterham	1	2:09.985			190.545		

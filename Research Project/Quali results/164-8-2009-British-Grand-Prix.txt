@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+164	8	2009	British Grand Prix	1	15	Sebastian Vettel	Germany	Red Bull Racing	21	1:19.509	0.582	0.061			
+164	8	2009	British Grand Prix	2	23	Rubens Barrichello	Brazil	Brawn GP Formula 1 Team	23	1:19.856	0.347	0.347			
+164	8	2009	British Grand Prix	3	14	Mark Webber	Australia	Red Bull Racing	18	1:19.868	0.359	0.012			
+164	8	2009	British Grand Prix	4	9	Jarno Trulli	Italy	Panasonic Toyota Racing	21	1:20.091	0.582	0.223			
+164	8	2009	British Grand Prix	5	17	Kazuki Nakajima	Japan	AT&T Williams	27	1:20.216	0.707	0.125			
+164	8	2009	British Grand Prix	6	22	Jenson Button	Great Britain	Brawn GP Formula 1 Team	25	1:20.289	0.780	0.073			
+164	8	2009	British Grand Prix	7	16	Nico Rosberg	Germany	AT&T Williams	21	1:20.361	0.852	0.072			
+164	8	2009	British Grand Prix	8	10	Timo Glock	Germany	Panasonic Toyota Racing	25	1:20.490	0.981	0.129			
+164	8	2009	British Grand Prix	9	4	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	24	1:20.715	1.206	0.225			
+164	8	2009	British Grand Prix	10	7	Fernando Alonso	Spain	ING Renault F1 Team	22	1:20.741	1.232	0.026			
+164	8	2009	British Grand Prix	11	3	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	19	1:18.927					
+164	8	2009	British Grand Prix	12	5	Robert Kubica	Poland	BMW Sauber F1 Team	21	1:19.308	0.381	0.381			
+164	8	2009	British Grand Prix	13	2	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	19	1:19.353	0.426	0.045			
+164	8	2009	British Grand Prix	14	8	Nelson Piquet Jr.	Brazil	Renault	18	1:19.392	0.465	0.039			
+164	8	2009	British Grand Prix	15	6	Nick Heidfeld	Germany	BMW Sauber F1 Team	19	1:19.448	0.521	0.056			
+164	8	2009	British Grand Prix	16	21	Giancarlo Fisichella	Italy	Force India F1 Team	11	1:19.802	0.293	0.354			
+164	8	2009	British Grand Prix	17	11	Sebastien Bourdais	France	Scuderia Toro Rosso	10	1:19.898	0.389	0.096			
+164	8	2009	British Grand Prix	18	20	Adrian Sutil	Germany	Force India F1 Team	10	1:19.909	0.400	0.011			
+164	8	2009	British Grand Prix	19	1	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	7	1:19.917	0.408	0.008			
+164	8	2009	British Grand Prix	20	12	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	10	1:20.236	0.727	0.319			

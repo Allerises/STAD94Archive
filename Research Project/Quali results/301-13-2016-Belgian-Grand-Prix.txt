@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+301	13	2016	Belgian Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:46.744			236.213		
+301	13	2016	Belgian Grand Prix	2	33	Max Verstappen	Netherlands	Red Bull Racing		1:46.893	0.149	0.149	235.884		
+301	13	2016	Belgian Grand Prix	3	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:46.910	0.166	0.017	235.846		
+301	13	2016	Belgian Grand Prix	4	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:47.108	0.364	0.198	235.410		
+301	13	2016	Belgian Grand Prix	5	3	Daniel Ricciardo	Australia	Red Bull Racing		1:47.216	0.472	0.108	235.173		
+301	13	2016	Belgian Grand Prix	6	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:47.407	0.663	0.191	234.755		
+301	13	2016	Belgian Grand Prix	7	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:47.543	0.799	0.136	234.458		
+301	13	2016	Belgian Grand Prix	8	77	Valtteri Bottas	Finland	Williams Martini Racing		1:47.612	0.868	0.069	234.308		
+301	13	2016	Belgian Grand Prix	9	22	Jenson Button	Great Britain	McLaren Honda		1:48.114	1.370	0.502	233.220		
+301	13	2016	Belgian Grand Prix	10	19	Felipe Massa	Brazil	Williams Martini Racing		1:48.263	1.519	0.149	232.899		
+301	13	2016	Belgian Grand Prix	11	8	Romain Grosjean	France	Haas F1 Team		1:48.316	1.572	0.053	232.785		
+301	13	2016	Belgian Grand Prix	12	20	Kevin Magnussen	Denmark	Renault Sport F1 Team		1:48.485	1.741	0.169	232.422		
+301	13	2016	Belgian Grand Prix	13	30	Jolyon Palmer	Great Britain	Renault Sport F1 Team		1:48.888	2.144	0.403	231.562		
+301	13	2016	Belgian Grand Prix	14	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:49.038	2.294	0.150	231.244		
+301	13	2016	Belgian Grand Prix	15	94	Pascal Wehrlein	Germany	Manor Racing MRT		1:49.320	2.576	0.282	230.647		
+301	13	2016	Belgian Grand Prix	16	12	Felipe Nasr	Brazil	Sauber F1 Team		1:48.949	2.205		231.433		
+301	13	2016	Belgian Grand Prix	17	31	Esteban Ocon	France	Manor Racing MRT		1:49.050	2.306	0.101	231.218		
+301	13	2016	Belgian Grand Prix	18	21	Esteban Gutiérrez	Mexico	Haas F1 Team		1:48.598	1.854		232.181		
+301	13	2016	Belgian Grand Prix	19	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:49.058	2.314	0.460	231.201		
+301	13	2016	Belgian Grand Prix	20	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:49.071	2.327	0.013	231.174		
+301	13	2016	Belgian Grand Prix	21	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:50.033	3.289	0.962	229.153		
+301	13	2016	Belgian Grand Prix	22	14	Fernando Alonso	Spain	McLaren Honda							

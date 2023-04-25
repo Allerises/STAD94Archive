@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+67	1	2004	Australian Grand Prix	1	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:24.408					
+67	1	2004	Australian Grand Prix	2	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:24.482	0.074	0.074			
+67	1	2004	Australian Grand Prix	3	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team	3	1:24.998	0.590	0.516			
+67	1	2004	Australian Grand Prix	4	9	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:24.998	0.590	0.516			
+67	1	2004	Australian Grand Prix	5	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:25.699	1.291	0.701			
+67	1	2004	Australian Grand Prix	6	14	Mark Webber	Australia	Jaguar Racing	3	1:25.805	1.397	0.106			
+67	1	2004	Australian Grand Prix	7	10	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:25.851	1.443	0.046			
+67	1	2004	Australian Grand Prix	8	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team	3	1:25.925	1.517	0.074			
+67	1	2004	Australian Grand Prix	9	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team	3	1:26.290	1.882	0.365			
+67	1	2004	Australian Grand Prix	10	6	Kimi Räikkönen	Finland	West McLaren Mercedes	3	1:26.297	1.889	0.007			
+67	1	2004	Australian Grand Prix	11	12	Felipe Massa	Brazil	Sauber Petronas	3	1:27.065	2.657	0.768			
+67	1	2004	Australian Grand Prix	12	5	David Coulthard	Great Britain	West McLaren Mercedes	3	1:27.294	2.886	0.229			
+67	1	2004	Australian Grand Prix	13	16	Cristiano da Matta	Brazil	Panasonic Toyota Racing	3	1:27.823	3.415	0.529			
+67	1	2004	Australian Grand Prix	14	11	Giancarlo Fisichella	Italy	Sauber Petronas	3	1:27.845	3.437	0.022			
+67	1	2004	Australian Grand Prix	15	18	Nick Heidfeld	Germany	Jordan Ford	3	1:28.178	3.770	0.333			
+67	1	2004	Australian Grand Prix	16	19	Giorgio Pantano	Italy	Jordan Ford	3	1:30.140	5.732	1.962			
+67	1	2004	Australian Grand Prix	17	21	Zsolt Baumgartner	Hungary	Minardi Cosworth	3	1:30.681	6.273	0.541			
+67	1	2004	Australian Grand Prix	18	17	Olivier Panis	France	Panasonic Toyota Racing							
+67	1	2004	Australian Grand Prix	19	15	Christian Klien	Austria	Jaguar Racing	1						
+67	1	2004	Australian Grand Prix	20	20	Gianmaria Bruni	Italy	Minardi Cosworth							

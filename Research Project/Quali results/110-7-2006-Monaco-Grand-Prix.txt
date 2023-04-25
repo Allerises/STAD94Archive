@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+110	7	2006	Monaco Grand Prix	1	1	Fernando Alonso	Spain	Mild Seven Renault F1 Team	25	1:13.962					
+110	7	2006	Monaco Grand Prix	2	9	Mark Webber	Australia	WilliamsF1 Team	31	1:14.082	0.120	0.120			
+110	7	2006	Monaco Grand Prix	3	3	Kimi Räikkönen	Finland	Team McLaren Mercedes	26	1:14.140	0.178	0.058			
+110	7	2006	Monaco Grand Prix	4	2	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	26	1:14.396	0.434	0.256			
+110	7	2006	Monaco Grand Prix	5	4	Juan Pablo Montoya	Colombia	Team McLaren Mercedes	32	1:14.664	0.702	0.268			
+110	7	2006	Monaco Grand Prix	6	11	Rubens Barrichello	Brazil	Lucky Strike Honda Racing F1 Team	31	1:15.804	1.842	1.140			
+110	7	2006	Monaco Grand Prix	7	8	Jarno Trulli	Italy	Panasonic Toyota Racing	24	1:15.857	1.895	0.053			
+110	7	2006	Monaco Grand Prix	8	14	David Coulthard	Great Britain	Red Bull Racing	30	1:16.526	2.564	0.669			
+110	7	2006	Monaco Grand Prix	9	10	Nico Rosberg	Germany	WilliamsF1 Team	33	1:16.636	2.674	0.110			
+110	7	2006	Monaco Grand Prix	10	7	Ralf Schumacher	Germany	Panasonic Toyota Racing	14	1:14.398	0.436	0.002			
+110	7	2006	Monaco Grand Prix	11	15	Christian Klien	Austria	Red Bull Racing	12	1:14.747	0.785	0.349			
+110	7	2006	Monaco Grand Prix	12	20	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	20	1:14.969	1.007	0.222			
+110	7	2006	Monaco Grand Prix	13	12	Jenson Button	Great Britain	Lucky Strike Honda Racing F1 Team	17	1:14.982	1.020	0.013			
+110	7	2006	Monaco Grand Prix	14	17	Jacques Villeneuve	Canada	BMW Sauber F1 Team	16	1:15.052	1.090	0.070			
+110	7	2006	Monaco Grand Prix	15	16	Nick Heidfeld	Germany	BMW Sauber F1 Team	20	1:15.137	1.175	0.085			
+110	7	2006	Monaco Grand Prix	16	19	Christijan Albers	Netherlands	MF1 Racing	8	1:15.598	1.636	0.461			
+110	7	2006	Monaco Grand Prix	17	18	Tiago Monteiro	Portugal	MF1 Racing	8	1:15.993	2.031	0.395			
+110	7	2006	Monaco Grand Prix	18	21	Scott Speed	USA	Scuderia Toro Rosso	7	1:16.236	2.274	0.243			
+110	7	2006	Monaco Grand Prix	19	22	Takuma Sato	Japan	Super Aguri F1	6	1:17.276	3.314	1.040			
+110	7	2006	Monaco Grand Prix	20	23	Franck Montagny	France	Super Aguri F1	7	1:17.502	3.540	0.226			
+110	7	2006	Monaco Grand Prix	21	6	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	2						
+110	7	2006	Monaco Grand Prix	22	5	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	23						

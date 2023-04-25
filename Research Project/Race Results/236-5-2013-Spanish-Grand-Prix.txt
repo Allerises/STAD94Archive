@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+236	5	2013	Spanish Grand Prix	1	3	Fernando Alonso	Spain	Ferrari	66	1:39:16.596			185.605	1:26.681	53
+236	5	2013	Spanish Grand Prix	2	7	Kimi Räikkönen	Finland	Lotus	66	1:39:25.934	+ 9.338	+ 9.338	185.314	1:26.757	47
+236	5	2013	Spanish Grand Prix	3	4	Felipe Massa	Brazil	Ferrari	66	1:39:42.645	+ 26.049	+ 16.711	184.796	1:26.394	56
+236	5	2013	Spanish Grand Prix	4	1	Sebastian Vettel	Germany	Red Bull	66	1:39:54.869	+ 38.273	+ 12.224	184.420	1:27.036	55
+236	5	2013	Spanish Grand Prix	5	2	Mark Webber	Australia	Red Bull	66	1:40:04.559	+ 47.963	+ 9.690	184.122	1:27.017	55
+236	5	2013	Spanish Grand Prix	6	9	Nico Rosberg	Germany	Mercedes	66	1:40:24.616	+ 1:08.020	+ 20.057	183.509	1:27.591	56
+236	5	2013	Spanish Grand Prix	7	14	Paul di Resta	Great Britain	Force India	66	1:40:25.584	+ 1:08.988	+ 0.968	183.480	1:26.776	55
+236	5	2013	Spanish Grand Prix	8	5	Jenson Button	Great Britain	McLaren	66	1:40:36.102	+ 1:19.506	+ 10.518	183.160	1:27.957	55
+236	5	2013	Spanish Grand Prix	9	6	Sergio Pérez	Mexico	McLaren	66	1:40:38.334	+ 1:21.738	+ 2.232	183.092	1:27.251	55
+236	5	2013	Spanish Grand Prix	10	19	Daniel Ricciardo	Australia	Toro Rosso	65	1:39:22.402	+ 5.806	1 Lap	182.613	1:28.083	55
+236	5	2013	Spanish Grand Prix	11	12	Esteban Gutiérrez	Mexico	Sauber	65	1:39:22.706	+ 6.110	+ 0.304	182.604	1:26.217	56
+236	5	2013	Spanish Grand Prix	12	10	Lewis Hamilton	Great Britain	Mercedes	65	1:39:27.565	+ 10.969	+ 4.859	182.455	1:27.895	53
+236	5	2013	Spanish Grand Prix	13	15	Adrian Sutil	Germany	Force India	65	1:39:28.040	+ 11.444	+ 0.475	182.441	1:26.564	38
+236	5	2013	Spanish Grand Prix	14	16	Pastor Maldonado	Venezuela	Williams	65	1:39:45.740	+ 29.144	+ 17.700	181.901	1:27.849	56
+236	5	2013	Spanish Grand Prix	15	11	Nico Hülkenberg	Germany	Sauber	65	1:39:47.162	+ 30.566	+ 1.422	181.858	1:26.586	58
+236	5	2013	Spanish Grand Prix	16	17	Valtteri Bottas	Finland	Williams	65	1:40:35.040	+ 1:18.444	+ 47.878	180.415	1:29.747	27
+236	5	2013	Spanish Grand Prix	17	20	Charles Pic	France	Caterham	65	1:40:37.441	+ 1:20.845	+ 2.401	180.344	1:29.362	43
+236	5	2013	Spanish Grand Prix	18	22	Jules Bianchi	France	Marussia	64	1:39:20.860	+ 4.264	1 Lap	179.849	1:28.884	55
+236	5	2013	Spanish Grand Prix	19	23	Max Chilton	Great Britain	Marussia	64	1:39:48.230	+ 31.634	+ 27.370	179.027	1:28.011	49
+236	5	2013	Spanish Grand Prix	20	18	Jean-Eric Vergne	France	Toro Rosso	52	1:20:56.042			179.356	1:28.231	41
+236	5	2013	Spanish Grand Prix	21	21	Giedo van der Garde	Netherlands	Caterham	21	34:58.166			167.510	1:30.597	11
+236	5	2013	Spanish Grand Prix	22	8	Romain Grosjean	France	Lotus	8	12:59.356			171.436	1:31.136	5

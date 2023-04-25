@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+105	2	2006	Malaysian Grand Prix	1	2	Giancarlo Fisichella	Italy	Renault	56	1:30:40.529			205.397	1:35.294	16
+105	2	2006	Malaysian Grand Prix	2	1	Fernando Alonso	Spain	Renault	56	1:30:45.114	+ 4.585	+ 4.585	205.224	1:34.803	45
+105	2	2006	Malaysian Grand Prix	3	12	Jenson Button	Great Britain	Honda	56	1:30:50.160	+ 9.631	+ 5.046	205.034	1:35.604	35
+105	2	2006	Malaysian Grand Prix	4	4	Juan Pablo Montoya	Colombia	McLaren	56	1:31:19.880	+ 39.351	+ 29.720	203.922	1:35.566	39
+105	2	2006	Malaysian Grand Prix	5	6	Felipe Massa	Brazil	Ferrari	56	1:31:23.783	+ 43.254	+ 3.903	203.776	1:35.954	51
+105	2	2006	Malaysian Grand Prix	6	5	Michael Schumacher	Germany	Ferrari	56	1:31:24.383	+ 43.854	+ 0.600	203.754	1:35.647	44
+105	2	2006	Malaysian Grand Prix	7	17	Jacques Villeneuve	Canada	Sauber	56	1:32:00.990	+ 1:20.461	+ 36.607	202.403	1:36.002	43
+105	2	2006	Malaysian Grand Prix	8	7	Ralf Schumacher	Germany	Toyota	56	1:32:01.817	+ 1:21.288	+ 0.827	202.373	1:35.686	34
+105	2	2006	Malaysian Grand Prix	9	8	Jarno Trulli	Italy	Toyota	55	1:30:42.142	1 Lap	1 Lap	201.669	1:36.380	52
+105	2	2006	Malaysian Grand Prix	10	11	Rubens Barrichello	Brazil	Honda	55	1:30:53.222	1 Lap	+ 11.080	201.259	1:36.188	54
+105	2	2006	Malaysian Grand Prix	11	20	Vitantonio Liuzzi	Italy	Toro Rosso	54	1:31:05.666	2 Laps	1 Lap	197.150	1:37.387	40
+105	2	2006	Malaysian Grand Prix	12	19	Christijan Albers	Netherlands	MF1 Racing	54	1:31:12.211	2 Laps	+ 6.545	196.914	1:38.198	34
+105	2	2006	Malaysian Grand Prix	13	18	Tiago Monteiro	Portugal	MF1 Racing	54	1:32:18.242	2 Laps	+ 1:06.031	194.567	1:39.510	39
+105	2	2006	Malaysian Grand Prix	14	22	Takuma Sato	Japan	Super Aguri	53	1:30:56.659	3 Laps	1 Lap	193.819	1:40.199	14
+105	2	2006	Malaysian Grand Prix	15	16	Nick Heidfeld	Germany	Sauber	48	1:18:31.099			203.313	1:35.751	41
+105	2	2006	Malaysian Grand Prix	16	21	Scott Speed	USA	Toro Rosso	41	1:08:21.452			199.477	1:37.313	25
+105	2	2006	Malaysian Grand Prix	17	23	Yuji Ide	Japan	Super Aguri	33	58:18.660			188.217	1:42.833	18
+105	2	2006	Malaysian Grand Prix	18	15	Christian Klien	Austria	Red Bull	26	57:47.359			149.631	1:36.867	14
+105	2	2006	Malaysian Grand Prix	19	9	Mark Webber	Australia	Williams	15	24:54.628			200.265	1:36.771	12
+105	2	2006	Malaysian Grand Prix	20	14	David Coulthard	Great Britain	Red Bull	10	16:47.499			198.062	1:38.078	4
+105	2	2006	Malaysian Grand Prix	21	10	Nico Rosberg	Germany	Williams	6	9:56.357			200.766	1:37.366	6
+105	2	2006	Malaysian Grand Prix	22	3	Kimi Räikkönen	Finland	McLaren							

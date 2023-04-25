@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+63	13	2003	Hungarian Grand Prix	1	8	Fernando Alonso	Spain	Renault	70	1:39:01.460			185.810	1:22.565	47
+63	13	2003	Hungarian Grand Prix	2	6	Kimi Räikkönen	Finland	McLaren	70	1:39:18.228	+ 16.768	+ 16.768	185.287	1:22.372	66
+63	13	2003	Hungarian Grand Prix	3	3	Juan Pablo Montoya	Colombia	Williams	70	1:39:35.997	+ 34.537	+ 17.769	184.736	1:22.095	37
+63	13	2003	Hungarian Grand Prix	4	4	Ralf Schumacher	Germany	Williams	70	1:39:37.080	+ 35.620	+ 1.083	184.703	1:22.319	55
+63	13	2003	Hungarian Grand Prix	5	5	David Coulthard	Great Britain	McLaren	70	1:39:57.995	+ 56.535	+ 20.915	184.059	1:23.193	40
+63	13	2003	Hungarian Grand Prix	6	14	Mark Webber	Australia	Jaguar	70	1:40:14.103	+ 1:12.643	+ 16.108	183.566	1:23.156	49
+63	13	2003	Hungarian Grand Prix	7	7	Jarno Trulli	Italy	Renault	69	1:39:07.141	1 Lap	1 Lap	182.981	1:24.100	34
+63	13	2003	Hungarian Grand Prix	8	1	Michael Schumacher	Germany	Ferrari	69	1:39:07.564	1 Lap	+ 0.423	182.968	1:23.207	38
+63	13	2003	Hungarian Grand Prix	9	9	Nick Heidfeld	Germany	Sauber	69	1:39:31.419	1 Lap	+ 23.855	182.237	1:24.267	54
+63	13	2003	Hungarian Grand Prix	10	17	Jenson Button	Great Britain	BAR	69	1:39:50.036	1 Lap	+ 18.617	181.670	1:23.376	65
+63	13	2003	Hungarian Grand Prix	11	21	Cristiano da Matta	Brazil	Toyota	68	1:39:34.706	2 Laps	1 Lap	179.497	1:23.040	36
+63	13	2003	Hungarian Grand Prix	12	19	Jos Verstappen	Netherlands	Minardi	67	1:39:43.591	3 Laps	1 Lap	176.594	1:26.559	60
+63	13	2003	Hungarian Grand Prix	13	18	Nicolas Kiesa	Denmark	Minardi	66	1:39:54.756	4 Laps	1 Lap	173.635	1:27.641	47
+63	13	2003	Hungarian Grand Prix	14	10	Heinz-Harald Frentzen	Germany	Sauber	47	1:08:14.221			181.045	1:24.450	45
+63	13	2003	Hungarian Grand Prix	15	15	Justin Wilson	Great Britain	Jaguar	42	1:01:08.009			180.583	1:24.936	26
+63	13	2003	Hungarian Grand Prix	16	12	Zsolt Baumgartner	Hungary	Jordan	34	50:44.830			176.104	1:26.464	22
+63	13	2003	Hungarian Grand Prix	17	20	Olivier Panis	France	Toyota	33	47:47.060			181.523	1:24.414	17
+63	13	2003	Hungarian Grand Prix	18	11	Giancarlo Fisichella	Italy	Jordan	28	41:10.205			178.762	1:25.081	13
+63	13	2003	Hungarian Grand Prix	19	2	Rubens Barrichello	Brazil	Ferrari	19	27:36.239			180.913	1:24.583	13
+63	13	2003	Hungarian Grand Prix	20	16	Jacques Villeneuve	Canada	BAR	14	20:53.019			176.196	1:25.278	13

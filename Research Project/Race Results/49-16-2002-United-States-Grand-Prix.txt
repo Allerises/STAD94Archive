@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+49	16	2002	United States Grand Prix	1	2	Rubens Barrichello	Brazil	Ferrari	73	1:31:07.934			201.475	1:12.738	27
+49	16	2002	United States Grand Prix	2	1	Michael Schumacher	Germany	Ferrari	73	1:31:07.945	+ 0.011	+ 0.011	201.475	1:12.754	26
+49	16	2002	United States Grand Prix	3	3	David Coulthard	Great Britain	McLaren	73	1:31:15.733	+ 7.799	+ 7.788	201.189	1:13.481	41
+49	16	2002	United States Grand Prix	4	6	Juan Pablo Montoya	Colombia	Williams	73	1:31:17.845	+ 9.911	+ 2.112	201.111	1:12.798	72
+49	16	2002	United States Grand Prix	5	14	Jarno Trulli	Italy	Renault	73	1:32:04.781	+ 56.847	+ 46.936	199.402	1:14.026	27
+49	16	2002	United States Grand Prix	6	11	Jacques Villeneuve	Canada	BAR	73	1:32:06.146	+ 58.212	+ 1.365	199.353	1:13.848	48
+49	16	2002	United States Grand Prix	7	9	Giancarlo Fisichella	Italy	Jordan	72	1:31:19.142	1 Lap	1 Lap	198.309	1:14.025	34
+49	16	2002	United States Grand Prix	8	15	Jenson Button	Great Britain	Renault	72	1:31:32.738	1 Lap	+ 13.596	197.818	1:14.265	71
+49	16	2002	United States Grand Prix	9	7	Nick Heidfeld	Germany	Sauber	72	1:31:40.702	1 Lap	+ 7.964	197.532	1:14.557	27
+49	16	2002	United States Grand Prix	10	16	Eddie Irvine	Great Britain	Jaguar	72	1:31:55.952	1 Lap	+ 15.250	196.986	1:14.190	41
+49	16	2002	United States Grand Prix	11	10	Takuma Sato	Japan	Jordan	72	1:31:57.930	1 Lap	+ 1.978	196.915	1:14.556	47
+49	16	2002	United States Grand Prix	12	12	Olivier Panis	France	BAR	72	1:32:14.119	1 Lap	+ 16.189	196.339	1:14.263	47
+49	16	2002	United States Grand Prix	13	8	Heinz-Harald Frentzen	Germany	Sauber	71	1:31:10.965	2 Laps	1 Lap	195.847	1:14.796	64
+49	16	2002	United States Grand Prix	14	24	Mika Salo	Finland	Toyota	71	1:31:13.510	2 Laps	+ 2.545	195.756	1:14.672	54
+49	16	2002	United States Grand Prix	15	25	Allan McNish	Great Britain	Toyota	71	1:31:27.967	2 Laps	+ 14.457	195.240	1:14.882	40
+49	16	2002	United States Grand Prix	16	5	Ralf Schumacher	Germany	Williams	71	1:31:44.835	2 Laps	+ 16.868	194.642	1:13.260	71
+49	16	2002	United States Grand Prix	17	4	Kimi Räikkönen	Finland	McLaren	50	1:03:21.532			198.488	1:13.819	42
+49	16	2002	United States Grand Prix	18	22	Alex Yoong	Malaysia	Minardi	46	59:42.321			193.783	1:15.347	38
+49	16	2002	United States Grand Prix	19	23	Mark Webber	Australia	Minardi	38	48:51.145			195.645	1:15.367	29
+49	16	2002	United States Grand Prix	20	17	Pedro de la Rosa	Spain	Jaguar	27	34:52.079			194.764	1:15.498	25

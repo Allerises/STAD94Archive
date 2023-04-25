@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+138	17	2007	Brazilian Grand Prix	1	6	Kimi Räikkönen	Finland	Ferrari	71	1:28:15.270			207.972	1:12.445	66
+138	17	2007	Brazilian Grand Prix	2	5	Felipe Massa	Brazil	Ferrari	71	1:28:16.763	+ 1.493	+ 1.493	207.914	1:12.584	71
+138	17	2007	Brazilian Grand Prix	3	1	Fernando Alonso	Spain	McLaren	71	1:29:12.289	+ 57.019	+ 55.526	205.757	1:13.150	59
+138	17	2007	Brazilian Grand Prix	4	16	Nico Rosberg	Germany	Williams	71	1:29:18.118	+ 1:02.848	+ 5.829	205.533	1:13.159	56
+138	17	2007	Brazilian Grand Prix	5	10	Robert Kubica	Poland	Sauber	71	1:29:26.227	+ 1:10.957	+ 8.109	205.222	1:12.686	61
+138	17	2007	Brazilian Grand Prix	6	9	Nick Heidfeld	Germany	Sauber	71	1:29:26.587	+ 1:11.317	+ 0.360	205.209	1:13.452	53
+138	17	2007	Brazilian Grand Prix	7	2	Lewis Hamilton	Great Britain	McLaren	70	1:28:19.350	1 Lap	1 Lap	204.885	1:12.506	58
+138	17	2007	Brazilian Grand Prix	8	12	Jarno Trulli	Italy	Toyota	70	1:28:30.730	1 Lap	+ 11.380	204.446	1:13.361	68
+138	17	2007	Brazilian Grand Prix	9	14	David Coulthard	Great Britain	Red Bull	70	1:28:54.817	1 Lap	+ 24.087	203.523	1:14.195	22
+138	17	2007	Brazilian Grand Prix	10	17	Kazuki Nakajima	Japan	Williams	70	1:28:55.985	1 Lap	+ 1.168	203.478	1:13.116	69
+138	17	2007	Brazilian Grand Prix	11	11	Ralf Schumacher	Germany	Toyota	70	1:28:58.235	1 Lap	+ 2.250	203.393	1:13.368	65
+138	17	2007	Brazilian Grand Prix	12	22	Takuma Sato	Japan	Super Aguri	69	1:28:44.249	2 Laps	1 Lap	201.013	1:14.914	39
+138	17	2007	Brazilian Grand Prix	13	18	Vitantonio Liuzzi	Italy	Toro Rosso	69	1:29:29.773	2 Laps	+ 45.524	199.309	1:13.643	56
+138	17	2007	Brazilian Grand Prix	14	23	Anthony Davidson	Great Britain	Super Aguri	68	1:29:14.983	3 Laps	1 Lap	196.963	1:14.329	64
+138	17	2007	Brazilian Grand Prix	15	20	Adrian Sutil	Germany	Spyker	43	1:03:40.540			174.563	1:15.202	13
+138	17	2007	Brazilian Grand Prix	16	8	Rubens Barrichello	Brazil	Honda	40	51:32.059			200.639	1:14.742	32
+138	17	2007	Brazilian Grand Prix	17	4	Heikki Kovalainen	Finland	Renault	35	46:01.511			196.568	1:14.891	31
+138	17	2007	Brazilian Grand Prix	18	19	Sebastian Vettel	Germany	Toro Rosso	34	44:21.278			198.142	1:14.423	18
+138	17	2007	Brazilian Grand Prix	19	7	Jenson Button	Great Britain	Honda	20	25:32.441			202.382	1:14.039	20
+138	17	2007	Brazilian Grand Prix	20	15	Mark Webber	Australia	Red Bull	14	17:43.881			204.031	1:14.398	13
+138	17	2007	Brazilian Grand Prix	21	21	Sakon Yamamoto	Japan	Spyker	2	3:20.746			154.009	1:50.404	2
+138	17	2007	Brazilian Grand Prix	22	3	Giancarlo Fisichella	Italy	Renault	2	3:31.978			145.849	2:02.680	2

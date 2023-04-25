@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+321	12	2017	Belgian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:42.553			245.867		
+321	12	2017	Belgian Grand Prix	2	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:42.795	0.242	0.242	245.288		
+321	12	2017	Belgian Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:43.094	0.541	0.299	244.576		
+321	12	2017	Belgian Grand Prix	4	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:43.270	0.717	0.176	244.159		
+321	12	2017	Belgian Grand Prix	5	33	Max Verstappen	Netherlands	Red Bull Racing		1:43.380	0.827	0.110	243.900		
+321	12	2017	Belgian Grand Prix	6	3	Daniel Ricciardo	Australia	Red Bull Racing		1:43.863	1.310	0.483	242.765		
+321	12	2017	Belgian Grand Prix	7	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:44.982	2.429	1.119	240.178		
+321	12	2017	Belgian Grand Prix	8	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:45.244	2.691	0.262	239.580		
+321	12	2017	Belgian Grand Prix	9	31	Esteban Ocon	France	Sahara Force India F1 Team		1:45.369	2.816	0.125	239.296		
+321	12	2017	Belgian Grand Prix	10	14	Fernando Alonso	Spain	McLaren Honda Formula 1 Team		1:45.090	2.537		239.931		
+321	12	2017	Belgian Grand Prix	11	8	Romain Grosjean	France	Haas F1 Team		1:45.133	2.580	0.043	239.833		
+321	12	2017	Belgian Grand Prix	12	20	Kevin Magnussen	Denmark	Haas F1 Team		1:45.400	2.847	0.267	239.225		
+321	12	2017	Belgian Grand Prix	13	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:45.439	2.886	0.039	239.137		
+321	12	2017	Belgian Grand Prix	14	30	Jolyon Palmer	Great Britain	Renault Sport Formula One Team							
+321	12	2017	Belgian Grand Prix	15	18	Lance Stroll	Canada	Williams Martini Racing		1:46.915	4.362		235.835		
+321	12	2017	Belgian Grand Prix	16	19	Felipe Massa	Brazil	Williams Martini Racing		1:45.823	3.270		238.269		
+321	12	2017	Belgian Grand Prix	17	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:47.214	4.661	1.391	235.178		
+321	12	2017	Belgian Grand Prix	18	94	Pascal Wehrlein	Germany	Sauber F1 Team		1:47.679	5.126	0.465	234.162		
+321	12	2017	Belgian Grand Prix	19	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:46.028	3.475		237.808		
+321	12	2017	Belgian Grand Prix	20	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team							

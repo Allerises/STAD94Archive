@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+170	14	2009	Singapore Grand Prix	1	1	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	14	1:47.891	0.878	0.478			
+170	14	2009	Singapore Grand Prix	2	15	Sebastian Vettel	Germany	Red Bull Racing	17	1:48.204	0.313	0.313			
+170	14	2009	Singapore Grand Prix	3	16	Nico Rosberg	Germany	AT&T Williams	15	1:48.348	0.457	0.144			
+170	14	2009	Singapore Grand Prix	4	14	Mark Webber	Australia	Red Bull Racing	19	1:48.722	0.831	0.374			
+170	14	2009	Singapore Grand Prix	5	23	Rubens Barrichello	Brazil	Brawn GP Formula 1 Team	20	1:48.828	0.937	0.106			
+170	14	2009	Singapore Grand Prix	6	7	Fernando Alonso	Spain	ING Renault F1 Team	17	1:49.054	1.163	0.226			
+170	14	2009	Singapore Grand Prix	7	10	Timo Glock	Germany	Panasonic Toyota Racing	18	1:49.180	1.289	0.126			
+170	14	2009	Singapore Grand Prix	8	6	Nick Heidfeld	Germany	BMW Sauber F1 Team	19	1:49.307	1.416	0.127			
+170	14	2009	Singapore Grand Prix	9	5	Robert Kubica	Poland	BMW Sauber F1 Team	18	1:49.514	1.623	0.207			
+170	14	2009	Singapore Grand Prix	10	2	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	18	1:49.778	1.887	0.264			
+170	14	2009	Singapore Grand Prix	11	17	Kazuki Nakajima	Japan	AT&T Williams	14	1:47.013					
+170	14	2009	Singapore Grand Prix	12	22	Jenson Button	Great Britain	Brawn GP Formula 1 Team	16	1:47.141	0.128	0.128			
+170	14	2009	Singapore Grand Prix	13	4	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	14	1:47.177	0.164	0.036			
+170	14	2009	Singapore Grand Prix	14	12	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	16	1:47.369	0.356	0.192			
+170	14	2009	Singapore Grand Prix	15	9	Jarno Trulli	Italy	Panasonic Toyota Racing	13	1:47.413	0.400	0.044			
+170	14	2009	Singapore Grand Prix	16	20	Adrian Sutil	Germany	Force India F1 Team	10	1:48.231	0.340	0.818			
+170	14	2009	Singapore Grand Prix	17	11	Jaime Alguersuari	Spain	Scuderia Toro Rosso	9	1:48.340	0.449	0.109			
+170	14	2009	Singapore Grand Prix	18	3	Giancarlo Fisichella	Italy	Scuderia Ferrari Marlboro	11	1:48.350	0.459	0.010			
+170	14	2009	Singapore Grand Prix	19	8	Romain Grosjean	France	ING Renault F1 Team	10	1:48.544	0.653	0.194			
+170	14	2009	Singapore Grand Prix	20	21	Vitantonio Liuzzi	Italy	Force India F1 Team	8	1:48.792	0.901	0.248			

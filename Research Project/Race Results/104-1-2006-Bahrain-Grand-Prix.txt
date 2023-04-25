@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+104	1	2006	Bahrain Grand Prix	1	1	Fernando Alonso	Spain	Renault	57	1:29:46.205			206.018	1:32.534	21
+104	1	2006	Bahrain Grand Prix	2	5	Michael Schumacher	Germany	Ferrari	57	1:29:47.451	+ 1.246	+ 1.246	205.970	1:32.523	38
+104	1	2006	Bahrain Grand Prix	3	3	Kimi Räikkönen	Finland	McLaren	57	1:30:05.565	+ 19.360	+ 18.114	205.280	1:32.864	29
+104	1	2006	Bahrain Grand Prix	4	12	Jenson Button	Great Britain	Honda	57	1:30:06.197	+ 19.992	+ 0.632	205.256	1:32.729	39
+104	1	2006	Bahrain Grand Prix	5	4	Juan Pablo Montoya	Colombia	McLaren	57	1:30:23.253	+ 37.048	+ 17.056	204.610	1:32.771	21
+104	1	2006	Bahrain Grand Prix	6	9	Mark Webber	Australia	Williams	57	1:30:28.137	+ 41.932	+ 4.884	204.426	1:32.660	25
+104	1	2006	Bahrain Grand Prix	7	10	Nico Rosberg	Germany	Williams	57	1:30:49.248	+ 1:03.043	+ 21.111	203.634	1:32.408	42
+104	1	2006	Bahrain Grand Prix	8	15	Christian Klien	Austria	Red Bull	57	1:30:52.976	+ 1:06.771	+ 3.728	203.495	1:33.212	40
+104	1	2006	Bahrain Grand Prix	9	6	Felipe Massa	Brazil	Ferrari	57	1:30:56.112	+ 1:09.907	+ 3.136	203.378	1:32.739	28
+104	1	2006	Bahrain Grand Prix	10	14	David Coulthard	Great Britain	Red Bull	57	1:31:01.746	+ 1:15.541	+ 5.634	203.168	1:33.376	26
+104	1	2006	Bahrain Grand Prix	11	20	Vitantonio Liuzzi	Italy	Toro Rosso	57	1:31:12.202	+ 1:25.997	+ 10.456	202.780	1:33.480	26
+104	1	2006	Bahrain Grand Prix	12	16	Nick Heidfeld	Germany	Sauber	56	1:29:56.330	1 Lap	1 Lap	202.021	1:33.772	26
+104	1	2006	Bahrain Grand Prix	13	21	Scott Speed	USA	Toro Rosso	56	1:30:01.841	1 Lap	+ 5.511	201.815	1:33.108	45
+104	1	2006	Bahrain Grand Prix	14	7	Ralf Schumacher	Germany	Toyota	56	1:30:24.528	1 Lap	+ 22.687	200.971	1:34.112	25
+104	1	2006	Bahrain Grand Prix	15	11	Rubens Barrichello	Brazil	Honda	56	1:30:42.588	1 Lap	+ 18.060	200.304	1:33.840	14
+104	1	2006	Bahrain Grand Prix	16	8	Jarno Trulli	Italy	Toyota	56	1:30:51.466	1 Lap	+ 8.878	199.978	1:34.852	24
+104	1	2006	Bahrain Grand Prix	17	18	Tiago Monteiro	Portugal	MF1 Racing	55	1:30:15.643	2 Laps	1 Lap	197.703	1:35.940	41
+104	1	2006	Bahrain Grand Prix	18	22	Takuma Sato	Japan	Super Aguri	53	1:31:13.629	4 Laps	2 Laps	188.489	1:37.104	17
+104	1	2006	Bahrain Grand Prix	19	23	Yuji Ide	Japan	Super Aguri	35	1:11:00.370			159.851	1:38.302	11
+104	1	2006	Bahrain Grand Prix	20	17	Jacques Villeneuve	Canada	Sauber	29	46:29.645			202.221	1:33.694	20
+104	1	2006	Bahrain Grand Prix	21	2	Giancarlo Fisichella	Italy	Renault	21	35:19.841			192.590	1:34.320	15
+104	1	2006	Bahrain Grand Prix	22	19	Christijan Albers	Netherlands	MF1 Racing							

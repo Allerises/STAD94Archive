@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+341	12	2018	Hungarian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	70	1:37:16.427			189.134	1:21.107	63
+341	12	2018	Hungarian Grand Prix	2	5	Sebastian Vettel	Germany	Ferrari	70	1:37:33.550	+ 17.123	+ 17.123	188.580	1:20.056	70
+341	12	2018	Hungarian Grand Prix	3	7	Kimi Räikkönen	Finland	Ferrari	70	1:37:36.528	+ 20.101	+ 2.978	188.485	1:20.292	55
+341	12	2018	Hungarian Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull	70	1:38:02.846	+ 46.419	+ 26.318	187.641	1:20.012	46
+341	12	2018	Hungarian Grand Prix	5	77	Valtteri Bottas	Finland	Mercedes	70	1:38:16.427	+ 1:00.000	+ 13.581	187.209	1:21.736	39
+341	12	2018	Hungarian Grand Prix	6	10	Pierre Gasly	France	Toro Rosso	70	1:38:29.700	+ 1:13.273	+ 13.273	186.789	1:21.685	64
+341	12	2018	Hungarian Grand Prix	7	20	Kevin Magnussen	Denmark	Haas	69	1:37:21.386	1 Lap	1 Lap	186.273	1:21.302	60
+341	12	2018	Hungarian Grand Prix	8	14	Fernando Alonso	Spain	McLaren	69	1:37:58.161	1 Lap	+ 36.775	185.108	1:22.090	68
+341	12	2018	Hungarian Grand Prix	9	55	Carlos Sainz	Spain	Renault	69	1:38:10.524	1 Lap	+ 12.363	184.719	1:22.774	58
+341	12	2018	Hungarian Grand Prix	10	8	Romain Grosjean	France	Haas	69	1:38:11.045	1 Lap	+ 0.521	184.703	1:22.606	58
+341	12	2018	Hungarian Grand Prix	11	28	Brendon Hartley	New Zealand	Toro Rosso	69	1:38:12.400	1 Lap	+ 1.355	184.660	1:22.612	62
+341	12	2018	Hungarian Grand Prix	12	27	Nico Hülkenberg	Germany	Renault	69	1:38:18.622	1 Lap	+ 6.222	184.466	1:21.261	69
+341	12	2018	Hungarian Grand Prix	13	31	Esteban Ocon	France	Force India	69	1:38:27.230	1 Lap	+ 8.608	184.197	1:22.876	63
+341	12	2018	Hungarian Grand Prix	14	11	Sergio Pérez	Mexico	Force India	69	1:38:36.913	1 Lap	+ 9.683	183.895	1:23.263	56
+341	12	2018	Hungarian Grand Prix	15	9	Marcus Ericsson	Sweden	Sauber	68	1:37:57.725	2 Laps	1 Lap	182.438	1:23.671	53
+341	12	2018	Hungarian Grand Prix	16	35	Sergey Sirotkin	Russia	Williams	68	1:38:07.313	2 Laps	+ 9.588	182.141	1:23.708	53
+341	12	2018	Hungarian Grand Prix	17	18	Lance Stroll	Canada	Williams	68	1:38:08.022	2 Laps	+ 0.709	182.119	1:22.660	51
+341	12	2018	Hungarian Grand Prix	18	2	Stoffel Vandoorne	Belgium	McLaren	49	1:09:53.912			184.234	1:23.077	46
+341	12	2018	Hungarian Grand Prix	19	33	Max Verstappen	Netherlands	Red Bull	5	7:08.059			183.885	1:23.985	5
+341	12	2018	Hungarian Grand Prix	20	16	Charles Leclerc	Monaco	Sauber							

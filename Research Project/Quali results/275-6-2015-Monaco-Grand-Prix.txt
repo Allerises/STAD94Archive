@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+275	6	2015	Monaco Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:15.098			159.966		
+275	6	2015	Monaco Grand Prix	2	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:15.440	0.342	0.342	159.241		
+275	6	2015	Monaco Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:15.849	0.751	0.409	158.383		
+275	6	2015	Monaco Grand Prix	4	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing		1:16.041	0.943	0.192	157.983		
+275	6	2015	Monaco Grand Prix	5	26	Daniil Kvyat	Russia	Infiniti Red Bull Racing		1:16.182	1.084	0.141	157.690		
+275	6	2015	Monaco Grand Prix	6	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:16.427	1.329	0.245	157.185		
+275	6	2015	Monaco Grand Prix	7	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:16.808	1.710	0.381	156.405		
+275	6	2015	Monaco Grand Prix	8	13	Pastor Maldonado	Venezuela	Lotus F1 Team		1:16.946	1.848	0.138	156.125		
+275	6	2015	Monaco Grand Prix	9	33	Max Verstappen	Netherlands	Scuderia Toro Rosso		1:16.957	1.859	0.011	156.102		
+275	6	2015	Monaco Grand Prix	10	22	Jenson Button	Great Britain	McLaren Honda		1:17.093	1.995	0.136	155.827		
+275	6	2015	Monaco Grand Prix	11	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:17.193	2.095	0.100	155.625		
+275	6	2015	Monaco Grand Prix	12	19	Felipe Massa	Brazil	Williams Martini Racing		1:17.278	2.180	0.085	155.454		
+275	6	2015	Monaco Grand Prix	13	14	Fernando Alonso	Spain	McLaren Honda		1:26.632	11.534	9.354	138.669		
+275	6	2015	Monaco Grand Prix	14	12	Felipe Nasr	Brazil	Sauber F1 Team		1:18.101	3.003		153.816		
+275	6	2015	Monaco Grand Prix	15	8	Romain Grosjean	France	Lotus F1 Team		1:17.007	1.909		156.001		
+275	6	2015	Monaco Grand Prix	16	77	Valtteri Bottas	Finland	Williams Martini Racing		1:18.434	3.336	1.427	153.163		
+275	6	2015	Monaco Grand Prix	17	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:18.513	3.415	0.079	153.009		
+275	6	2015	Monaco Grand Prix	18	28	Will Stevens	Great Britain	Manor Marussia F1 Team		1:20.655	5.557	2.142	148.945		
+275	6	2015	Monaco Grand Prix	19	98	Roberto Merhi	Spain	Manor Marussia F1 Team		1:20.904	5.806	0.249	148.487		
+275	6	2015	Monaco Grand Prix	20	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:16.931	1.833		156.155		

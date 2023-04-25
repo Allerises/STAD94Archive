@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+145	7	2008	Canadian Grand Prix	1	4	Robert Kubica	Poland	Sauber	70	1:36:24.447			189.987	1:17.539	47
+145	7	2008	Canadian Grand Prix	2	3	Nick Heidfeld	Germany	Sauber	70	1:36:40.942	+ 16.495	+ 16.495	189.447	1:17.430	25
+145	7	2008	Canadian Grand Prix	3	9	David Coulthard	Great Britain	Red Bull	70	1:36:47.799	+ 23.352	+ 6.857	189.223	1:18.085	36
+145	7	2008	Canadian Grand Prix	4	12	Timo Glock	Germany	Toyota	70	1:37:07.074	+ 42.627	+ 19.275	188.597	1:19.087	31
+145	7	2008	Canadian Grand Prix	5	2	Felipe Massa	Brazil	Ferrari	70	1:37:08.381	+ 43.934	+ 1.307	188.555	1:18.006	11
+145	7	2008	Canadian Grand Prix	6	11	Jarno Trulli	Italy	Toyota	70	1:37:12.222	+ 47.775	+ 3.841	188.431	1:18.870	38
+145	7	2008	Canadian Grand Prix	7	17	Rubens Barrichello	Brazil	Honda	70	1:37:18.044	+ 53.597	+ 5.822	188.243	1:18.301	35
+145	7	2008	Canadian Grand Prix	8	15	Sebastian Vettel	Germany	Toro Rosso	70	1:37:18.567	+ 54.120	+ 0.523	188.226	1:18.532	33
+145	7	2008	Canadian Grand Prix	9	23	Heikki Kovalainen	Finland	McLaren	70	1:37:18.880	+ 54.433	+ 0.313	188.216	1:18.462	62
+145	7	2008	Canadian Grand Prix	10	7	Nico Rosberg	Germany	Williams	70	1:37:22.196	+ 57.749	+ 3.316	188.109	1:17.977	14
+145	7	2008	Canadian Grand Prix	11	16	Jenson Button	Great Britain	Honda	70	1:37:31.987	+ 1:07.540	+ 9.791	187.794	1:19.352	58
+145	7	2008	Canadian Grand Prix	12	10	Mark Webber	Australia	Red Bull	70	1:37:35.676	+ 1:11.229	+ 3.689	187.676	1:18.201	51
+145	7	2008	Canadian Grand Prix	13	14	Sebastien Bourdais	France	Toro Rosso	69	1:36:43.167	1 Lap	1 Lap	186.669	1:18.620	34
+145	7	2008	Canadian Grand Prix	14	21	Giancarlo Fisichella	Italy	Force India	51	1:12:50.673			183.193	1:19.066	41
+145	7	2008	Canadian Grand Prix	15	8	Kazuki Nakajima	Japan	Williams	46	1:04:53.725			185.473	1:18.784	30
+145	7	2008	Canadian Grand Prix	16	5	Fernando Alonso	Spain	Renault	44	1:02:00.984			185.645	1:18.225	16
+145	7	2008	Canadian Grand Prix	17	6	Nelson Piquet Jr.	Brazil	Renault	39	55:48.268			182.866	1:19.239	16
+145	7	2008	Canadian Grand Prix	18	1	Kimi Räikkönen	Finland	Ferrari	19	27:08.722			183.145	1:17.387	14
+145	7	2008	Canadian Grand Prix	19	22	Lewis Hamilton	Great Britain	McLaren	19	27:09.903			183.012	1:17.506	4
+145	7	2008	Canadian Grand Prix	20	20	Adrian Sutil	Germany	Force India	13	17:52.870			190.232	1:20.666	7

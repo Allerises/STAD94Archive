@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+26	10	2001	French Grand Prix	1	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:12.989					
+26	10	2001	French Grand Prix	2	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:12.999	0.010	0.010			
+26	10	2001	French Grand Prix	3	4	David Coulthard	Great Britain	West McLaren Mercedes		1:13.186	0.197	0.187			
+26	10	2001	French Grand Prix	4	3	Mika Hakkinen	Finland	West McLaren Mercedes		1:13.268	0.279	0.082			
+26	10	2001	French Grand Prix	5	12	Jarno Trulli	Italy	B&H Jordan Honda		1:13.310	0.321	0.042			
+26	10	2001	French Grand Prix	6	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:13.625	0.636	0.315			
+26	10	2001	French Grand Prix	7	11	Heinz-Harald Frentzen	Germany	B&H Jordan Honda		1:13.815	0.826	0.190			
+26	10	2001	French Grand Prix	8	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:13.867	0.878	0.052			
+26	10	2001	French Grand Prix	9	16	Nick Heidfeld	Germany	Red Bull Sauber Petronas		1:14.095	1.106	0.228			
+26	10	2001	French Grand Prix	10	10	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:14.096	1.107	0.001			
+26	10	2001	French Grand Prix	11	9	Olivier Panis	France	Lucky Strike BAR Honda		1:14.181	1.192	0.085			
+26	10	2001	French Grand Prix	12	18	Eddie Irvine	Great Britain	Jaguar Racing		1:14.441	1.452	0.260			
+26	10	2001	French Grand Prix	13	17	Kimi Räikkönen	Finland	Red Bull Sauber Petronas		1:14.536	1.547	0.095			
+26	10	2001	French Grand Prix	14	19	Pedro de la Rosa	Spain	Jaguar Racing		1:15.020	2.031	0.484			
+26	10	2001	French Grand Prix	15	23	Luciano Burti	Brazil	Prost Acer		1:15.072	2.083	0.052			
+26	10	2001	French Grand Prix	16	7	Giancarlo Fisichella	Italy	Mild Seven Benetton Renault		1:15.220	2.231	0.148			
+26	10	2001	French Grand Prix	17	8	Jenson Button	Great Britain	Mild Seven Benetton Renault		1:15.420	2.431	0.200			
+26	10	2001	French Grand Prix	18	14	Jos Verstappen	Netherlands	Orange Arrows Asiatech		1:15.707	2.718	0.287			
+26	10	2001	French Grand Prix	19	22	Jean Alesi	France	Prost Acer		1:15.774	2.785	0.067			
+26	10	2001	French Grand Prix	20	15	Enrique Bernoldi	Brazil	Orange Arrows Asiatech		1:15.828	2.839	0.054			
+26	10	2001	French Grand Prix	21	21	Fernando Alonso	Spain	European Minardi F1		1:16.039	3.050	0.211			
+26	10	2001	French Grand Prix	22	20	Tarso Marques	Brazil	European Minardi F1		1:16.500	3.511	0.461			

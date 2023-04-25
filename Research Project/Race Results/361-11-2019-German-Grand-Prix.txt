@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+361	11	2019	German Grand Prix	1	33	Max Verstappen	Netherlands	Red Bull	64	1:44:31.275			168.043	1:16.645	61
+361	11	2019	German Grand Prix	2	5	Sebastian Vettel	Germany	Ferrari	64	1:44:38.608	+ 7.333	+ 7.333	167.847	1:16.794	63
+361	11	2019	German Grand Prix	3	26	Daniil Kvyat	Russia	Toro Rosso	64	1:44:39.580	+ 8.305	+ 0.972	167.821	1:17.708	61
+361	11	2019	German Grand Prix	4	18	Lance Stroll	Canada	Aston Martin	64	1:44:40.241	+ 8.966	+ 0.661	167.804	1:17.831	61
+361	11	2019	German Grand Prix	5	55	Carlos Sainz	Spain	McLaren	64	1:44:40.858	+ 9.583	+ 0.617	167.787	1:17.841	63
+361	11	2019	German Grand Prix	6	23	Alexander Albon	Thailand	Toro Rosso	64	1:44:41.327	+ 10.052	+ 0.469	167.774	1:17.850	63
+361	11	2019	German Grand Prix	7	8	Romain Grosjean	France	Haas	64	1:44:48.113	+ 16.838	+ 6.786	167.593	1:18.811	64
+361	11	2019	German Grand Prix	8	20	Kevin Magnussen	Denmark	Haas	64	1:44:50.040	+ 18.765	+ 1.927	167.542	1:19.062	63
+361	11	2019	German Grand Prix	9	44	Lewis Hamilton	Great Britain	Mercedes	64	1:44:50.942	+ 19.667	+ 0.902	167.518	1:17.485	60
+361	11	2019	German Grand Prix	10	88	Robert Kubica	Poland	Williams	64	1:44:56.262	+ 24.987	+ 5.320	167.377	1:19.563	60
+361	11	2019	German Grand Prix	11	63	George Russell	Great Britain	Williams	64	1:44:57.679	+ 26.404	+ 1.417	167.339	1:19.300	60
+361	11	2019	German Grand Prix	12	7	Kimi Räikkönen	Finland	Sauber	64	1:45:13.489	+ 42.214	+ 15.810	166.920	1:17.746	55
+361	11	2019	German Grand Prix	13	99	Antonio Giovinazzi	Italy	Sauber	64	1:45:15.124	+ 43.849	+ 1.635	166.877	1:17.507	62
+361	11	2019	German Grand Prix	14	10	Pierre Gasly	France	Red Bull	61	1:40:47.673	3 Laps	3 Laps	166.088	1:17.495	56
+361	11	2019	German Grand Prix	15	77	Valtteri Bottas	Finland	Mercedes	56	1:32:18.527			166.491	1:18.272	54
+361	11	2019	German Grand Prix	16	27	Nico Hülkenberg	Germany	Renault	39	1:05:49.533			162.598	1:29.576	18
+361	11	2019	German Grand Prix	17	16	Charles Leclerc	Monaco	Ferrari	27	43:22.255			170.849	1:27.697	17
+361	11	2019	German Grand Prix	18	4	Lando Norris	Great Britain	McLaren	25	41:19.490			166.026	1:31.081	16
+361	11	2019	German Grand Prix	19	3	Daniel Ricciardo	Australia	Renault	13	22:12.274			160.675	1:32.654	10
+361	11	2019	German Grand Prix	20	11	Sergio Pérez	Mexico	Aston Martin	1	1:52.843			145.923		

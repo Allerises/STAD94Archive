@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+357	19	2019	United States Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Motorsport	18	1:32.029			215.658		
+357	19	2019	United States Grand Prix	2	5	Sebastian Vettel	Germany	Scuderia Ferrari Mission Winnow	17	1:32.041	0.012	0.012	215.629		
+357	19	2019	United States Grand Prix	3	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	16	1:32.096	0.067	0.055	215.501		
+357	19	2019	United States Grand Prix	4	16	Charles Leclerc	Monaco	Scuderia Ferrari Mission Winnow	19	1:32.137	0.108	0.041	215.405		
+357	19	2019	United States Grand Prix	5	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Motorsport	17	1:32.321	0.292	0.184	214.976		
+357	19	2019	United States Grand Prix	6	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	14	1:32.548	0.519	0.227	214.448		
+357	19	2019	United States Grand Prix	7	55	Carlos Sainz	Spain	McLaren F1 Team	15	1:32.847	0.818	0.299	213.758		
+357	19	2019	United States Grand Prix	8	4	Lando Norris	Great Britain	McLaren F1 Team	18	1:33.175	1.146	0.328	213.005		
+357	19	2019	United States Grand Prix	9	3	Daniel Ricciardo	Australia	Renault F1 Team	15	1:33.488	1.459	0.313	212.292		
+357	19	2019	United States Grand Prix	10	10	Pierre Gasly	France	Red Bull Toro Rosso Honda	19	1:33.601	1.572	0.113	212.036		
+357	19	2019	United States Grand Prix	11	27	Nico Hülkenberg	Germany	Renault F1 Team	12	1:33.815	1.786	0.214	211.552		
+357	19	2019	United States Grand Prix	12	20	Kevin Magnussen	Denmark	Haas F1 Team	12	1:33.979	1.950	0.164	211.183		
+357	19	2019	United States Grand Prix	13	26	Daniil Kvyat	Russia	Red Bull Toro Rosso Honda	14	1:33.989	1.960	0.010	211.160		
+357	19	2019	United States Grand Prix	14	18	Lance Stroll	Canada	SportPesa Racing Point F1 Team	14	1:34.100	2.071	0.111	210.911		
+357	19	2019	United States Grand Prix	15	8	Romain Grosjean	France	Haas F1 Team	14	1:34.158	2.129	0.058	210.781		
+357	19	2019	United States Grand Prix	16	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing	8	1:34.226	2.197	0.068	210.629		
+357	19	2019	United States Grand Prix	17	7	Kimi Räikkönen	Finland	Alfa Romeo Racing	8	1:34.369	2.340	0.143	210.310		
+357	19	2019	United States Grand Prix	18	63	George Russell	Great Britain	ROKiT Williams Racing	9	1:35.372	3.343	1.003	208.098		
+357	19	2019	United States Grand Prix	19	11	Sergio Pérez	Mexico	SportPesa Racing Point F1 Team	5	1:35.808	3.779	0.436	207.151		
+357	19	2019	United States Grand Prix	20	88	Robert Kubica	Poland	ROKiT Williams Racing	9	1:35.889	3.860	0.081	206.976		

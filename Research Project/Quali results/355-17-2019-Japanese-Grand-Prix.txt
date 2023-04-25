@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+355	17	2019	Japanese Grand Prix	1	5	Sebastian Vettel	Germany	Scuderia Ferrari Mission Winnow	16	1:27.064			240.113		
+355	17	2019	Japanese Grand Prix	2	16	Charles Leclerc	Monaco	Scuderia Ferrari Mission Winnow	16	1:27.253	0.189	0.189	239.592		
+355	17	2019	Japanese Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Motorsport	21	1:27.293	0.229	0.040	239.483		
+355	17	2019	Japanese Grand Prix	4	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Motorsport	20	1:27.302	0.238	0.009	239.458		
+355	17	2019	Japanese Grand Prix	5	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	16	1:27.851	0.787	0.549	237.962		
+355	17	2019	Japanese Grand Prix	6	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	19	1:27.851	0.787		237.962		
+355	17	2019	Japanese Grand Prix	7	55	Carlos Sainz	Spain	McLaren F1 Team	21	1:28.304	1.240	0.453	236.741		
+355	17	2019	Japanese Grand Prix	8	4	Lando Norris	Great Britain	McLaren F1 Team	21	1:28.464	1.400	0.160	236.313		
+355	17	2019	Japanese Grand Prix	9	10	Pierre Gasly	France	Red Bull Toro Rosso Honda	21	1:28.836	1.772	0.372	235.323		
+355	17	2019	Japanese Grand Prix	10	8	Romain Grosjean	France	Haas F1 Team	15	1:29.341	2.277	0.505	233.993		
+355	17	2019	Japanese Grand Prix	11	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing	15	1:29.254	2.190		234.221		
+355	17	2019	Japanese Grand Prix	12	18	Lance Stroll	Canada	SportPesa Racing Point F1 Team	12	1:29.345	2.281	0.091	233.982		
+355	17	2019	Japanese Grand Prix	13	7	Kimi Räikkönen	Finland	Alfa Romeo Racing	15	1:29.358	2.294	0.013	233.948		
+355	17	2019	Japanese Grand Prix	14	26	Daniil Kvyat	Russia	Red Bull Toro Rosso Honda	16	1:29.563	2.499	0.205	233.413		
+355	17	2019	Japanese Grand Prix	15	27	Nico Hülkenberg	Germany	Renault F1 Team	13	1:30.112	3.048	0.549	231.991		
+355	17	2019	Japanese Grand Prix	16	3	Daniel Ricciardo	Australia	Renault F1 Team	8	1:29.822	2.758		232.740		
+355	17	2019	Japanese Grand Prix	17	11	Sergio Pérez	Mexico	SportPesa Racing Point F1 Team	9	1:30.344	3.280	0.522	231.395		
+355	17	2019	Japanese Grand Prix	18	63	George Russell	Great Britain	ROKiT Williams Racing	10	1:30.364	3.300	0.020	231.344		
+355	17	2019	Japanese Grand Prix	19	20	Kevin Magnussen	Denmark	Haas F1 Team	2						
+355	17	2019	Japanese Grand Prix	20	88	Robert Kubica	Poland	ROKiT Williams Racing	1						

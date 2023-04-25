@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+351	1	2019	Australian Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes	58	1:25:27.325			215.954	1:25.580	57
+351	1	2019	Australian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes	58	1:25:48.211	+ 20.886	+ 20.886	215.077	1:26.057	57
+351	1	2019	Australian Grand Prix	3	33	Max Verstappen	Netherlands	Red Bull	58	1:25:49.845	+ 22.520	+ 1.634	215.009	1:26.256	57
+351	1	2019	Australian Grand Prix	4	5	Sebastian Vettel	Germany	Ferrari	58	1:26:24.434	+ 57.109	+ 34.589	213.575	1:27.954	16
+351	1	2019	Australian Grand Prix	5	16	Charles Leclerc	Monaco	Ferrari	58	1:26:25.555	+ 58.230	+ 1.121	213.529	1:26.926	58
+351	1	2019	Australian Grand Prix	6	20	Kevin Magnussen	Denmark	Haas	58	1:26:54.481	+ 1:27.156	+ 28.926	212.344	1:28.182	56
+351	1	2019	Australian Grand Prix	7	27	Nico Hülkenberg	Germany	Renault	57	1:25:32.524	1 Lap	1 Lap	212.015	1:28.444	52
+351	1	2019	Australian Grand Prix	8	7	Kimi Räikkönen	Finland	Sauber	57	1:25:33.709	1 Lap	+ 1.185	211.966	1:28.270	52
+351	1	2019	Australian Grand Prix	9	18	Lance Stroll	Canada	Aston Martin	57	1:25:34.461	1 Lap	+ 0.752	211.935	1:27.568	29
+351	1	2019	Australian Grand Prix	10	26	Daniil Kvyat	Russia	Toro Rosso	57	1:25:35.160	1 Lap	+ 0.699	211.906	1:27.448	39
+351	1	2019	Australian Grand Prix	11	10	Pierre Gasly	France	Red Bull	57	1:25:35.495	1 Lap	+ 0.335	211.893	1:27.229	39
+351	1	2019	Australian Grand Prix	12	4	Lando Norris	Great Britain	McLaren	57	1:26:15.259	1 Lap	+ 39.764	210.264	1:28.555	17
+351	1	2019	Australian Grand Prix	13	11	Sergio Pérez	Mexico	Aston Martin	57	1:26:15.789	1 Lap	+ 0.530	210.243	1:28.485	41
+351	1	2019	Australian Grand Prix	14	23	Alexander Albon	Thailand	Toro Rosso	57	1:26:16.497	1 Lap	+ 0.708	210.214	1:28.188	43
+351	1	2019	Australian Grand Prix	15	99	Antonio Giovinazzi	Italy	Sauber	57	1:26:37.862	1 Lap	+ 21.365	209.350	1:28.479	29
+351	1	2019	Australian Grand Prix	16	63	George Russell	Great Britain	Williams	56	1:26:17.005	2 Laps	1 Lap	206.506	1:28.713	55
+351	1	2019	Australian Grand Prix	17	88	Robert Kubica	Poland	Williams	55	1:26:19.211	3 Laps	1 Lap	202.732	1:29.284	30
+351	1	2019	Australian Grand Prix	18	8	Romain Grosjean	France	Haas	29	44:19.902			208.140	1:28.462	17
+351	1	2019	Australian Grand Prix	19	3	Daniel Ricciardo	Australia	Renault	28	43:19.322			205.646	1:29.848	18
+351	1	2019	Australian Grand Prix	20	55	Carlos Sainz	Spain	McLaren	9	13:54.933			205.785	1:30.899	9

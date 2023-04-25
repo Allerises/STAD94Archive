@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+296	8	2016	European Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:42.758			210.307		
+296	8	2016	European Grand Prix	2	3	Daniel Ricciardo	Australia	Red Bull Racing		1:43.966	1.208	1.208	207.864		
+296	8	2016	European Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:43.966	1.208		207.864		
+296	8	2016	European Grand Prix	4	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:44.269	1.511	0.303	207.260		
+296	8	2016	European Grand Prix	5	19	Felipe Massa	Brazil	Williams Martini Racing		1:44.483	1.725	0.214	206.835		
+296	8	2016	European Grand Prix	6	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:44.717	1.959	0.234	206.373		
+296	8	2016	European Grand Prix	7	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:43.515	0.757		208.769		
+296	8	2016	European Grand Prix	8	77	Valtteri Bottas	Finland	Williams Martini Racing		1:45.246	2.488	1.731	205.336		
+296	8	2016	European Grand Prix	9	33	Max Verstappen	Netherlands	Red Bull Racing		1:45.570	2.812	0.324	204.705		
+296	8	2016	European Grand Prix	10	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		2:01.954	19.196	16.384	177.204		
+296	8	2016	European Grand Prix	11	8	Romain Grosjean	France	Haas F1 Team		1:44.755	1.997		206.298		
+296	8	2016	European Grand Prix	12	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:44.824	2.066	0.069	206.162		
+296	8	2016	European Grand Prix	13	14	Fernando Alonso	Spain	McLaren Honda		1:45.270	2.512	0.446	205.289		
+296	8	2016	European Grand Prix	14	21	Esteban Gutiérrez	Mexico	Haas F1 Team		1:45.349	2.591	0.079	205.135		
+296	8	2016	European Grand Prix	15	12	Felipe Nasr	Brazil	Sauber F1 Team		1:46.048	3.290	0.699	203.783		
+296	8	2016	European Grand Prix	16	88	Rio Haryanto	Indonesia	Manor Racing MRT		1:45.665	2.907		204.521		
+296	8	2016	European Grand Prix	17	94	Pascal Wehrlein	Germany	Manor Racing MRT		1:45.750	2.992	0.085	204.357		
+296	8	2016	European Grand Prix	18	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:45.000	2.242		205.817		
+296	8	2016	European Grand Prix	19	22	Jenson Button	Great Britain	McLaren Honda		1:45.804	3.046	0.804	204.253		
+296	8	2016	European Grand Prix	20	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:46.231	3.473	0.427	203.432		
+296	8	2016	European Grand Prix	21	30	Jolyon Palmer	Great Britain	Renault Sport F1 Team		1:46.394	3.636	0.163	203.120		
+296	8	2016	European Grand Prix	22	20	Kevin Magnussen	Denmark	Renault Sport F1 Team		1:46.348	3.590		203.208		

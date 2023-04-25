@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+92	8	2005	Canadian Grand Prix	1	9	Kimi Räikkönen	Finland	McLaren	70	1:32:09.290			198.754	1:14.384	23
+92	8	2005	Canadian Grand Prix	2	1	Michael Schumacher	Germany	Ferrari	70	1:32:10.427	+ 1.137	+ 1.137	198.713	1:14.868	32
+92	8	2005	Canadian Grand Prix	3	2	Rubens Barrichello	Brazil	Ferrari	70	1:32:49.773	+ 40.483	+ 39.346	197.310	1:15.480	46
+92	8	2005	Canadian Grand Prix	4	12	Felipe Massa	Brazil	Sauber	70	1:33:04.429	+ 55.139	+ 14.656	196.792	1:16.008	18
+92	8	2005	Canadian Grand Prix	5	7	Mark Webber	Australia	Williams	70	1:33:05.069	+ 55.779	+ 0.640	196.769	1:15.401	23
+92	8	2005	Canadian Grand Prix	6	17	Ralf Schumacher	Germany	Toyota	69	1:32:34.221	1 Lap	1 Lap	195.035	1:15.827	44
+92	8	2005	Canadian Grand Prix	7	14	David Coulthard	Great Britain	Red Bull	69	1:32:44.325	1 Lap	+ 10.104	194.681	1:16.414	17
+92	8	2005	Canadian Grand Prix	8	15	Christian Klien	Austria	Red Bull	69	1:32:50.964	1 Lap	+ 6.639	194.449	1:16.299	46
+92	8	2005	Canadian Grand Prix	9	11	Jacques Villeneuve	Canada	Sauber	69	1:32:51.385	1 Lap	+ 0.421	194.435	1:15.945	26
+92	8	2005	Canadian Grand Prix	10	18	Tiago Monteiro	Portugal	Jordan	67	1:32:16.537	3 Laps	2 Laps	189.987	1:17.344	19
+92	8	2005	Canadian Grand Prix	11	21	Christijan Albers	Netherlands	Minardi	67	1:32:26.711	3 Laps	+ 10.174	189.639	1:18.462	15
+92	8	2005	Canadian Grand Prix	12	16	Jarno Trulli	Italy	Toyota	62	1:22:26.745			196.770	1:15.872	43
+92	8	2005	Canadian Grand Prix	13	10	Juan Pablo Montoya	Colombia	McLaren	52	1:09:16.748			196.398	1:14.576	24
+92	8	2005	Canadian Grand Prix	14	3	Jenson Button	Great Britain	BAR	46	59:10.361			203.410	1:15.189	30
+92	8	2005	Canadian Grand Prix	15	8	Nick Heidfeld	Germany	Williams	43	55:56.315			201.138	1:15.752	20
+92	8	2005	Canadian Grand Prix	16	4	Takuma Sato	Japan	BAR	40	1:24:56.030			123.230	1:16.044	14
+92	8	2005	Canadian Grand Prix	17	20	Patrick Friesacher	Austria	Minardi	39	53:35.086			190.441	1:18.709	33
+92	8	2005	Canadian Grand Prix	18	5	Fernando Alonso	Spain	Renault	38	48:30.283			204.992	1:14.727	38
+92	8	2005	Canadian Grand Prix	19	6	Giancarlo Fisichella	Italy	Renault	32	40:55.913			204.562	1:14.890	24
+92	8	2005	Canadian Grand Prix	20	19	Narain Karthikeyan	India	Jordan	24	32:19.781			194.243	1:17.015	20

@@ -1,0 +1,24 @@
+Year	Pos	Driver	Points
+2017	1	Lewis Hamilton	363
+2017	2	Sebastian Vettel	317
+2017	3	Valtteri Bottas	305
+2017	4	Kimi Räikkönen	205
+2017	5	Daniel Ricciardo	200
+2017	6	Max Verstappen	168
+2017	7	Sergio Pérez	100
+2017	8	Esteban Ocon	87
+2017	9	Carlos Sainz	54
+2017	10	Nico Hülkenberg	43
+2017	11	Felipe Massa	43
+2017	12	Lance Stroll	40
+2017	13	Romain Grosjean	28
+2017	14	Kevin Magnussen	19
+2017	15	Fernando Alonso	17
+2017	16	Stoffel Vandoorne	13
+2017	17	Jolyon Palmer	8
+2017	18	Pascal Wehrlein	5
+2017	19	Daniil Kvyat	5
+2017	20	Marcus Ericsson	
+2017	21	Pierre Gasly	
+2017	22	Antonio Giovinazzi	
+2017	23	Brendon Hartley	

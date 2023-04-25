@@ -1,0 +1,22 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+310	1	2017	Australian Grand Prix	1	5	Sebastian Vettel	Germany	Ferrari	57	1:24:11.672			215.408	1:26.638	53
+310	1	2017	Australian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes	57	1:24:21.647	+ 9.975	+ 9.975	214.984	1:27.033	44
+310	1	2017	Australian Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes	57	1:24:22.922	+ 11.250	+ 1.275	214.930	1:26.593	56
+310	1	2017	Australian Grand Prix	4	7	Kimi Räikkönen	Finland	Ferrari	57	1:24:34.065	+ 22.393	+ 11.143	214.458	1:26.538	56
+310	1	2017	Australian Grand Prix	5	33	Max Verstappen	Netherlands	Red Bull	57	1:24:40.499	+ 28.827	+ 6.434	214.186	1:26.964	43
+310	1	2017	Australian Grand Prix	6	19	Felipe Massa	Brazil	Williams	57	1:25:35.058	+ 1:23.386	+ 54.559	211.911	1:28.045	49
+310	1	2017	Australian Grand Prix	7	11	Sergio Pérez	Mexico	Force India	56	1:24:27.579	1 Lap	1 Lap	210.965	1:28.336	56
+310	1	2017	Australian Grand Prix	8	55	Carlos Sainz	Spain	Toro Rosso	56	1:24:28.873	1 Lap	+ 1.294	210.911	1:27.677	53
+310	1	2017	Australian Grand Prix	9	26	Daniil Kvyat	Russia	Toro Rosso	56	1:24:42.486	1 Lap	+ 13.613	210.346	1:26.711	51
+310	1	2017	Australian Grand Prix	10	31	Esteban Ocon	France	Force India	56	1:25:20.115	1 Lap	+ 37.629	208.800	1:28.475	55
+310	1	2017	Australian Grand Prix	11	27	Nico Hülkenberg	Germany	Renault	56	1:25:21.125	1 Lap	+ 1.010	208.759	1:28.486	55
+310	1	2017	Australian Grand Prix	12	36	Antonio Giovinazzi	Italy	Sauber	55	1:24:44.265	2 Laps	1 Lap	206.518	1:29.052	51
+310	1	2017	Australian Grand Prix	13	2	Stoffel Vandoorne	Belgium	McLaren	55	1:24:58.807	2 Laps	+ 14.542	205.929	1:29.440	53
+310	1	2017	Australian Grand Prix	14	14	Fernando Alonso	Spain	McLaren	50	1:16:26.419			208.123	1:30.077	48
+310	1	2017	Australian Grand Prix	15	20	Kevin Magnussen	Denmark	Haas	46	1:12:03.297			203.126	1:27.568	46
+310	1	2017	Australian Grand Prix	16	18	Lance Stroll	Canada	Williams	40	1:01:54.421			205.585	1:29.389	38
+310	1	2017	Australian Grand Prix	17	3	Daniel Ricciardo	Australia	Red Bull	25	41:12.001			193.070	1:29.447	21
+310	1	2017	Australian Grand Prix	18	9	Marcus Ericsson	Sweden	Sauber	21	33:01.470			202.327	1:32.052	18
+310	1	2017	Australian Grand Prix	19	30	Jolyon Palmer	Great Britain	Renault	15	24:07.683			197.807	1:32.195	6
+310	1	2017	Australian Grand Prix	20	8	Romain Grosjean	France	Haas	13	19:47.343			209.021	1:30.183	12
+310	1	2017	Australian Grand Prix	21	94	Pascal Wehrlein	Germany	Sauber							

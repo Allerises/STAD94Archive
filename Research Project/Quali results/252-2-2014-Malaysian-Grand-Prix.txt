@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+252	2	2014	Malaysian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team	6	1:59.431					
+252	2	2014	Malaysian Grand Prix	2	1	Sebastian Vettel	Germany	Infiniti Red Bull Racing	6	1:59.486	0.055	0.055			
+252	2	2014	Malaysian Grand Prix	3	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	7	2:00.050	0.619	0.564			
+252	2	2014	Malaysian Grand Prix	4	14	Fernando Alonso	Spain	Scuderia Ferrari	7	2:00.175	0.744	0.125			
+252	2	2014	Malaysian Grand Prix	5	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing	7	2:00.541	1.110	0.366			
+252	2	2014	Malaysian Grand Prix	6	7	Kimi Räikkönen	Finland	Scuderia Ferrari	7	2:01.218	1.787	0.677			
+252	2	2014	Malaysian Grand Prix	7	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team	7	2:01.712	2.281	0.494			
+252	2	2014	Malaysian Grand Prix	8	20	Kevin Magnussen	Denmark	McLaren Mercedes	7	2:02.213	2.782	0.501			
+252	2	2014	Malaysian Grand Prix	9	25	Jean-Eric Vergne	France	Scuderia Toro Rosso	7	2:03.078	3.647	0.865			
+252	2	2014	Malaysian Grand Prix	10	22	Jenson Button	Great Britain	McLaren Mercedes	6	2:04.053	4.622	0.975			
+252	2	2014	Malaysian Grand Prix	11	26	Daniil Kvyat	Russia	Scuderia Toro Rosso	8	2:02.351	2.920	0.138			
+252	2	2014	Malaysian Grand Prix	12	21	Esteban Gutiérrez	Mexico	Sauber F1 Team	8	2:02.369	2.938	0.018			
+252	2	2014	Malaysian Grand Prix	13	19	Felipe Massa	Brazil	Williams Martini Racing	8	2:02.460	3.029	0.091			
+252	2	2014	Malaysian Grand Prix	14	11	Sergio Pérez	Mexico	Sahara Force India F1 Team	8	2:02.511	3.080	0.051			
+252	2	2014	Malaysian Grand Prix	15	77	Valtteri Bottas	Finland	Williams Martini Racing	8	2:02.756	3.325	0.245			
+252	2	2014	Malaysian Grand Prix	16	8	Romain Grosjean	France	Lotus F1 Team	8	2:02.885	3.454	0.129			
+252	2	2014	Malaysian Grand Prix	17	13	Pastor Maldonado	Venezuela	Lotus F1 Team	8	2:02.074	2.643	0.362			
+252	2	2014	Malaysian Grand Prix	18	99	Adrian Sutil	Germany	Sauber F1 Team	7	2:02.131	2.700	0.057			
+252	2	2014	Malaysian Grand Prix	19	17	Jules Bianchi	France	Marussia F1 Team	8	2:02.702	3.271	0.571			
+252	2	2014	Malaysian Grand Prix	20	10	Kamui Kobayashi	Japan	Caterham F1 Team	8	2:03.595	4.164	0.893			
+252	2	2014	Malaysian Grand Prix	21	4	Max Chilton	Great Britain	Marussia F1 Team	8	2:04.388	4.957	0.793			
+252	2	2014	Malaysian Grand Prix	22	9	Marcus Ericsson	Sweden	Caterham F1 Team	7	2:04.407	4.976	0.019			

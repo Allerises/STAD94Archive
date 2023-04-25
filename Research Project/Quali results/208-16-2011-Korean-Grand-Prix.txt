@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+208	16	2011	Korean Grand Prix	1	3	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	14	1:35.820					
+208	16	2011	Korean Grand Prix	2	1	Sebastian Vettel	Germany	Red Bull Racing	12	1:36.042	0.222	0.222			
+208	16	2011	Korean Grand Prix	3	4	Jenson Button	Great Britain	Vodafone McLaren Mercedes	14	1:36.126	0.306	0.084			
+208	16	2011	Korean Grand Prix	4	2	Mark Webber	Australia	Red Bull Racing	11	1:36.468	0.648	0.342			
+208	16	2011	Korean Grand Prix	5	6	Felipe Massa	Brazil	Scuderia Ferrari	16	1:36.831	1.011	0.363			
+208	16	2011	Korean Grand Prix	6	5	Fernando Alonso	Spain	Scuderia Ferrari	11	1:36.980	1.160	0.149			
+208	16	2011	Korean Grand Prix	7	8	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	12	1:37.754	1.934	0.774			
+208	16	2011	Korean Grand Prix	8	10	Vitaly Petrov	Russia	Lotus Renault GP	19	1:38.124	2.304	0.370			
+208	16	2011	Korean Grand Prix	9	15	Paul di Resta	Great Britain	Force India F1 Team	16						
+208	16	2011	Korean Grand Prix	10	14	Adrian Sutil	Germany	Force India F1 Team	14						
+208	16	2011	Korean Grand Prix	11	19	Jaime Alguersuari	Spain	Scuderia Toro Rosso	11	1:38.315	2.495	0.191			
+208	16	2011	Korean Grand Prix	12	7	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	9	1:38.354	2.534	0.039			
+208	16	2011	Korean Grand Prix	13	18	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	11	1:38.508	2.688	0.154			
+208	16	2011	Korean Grand Prix	14	16	Kamui Kobayashi	Japan	Sauber F1 Team	13	1:38.775	2.955	0.267			
+208	16	2011	Korean Grand Prix	15	9	Bruno Senna	Brazil	Lotus Renault GP	14	1:38.791	2.971	0.016			
+208	16	2011	Korean Grand Prix	16	12	Pastor Maldonado	Venezuela	AT&T Williams	8	1:39.189	3.369	0.398			
+208	16	2011	Korean Grand Prix	17	17	Sergio Pérez	Mexico	Sauber F1 Team	14	1:39.443	3.623	0.254			
+208	16	2011	Korean Grand Prix	18	11	Rubens Barrichello	Brazil	AT&T Williams	4	1:39.538	3.718	0.095			
+208	16	2011	Korean Grand Prix	19	20	Heikki Kovalainen	Finland	Team Lotus	6	1:40.522	4.702	0.984			
+208	16	2011	Korean Grand Prix	20	21	Jarno Trulli	Italy	Team Lotus	6	1:41.101	5.281	0.579			
+208	16	2011	Korean Grand Prix	21	24	Timo Glock	Germany	Marussia Virgin Racing	7	1:42.091	6.271	0.990			
+208	16	2011	Korean Grand Prix	22	25	Jerome d'Ambrosio	Belgium	Marussia Virgin Racing	8	1:43.483	7.663	1.392			
+208	16	2011	Korean Grand Prix	23	23	Vitantonio Liuzzi	Italy	HRT F1 Team	8	1:43.758	7.938	0.275			
+208	16	2011	Korean Grand Prix	24	22	Daniel Ricciardo	Australia	HRT F1 Team	2						

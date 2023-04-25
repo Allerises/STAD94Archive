@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+71	5	2004	Spanish Grand Prix	1	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:15.022					
+71	5	2004	Spanish Grand Prix	2	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team	3	1:15.639	0.617	0.617			
+71	5	2004	Spanish Grand Prix	3	10	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:15.809	0.787	0.170			
+71	5	2004	Spanish Grand Prix	4	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team	3	1:16.144	1.122	0.335			
+71	5	2004	Spanish Grand Prix	5	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:16.272	1.250	0.128			
+71	5	2004	Spanish Grand Prix	6	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team	3	1:16.293	1.271	0.021			
+71	5	2004	Spanish Grand Prix	7	17	Olivier Panis	France	Panasonic Toyota Racing	3	1:16.313	1.291	0.020			
+71	5	2004	Spanish Grand Prix	8	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:16.422	1.400	0.109			
+71	5	2004	Spanish Grand Prix	9	14	Mark Webber	Australia	Jaguar Racing	3	1:16.514	1.492	0.092			
+71	5	2004	Spanish Grand Prix	10	5	David Coulthard	Great Britain	West McLaren Mercedes	3	1:16.636	1.614	0.122			
+71	5	2004	Spanish Grand Prix	11	16	Cristiano da Matta	Brazil	Panasonic Toyota Racing	3	1:17.038	2.016	0.402			
+71	5	2004	Spanish Grand Prix	12	11	Giancarlo Fisichella	Italy	Sauber Petronas	3	1:17.444	2.422	0.406			
+71	5	2004	Spanish Grand Prix	13	6	Kimi Räikkönen	Finland	West McLaren Mercedes	3	1:17.445	2.423	0.001			
+71	5	2004	Spanish Grand Prix	14	9	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:17.575	2.553	0.130			
+71	5	2004	Spanish Grand Prix	15	18	Nick Heidfeld	Germany	Jordan Ford	3	1:17.802	2.780	0.227			
+71	5	2004	Spanish Grand Prix	16	15	Christian Klien	Austria	Jaguar Racing	3	1:17.812	2.790	0.010			
+71	5	2004	Spanish Grand Prix	17	12	Felipe Massa	Brazil	Sauber Petronas	3	1:17.866	2.844	0.054			
+71	5	2004	Spanish Grand Prix	18	20	Gianmaria Bruni	Italy	Minardi Cosworth	3	1:19.817	4.795	1.951			
+71	5	2004	Spanish Grand Prix	19	19	Giorgio Pantano	Italy	Jordan Ford	3	1:20.607	5.585	0.790			
+71	5	2004	Spanish Grand Prix	20	21	Zsolt Baumgartner	Hungary	Minardi Cosworth	3	1:21.470	6.448	0.863			

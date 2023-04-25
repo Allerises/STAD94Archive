@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+6	7	2000	Monaco Grand Prix	1	2	David Coulthard	Great Britain	McLaren	78	1:49:28.213			144.072	1:21.787	54
+6	7	2000	Monaco Grand Prix	2	4	Rubens Barrichello	Brazil	Ferrari	78	1:49:44.102	+ 15.889	+ 15.889	143.724	1:21.910	73
+6	7	2000	Monaco Grand Prix	3	11	Giancarlo Fisichella	Italy	Benneton	78	1:49:46.735	+ 18.522	+ 2.633	143.666	1:21.905	58
+6	7	2000	Monaco Grand Prix	4	7	Eddie Irvine	Great Britain	Jaguar	78	1:50:34.137	+ 1:05.924	+ 47.402	142.640	1:22.424	67
+6	7	2000	Monaco Grand Prix	5	17	Mika Salo	Finland	Sauber	78	1:50:48.988	+ 1:20.775	+ 14.851	142.321	1:22.634	58
+6	7	2000	Monaco Grand Prix	6	1	Mika Hakkinen	Finland	McLaren	77	1:49:32.819	1 Lap	1 Lap	142.125	1:21.571	57
+6	7	2000	Monaco Grand Prix	7	22	Jacques Villeneuve	Canada	BAR	77	1:50:08.074	1 Lap	+ 35.255	141.367	1:23.393	73
+6	7	2000	Monaco Grand Prix	8	15	Nick Heidfeld	Germany	Prost	77	1:50:39.719	1 Lap	+ 31.645	140.693	1:23.261	67
+6	7	2000	Monaco Grand Prix	9	8	Johnny Herbert	Great Britain	Jaguar	76	1:50:43.147	2 Laps	1 Lap	138.794	1:23.245	32
+6	7	2000	Monaco Grand Prix	10	5	Heinz-Harald Frentzen	Germany	Jordan	70	1:38:30.235	8 Laps	6 Laps	143.689	1:22.123	68
+6	7	2000	Monaco Grand Prix	11	19	Jos Verstappen	Netherlands	Arrows	60	1:26:38.080			140.036	1:24.486	30
+6	7	2000	Monaco Grand Prix	12	3	Michael Schumacher	Germany	Ferrari	55	1:17:04.191			144.297	1:21.912	45
+6	7	2000	Monaco Grand Prix	13	23	Ricardo Zonta	Brazil	BAR	48	1:09:22.500			139.900	1:23.514	48
+6	7	2000	Monaco Grand Prix	14	9	Ralf Schumacher	Germany	Williams	37	52:24.925			142.732	1:23.769	35
+6	7	2000	Monaco Grand Prix	15	6	Jarno Trulli	Italy	Jordan	36	50:55.680			142.931	1:23.466	35
+6	7	2000	Monaco Grand Prix	16	16	Pedro Diniz	Brazil	Sauber	30	43:19.447			140.014	1:24.590	30
+6	7	2000	Monaco Grand Prix	17	14	Jean Alesi	France	Prost	29	41:13.947			142.213	1:23.949	27
+6	7	2000	Monaco Grand Prix	18	21	Gaston Mazzacane	Argentina	Minardi	22	32:00.286			138.991	1:25.039	21
+6	7	2000	Monaco Grand Prix	19	20	Marc Gene	Spain	Minardi	21	30:36.346			138.738	1:24.351	18
+6	7	2000	Monaco Grand Prix	20	12	Alexander Wurz	Austria	Benneton	18	26:16.800			138.493	1:25.484	18
+6	7	2000	Monaco Grand Prix	21	10	Jenson Button	Great Britain	Williams	16	23:28.720			137.793	1:25.740	14
+6	7	2000	Monaco Grand Prix	22	18	Pedro de la Rosa	Spain	Arrows							

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+124	3	2007	Bahrain Grand Prix	1	5	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	16	1:32.652					
+124	3	2007	Bahrain Grand Prix	2	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	16	1:32.935	0.283	0.283			
+124	3	2007	Bahrain Grand Prix	3	6	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	16	1:33.131	0.479	0.196			
+124	3	2007	Bahrain Grand Prix	4	1	Fernando Alonso	Spain	Vodafone McLaren Mercedes	16	1:33.192	0.540	0.061			
+124	3	2007	Bahrain Grand Prix	5	9	Nick Heidfeld	Germany	BMW Sauber F1 Team	17	1:33.404	0.752	0.212			
+124	3	2007	Bahrain Grand Prix	6	10	Robert Kubica	Poland	BMW Sauber F1 Team	17	1:33.710	1.058	0.306			
+124	3	2007	Bahrain Grand Prix	7	3	Giancarlo Fisichella	Italy	ING Renault F1 Team	22	1:34.056	1.404	0.346			
+124	3	2007	Bahrain Grand Prix	8	15	Mark Webber	Australia	Red Bull Racing	22	1:34.106	1.454	0.050			
+124	3	2007	Bahrain Grand Prix	9	12	Jarno Trulli	Italy	Panasonic Toyota Racing	22	1:34.154	1.502	0.048			
+124	3	2007	Bahrain Grand Prix	10	16	Nico Rosberg	Germany	AT&T Williams	22	1:34.399	1.747	0.245			
+124	3	2007	Bahrain Grand Prix	11	17	Alexander Wurz	Austria	AT&T Williams	12	1:32.915	0.263	0.263			
+124	3	2007	Bahrain Grand Prix	12	4	Heikki Kovalainen	Finland	ING Renault F1 Team	12	1:32.935	0.283	0.020			
+124	3	2007	Bahrain Grand Prix	13	23	Anthony Davidson	Great Britain	Super Aguri F1 Team	12	1:33.082	0.430	0.147			
+124	3	2007	Bahrain Grand Prix	14	11	Ralf Schumacher	Germany	Panasonic Toyota Racing	13	1:33.294	0.642	0.212			
+124	3	2007	Bahrain Grand Prix	15	8	Rubens Barrichello	Brazil	Honda Racing F1 Team	12	1:33.624	0.972	0.330			
+124	3	2007	Bahrain Grand Prix	16	7	Jenson Button	Great Britain	Honda Racing F1 Team	14	1:33.731	1.079	0.107			
+124	3	2007	Bahrain Grand Prix	17	22	Takuma Sato	Japan	Super Aguri F1 Team	6	1:33.984	1.332	0.253			
+124	3	2007	Bahrain Grand Prix	18	18	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	6	1:34.024	1.372	0.040			
+124	3	2007	Bahrain Grand Prix	19	19	Scott Speed	USA	Scuderia Toro Rosso	6	1:34.333	1.681	0.309			
+124	3	2007	Bahrain Grand Prix	20	20	Adrian Sutil	Germany	Etihad Aldar Spyker F1 Team	8	1:35.280	2.628	0.947			
+124	3	2007	Bahrain Grand Prix	21	14	David Coulthard	Great Britain	Red Bull Racing	4	1:35.341	2.689	0.061			
+124	3	2007	Bahrain Grand Prix	22	21	Christijan Albers	Netherlands	Etihad Aldar Spyker F1 Team	7	1:35.533	2.881	0.192			

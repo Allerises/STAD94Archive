@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+211	19	2011	Brazilian Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull Racing	17	1:11.918					
+211	19	2011	Brazilian Grand Prix	2	2	Mark Webber	Australia	Red Bull Racing	16	1:12.099	0.181	0.181			
+211	19	2011	Brazilian Grand Prix	3	4	Jenson Button	Great Britain	Vodafone McLaren Mercedes	18	1:12.283	0.365	0.184			
+211	19	2011	Brazilian Grand Prix	4	3	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	22	1:12.480	0.562	0.197			
+211	19	2011	Brazilian Grand Prix	5	5	Fernando Alonso	Spain	Scuderia Ferrari	22	1:12.591	0.673	0.111			
+211	19	2011	Brazilian Grand Prix	6	8	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	21	1:13.050	1.132	0.459			
+211	19	2011	Brazilian Grand Prix	7	6	Felipe Massa	Brazil	Scuderia Ferrari	18	1:13.068	1.150	0.018			
+211	19	2011	Brazilian Grand Prix	8	14	Adrian Sutil	Germany	Force India F1 Team	23	1:13.298	1.380	0.230			
+211	19	2011	Brazilian Grand Prix	9	9	Bruno Senna	Brazil	Lotus Renault GP	20	1:13.761	1.843	0.463			
+211	19	2011	Brazilian Grand Prix	10	7	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	18						
+211	19	2011	Brazilian Grand Prix	11	15	Paul di Resta	Great Britain	Force India F1 Team	17	1:13.584	1.666	0.286			
+211	19	2011	Brazilian Grand Prix	12	11	Rubens Barrichello	Brazil	AT&T Williams	17	1:13.801	1.883	0.217			
+211	19	2011	Brazilian Grand Prix	13	19	Jaime Alguersuari	Spain	Scuderia Toro Rosso	18	1:13.804	1.886	0.003			
+211	19	2011	Brazilian Grand Prix	14	18	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	22	1:13.919	2.001	0.115			
+211	19	2011	Brazilian Grand Prix	15	10	Vitaly Petrov	Russia	Lotus Renault GP	16	1:14.053	2.135	0.134			
+211	19	2011	Brazilian Grand Prix	16	16	Kamui Kobayashi	Japan	Sauber F1 Team	18	1:14.129	2.211	0.076			
+211	19	2011	Brazilian Grand Prix	17	17	Sergio Pérez	Mexico	Sauber F1 Team	21	1:14.182	2.264	0.053			
+211	19	2011	Brazilian Grand Prix	18	12	Pastor Maldonado	Venezuela	AT&T Williams	11	1:14.625	2.707	0.443			
+211	19	2011	Brazilian Grand Prix	19	20	Heikki Kovalainen	Finland	Team Lotus	11	1:15.068	3.150	0.443			
+211	19	2011	Brazilian Grand Prix	20	21	Jarno Trulli	Italy	Team Lotus	14	1:15.358	3.440	0.290			
+211	19	2011	Brazilian Grand Prix	21	23	Vitantonio Liuzzi	Italy	HRT F1 Team	8	1:16.631	4.713	1.273			
+211	19	2011	Brazilian Grand Prix	22	22	Daniel Ricciardo	Australia	HRT F1 Team	9	1:16.890	4.972	0.259			
+211	19	2011	Brazilian Grand Prix	23	25	Jerome d'Ambrosio	Belgium	Marussia Virgin Racing	10	1:17.019	5.101	0.129			
+211	19	2011	Brazilian Grand Prix	24	24	Timo Glock	Germany	Marussia Virgin Racing	10	1:17.060	5.142	0.041			

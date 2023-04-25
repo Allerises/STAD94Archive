@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+231	20	2012	Brazilian Grand Prix	1	3	Jenson Button	Great Britain	McLaren	71	1:45:22.656					
+231	20	2012	Brazilian Grand Prix	2	5	Fernando Alonso	Spain	Ferrari	71	1:45:25.390	+ 2.734	+ 2.734			
+231	20	2012	Brazilian Grand Prix	3	6	Felipe Massa	Brazil	Ferrari	71	1:45:26.271	+ 3.615	+ 0.881			
+231	20	2012	Brazilian Grand Prix	4	2	Mark Webber	Australia	Red Bull	71	1:45:27.592	+ 4.936	+ 1.321			
+231	20	2012	Brazilian Grand Prix	5	12	Nico Hülkenberg	Germany	Force India	71	1:45:28.364	+ 5.708	+ 0.772			
+231	20	2012	Brazilian Grand Prix	6	1	Sebastian Vettel	Germany	Red Bull	71	1:45:32.109	+ 9.453	+ 3.745			
+231	20	2012	Brazilian Grand Prix	7	7	Michael Schumacher	Germany	Mercedes	71	1:45:34.563	+ 11.907	+ 2.454			
+231	20	2012	Brazilian Grand Prix	8	17	Jean-Eric Vergne	France	Toro Rosso	71	1:45:51.309	+ 28.653	+ 16.746			
+231	20	2012	Brazilian Grand Prix	9	14	Kamui Kobayashi	Japan	Sauber	71	1:45:53.906	+ 31.250	+ 2.597			
+231	20	2012	Brazilian Grand Prix	10	9	Kimi Räikkönen	Finland	Lotus	70		1 Lap	1 Lap			
+231	20	2012	Brazilian Grand Prix	11	21	Vitaly Petrov	Russia	Caterham	70		1 Lap				
+231	20	2012	Brazilian Grand Prix	12	25	Charles Pic	France	Marussia	70		1 Lap				
+231	20	2012	Brazilian Grand Prix	13	16	Daniel Ricciardo	Australia	Toro Rosso	70		1 Lap				
+231	20	2012	Brazilian Grand Prix	14	20	Heikki Kovalainen	Finland	Caterham	70		1 Lap				
+231	20	2012	Brazilian Grand Prix	15	8	Nico Rosberg	Germany	Mercedes	70		1 Lap				
+231	20	2012	Brazilian Grand Prix	16	24	Timo Glock	Germany	Marussia	70		1 Lap				
+231	20	2012	Brazilian Grand Prix	17	22	Pedro de la Rosa	Spain	HRT	69		2 Laps	1 Lap			
+231	20	2012	Brazilian Grand Prix	18	23	Narain Karthikeyan	India	HRT	69		2 Laps				
+231	20	2012	Brazilian Grand Prix	19	11	Paul di Resta	Great Britain	Force India	68		3 Laps	1 Lap			
+231	20	2012	Brazilian Grand Prix	20	4	Lewis Hamilton	Great Britain	McLaren	54					1:18.069	
+231	20	2012	Brazilian Grand Prix	21	10	Romain Grosjean	France	Lotus	5						
+231	20	2012	Brazilian Grand Prix	22	18	Pastor Maldonado	Venezuela	Williams	1						
+231	20	2012	Brazilian Grand Prix	23	19	Bruno Senna	Brazil	Williams							
+231	20	2012	Brazilian Grand Prix	24	15	Sergio Pérez	Mexico	Sauber							

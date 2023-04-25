@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+291	3	2016	Chinese Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:35.402			205.693		
+291	3	2016	Chinese Grand Prix	2	3	Daniel Ricciardo	Australia	Red Bull Racing		1:35.917	0.515	0.515	204.589		
+291	3	2016	Chinese Grand Prix	3	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:35.972	0.570	0.055	204.472		
+291	3	2016	Chinese Grand Prix	4	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:36.246	0.844	0.274	203.890		
+291	3	2016	Chinese Grand Prix	5	77	Valtteri Bottas	Finland	Williams Martini Racing		1:36.296	0.894	0.050	203.784		
+291	3	2016	Chinese Grand Prix	6	26	Daniil Kvyat	Russia	Red Bull Racing		1:36.399	0.997	0.103	203.566		
+291	3	2016	Chinese Grand Prix	7	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:36.865	1.463	0.466	202.587		
+291	3	2016	Chinese Grand Prix	8	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:36.881	1.479	0.016	202.553		
+291	3	2016	Chinese Grand Prix	9	33	Max Verstappen	Netherlands	Scuderia Toro Rosso		1:37.194	1.792	0.313	201.901		
+291	3	2016	Chinese Grand Prix	10	19	Felipe Massa	Brazil	Williams Martini Racing		1:37.347	1.945	0.153	201.584		
+291	3	2016	Chinese Grand Prix	11	14	Fernando Alonso	Spain	McLaren Honda		1:38.826	3.424	1.479	198.567		
+291	3	2016	Chinese Grand Prix	12	22	Jenson Button	Great Britain	McLaren Honda		1:39.093	3.691	0.267	198.032		
+291	3	2016	Chinese Grand Prix	13	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team							
+291	3	2016	Chinese Grand Prix	14	8	Romain Grosjean	France	Haas F1 Team		1:39.830	4.428		196.570		
+291	3	2016	Chinese Grand Prix	15	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:40.742	5.340	0.912	194.790		
+291	3	2016	Chinese Grand Prix	16	12	Felipe Nasr	Brazil	Sauber F1 Team		1:42.430	7.028	1.688	191.580		
+291	3	2016	Chinese Grand Prix	17	20	Kevin Magnussen	Denmark	Renault Sport F1 Team		1:38.673	3.271		198.875		
+291	3	2016	Chinese Grand Prix	18	21	Esteban Gutiérrez	Mexico	Haas F1 Team		1:38.770	3.368	0.097	198.679		
+291	3	2016	Chinese Grand Prix	19	30	Jolyon Palmer	Great Britain	Renault Sport F1 Team		1:39.528	4.126	0.758	197.166		
+291	3	2016	Chinese Grand Prix	20	88	Rio Haryanto	Indonesia	Manor Racing MRT		1:40.264	4.862	0.736	195.719		
+291	3	2016	Chinese Grand Prix	21	94	Pascal Wehrlein	Germany	Manor Racing MRT							
+291	3	2016	Chinese Grand Prix	22	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team							

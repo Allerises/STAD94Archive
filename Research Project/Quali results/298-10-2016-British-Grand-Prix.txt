@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+298	10	2016	British Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:29.287			237.521		
+298	10	2016	British Grand Prix	2	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:29.606	0.319	0.319	236.676		
+298	10	2016	British Grand Prix	3	33	Max Verstappen	Netherlands	Red Bull Racing		1:30.313	1.026	0.707	234.823		
+298	10	2016	British Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull Racing		1:30.618	1.331	0.305	234.032		
+298	10	2016	British Grand Prix	5	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:30.881	1.594	0.263	233.355		
+298	10	2016	British Grand Prix	6	77	Valtteri Bottas	Finland	Williams Martini Racing		1:31.557	2.270	0.676	231.632		
+298	10	2016	British Grand Prix	7	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:31.989	2.702	0.432	230.544		
+298	10	2016	British Grand Prix	8	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:32.172	2.885	0.183	230.087		
+298	10	2016	British Grand Prix	9	14	Fernando Alonso	Spain	McLaren Honda		1:32.343	3.056	0.171	229.661		
+298	10	2016	British Grand Prix	10	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:31.875	2.588		230.831		
+298	10	2016	British Grand Prix	11	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:31.490	2.203		231.802		
+298	10	2016	British Grand Prix	12	19	Felipe Massa	Brazil	Williams Martini Racing		1:32.002	2.715	0.512	230.512		
+298	10	2016	British Grand Prix	13	8	Romain Grosjean	France	Haas F1 Team		1:32.050	2.763	0.048	230.392		
+298	10	2016	British Grand Prix	14	21	Esteban Gutiérrez	Mexico	Haas F1 Team		1:32.241	2.954	0.191	229.915		
+298	10	2016	British Grand Prix	15	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:32.306	3.019	0.065	229.753		
+298	10	2016	British Grand Prix	16	20	Kevin Magnussen	Denmark	Renault Sport F1 Team		1:37.060	7.773	4.754	218.499		
+298	10	2016	British Grand Prix	17	22	Jenson Button	Great Britain	McLaren Honda		1:32.788	3.501		228.559		
+298	10	2016	British Grand Prix	18	30	Jolyon Palmer	Great Britain	Renault Sport F1 Team		1:32.905	3.618	0.117	228.271		
+298	10	2016	British Grand Prix	19	88	Rio Haryanto	Indonesia	Manor Racing MRT		1:33.098	3.811	0.193	227.798		
+298	10	2016	British Grand Prix	20	94	Pascal Wehrlein	Germany	Manor Racing MRT		1:33.151	3.864	0.053	227.669		
+298	10	2016	British Grand Prix	21	12	Felipe Nasr	Brazil	Sauber F1 Team		1:33.544	4.257	0.393	226.712		
+298	10	2016	British Grand Prix	22	9	Marcus Ericsson	Sweden	Sauber F1 Team							

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+83	17	2004	Japanese Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	53	1:24:26.985			218.524	1:32.796	41
+83	17	2004	Japanese Grand Prix	2	4	Ralf Schumacher	Germany	Williams	53	1:24:41.083	+ 14.098	+ 14.098	217.918	1:33.467	23
+83	17	2004	Japanese Grand Prix	3	9	Jenson Button	Great Britain	BAR	53	1:24:46.647	+ 19.662	+ 5.564	217.680	1:33.819	33
+83	17	2004	Japanese Grand Prix	4	10	Takuma Sato	Japan	BAR	53	1:24:58.766	+ 31.781	+ 12.119	217.162	1:33.742	28
+83	17	2004	Japanese Grand Prix	5	8	Fernando Alonso	Spain	Renault	53	1:25:04.752	+ 37.767	+ 5.986	216.908	1:34.279	29
+83	17	2004	Japanese Grand Prix	6	6	Kimi Räikkönen	Finland	McLaren	53	1:25:06.347	+ 39.362	+ 1.595	216.840	1:33.920	35
+83	17	2004	Japanese Grand Prix	7	3	Juan Pablo Montoya	Colombia	Williams	53	1:25:22.332	+ 55.347	+ 15.985	216.163	1:33.779	30
+83	17	2004	Japanese Grand Prix	8	11	Giancarlo Fisichella	Italy	Sauber	53	1:25:23.261	+ 56.276	+ 0.929	216.124	1:33.850	44
+83	17	2004	Japanese Grand Prix	9	12	Felipe Massa	Brazil	Sauber	53	1:25:56.641	+ 1:29.656	+ 33.380	214.725	1:33.614	40
+83	17	2004	Japanese Grand Prix	10	7	Jacques Villeneuve	Canada	Renault	52	1:24:28.973	1 Lap	1 Lap	214.315	1:35.290	28
+83	17	2004	Japanese Grand Prix	11	16	Jarno Trulli	Italy	Toyota	52	1:24:35.505	1 Lap	+ 6.532	214.039	1:34.626	52
+83	17	2004	Japanese Grand Prix	12	15	Christian Klien	Austria	Jaguar	52	1:25:01.022	1 Lap	+ 25.517	212.968	1:35.261	32
+83	17	2004	Japanese Grand Prix	13	18	Nick Heidfeld	Germany	Jordan	52	1:25:09.577	1 Lap	+ 8.555	212.612	1:35.524	25
+83	17	2004	Japanese Grand Prix	14	17	Olivier Panis	France	Toyota	51	1:24:30.991	2 Laps	1 Lap	210.107	1:34.438	11
+83	17	2004	Japanese Grand Prix	15	19	Timo Glock	Germany	Jordan	51	1:25:08.892	2 Laps	+ 37.901	208.548	1:36.667	14
+83	17	2004	Japanese Grand Prix	16	20	Gianmaria Bruni	Italy	Minardi	50	1:25:20.899	3 Laps	1 Lap	203.977	1:39.352	27
+83	17	2004	Japanese Grand Prix	17	21	Zsolt Baumgartner	Hungary	Minardi	41	1:10:31.969			202.364	1:39.434	26
+83	17	2004	Japanese Grand Prix	18	5	David Coulthard	Great Britain	McLaren	38	1:01:21.637			215.579	1:33.917	14
+83	17	2004	Japanese Grand Prix	19	2	Rubens Barrichello	Brazil	Ferrari	38	1:01:34.577			214.824	1:32.730	30
+83	17	2004	Japanese Grand Prix	20	14	Mark Webber	Australia	Jaguar	20	33:40.083			206.620	1:34.229	13

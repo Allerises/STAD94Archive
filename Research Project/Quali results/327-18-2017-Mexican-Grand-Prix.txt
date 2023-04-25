@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+327	18	2017	Mexican Grand Prix	1	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:16.488			202.572		
+327	18	2017	Mexican Grand Prix	2	33	Max Verstappen	Netherlands	Red Bull Racing		1:16.574	0.086	0.086	202.345		
+327	18	2017	Mexican Grand Prix	3	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:16.934	0.446	0.360	201.398		
+327	18	2017	Mexican Grand Prix	4	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:16.958	0.470	0.024	201.335		
+327	18	2017	Mexican Grand Prix	5	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:17.238	0.750	0.280	200.605		
+327	18	2017	Mexican Grand Prix	6	31	Esteban Ocon	France	Sahara Force India F1 Team		1:17.437	0.949	0.199	200.090		
+327	18	2017	Mexican Grand Prix	7	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:17.466	0.978	0.029	200.015		
+327	18	2017	Mexican Grand Prix	8	55	Carlos Sainz	Spain	Renault Sport Formula One Team		1:17.794	1.306	0.328	199.172		
+327	18	2017	Mexican Grand Prix	9	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:17.807	1.319	0.013	199.138		
+327	18	2017	Mexican Grand Prix	10	19	Felipe Massa	Brazil	Williams Martini Racing		1:18.099	1.611	0.292	198.394		
+327	18	2017	Mexican Grand Prix	11	18	Lance Stroll	Canada	Williams Martini Racing		1:19.159	2.671	1.060	195.737		
+327	18	2017	Mexican Grand Prix	12	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:19.176	2.688	0.017	195.695		
+327	18	2017	Mexican Grand Prix	13	94	Pascal Wehrlein	Germany	Sauber F1 Team		1:19.333	2.845	0.157	195.308		
+327	18	2017	Mexican Grand Prix	14	20	Kevin Magnussen	Denmark	Haas F1 Team		1:19.443	2.955	0.110	195.037		
+327	18	2017	Mexican Grand Prix	15	8	Romain Grosjean	France	Haas F1 Team		1:19.473	2.985	0.030	194.964		
+327	18	2017	Mexican Grand Prix	16	3	Daniel Ricciardo	Australia	Red Bull Racing		1:17.447	0.959		200.064		
+327	18	2017	Mexican Grand Prix	17	28	Brendon Hartley	New Zealand	Scuderia Toro Rosso							
+327	18	2017	Mexican Grand Prix	18	14	Fernando Alonso	Spain	McLaren Honda Formula 1 Team							
+327	18	2017	Mexican Grand Prix	19	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team							
+327	18	2017	Mexican Grand Prix	20	10	Pierre Gasly	France	Scuderia Toro Rosso							

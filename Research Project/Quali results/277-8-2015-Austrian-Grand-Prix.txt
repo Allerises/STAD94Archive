@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+277	8	2015	Austrian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:08.455			227.501		
+277	8	2015	Austrian Grand Prix	2	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:08.655	0.200	0.200	226.838		
+277	8	2015	Austrian Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:08.810	0.355	0.155	226.327		
+277	8	2015	Austrian Grand Prix	4	19	Felipe Massa	Brazil	Williams Martini Racing		1:09.192	0.737	0.382	225.078		
+277	8	2015	Austrian Grand Prix	5	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:09.278	0.823	0.086	224.798		
+277	8	2015	Austrian Grand Prix	6	77	Valtteri Bottas	Finland	Williams Martini Racing		1:09.319	0.864	0.041	224.665		
+277	8	2015	Austrian Grand Prix	7	33	Max Verstappen	Netherlands	Scuderia Toro Rosso		1:09.612	1.157	0.293	223.720		
+277	8	2015	Austrian Grand Prix	8	12	Felipe Nasr	Brazil	Sauber F1 Team		1:09.713	1.258	0.101	223.395		
+277	8	2015	Austrian Grand Prix	9	8	Romain Grosjean	France	Lotus F1 Team							
+277	8	2015	Austrian Grand Prix	10	13	Pastor Maldonado	Venezuela	Lotus F1 Team		1:10.374	1.919		221.297		
+277	8	2015	Austrian Grand Prix	11	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:10.426	1.971	0.052	221.134		
+277	8	2015	Austrian Grand Prix	12	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:10.465	2.010	0.039	221.011		
+277	8	2015	Austrian Grand Prix	13	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:12.522	4.067	2.057	214.743		
+277	8	2015	Austrian Grand Prix	14	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:12.867	4.412	0.345	213.726		
+277	8	2015	Austrian Grand Prix	15	26	Daniil Kvyat	Russia	Infiniti Red Bull Racing		1:09.694	1.239		223.456		
+277	8	2015	Austrian Grand Prix	16	98	Roberto Merhi	Spain	Manor Marussia F1 Team		1:14.071	5.616	4.377	210.252		
+277	8	2015	Austrian Grand Prix	17	28	Will Stevens	Great Britain	Manor Marussia F1 Team		1:15.368	6.913	1.297	206.634		
+277	8	2015	Austrian Grand Prix	18	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing		1:10.482	2.027		220.958		
+277	8	2015	Austrian Grand Prix	19	14	Fernando Alonso	Spain	McLaren Honda		1:10.736	2.281	0.254	220.165		
+277	8	2015	Austrian Grand Prix	20	22	Jenson Button	Great Britain	McLaren Honda		1:12.632	4.177	1.896	214.417		

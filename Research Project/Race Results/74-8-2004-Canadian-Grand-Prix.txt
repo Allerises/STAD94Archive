@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+74	8	2004	Canadian Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	70	1:28:24.803			207.165	1:13.630	18
+74	8	2004	Canadian Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	70	1:28:29.911	+ 5.108	+ 5.108	206.966	1:13.622	68
+74	8	2004	Canadian Grand Prix	3	9	Jenson Button	Great Britain	BAR	70	1:28:45.212	+ 20.409	+ 15.301	206.371	1:14.246	68
+74	8	2004	Canadian Grand Prix	4	11	Giancarlo Fisichella	Italy	Sauber	69	1:28:44.952	1 Lap	1 Lap	203.433	1:15.078	47
+74	8	2004	Canadian Grand Prix	5	6	Kimi Räikkönen	Finland	McLaren	69	1:29:05.165	1 Lap	+ 20.213	202.663	1:14.752	44
+74	8	2004	Canadian Grand Prix	6	5	David Coulthard	Great Britain	McLaren	69	1:29:11.637	1 Lap	+ 6.472	202.418	1:15.478	55
+74	8	2004	Canadian Grand Prix	7	19	Timo Glock	Germany	Jordan	68	1:29:10.219	2 Laps	1 Lap	199.538	1:16.300	42
+74	8	2004	Canadian Grand Prix	8	18	Nick Heidfeld	Germany	Jordan	68	1:29:10.556	2 Laps	+ 0.337	199.525	1:15.890	18
+74	8	2004	Canadian Grand Prix	9	15	Christian Klien	Austria	Jaguar	67	1:29:03.252	3 Laps	1 Lap	196.860	1:15.731	45
+74	8	2004	Canadian Grand Prix	10	21	Zsolt Baumgartner	Hungary	Minardi	66	1:29:25.857	4 Laps	1 Lap	193.104	1:17.516	64
+74	8	2004	Canadian Grand Prix	11	4	Ralf Schumacher	Germany	Williams	70	1:28:25.865			207.124	1:14.040	70
+74	8	2004	Canadian Grand Prix	12	3	Juan Pablo Montoya	Colombia	Williams	70	1:28:46.003			206.340	1:14.295	69
+74	8	2004	Canadian Grand Prix	13	16	Cristiano da Matta	Brazil	Toyota	69	1:29:09.640			202.494	1:15.652	39
+74	8	2004	Canadian Grand Prix	14	17	Olivier Panis	France	Toyota	69	1:29:31.939			201.653	1:16.045	23
+74	8	2004	Canadian Grand Prix	15	12	Felipe Massa	Brazil	Sauber	62	1:21:22.534			199.358	1:15.560	25
+74	8	2004	Canadian Grand Prix	16	10	Takuma Sato	Japan	BAR	48	1:02:23.327			201.313	1:15.076	25
+74	8	2004	Canadian Grand Prix	17	8	Fernando Alonso	Spain	Renault	44	55:39.873			206.828	1:14.179	41
+74	8	2004	Canadian Grand Prix	18	20	Gianmaria Bruni	Italy	Minardi	30	40:41.192			192.933	1:18.025	25
+74	8	2004	Canadian Grand Prix	19	14	Mark Webber	Australia	Jaguar	6	9:26.577			166.257	1:16.739	6
+74	8	2004	Canadian Grand Prix	20	7	Jarno Trulli	Italy	Renault							

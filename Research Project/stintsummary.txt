@@ -1,0 +1,202 @@
+Team	Driver	n
+Arrows	Enrique Bernoldi	2
+Arrows	Heinz-Harald Frentzen	1
+Arrows	Jos Verstappen	2
+Arrows	Pedro de la Rosa	1
+Aston Martin	Lance Stroll	2
+Aston Martin    Sergio P<e9>rez	2
+BAR Jacques Villeneuve	4
+BAR	Jenson Button	3
+BAR	Olivier Panis	2
+BAR	Ricardo Zonta	1
+BAR	Takuma Sato	2
+Benneton	Alexander Wurz	1
+Benneton	Giancarlo Fisichella	2
+Benneton	Jenson Button	1
+Brawn	Jenson Button	1
+Brawn	Rubens Barrichello	1
+Caterham	Charles Pic	1
+Caterham	Giedo van der Garde	1
+Caterham	Heikki Kovalainen	1
+Caterham	Kamui Kobayashi	1
+Caterham	Marcus Ericsson	1
+Caterham	Vitaly Petrov	1
+Ferrari	Charles Leclerc	2
+Ferrari	Felipe Massa	8
+Ferrari	Fernando Alonso	5
+Ferrari Kimi R<e4>ikk<f6>nen    8
+Ferrari	Michael Schumacher	7
+Ferrari	Rubens Barrichello	6
+Ferrari	Sebastian Vettel	6
+Force India	Adrian Sutil	5
+Force India	Esteban Ocon	2
+Force India	Giancarlo Fisichella	2
+Force India Nico H<fc>lkenberg  4
+Force India	Paul di Resta	3
+Force India Sergio P<e9>rez	5
+Force India	Vitantonio Liuzzi	1
+Haas    Esteban Guti<e9>rrez	1
+Haas	Kevin Magnussen	4
+Haas	Romain Grosjean	5
+Honda	Jenson Button	3
+Honda	Rubens Barrichello	3
+HRT	Bruno Senna	1
+HRT	Karun Chandhok	1
+HRT	Narain Karthikeyan	2
+HRT	Pedro de la Rosa	1
+HRT	Vitantonio Liuzzi	1
+Jaguar	Christian Klien	1
+Jaguar	Eddie Irvine	3
+Jaguar	Johnny Herbert	1
+Jaguar	Justin Wilson	1
+Jaguar	Mark Webber	2
+Jaguar	Pedro de la Rosa	2
+Jordan	Giancarlo Fisichella	2
+Jordan	Heinz-Harald Frentzen	2
+Jordan	Jarno Trulli	2
+Jordan	Narain Karthikeyan	1
+Jordan	Nick Heidfeld	1
+Jordan	Ralph Firman	1
+Jordan	Takuma Sato	1
+Jordan	Tiago Monteiro	1
+Jordan	Timo Glock	1
+Lotus	Heikki Kovalainen	2
+Lotus	Jarno Trulli	2
+Lotus   Kimi R<e4>ikk<f6>nen	2
+Lotus	Pastor Maldonado	2
+Lotus	Romain Grosjean	4
+Manor	Alexander Rossi	1
+Manor	Pascal Wehrlein	1
+Manor	Rio Haryanto	1
+Manor	Roberto Merhi	1
+Marussia	Charles Pic	1
+Marussia	Jules Bianchi	2
+Marussia	Max Chilton	2
+Marussia	Timo Glock	1
+McLaren	Carlos Sainz	2
+McLaren	David Coulthard	5
+McLaren	Fernando Alonso	5
+McLaren	Heikki Kovalainen	2
+McLaren	Jenson Button	7
+McLaren	Juan Pablo Montoya	2
+McLaren	Kevin Magnussen	1
+McLaren Kimi R<e4>ikk<f6>nen	5
+McLaren	Lando Norris	2
+McLaren	Lewis Hamilton	6
+McLaren	Mika Hakkinen	2
+McLaren Sergio P<e9>rez	1
+McLaren	Stoffel Vandoorne	2
+Mercedes	Lewis Hamilton	8
+Mercedes	Michael Schumacher	3
+Mercedes	Nico Rosberg	7
+Mercedes	Valtteri Bottas	4
+MF1 Racing	Christijan Albers	1
+MF1 Racing	Tiago Monteiro	1
+Minardi	Alex Yoong	1
+Minardi	Christijan Albers	1
+Minardi	Fernando Alonso	1
+Minardi	Gaston Mazzacane	1
+Minardi	Gianmaria Bruni	1
+Minardi	Jos Verstappen	1
+Minardi	Justin Wilson	1
+Minardi	Marc Gene	1
+Minardi	Mark Webber	1
+Minardi	Patrick Friesacher	1
+Minardi	Tarso Marques	1
+Minardi	Zsolt Baumgartner	1
+Prost	Gaston Mazzacane	1
+Prost	Jean Alesi	2
+Prost	Nick Heidfeld	1
+Red Bull	Alexander Albon	1
+Red Bull	Christian Klien	2
+Red Bull	Daniel Ricciardo	5
+Red Bull	Daniil Kvyat	2
+Red Bull	David Coulthard	4
+Red Bull	Mark Webber	7
+Red Bull	Max Verstappen	4
+Red Bull	Pierre Gasly	1
+Red Bull	Sebastian Vettel	6
+Renault	Carlos Sainz	1
+Renault	Daniel Ricciardo	2
+Renault	Esteban Ocon	1
+Renault	Fernando Alonso	6
+Renault	Giancarlo Fisichella	3
+Renault	Heikki Kovalainen	1
+Renault	Jarno Trulli	3
+Renault	Jenson Button	1
+Renault	Jolyon Palmer	2
+Renault	Kevin Magnussen	1
+Renault	Nelson Piquet Jr.	2
+Renault	Nick Heidfeld	1
+Renault-Nico H<fc>lkenberg	3
+Renault	Robert Kubica	1
+Renault	Vitaly Petrov	2
+Sauber	Adrian Sutil	1
+Sauber	Antonio Giovinazzi	2
+Sauber	Charles Leclerc	1
+Sauber  Esteban Guti<e9>rrez	2
+Sauber	Felipe Massa	3
+Sauber	Felipe Nasr	2
+Sauber	Giancarlo Fisichella	1
+Sauber	Heinz-Harald Frentzen	1
+Sauber	Jacques Villeneuve	2
+Sauber	Kamui Kobayashi	3
+Sauber  Kimi R<e4>ikk<f6>nen	3
+Sauber	Marcus Ericsson	4
+Sauber	Mika Salo	1
+Sauber	Nick Heidfeld	7
+Sauber  Nico H<fc>lkenberg	1
+Sauber	Pascal Wehrlein	1
+Sauber	Pedro de la Rosa	1
+Sauber	Pedro Diniz	1
+Sauber	Robert Kubica	3
+Sauber  Sergio P<e9>rez	2
+Spyker	Adrian Sutil	1
+Spyker	Christijan Albers	2
+Spyker	Tiago Monteiro	1
+Super Aguri	Anthony Davidson	2
+Super Aguri	Takuma Sato	3
+Super Aguri	Yuji Ide	1
+Toro Rosso	Alexander Albon	1
+Toro Rosso	Brendon Hartley	1
+Toro Rosso	Carlos Sainz	3
+Toro Rosso	Daniel Ricciardo	2
+Toro Rosso	Daniil Kvyat	4
+Toro Rosso	Jaime Alguersuari	2
+Toro Rosso	Jean-Eric Vergne	3
+Toro Rosso	Max Verstappen	2
+Toro Rosso	Pierre Gasly	2
+Toro Rosso-S<e9>bastien Buemi	3
+Toro Rosso	Scott Speed	2
+Toro Rosso	Sebastian Vettel	1
+Toro Rosso	Sebastien Bourdais	2
+Toro Rosso	Vitantonio Liuzzi	2
+Toyota	Allan McNish	1
+Toyota	Cristiano da Matta	2
+Toyota	Jarno Trulli	5
+Toyota	Mika Salo	1
+Toyota	Olivier Panis	2
+Toyota	Ralf Schumacher	3
+Toyota	Timo Glock	2
+Virgin	Jerome d'Ambrosio	1
+Virgin	Lucas di Grassi	1
+Virgin	Timo Glock	2
+Williams	Alexander Wurz	1
+Williams	Bruno Senna	1
+Williams	Felipe Massa	4
+Williams	George Russell	2
+Williams	Jenson Button	1
+Williams	Juan Pablo Montoya	4
+Williams	Kazuki Nakajima	2
+Williams	Lance Stroll	2
+Williams	Mark Webber	2
+Williams	Nicholas Latifi	1
+Williams	Nick Heidfeld	1
+Williams    Nico H<fc>lkenberg	1
+Williams	Nico Rosberg	4
+Williams	Pastor Maldonado	3
+Williams	Ralf Schumacher	5
+Williams	Robert Kubica	1
+Williams	Rubens Barrichello	2
+Williams	Sergey Sirotkin	1
+Williams	Valtteri Bottas	4

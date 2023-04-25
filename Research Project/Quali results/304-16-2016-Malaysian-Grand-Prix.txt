@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+304	16	2016	Malaysian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:32.850			214.914		
+304	16	2016	Malaysian Grand Prix	2	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:33.264	0.414	0.414	213.960		
+304	16	2016	Malaysian Grand Prix	3	33	Max Verstappen	Netherlands	Red Bull Racing		1:33.420	0.570	0.156	213.603		
+304	16	2016	Malaysian Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull Racing		1:33.467	0.617	0.047	213.495		
+304	16	2016	Malaysian Grand Prix	5	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:33.584	0.734	0.117	213.228		
+304	16	2016	Malaysian Grand Prix	6	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:33.632	0.782	0.048	213.119		
+304	16	2016	Malaysian Grand Prix	7	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:34.319	1.469	0.687	211.567		
+304	16	2016	Malaysian Grand Prix	8	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:34.489	1.639	0.170	211.186		
+304	16	2016	Malaysian Grand Prix	9	22	Jenson Button	Great Britain	McLaren Honda		1:34.518	1.668	0.029	211.121		
+304	16	2016	Malaysian Grand Prix	10	19	Felipe Massa	Brazil	Williams Martini Racing		1:34.671	1.821	0.153	210.780		
+304	16	2016	Malaysian Grand Prix	11	77	Valtteri Bottas	Finland	Williams Martini Racing		1:34.577	1.727		210.989		
+304	16	2016	Malaysian Grand Prix	12	8	Romain Grosjean	France	Haas F1 Team		1:35.001	2.151	0.424	210.048		
+304	16	2016	Malaysian Grand Prix	13	21	Esteban Gutiérrez	Mexico	Haas F1 Team		1:35.097	2.247	0.096	209.836		
+304	16	2016	Malaysian Grand Prix	14	20	Kevin Magnussen	Denmark	Renault Sport F1 Team		1:35.277	2.427	0.180	209.439		
+304	16	2016	Malaysian Grand Prix	15	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:35.369	2.519	0.092	209.237		
+304	16	2016	Malaysian Grand Prix	16	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:35.374	2.524	0.005	209.226		
+304	16	2016	Malaysian Grand Prix	17	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:35.816	2.966	0.442	208.261		
+304	16	2016	Malaysian Grand Prix	18	12	Felipe Nasr	Brazil	Sauber F1 Team		1:35.949	3.099	0.133	207.972		
+304	16	2016	Malaysian Grand Prix	19	30	Jolyon Palmer	Great Britain	Renault Sport F1 Team		1:35.999	3.149	0.050	207.864		
+304	16	2016	Malaysian Grand Prix	20	31	Esteban Ocon	France	Manor Racing MRT		1:36.451	3.601	0.452	206.890		
+304	16	2016	Malaysian Grand Prix	21	94	Pascal Wehrlein	Germany	Manor Racing MRT		1:36.587	3.737	0.136	206.599		
+304	16	2016	Malaysian Grand Prix	22	14	Fernando Alonso	Spain	McLaren Honda		1:37.155	4.305	0.568	205.391		

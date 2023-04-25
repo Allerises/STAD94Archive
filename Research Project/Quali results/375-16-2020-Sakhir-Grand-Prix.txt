@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+375	16	2020	Sakhir Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Formula One Team	24	53.377			238.956		
+375	16	2020	Sakhir Grand Prix	2	63	George Russell	Great Britain	Mercedes-AMG Petronas Formula One Team	25	53.403	0.026	0.026	238.840		
+375	16	2020	Sakhir Grand Prix	3	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	17	53.433	0.056	0.030	238.706		
+375	16	2020	Sakhir Grand Prix	4	16	Charles Leclerc	Monaco	Scuderia Ferrari	21	53.613	0.236	0.180	237.904		
+375	16	2020	Sakhir Grand Prix	5	11	Sergio Pérez	Mexico	BWT Racing Point F1 Team	17	53.790	0.413	0.177	237.122		
+375	16	2020	Sakhir Grand Prix	6	26	Daniil Kvyat	Russia	Scuderia AlphaTauri Honda	26	53.906	0.529	0.116	236.611		
+375	16	2020	Sakhir Grand Prix	7	3	Daniel Ricciardo	Australia	Renault DP World F1 Team	15	53.957	0.580	0.051	236.388		
+375	16	2020	Sakhir Grand Prix	8	55	Carlos Sainz	Spain	McLaren F1 Team	20	54.010	0.633	0.053	236.156		
+375	16	2020	Sakhir Grand Prix	9	10	Pierre Gasly	France	Scuderia AlphaTauri Honda	28	54.154	0.777	0.144	235.528		
+375	16	2020	Sakhir Grand Prix	10	18	Lance Stroll	Canada	BWT Racing Point F1 Team	19	54.200	0.823	0.046	235.328		
+375	16	2020	Sakhir Grand Prix	11	31	Esteban Ocon	France	Renault DP World F1 Team	13	53.995	0.618		236.221		
+375	16	2020	Sakhir Grand Prix	12	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	12	54.026	0.649	0.031	236.086		
+375	16	2020	Sakhir Grand Prix	13	5	Sebastian Vettel	Germany	Scuderia Ferrari	17	54.175	0.798	0.149	235.437		
+375	16	2020	Sakhir Grand Prix	14	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing ORLEN	14	54.377	1.000	0.202	234.562		
+375	16	2020	Sakhir Grand Prix	15	4	Lando Norris	Great Britain	McLaren F1 Team	15	54.693	1.316	0.316	233.207		
+375	16	2020	Sakhir Grand Prix	16	20	Kevin Magnussen	Denmark	Haas F1 Team	9	54.705	1.328	0.012	233.156		
+375	16	2020	Sakhir Grand Prix	17	6	Nicholas Latifi	Canada	Williams Racing	11	54.796	1.419	0.091	232.768		
+375	16	2020	Sakhir Grand Prix	18	89	Jack Aitken	Great Britain	Williams Racing	9	54.892	1.515	0.096	232.361		
+375	16	2020	Sakhir Grand Prix	19	7	Kimi Räikkönen	Finland	Alfa Romeo Racing ORLEN	11	54.963	1.586	0.071	232.061		
+375	16	2020	Sakhir Grand Prix	20	51	Pietro Fittipaldi	Brazil	Haas F1 Team	11	55.426	2.049	0.463	230.123		

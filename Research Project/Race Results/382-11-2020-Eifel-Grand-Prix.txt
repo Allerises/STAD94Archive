@@ -1,0 +1,22 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+382	11	2020	Eifel Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	60	1:35:49.641			193.233	1:28.145	58
+382	11	2020	Eifel Grand Prix	2	33	Max Verstappen	Netherlands	Red Bull	60	1:35:54.111	+ 4.470	+ 4.470	193.083	1:28.139	60
+382	11	2020	Eifel Grand Prix	3	3	Daniel Ricciardo	Australia	Renault	60	1:36:04.254	+ 14.613	+ 10.143	192.743	1:29.584	53
+382	11	2020	Eifel Grand Prix	4	11	Sergio Pérez	Mexico	Aston Martin	60	1:36:05.711	+ 16.070	+ 1.457	192.694	1:29.700	58
+382	11	2020	Eifel Grand Prix	5	55	Carlos Sainz	Spain	McLaren	60	1:36:11.546	+ 21.905	+ 5.835	192.499	1:30.129	53
+382	11	2020	Eifel Grand Prix	6	10	Pierre Gasly	France	Toro Rosso	60	1:36:12.407	+ 22.766	+ 0.861	192.471	1:30.110	53
+382	11	2020	Eifel Grand Prix	7	16	Charles Leclerc	Monaco	Ferrari	60	1:36:20.455	+ 30.814	+ 8.048	192.203	1:30.712	54
+382	11	2020	Eifel Grand Prix	8	27	Nico Hülkenberg	Germany	Aston Martin	60	1:36:22.237	+ 32.596	+ 1.782	192.143	1:30.733	58
+382	11	2020	Eifel Grand Prix	9	8	Romain Grosjean	France	Haas	60	1:36:28.722	+ 39.081	+ 6.485	191.928	1:31.562	54
+382	11	2020	Eifel Grand Prix	10	99	Antonio Giovinazzi	Italy	Sauber	60	1:36:29.676	+ 40.035	+ 0.954	191.896	1:30.909	38
+382	11	2020	Eifel Grand Prix	11	5	Sebastian Vettel	Germany	Ferrari	60	1:36:30.451	+ 40.810	+ 0.775	191.871	1:30.408	43
+382	11	2020	Eifel Grand Prix	12	7	Kimi Räikkönen	Finland	Sauber	60	1:36:31.117	+ 41.476	+ 0.666	191.849	1:30.512	54
+382	11	2020	Eifel Grand Prix	13	20	Kevin Magnussen	Denmark	Haas	60	1:36:39.226	+ 49.585	+ 8.109	191.580	1:30.456	37
+382	11	2020	Eifel Grand Prix	14	6	Nicholas Latifi	Canada	Williams	60	1:36:44.090	+ 54.449	+ 4.864	191.420	1:31.377	39
+382	11	2020	Eifel Grand Prix	15	26	Daniil Kvyat	Russia	Toro Rosso	60	1:36:45.229	+ 55.588	+ 1.139	191.382	1:32.214	41
+382	11	2020	Eifel Grand Prix	16	4	Lando Norris	Great Britain	McLaren	42	1:06:15.551			195.552	1:32.328	40
+382	11	2020	Eifel Grand Prix	17	23	Alexander Albon	Thailand	Red Bull	23	36:51.535			192.313	1:32.330	9
+382	11	2020	Eifel Grand Prix	18	31	Esteban Ocon	France	Renault	22	35:10.341			192.753	1:33.189	21
+382	11	2020	Eifel Grand Prix	19	77	Valtteri Bottas	Finland	Mercedes	18	28:59.777			191.198	1:31.884	8
+382	11	2020	Eifel Grand Prix	20	63	George Russell	Great Britain	Williams	12	19:37.453			188.072	1:34.526	6
+382	11	2020	Eifel Grand Prix	21	18	Lance Stroll	Canada	Aston Martin							

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+64	14	2003	Italian Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	53	1:14:19.838			247.585	1:21.832	14
+64	14	2003	Italian Grand Prix	2	3	Juan Pablo Montoya	Colombia	Williams	53	1:14:25.132	+ 5.294	+ 5.294	247.292	1:22.126	31
+64	14	2003	Italian Grand Prix	3	2	Rubens Barrichello	Brazil	Ferrari	53	1:14:31.673	+ 11.835	+ 6.541	246.930	1:22.171	13
+64	14	2003	Italian Grand Prix	4	6	Kimi Räikkönen	Finland	McLaren	53	1:14:32.672	+ 12.834	+ 0.999	246.875	1:22.032	32
+64	14	2003	Italian Grand Prix	5	4	Marc Gene	Spain	Williams	53	1:14:47.729	+ 27.891	+ 15.057	246.046	1:22.413	12
+64	14	2003	Italian Grand Prix	6	16	Jacques Villeneuve	Canada	BAR	52	1:14:30.106	1 Lap	1 Lap	242.351	1:23.039	13
+64	14	2003	Italian Grand Prix	7	14	Mark Webber	Australia	Jaguar	52	1:14:46.662	1 Lap	+ 16.556	241.457	1:23.778	10
+64	14	2003	Italian Grand Prix	8	8	Fernando Alonso	Spain	Renault	52	1:14:49.287	1 Lap	+ 2.625	241.316	1:23.195	47
+64	14	2003	Italian Grand Prix	9	9	Nick Heidfeld	Germany	Sauber	52	1:14:51.298	1 Lap	+ 2.011	241.208	1:24.225	9
+64	14	2003	Italian Grand Prix	10	11	Giancarlo Fisichella	Italy	Jordan	52	1:15:38.010	1 Lap	+ 46.712	238.725	1:25.133	52
+64	14	2003	Italian Grand Prix	11	12	Zsolt Baumgartner	Hungary	Jordan	51	1:14:55.873	2 Laps	1 Lap	236.323	1:25.549	38
+64	14	2003	Italian Grand Prix	12	18	Nicolas Kiesa	Denmark	Minardi	51	1:15:25.577	2 Laps	+ 29.704	234.772	1:26.127	49
+64	14	2003	Italian Grand Prix	13	10	Heinz-Harald Frentzen	Germany	Sauber	50	1:11:51.173	3 Laps	1 Lap	241.611	1:23.518	14
+64	14	2003	Italian Grand Prix	14	5	David Coulthard	Great Britain	McLaren	45	1:03:38.217			245.495	1:22.427	10
+64	14	2003	Italian Grand Prix	15	20	Olivier Panis	France	Toyota	35	51:46.321			234.620	1:23.303	10
+64	14	2003	Italian Grand Prix	16	19	Jos Verstappen	Netherlands	Minardi	27	42:28.502			220.508	1:25.816	22
+64	14	2003	Italian Grand Prix	17	17	Jenson Button	Great Britain	BAR	24	34:47.422			239.243	1:23.225	13
+64	14	2003	Italian Grand Prix	18	21	Cristiano da Matta	Brazil	Toyota	3	4:27.075			230.092	1:26.148	3
+64	14	2003	Italian Grand Prix	19	15	Justin Wilson	Great Britain	Jaguar	2	5:10.967			130.551	1:59.265	2
+64	14	2003	Italian Grand Prix	20	7	Jarno Trulli	Italy	Renault							
+64	14	2003	Italian Grand Prix	21	4	Ralf Schumacher	Germany	Williams							
+64	14	2003	Italian Grand Prix	22	12	Ralph Firman	Ireland	Jordan							

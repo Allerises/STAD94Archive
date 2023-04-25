@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+134	13	2007	Italian Grand Prix	1	1	Fernando Alonso	Spain	Vodafone McLaren Mercedes	17	1:21.997					
+134	13	2007	Italian Grand Prix	2	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	17	1:22.034	0.037	0.037			
+134	13	2007	Italian Grand Prix	3	5	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	17	1:22.549	0.552	0.515			
+134	13	2007	Italian Grand Prix	4	9	Nick Heidfeld	Germany	BMW Sauber F1 Team	18	1:23.174	1.177	0.625			
+134	13	2007	Italian Grand Prix	5	6	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	21	1:23.183	1.186	0.009			
+134	13	2007	Italian Grand Prix	6	10	Robert Kubica	Poland	BMW Sauber F1 Team	18	1:23.446	1.449	0.263			
+134	13	2007	Italian Grand Prix	7	4	Heikki Kovalainen	Finland	ING Renault F1 Team	24	1:24.102	2.105	0.656			
+134	13	2007	Italian Grand Prix	8	16	Nico Rosberg	Germany	AT&T Williams	24	1:24.382	2.385	0.280			
+134	13	2007	Italian Grand Prix	9	12	Jarno Trulli	Italy	Panasonic Toyota Racing	24	1:24.555	2.558	0.173			
+134	13	2007	Italian Grand Prix	10	7	Jenson Button	Great Britain	Honda Racing F1 Team	23	1:25.165	3.168	0.610			
+134	13	2007	Italian Grand Prix	11	15	Mark Webber	Australia	Red Bull Racing	13	1:23.166	1.169	0.617			
+134	13	2007	Italian Grand Prix	12	8	Rubens Barrichello	Brazil	Honda Racing F1 Team	13	1:23.176	1.179	0.010			
+134	13	2007	Italian Grand Prix	13	17	Alexander Wurz	Austria	AT&T Williams	11	1:23.209	1.212	0.033			
+134	13	2007	Italian Grand Prix	14	23	Anthony Davidson	Great Britain	Super Aguri F1 Team	12	1:23.274	1.277	0.065			
+134	13	2007	Italian Grand Prix	15	3	Giancarlo Fisichella	Italy	ING Renault F1 Team	13	1:23.325	1.328	0.051			
+134	13	2007	Italian Grand Prix	16	19	Sebastian Vettel	Germany	Scuderia Toro Rosso	15	1:23.351	1.354	0.026			
+134	13	2007	Italian Grand Prix	17	22	Takuma Sato	Japan	Super Aguri F1 Team	5	1:23.749	1.752	0.398			
+134	13	2007	Italian Grand Prix	18	11	Ralf Schumacher	Germany	Panasonic Toyota Racing	7	1:23.787	1.790	0.038			
+134	13	2007	Italian Grand Prix	19	18	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	6	1:23.886	1.889	0.099			
+134	13	2007	Italian Grand Prix	20	14	David Coulthard	Great Britain	Red Bull Racing	6	1:24.019	2.022	0.133			
+134	13	2007	Italian Grand Prix	21	20	Adrian Sutil	Germany	Etihad Aldar Spyker F1 Team	10	1:24.699	2.702	0.680			
+134	13	2007	Italian Grand Prix	22	21	Sakon Yamamoto	Japan	Etihad Aldar Spyker F1 Team	8	1:25.084	3.087	0.385			

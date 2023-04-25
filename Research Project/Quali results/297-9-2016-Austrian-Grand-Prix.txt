@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+297	9	2016	Austrian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:07.922			229.286		
+297	9	2016	Austrian Grand Prix	2	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:09.285	1.363	1.363	224.775		
+297	9	2016	Austrian Grand Prix	3	22	Jenson Button	Great Britain	McLaren Honda		1:09.900	1.978	0.615	222.798		
+297	9	2016	Austrian Grand Prix	4	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:09.901	1.979	0.001	222.795		
+297	9	2016	Austrian Grand Prix	5	3	Daniel Ricciardo	Australia	Red Bull Racing		1:09.980	2.058	0.079	222.543		
+297	9	2016	Austrian Grand Prix	6	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:08.465	0.543		227.468		
+297	9	2016	Austrian Grand Prix	7	77	Valtteri Bottas	Finland	Williams Martini Racing		1:10.440	2.518	1.975	221.090		
+297	9	2016	Austrian Grand Prix	8	33	Max Verstappen	Netherlands	Red Bull Racing		1:11.153	3.231	0.713	218.874		
+297	9	2016	Austrian Grand Prix	9	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:09.781	1.859		223.178		
+297	9	2016	Austrian Grand Prix	10	19	Felipe Massa	Brazil	Williams Martini Racing		1:11.977	4.055	2.196	216.369		
+297	9	2016	Austrian Grand Prix	11	21	Esteban Gutiérrez	Mexico	Haas F1 Team		1:07.578			230.453		
+297	9	2016	Austrian Grand Prix	12	94	Pascal Wehrlein	Germany	Manor Racing MRT		1:07.700		0.122	230.038		
+297	9	2016	Austrian Grand Prix	13	8	Romain Grosjean	France	Haas F1 Team		1:07.850		0.150	229.529		
+297	9	2016	Austrian Grand Prix	14	14	Fernando Alonso	Spain	McLaren Honda		1:08.154	0.232	0.304	228.506		
+297	9	2016	Austrian Grand Prix	15	55	Carlos Sainz	Spain	Scuderia Toro Rosso							
+297	9	2016	Austrian Grand Prix	16	11	Sergio Pérez	Mexico	Sahara Force India F1 Team							
+297	9	2016	Austrian Grand Prix	17	20	Kevin Magnussen	Denmark	Renault Sport F1 Team		1:07.941	0.019		229.222		
+297	9	2016	Austrian Grand Prix	18	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:08.418	0.496	0.477	227.624		
+297	9	2016	Austrian Grand Prix	19	30	Jolyon Palmer	Great Britain	Renault Sport F1 Team		1:07.965	0.043		229.141		
+297	9	2016	Austrian Grand Prix	20	88	Rio Haryanto	Indonesia	Manor Racing MRT		1:08.026	0.104	0.061	228.935		
+297	9	2016	Austrian Grand Prix	21	12	Felipe Nasr	Brazil	Sauber F1 Team		1:08.446	0.524	0.420	227.531		
+297	9	2016	Austrian Grand Prix	22	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:08.409	0.487		227.654		

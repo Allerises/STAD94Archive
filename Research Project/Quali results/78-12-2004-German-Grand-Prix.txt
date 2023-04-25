@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+78	12	2004	German Grand Prix	1	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:13.306					
+78	12	2004	German Grand Prix	2	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team	3	1:13.668	0.362	0.362			
+78	12	2004	German Grand Prix	3	9	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:13.674	0.368	0.006			
+78	12	2004	German Grand Prix	4	6	Kimi Räikkönen	Finland	West McLaren Mercedes	3	1:13.690	0.384	0.016			
+78	12	2004	German Grand Prix	5	5	David Coulthard	Great Britain	West McLaren Mercedes	3	1:13.821	0.515	0.131			
+78	12	2004	German Grand Prix	6	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:13.874	0.568	0.053			
+78	12	2004	German Grand Prix	7	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team	3	1:14.134	0.828	0.260			
+78	12	2004	German Grand Prix	8	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:14.278	0.972	0.144			
+78	12	2004	German Grand Prix	9	10	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:14.287	0.981	0.009			
+78	12	2004	German Grand Prix	10	17	Olivier Panis	France	Panasonic Toyota Racing	3	1:14.368	1.062	0.081			
+78	12	2004	German Grand Prix	11	4	Antonio Pizzonia	Brazil	BMW WilliamsF1 Team	3	1:14.556	1.250	0.188			
+78	12	2004	German Grand Prix	12	14	Mark Webber	Australia	Jaguar Racing	3	1:14.802	1.496	0.246			
+78	12	2004	German Grand Prix	13	15	Christian Klien	Austria	Jaguar Racing	3	1:15.011	1.705	0.209			
+78	12	2004	German Grand Prix	14	11	Giancarlo Fisichella	Italy	Sauber Petronas	3	1:15.395	2.089	0.384			
+78	12	2004	German Grand Prix	15	16	Cristiano da Matta	Brazil	Panasonic Toyota Racing	3	1:15.454	2.148	0.059			
+78	12	2004	German Grand Prix	16	12	Felipe Massa	Brazil	Sauber Petronas	3	1:15.616	2.310	0.162			
+78	12	2004	German Grand Prix	17	19	Giorgio Pantano	Italy	Jordan Ford	3	1:16.192	2.886	0.576			
+78	12	2004	German Grand Prix	18	18	Nick Heidfeld	Germany	Jordan Ford	3	1:16.310	3.004	0.118			
+78	12	2004	German Grand Prix	19	20	Gianmaria Bruni	Italy	Minardi Cosworth	3	1:18.055	4.749	1.745			
+78	12	2004	German Grand Prix	20	21	Zsolt Baumgartner	Hungary	Minardi Cosworth	3	1:18.400	5.094	0.345			

@@ -1,0 +1,22 @@
+Year	Pos	Driver	Points
+2015	1	Lewis Hamilton	381
+2015	2	Nico Rosberg	322
+2015	3	Sebastian Vettel	278
+2015	4	Kimi Räikkönen	150
+2015	5	Valtteri Bottas	136
+2015	6	Felipe Massa	121
+2015	7	Daniil Kvyat	95
+2015	8	Daniel Ricciardo	92
+2015	9	Sergio Pérez	78
+2015	10	Nico Hülkenberg	58
+2015	11	Romain Grosjean	51
+2015	12	Max Verstappen	49
+2015	13	Felipe Nasr	27
+2015	14	Pastor Maldonado	27
+2015	15	Carlos Sainz	18
+2015	16	Jenson Button	16
+2015	17	Fernando Alonso	11
+2015	18	Marcus Ericsson	9
+2015	19	Roberto Merhi	
+2015	20	Alexander Rossi	
+2015	21	Will Stevens	

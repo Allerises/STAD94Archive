@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+185	12	2010	Hungarian Grand Prix	1	6	Mark Webber	Australia	Red Bull	70	1:41:05.571			181.989	1:22.651	46
+185	12	2010	Hungarian Grand Prix	2	8	Fernando Alonso	Spain	Ferrari	70	1:41:23.392	+ 17.821	+ 17.821	181.456	1:23.195	67
+185	12	2010	Hungarian Grand Prix	3	5	Sebastian Vettel	Germany	Red Bull	70	1:41:24.823	+ 19.252	+ 1.431	181.413	1:22.362	70
+185	12	2010	Hungarian Grand Prix	4	7	Felipe Massa	Brazil	Ferrari	70	1:41:33.045	+ 27.474	+ 8.222	181.168	1:23.329	69
+185	12	2010	Hungarian Grand Prix	5	12	Vitaly Petrov	Russia	Renault	70	1:42:18.763	+ 1:13.192	+ 45.718	179.819	1:23.799	61
+185	12	2010	Hungarian Grand Prix	6	10	Nico Hülkenberg	Germany	Williams	70	1:42:22.294	+ 1:16.723	+ 3.531	179.715	1:24.204	66
+185	12	2010	Hungarian Grand Prix	7	22	Pedro de la Rosa	Spain	Sauber	69	1:41:06.407	1 Lap	1 Lap	179.364	1:24.342	65
+185	12	2010	Hungarian Grand Prix	8	1	Jenson Button	Great Britain	McLaren	69	1:41:07.854	1 Lap	+ 1.447	179.321	1:24.205	61
+185	12	2010	Hungarian Grand Prix	9	23	Kamui Kobayashi	Japan	Sauber	69	1:41:08.856	1 Lap	+ 1.002	179.291	1:24.282	68
+185	12	2010	Hungarian Grand Prix	10	9	Rubens Barrichello	Brazil	Williams	69	1:41:10.638	1 Lap	+ 1.782	179.239	1:22.811	68
+185	12	2010	Hungarian Grand Prix	11	3	Michael Schumacher	Germany	Mercedes	69	1:41:30.110	1 Lap	+ 19.472	178.666	1:25.372	64
+185	12	2010	Hungarian Grand Prix	12	16	Sébastien Buemi	Switzerland	Toro Rosso	69	1:41:36.709	1 Lap	+ 6.599	178.472	1:25.449	58
+185	12	2010	Hungarian Grand Prix	13	15	Vitantonio Liuzzi	Italy	Force India	69	1:41:37.358	1 Lap	+ 0.649	178.453	1:25.358	58
+185	12	2010	Hungarian Grand Prix	14	19	Heikki Kovalainen	Finland	Lotus	67	1:41:07.636	3 Laps	2 Laps	174.129	1:27.457	64
+185	12	2010	Hungarian Grand Prix	15	18	Jarno Trulli	Italy	Lotus	67	1:41:08.524	3 Laps	+ 0.888	174.103	1:27.429	58
+185	12	2010	Hungarian Grand Prix	16	24	Timo Glock	Germany	Virgin	67	1:41:35.185	3 Laps	+ 26.661	173.342	1:27.674	59
+185	12	2010	Hungarian Grand Prix	17	21	Bruno Senna	Brazil	HRT	67	1:42:04.467	3 Laps	+ 29.282	172.513	1:28.093	61
+185	12	2010	Hungarian Grand Prix	18	25	Lucas di Grassi	Brazil	Virgin	66	1:42:03.173	4 Laps	1 Lap	169.974	1:27.287	62
+185	12	2010	Hungarian Grand Prix	19	20	Sakon Yamamoto	Japan	HRT	66	1:42:33.460	4 Laps	+ 30.287	169.137	1:29.278	59
+185	12	2010	Hungarian Grand Prix	20	2	Lewis Hamilton	Great Britain	McLaren	23	35:01.949			172.507	1:26.258	22
+185	12	2010	Hungarian Grand Prix	21	11	Robert Kubica	Poland	Renault	23	37:17.202			162.078	1:26.825	21
+185	12	2010	Hungarian Grand Prix	22	4	Nico Rosberg	Germany	Mercedes	15	22:25.484			175.721	1:27.954	13
+185	12	2010	Hungarian Grand Prix	23	14	Adrian Sutil	Germany	Force India	15	22:34.450			174.557	1:28.177	12
+185	12	2010	Hungarian Grand Prix	24	17	Jaime Alguersuari	Spain	Toro Rosso	1	1:44.020			150.236		

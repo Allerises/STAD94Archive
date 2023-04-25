@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+66	16	2003	Japanese Grand Prix	1	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:31.713					
+66	16	2003	Japanese Grand Prix	2	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:32.412	0.699	0.699			
+66	16	2003	Japanese Grand Prix	3	21	Cristiano da Matta	Brazil	Panasonic Toyota Racing		1:32.419	0.706	0.007			
+66	16	2003	Japanese Grand Prix	4	20	Olivier Panis	France	Panasonic Toyota Racing		1:32.862	1.149	0.443			
+66	16	2003	Japanese Grand Prix	5	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team		1:33.044	1.331	0.182			
+66	16	2003	Japanese Grand Prix	6	14	Mark Webber	Australia	Jaguar Racing		1:33.106	1.393	0.062			
+66	16	2003	Japanese Grand Prix	7	5	David Coulthard	Great Britain	West McLaren Mercedes		1:33.137	1.424	0.031			
+66	16	2003	Japanese Grand Prix	8	6	Kimi Räikkönen	Finland	West McLaren Mercedes		1:33.272	1.559	0.135			
+66	16	2003	Japanese Grand Prix	9	17	Jenson Button	Great Britain	Lucky Strike BAR Honda		1:33.474	1.761	0.202			
+66	16	2003	Japanese Grand Prix	10	15	Justin Wilson	Great Britain	Jaguar Racing		1:33.558	1.845	0.084			
+66	16	2003	Japanese Grand Prix	11	9	Nick Heidfeld	Germany	Sauber Petronas		1:33.632	1.919	0.074			
+66	16	2003	Japanese Grand Prix	12	10	Heinz-Harald Frentzen	Germany	Sauber Petronas		1:33.896	2.183	0.264			
+66	16	2003	Japanese Grand Prix	13	16	Takuma Sato	Japan	Lucky Strike BAR Honda		1:33.924	2.211	0.028			
+66	16	2003	Japanese Grand Prix	14	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:34.302	2.589	0.378			
+66	16	2003	Japanese Grand Prix	15	12	Ralph Firman	Ireland	Jordan Ford		1:34.771	3.058	0.469			
+66	16	2003	Japanese Grand Prix	16	11	Giancarlo Fisichella	Italy	Jordan Ford		1:34.912	3.199	0.141			
+66	16	2003	Japanese Grand Prix	17	19	Jos Verstappen	Netherlands	European Minardi Cosworth		1:34.975	3.262	0.063			
+66	16	2003	Japanese Grand Prix	18	18	Nicolas Kiesa	Denmark	European Minardi Cosworth		1:37.226	5.513	2.251			
+66	16	2003	Japanese Grand Prix	19	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team							
+66	16	2003	Japanese Grand Prix	20	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team							

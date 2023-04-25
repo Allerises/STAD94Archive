@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+58	8	2003	Canadian Grand Prix	1	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:15.529					
+58	8	2003	Canadian Grand Prix	2	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:15.923	0.394	0.394			
+58	8	2003	Canadian Grand Prix	3	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:16.047	0.518	0.124			
+58	8	2003	Canadian Grand Prix	4	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team		1:16.048	0.519	0.001			
+58	8	2003	Canadian Grand Prix	5	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:16.143	0.614	0.095			
+58	8	2003	Canadian Grand Prix	6	14	Mark Webber	Australia	Jaguar Racing		1:16.182	0.653	0.039			
+58	8	2003	Canadian Grand Prix	7	20	Olivier Panis	France	Panasonic Toyota Racing		1:16.596	1.067	0.414			
+58	8	2003	Canadian Grand Prix	8	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:16.718	1.189	0.122			
+58	8	2003	Canadian Grand Prix	9	21	Cristiano da Matta	Brazil	Panasonic Toyota Racing		1:16.826	1.297	0.108			
+58	8	2003	Canadian Grand Prix	10	10	Heinz-Harald Frentzen	Germany	Sauber Petronas		1:16.939	1.410	0.113			
+58	8	2003	Canadian Grand Prix	11	5	David Coulthard	Great Britain	West McLaren Mercedes		1:17.024	1.495	0.085			
+58	8	2003	Canadian Grand Prix	12	9	Nick Heidfeld	Germany	Sauber Petronas		1:17.086	1.557	0.062			
+58	8	2003	Canadian Grand Prix	13	15	Antonio Pizzonia	Brazil	Jaguar Racing		1:17.337	1.808	0.251			
+58	8	2003	Canadian Grand Prix	14	16	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:17.347	1.818	0.010			
+58	8	2003	Canadian Grand Prix	15	19	Jos Verstappen	Netherlands	European Minardi Cosworth		1:18.014	2.485	0.667			
+58	8	2003	Canadian Grand Prix	16	11	Giancarlo Fisichella	Italy	Jordan Ford		1:18.036	2.507	0.022			
+58	8	2003	Canadian Grand Prix	17	17	Jenson Button	Great Britain	Lucky Strike BAR Honda		1:18.205	2.676	0.169			
+58	8	2003	Canadian Grand Prix	18	18	Justin Wilson	Great Britain	European Minardi Cosworth		1:18.560	3.031	0.355			
+58	8	2003	Canadian Grand Prix	19	12	Ralph Firman	Ireland	Jordan Ford		1:18.692	3.163	0.132			
+58	8	2003	Canadian Grand Prix	20	6	Kimi Räikkönen	Finland	West McLaren Mercedes		1:25.400	9.871	6.708			

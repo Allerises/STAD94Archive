@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+286	17	2015	Mexican Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:19.480			194.947		
+286	17	2015	Mexican Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:19.668	0.188	0.188	194.487		
+286	17	2015	Mexican Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:19.850	0.370	0.182	194.043		
+286	17	2015	Mexican Grand Prix	4	26	Daniil Kvyat	Russia	Infiniti Red Bull Racing		1:20.398	0.918	0.548	192.721		
+286	17	2015	Mexican Grand Prix	5	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing		1:20.399	0.919	0.001	192.718		
+286	17	2015	Mexican Grand Prix	6	77	Valtteri Bottas	Finland	Williams Martini Racing		1:20.448	0.968	0.049	192.601		
+286	17	2015	Mexican Grand Prix	7	19	Felipe Massa	Brazil	Williams Martini Racing		1:20.567	1.087	0.119	192.316		
+286	17	2015	Mexican Grand Prix	8	33	Max Verstappen	Netherlands	Scuderia Toro Rosso		1:20.710	1.230	0.143	191.976		
+286	17	2015	Mexican Grand Prix	9	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:20.716	1.236	0.006	191.961		
+286	17	2015	Mexican Grand Prix	10	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:20.788	1.308	0.072	191.790		
+286	17	2015	Mexican Grand Prix	11	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:20.942	1.462	0.154	191.425		
+286	17	2015	Mexican Grand Prix	12	8	Romain Grosjean	France	Lotus F1 Team		1:21.038	1.558	0.096	191.199		
+286	17	2015	Mexican Grand Prix	13	13	Pastor Maldonado	Venezuela	Lotus F1 Team		1:21.261	1.781	0.223	190.674		
+286	17	2015	Mexican Grand Prix	14	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:21.544	2.064	0.283	190.012		
+286	17	2015	Mexican Grand Prix	15	12	Felipe Nasr	Brazil	Sauber F1 Team		1:21.788	2.308	0.244	189.445		
+286	17	2015	Mexican Grand Prix	16	53	Alexander Rossi	USA	Manor Marussia F1 Team		1:24.136	4.656	2.348	184.158		
+286	17	2015	Mexican Grand Prix	17	28	Will Stevens	Great Britain	Manor Marussia F1 Team		1:24.386	4.906	0.250	183.613		
+286	17	2015	Mexican Grand Prix	18	14	Fernando Alonso	Spain	McLaren Honda		1:21.779	2.299		189.466		
+286	17	2015	Mexican Grand Prix	19	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:22.494	3.014	0.715	187.824		
+286	17	2015	Mexican Grand Prix	20	22	Jenson Button	Great Britain	McLaren Honda							

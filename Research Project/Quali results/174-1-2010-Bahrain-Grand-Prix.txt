@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+174	1	2010	Bahrain Grand Prix	1	5	Sebastian Vettel	Germany	Red Bull Racing	14	1:54.101					
+174	1	2010	Bahrain Grand Prix	2	7	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	16	1:54.242	0.141	0.141			
+174	1	2010	Bahrain Grand Prix	3	8	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	20	1:54.608	0.507	0.366			
+174	1	2010	Bahrain Grand Prix	4	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	19	1:55.217	1.116	0.609			
+174	1	2010	Bahrain Grand Prix	5	4	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	13	1:55.241	1.140	0.024			
+174	1	2010	Bahrain Grand Prix	6	6	Mark Webber	Australia	Red Bull Racing	13	1:55.284	1.183	0.043			
+174	1	2010	Bahrain Grand Prix	7	3	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	15	1:55.524	1.423	0.240			
+174	1	2010	Bahrain Grand Prix	8	1	Jenson Button	Great Britain	Vodafone McLaren Mercedes	17	1:55.672	1.571	0.148			
+174	1	2010	Bahrain Grand Prix	9	11	Robert Kubica	Poland	Renault F1 Team	17	1:55.885	1.784	0.213			
+174	1	2010	Bahrain Grand Prix	10	14	Adrian Sutil	Germany	Force India F1 Team	16	1:56.309	2.208	0.424			
+174	1	2010	Bahrain Grand Prix	11	9	Rubens Barrichello	Brazil	AT&T Williams	12	1:55.330	1.229	0.046			
+174	1	2010	Bahrain Grand Prix	12	15	Vitantonio Liuzzi	Italy	Force India F1 Team	13	1:55.653	1.552	0.323			
+174	1	2010	Bahrain Grand Prix	13	10	Nico Hülkenberg	Germany	AT&T Williams	14	1:55.857	1.756	0.204			
+174	1	2010	Bahrain Grand Prix	14	22	Pedro de la Rosa	Spain	BMW Sauber F1 Team	13	1:56.237	2.136	0.380			
+174	1	2010	Bahrain Grand Prix	15	16	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	14	1:56.265	2.164	0.028			
+174	1	2010	Bahrain Grand Prix	16	23	Kamui Kobayashi	Japan	BMW Sauber F1 Team	13	1:56.270	2.169	0.005			
+174	1	2010	Bahrain Grand Prix	17	12	Vitaly Petrov	Russia	Renault F1 Team	14	1:56.619	2.518	0.349			
+174	1	2010	Bahrain Grand Prix	18	17	Jaime Alguersuari	Spain	Scuderia Toro Rosso	6	1:57.071	2.970	0.452			
+174	1	2010	Bahrain Grand Prix	19	24	Timo Glock	Germany	Virgin Racing	7	1:59.728	5.627	2.657			
+174	1	2010	Bahrain Grand Prix	20	18	Jarno Trulli	Italy	Lotus Racing	6	1:59.852	5.751	0.124			
+174	1	2010	Bahrain Grand Prix	21	19	Heikki Kovalainen	Finland	Lotus Racing	7	2:00.313	6.212	0.461			
+174	1	2010	Bahrain Grand Prix	22	25	Lucas di Grassi	Brazil	Virgin Racing	7	2:00.587	6.486	0.274			
+174	1	2010	Bahrain Grand Prix	23	21	Bruno Senna	Brazil	HRT F1 Team	6	2:03.240	9.139	2.653			
+174	1	2010	Bahrain Grand Prix	24	20	Karun Chandhok	India	HRT F1 Team	7	2:04.904	10.803	1.664			

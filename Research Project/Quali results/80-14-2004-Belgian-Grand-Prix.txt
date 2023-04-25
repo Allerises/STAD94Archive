@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+80	14	2004	Belgian Grand Prix	1	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team	3	1:56.232					
+80	14	2004	Belgian Grand Prix	2	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:56.304	0.072	0.072			
+80	14	2004	Belgian Grand Prix	3	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:56.686	0.454	0.382			
+80	14	2004	Belgian Grand Prix	4	5	David Coulthard	Great Britain	West McLaren Mercedes	3	1:57.990	1.758	1.304			
+80	14	2004	Belgian Grand Prix	5	11	Giancarlo Fisichella	Italy	Sauber Petronas	3	1:58.040	1.808	0.050			
+80	14	2004	Belgian Grand Prix	6	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:58.175	1.943	0.135			
+80	14	2004	Belgian Grand Prix	7	14	Mark Webber	Australia	Jaguar Racing	3	1:58.729	2.497	0.554			
+80	14	2004	Belgian Grand Prix	8	12	Felipe Massa	Brazil	Sauber Petronas	3	1:59.008	2.776	0.279			
+80	14	2004	Belgian Grand Prix	9	17	Olivier Panis	France	Panasonic Toyota Racing	3	1:59.553	3.321	0.545			
+80	14	2004	Belgian Grand Prix	10	6	Kimi Räikkönen	Finland	West McLaren Mercedes	3	1:59.635	3.403	0.082			
+80	14	2004	Belgian Grand Prix	11	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team	3	1:59.681	3.449	0.046			
+80	14	2004	Belgian Grand Prix	12	9	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	2:00.237	4.005	0.556			
+80	14	2004	Belgian Grand Prix	13	15	Christian Klien	Austria	Jaguar Racing	3	2:01.246	5.014	1.009			
+80	14	2004	Belgian Grand Prix	14	4	Antonio Pizzonia	Brazil	BMW WilliamsF1 Team	3	2:01.447	5.215	0.201			
+80	14	2004	Belgian Grand Prix	15	10	Takuma Sato	Japan	Lucky Strike BAR Honda	3	2:01.813	5.581	0.366			
+80	14	2004	Belgian Grand Prix	16	18	Nick Heidfeld	Germany	Jordan Ford	3	2:02.645	6.413	0.832			
+80	14	2004	Belgian Grand Prix	17	20	Gianmaria Bruni	Italy	Minardi Cosworth	3	2:02.651	6.419	0.006			
+80	14	2004	Belgian Grand Prix	18	21	Zsolt Baumgartner	Hungary	Minardi Cosworth	3	2:03.303	7.071	0.652			
+80	14	2004	Belgian Grand Prix	19	19	Giorgio Pantano	Italy	Jordan Ford	3	2:03.833	7.601	0.530			
+80	14	2004	Belgian Grand Prix	20	16	Ricardo Zonta	Brazil	Panasonic Toyota Racing	3	2:03.895	7.663	0.062			

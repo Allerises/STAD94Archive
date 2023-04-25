@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+4	5	2000	Spanish Grand Prix	1	1	Mika Hakkinen	Finland	McLaren	65	1:33:55.390			196.324	1:24.470	28
+4	5	2000	Spanish Grand Prix	2	2	David Coulthard	Great Britain	McLaren	65	1:34:11.456	+ 16.066	+ 16.066	195.765	1:24.684	26
+4	5	2000	Spanish Grand Prix	3	4	Rubens Barrichello	Brazil	Ferrari	65	1:34:24.502	+ 29.112	+ 13.046	195.315	1:25.288	24
+4	5	2000	Spanish Grand Prix	4	9	Ralf Schumacher	Germany	Williams	65	1:34:32.701	+ 37.311	+ 8.199	195.032	1:25.326	25
+4	5	2000	Spanish Grand Prix	5	3	Michael Schumacher	Germany	Ferrari	65	1:34:43.373	+ 47.983	+ 10.672	194.666	1:24.517	2
+4	5	2000	Spanish Grand Prix	6	5	Heinz-Harald Frentzen	Germany	Jordan	65	1:35:17.315	+ 1:21.925	+ 33.942	193.510	1:25.183	28
+4	5	2000	Spanish Grand Prix	7	17	Mika Salo	Finland	Sauber	64	1:33:56.126	1 Lap	1 Lap	193.277	1:25.896	29
+4	5	2000	Spanish Grand Prix	8	23	Ricardo Zonta	Brazil	BAR	64	1:33:56.794	1 Lap	+ 0.668	193.254	1:26.241	26
+4	5	2000	Spanish Grand Prix	9	11	Giancarlo Fisichella	Italy	Benneton	64	1:34:07.458	1 Lap	+ 10.664	192.889	1:26.352	34
+4	5	2000	Spanish Grand Prix	10	12	Alexander Wurz	Austria	Benneton	64	1:34:27.444	1 Lap	+ 19.986	192.209	1:26.147	19
+4	5	2000	Spanish Grand Prix	11	7	Eddie Irvine	Great Britain	Jaguar	64	1:34:28.486	1 Lap	+ 1.042	192.173	1:26.239	64
+4	5	2000	Spanish Grand Prix	12	6	Jarno Trulli	Italy	Jordan	64	1:34:39.113	1 Lap	+ 10.627	191.814	1:25.806	24
+4	5	2000	Spanish Grand Prix	13	8	Johnny Herbert	Great Britain	Jaguar	64	1:34:59.102	1 Lap	+ 19.989	191.141	1:26.685	40
+4	5	2000	Spanish Grand Prix	14	20	Marc Gene	Spain	Minardi	63	1:34:04.121	2 Laps	1 Lap	189.986	1:25.915	20
+4	5	2000	Spanish Grand Prix	15	21	Gaston Mazzacane	Argentina	Minardi	63	1:34:34.841	2 Laps	+ 30.720	188.958	1:27.538	24
+4	5	2000	Spanish Grand Prix	16	15	Nick Heidfeld	Germany	Prost	62	1:34:15.134	3 Laps	1 Lap	186.605	1:26.663	19
+4	5	2000	Spanish Grand Prix	17	10	Jenson Button	Great Britain	Williams	61	1:29:14.586	4 Laps	1 Lap	193.899	1:24.729	20
+4	5	2000	Spanish Grand Prix	18	19	Jos Verstappen	Netherlands	Arrows	25	36:42.930			193.035	1:27.152	18
+4	5	2000	Spanish Grand Prix	19	22	Jacques Villeneuve	Canada	BAR	21	30:40.228			194.068	1:26.701	8
+4	5	2000	Spanish Grand Prix	20	14	Jean Alesi	France	Prost	1	1:38.729			167.841		
+4	5	2000	Spanish Grand Prix	21	18	Pedro de la Rosa	Spain	Arrows	1	1:39.009			167.366		
+4	5	2000	Spanish Grand Prix	22	16	Pedro Diniz	Brazil	Sauber							

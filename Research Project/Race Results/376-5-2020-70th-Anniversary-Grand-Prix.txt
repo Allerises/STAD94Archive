@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+376	5	2020	70th Anniversary Grand Prix	1	33	Max Verstappen	Netherlands	Red Bull	52	1:19:41.993			230.513	1:29.465	46
+376	5	2020	70th Anniversary Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes	52	1:19:53.319	+ 11.326	+ 11.326	229.968	1:28.451	43
+376	5	2020	70th Anniversary Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes	52	1:20:01.224	+ 19.231	+ 7.905	229.589	1:29.765	44
+376	5	2020	70th Anniversary Grand Prix	4	16	Charles Leclerc	Monaco	Ferrari	52	1:20:11.282	+ 29.289	+ 10.058	229.109	1:30.552	39
+376	5	2020	70th Anniversary Grand Prix	5	23	Alexander Albon	Thailand	Red Bull	52	1:20:21.139	+ 39.146	+ 9.857	228.641	1:29.477	46
+376	5	2020	70th Anniversary Grand Prix	6	18	Lance Stroll	Canada	Aston Martin	52	1:20:24.531	+ 42.538	+ 3.392	228.480	1:30.877	45
+376	5	2020	70th Anniversary Grand Prix	7	27	Nico Hülkenberg	Germany	Aston Martin	52	1:20:37.944	+ 55.951	+ 13.413	227.847	1:30.087	52
+376	5	2020	70th Anniversary Grand Prix	8	31	Esteban Ocon	France	Renault	52	1:20:46.766	+ 1:04.773	+ 8.822	227.432	1:30.575	50
+376	5	2020	70th Anniversary Grand Prix	9	4	Lando Norris	Great Britain	McLaren	52	1:20:47.537	+ 1:05.544	+ 0.771	227.396	1:30.698	49
+376	5	2020	70th Anniversary Grand Prix	10	26	Daniil Kvyat	Russia	Toro Rosso	52	1:20:51.662	+ 1:09.669	+ 4.125	227.203	1:30.738	52
+376	5	2020	70th Anniversary Grand Prix	11	10	Pierre Gasly	France	Toro Rosso	52	1:20:52.635	+ 1:10.642	+ 0.973	227.157	1:30.092	52
+376	5	2020	70th Anniversary Grand Prix	12	5	Sebastian Vettel	Germany	Ferrari	52	1:20:55.363	+ 1:13.370	+ 2.728	227.029	1:30.785	49
+376	5	2020	70th Anniversary Grand Prix	13	55	Carlos Sainz	Spain	McLaren	52	1:20:56.063	+ 1:14.070	+ 0.700	226.997	1:30.556	49
+376	5	2020	70th Anniversary Grand Prix	14	3	Daniel Ricciardo	Australia	Renault	51	1:19:48.644	1 Lap	1 Lap	225.764	1:31.168	39
+376	5	2020	70th Anniversary Grand Prix	15	7	Kimi Räikkönen	Finland	Sauber	51	1:20:05.037	1 Lap	+ 16.393	224.994	1:31.756	30
+376	5	2020	70th Anniversary Grand Prix	16	8	Romain Grosjean	France	Haas	51	1:20:07.207	1 Lap	+ 2.170	224.892	1:30.793	51
+376	5	2020	70th Anniversary Grand Prix	17	99	Antonio Giovinazzi	Italy	Sauber	51	1:20:13.007	1 Lap	+ 5.800	224.621	1:31.826	37
+376	5	2020	70th Anniversary Grand Prix	18	63	George Russell	Great Britain	Williams	51	1:20:13.889	1 Lap	+ 0.882	224.580	1:31.408	50
+376	5	2020	70th Anniversary Grand Prix	19	6	Nicholas Latifi	Canada	Williams	51	1:20:14.496	1 Lap	+ 0.607	224.552	1:29.950	48
+376	5	2020	70th Anniversary Grand Prix	20	20	Kevin Magnussen	Denmark	Haas	43	1:08:20.363			222.283	1:31.830	39

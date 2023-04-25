@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+292	4	2016	Russian Grand Prix	1	6	Nico Rosberg	Germany	Mercedes	53	1:32:41.997			200.482	1:39.094	52
+292	4	2016	Russian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes	53	1:33:07.019	+ 25.022	+ 25.022	199.584	1:40.266	36
+292	4	2016	Russian Grand Prix	3	7	Kimi Räikkönen	Finland	Ferrari	53	1:33:13.995	+ 31.998	+ 6.976	199.335	1:40.101	47
+292	4	2016	Russian Grand Prix	4	77	Valtteri Bottas	Finland	Williams	53	1:33:32.214	+ 50.217	+ 18.219	198.688	1:41.159	37
+292	4	2016	Russian Grand Prix	5	19	Felipe Massa	Brazil	Williams	53	1:33:56.424	+ 1:14.427	+ 24.210	197.834	1:39.743	52
+292	4	2016	Russian Grand Prix	6	14	Fernando Alonso	Spain	McLaren	52	1:32:45.103	1 Lap	1 Lap	196.587	1:40.347	52
+292	4	2016	Russian Grand Prix	7	20	Kevin Magnussen	Denmark	Renault	52	1:32:53.741	1 Lap	+ 8.638	196.282	1:41.832	50
+292	4	2016	Russian Grand Prix	8	8	Romain Grosjean	France	Haas	52	1:32:55.693	1 Lap	+ 1.952	196.213	1:42.026	51
+292	4	2016	Russian Grand Prix	9	11	Sergio Pérez	Mexico	Force India	52	1:32:57.217	1 Lap	+ 1.524	196.160	1:41.897	47
+292	4	2016	Russian Grand Prix	10	22	Jenson Button	Great Britain	McLaren	52	1:33:01.179	1 Lap	+ 3.962	196.021	1:41.720	50
+292	4	2016	Russian Grand Prix	11	3	Daniel Ricciardo	Australia	Red Bull	52	1:33:08.842	1 Lap	+ 7.663	195.752	1:41.179	46
+292	4	2016	Russian Grand Prix	12	55	Carlos Sainz	Spain	Toro Rosso	52	1:33:18.066	1 Lap	+ 9.224	195.429	1:42.205	41
+292	4	2016	Russian Grand Prix	13	30	Jolyon Palmer	Great Britain	Renault	52	1:33:18.112	1 Lap	+ 0.046	195.428	1:42.660	37
+292	4	2016	Russian Grand Prix	14	9	Marcus Ericsson	Sweden	Sauber	52	1:33:20.077	1 Lap	+ 1.965	195.359	1:42.050	45
+292	4	2016	Russian Grand Prix	15	26	Daniil Kvyat	Russia	Red Bull	52	1:33:35.730	1 Lap	+ 15.653	194.815	1:42.344	44
+292	4	2016	Russian Grand Prix	16	12	Felipe Nasr	Brazil	Sauber	52	1:33:42.320	1 Lap	+ 6.590	194.586	1:42.253	50
+292	4	2016	Russian Grand Prix	17	21	Esteban Gutiérrez	Mexico	Haas	52	1:33:49.450	1 Lap	+ 7.130	194.340	1:42.378	52
+292	4	2016	Russian Grand Prix	18	94	Pascal Wehrlein	Germany	Manor	51	1:33:19.352	2 Laps	1 Lap	191.625	1:41.907	43
+292	4	2016	Russian Grand Prix	19	33	Max Verstappen	Netherlands	Toro Rosso	33	59:59.884			192.791	1:42.029	32
+292	4	2016	Russian Grand Prix	20	5	Sebastian Vettel	Germany	Ferrari							
+292	4	2016	Russian Grand Prix	21	27	Nico Hülkenberg	Germany	Force India							
+292	4	2016	Russian Grand Prix	22	88	Rio Haryanto	Indonesia	Manor							

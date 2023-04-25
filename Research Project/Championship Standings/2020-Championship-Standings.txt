@@ -1,0 +1,24 @@
+Year	Pos	Driver	Points
+2020	1	Lewis Hamilton	332
+2020	2	Valtteri Bottas	205
+2020	3	Max Verstappen	189
+2020	4	Sergio Pérez	125
+2020	5	Daniel Ricciardo	112
+2020	6	Charles Leclerc	98
+2020	7	Carlos Sainz	97
+2020	8	Alexander Albon	93
+2020	9	Lando Norris	87
+2020	10	Lance Stroll	74
+2020	11	Pierre Gasly	71
+2020	12	Esteban Ocon	60
+2020	13	Sebastian Vettel	33
+2020	14	Daniil Kvyat	32
+2020	15	Nico Hülkenberg	10
+2020	16	Kimi Räikkönen	4
+2020	17	Antonio Giovinazzi	4
+2020	18	George Russell	3
+2020	19	Romain Grosjean	2
+2020	20	Kevin Magnussen	1
+2020	21	Nicholas Latifi	
+2020	22	Jack Aitken	
+2020	23	Pietro Fittipaldi	

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+61	11	2003	British Grand Prix	1	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:21.209					
+61	11	2003	British Grand Prix	2	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:21.381	0.172	0.172			
+61	11	2003	British Grand Prix	3	6	Kimi Räikkönen	Finland	West McLaren Mercedes		1:21.695	0.486	0.314			
+61	11	2003	British Grand Prix	4	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:21.727	0.518	0.032			
+61	11	2003	British Grand Prix	5	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:21.867	0.658	0.140			
+61	11	2003	British Grand Prix	6	21	Cristiano da Matta	Brazil	Panasonic Toyota Racing		1:22.081	0.872	0.214			
+61	11	2003	British Grand Prix	7	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:22.214	1.005	0.133			
+61	11	2003	British Grand Prix	8	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team		1:22.404	1.195	0.190			
+61	11	2003	British Grand Prix	9	16	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:22.591	1.382	0.187			
+61	11	2003	British Grand Prix	10	15	Antonio Pizzonia	Brazil	Jaguar Racing		1:22.634	1.425	0.043			
+61	11	2003	British Grand Prix	11	14	Mark Webber	Australia	Jaguar Racing		1:22.647	1.438	0.013			
+61	11	2003	British Grand Prix	12	5	David Coulthard	Great Britain	West McLaren Mercedes		1:22.811	1.602	0.164			
+61	11	2003	British Grand Prix	13	20	Olivier Panis	France	Panasonic Toyota Racing		1:23.042	1.833	0.231			
+61	11	2003	British Grand Prix	14	10	Heinz-Harald Frentzen	Germany	Sauber Petronas		1:23.187	1.978	0.145			
+61	11	2003	British Grand Prix	15	11	Giancarlo Fisichella	Italy	Jordan Ford		1:23.574	2.365	0.387			
+61	11	2003	British Grand Prix	16	9	Nick Heidfeld	Germany	Sauber Petronas		1:23.844	2.635	0.270			
+61	11	2003	British Grand Prix	17	12	Ralph Firman	Ireland	Jordan Ford		1:24.385	3.176	0.541			
+61	11	2003	British Grand Prix	18	18	Justin Wilson	Great Britain	European Minardi Cosworth		1:25.468	4.259	1.083			
+61	11	2003	British Grand Prix	19	19	Jos Verstappen	Netherlands	European Minardi Cosworth		1:25.759	4.550	0.291			
+61	11	2003	British Grand Prix	20	17	Jenson Button	Great Britain	Lucky Strike BAR Honda							

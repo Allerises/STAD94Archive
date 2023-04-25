@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+31	15	2001	Italian Grand Prix	1	6	Juan Pablo Montoya	Colombia	Williams	53	1:16:58.493			239.103	1:25.657	52
+31	15	2001	Italian Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	53	1:17:03.668	+ 5.175	+ 5.175	238.835	1:25.221	39
+31	15	2001	Italian Grand Prix	3	5	Ralf Schumacher	Germany	Williams	53	1:17:15.828	+ 17.335	+ 12.160	238.209	1:25.073	39
+31	15	2001	Italian Grand Prix	4	1	Michael Schumacher	Germany	Ferrari	53	1:17:23.484	+ 24.991	+ 7.656	237.816	1:25.525	52
+31	15	2001	Italian Grand Prix	5	19	Pedro de la Rosa	Spain	Jaguar	53	1:18:13.477	+ 1:14.984	+ 49.993	235.283	1:26.381	34
+31	15	2001	Italian Grand Prix	6	10	Jacques Villeneuve	Canada	BAR	53	1:18:20.962	+ 1:22.469	+ 7.485	234.908	1:26.657	31
+31	15	2001	Italian Grand Prix	7	17	Kimi Räikkönen	Finland	Sauber	53	1:18:21.600	+ 1:23.107	+ 0.638	234.876	1:26.656	51
+31	15	2001	Italian Grand Prix	8	12	Jean Alesi	France	Jordan	52	1:17:12.687	1 Lap	1 Lap	233.868	1:26.365	28
+31	15	2001	Italian Grand Prix	9	9	Olivier Panis	France	BAR	52	1:17:16.406	1 Lap	+ 3.719	233.681	1:26.386	31
+31	15	2001	Italian Grand Prix	10	7	Giancarlo Fisichella	Italy	Benneton	52	1:17:25.368	1 Lap	+ 8.962	233.230	1:27.283	29
+31	15	2001	Italian Grand Prix	11	16	Nick Heidfeld	Germany	Sauber	52	1:17:35.116	1 Lap	+ 9.748	232.742	1:26.825	52
+31	15	2001	Italian Grand Prix	12	23	Tomas Enge	Czech Republic	Prost	52	1:17:54.384	1 Lap	+ 19.268	231.782	1:27.643	52
+31	15	2001	Italian Grand Prix	13	21	Fernando Alonso	Spain	Minardi	51	1:17:57.142	2 Laps	1 Lap	227.187	1:27.709	50
+31	15	2001	Italian Grand Prix	14	15	Enrique Bernoldi	Brazil	Arrows	46	1:09:09.309			230.957	1:28.578	24
+31	15	2001	Italian Grand Prix	15	20	Alex Yoong	Malaysia	Minardi	44	1:08:28.792			223.083	1:30.605	21
+31	15	2001	Italian Grand Prix	16	22	Heinz-Harald Frentzen	Germany	Prost	28	41:50.297			232.214	1:27.394	28
+31	15	2001	Italian Grand Prix	17	14	Jos Verstappen	Netherlands	Arrows	25	37:29.650			231.307	1:27.945	22
+31	15	2001	Italian Grand Prix	18	3	Mika Hakkinen	Finland	McLaren	19	28:20.594			232.408	1:27.627	15
+31	15	2001	Italian Grand Prix	19	18	Eddie Irvine	Great Britain	Jaguar	14	21:32.409			225.129	1:29.262	2
+31	15	2001	Italian Grand Prix	20	4	David Coulthard	Great Britain	McLaren	6	8:54.945			232.025	1:27.323	4
+31	15	2001	Italian Grand Prix	21	8	Jenson Button	Great Britain	Benneton	4	6:45.589			203.188	1:28.268	4
+31	15	2001	Italian Grand Prix	22	11	Jarno Trulli	Italy	Jordan							

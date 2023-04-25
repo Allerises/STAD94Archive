@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+175	2	2010	Australian Grand Prix	1	5	Sebastian Vettel	Germany	Red Bull Racing	19	1:23.919					
+175	2	2010	Australian Grand Prix	2	6	Mark Webber	Australia	Red Bull Racing	20	1:24.035	0.116	0.116			
+175	2	2010	Australian Grand Prix	3	8	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	22	1:24.111	0.192	0.076			
+175	2	2010	Australian Grand Prix	4	1	Jenson Button	Great Britain	Vodafone McLaren Mercedes	19	1:24.675	0.756	0.564			
+175	2	2010	Australian Grand Prix	5	7	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	24	1:24.837	0.918	0.162			
+175	2	2010	Australian Grand Prix	6	4	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	26	1:24.884	0.965	0.047			
+175	2	2010	Australian Grand Prix	7	3	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	24	1:24.927	1.008	0.043			
+175	2	2010	Australian Grand Prix	8	9	Rubens Barrichello	Brazil	AT&T Williams	20	1:25.217	1.298	0.290			
+175	2	2010	Australian Grand Prix	9	11	Robert Kubica	Poland	Renault F1 Team	23	1:25.372	1.453	0.155			
+175	2	2010	Australian Grand Prix	10	14	Adrian Sutil	Germany	Force India F1 Team	24	1:26.036	2.117	0.664			
+175	2	2010	Australian Grand Prix	11	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	13	1:25.184	1.265	0.257			
+175	2	2010	Australian Grand Prix	12	16	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	17	1:25.638	1.719	0.454			
+175	2	2010	Australian Grand Prix	13	15	Vitantonio Liuzzi	Italy	Force India F1 Team	19	1:25.743	1.824	0.105			
+175	2	2010	Australian Grand Prix	14	22	Pedro de la Rosa	Spain	BMW Sauber F1 Team	15	1:25.747	1.828	0.004			
+175	2	2010	Australian Grand Prix	15	10	Nico Hülkenberg	Germany	AT&T Williams	17	1:25.748	1.829	0.001			
+175	2	2010	Australian Grand Prix	16	23	Kamui Kobayashi	Japan	BMW Sauber F1 Team	16	1:25.777	1.858	0.029			
+175	2	2010	Australian Grand Prix	17	17	Jaime Alguersuari	Spain	Scuderia Toro Rosso	16	1:26.089	2.170	0.312			
+175	2	2010	Australian Grand Prix	18	12	Vitaly Petrov	Russia	Renault F1 Team	10	1:26.471	2.552	0.382			
+175	2	2010	Australian Grand Prix	19	19	Heikki Kovalainen	Finland	Lotus Racing	9	1:28.797	4.878	2.326			
+175	2	2010	Australian Grand Prix	20	18	Jarno Trulli	Italy	Lotus Racing	8	1:29.111	5.192	0.314			
+175	2	2010	Australian Grand Prix	21	24	Timo Glock	Germany	Virgin Racing	8	1:29.592	5.673	0.481			
+175	2	2010	Australian Grand Prix	22	25	Lucas di Grassi	Brazil	Virgin Racing	8	1:30.185	6.266	0.593			
+175	2	2010	Australian Grand Prix	23	21	Bruno Senna	Brazil	HRT F1 Team	10	1:30.526	6.607	0.341			
+175	2	2010	Australian Grand Prix	24	20	Karun Chandhok	India	HRT F1 Team	10	1:30.613	6.694	0.087			

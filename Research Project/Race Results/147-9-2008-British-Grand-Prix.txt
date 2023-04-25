@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+147	9	2008	British Grand Prix	1	22	Lewis Hamilton	Great Britain	McLaren	60	1:39:09.440			186.585	1:32.817	16
+147	9	2008	British Grand Prix	2	3	Nick Heidfeld	Germany	Sauber	60	1:40:18.017	+ 1:08.577	+ 1:08.577	184.459	1:32.719	21
+147	9	2008	British Grand Prix	3	17	Rubens Barrichello	Brazil	Honda	60	1:40:31.713	+ 1:22.273	+ 13.696	184.040	1:33.386	21
+147	9	2008	British Grand Prix	4	1	Kimi Räikkönen	Finland	Ferrari	59	1:39:15.496	1 Lap	1 Lap	183.287	1:32.150	18
+147	9	2008	British Grand Prix	5	23	Heikki Kovalainen	Finland	McLaren	59	1:39:22.910	1 Lap	+ 7.414	183.060	1:33.130	17
+147	9	2008	British Grand Prix	6	5	Fernando Alonso	Spain	Renault	59	1:39:25.831	1 Lap	+ 2.921	182.970	1:33.133	17
+147	9	2008	British Grand Prix	7	11	Jarno Trulli	Italy	Toyota	59	1:39:26.912	1 Lap	+ 1.081	182.937	1:33.808	22
+147	9	2008	British Grand Prix	8	8	Kazuki Nakajima	Japan	Williams	59	1:39:28.098	1 Lap	+ 1.186	182.900	1:34.277	21
+147	9	2008	British Grand Prix	9	7	Nico Rosberg	Germany	Williams	59	1:39:28.990	1 Lap	+ 0.892	182.873	1:34.797	21
+147	9	2008	British Grand Prix	10	10	Mark Webber	Australia	Red Bull	59	1:39:42.269	1 Lap	+ 13.279	182.467	1:32.952	17
+147	9	2008	British Grand Prix	11	14	Sebastien Bourdais	France	Toro Rosso	59	1:39:53.350	1 Lap	+ 11.081	182.130	1:33.367	21
+147	9	2008	British Grand Prix	12	12	Timo Glock	Germany	Toyota	59	1:40:19.115	1 Lap	+ 25.765	181.350	1:34.610	19
+147	9	2008	British Grand Prix	13	2	Felipe Massa	Brazil	Ferrari	58	1:39:45.994	2 Laps	1 Lap	179.262	1:33.257	19
+147	9	2008	British Grand Prix	14	4	Robert Kubica	Poland	Sauber	39	1:05:06.696			184.662	1:33.539	22
+147	9	2008	British Grand Prix	15	16	Jenson Button	Great Britain	Honda	38	1:03:32.678			184.361	1:33.376	21
+147	9	2008	British Grand Prix	16	6	Nelson Piquet Jr.	Brazil	Renault	35	57:10.832			188.697	1:33.203	21
+147	9	2008	British Grand Prix	17	21	Giancarlo Fisichella	Italy	Force India	26	43:12.620			185.457	1:34.930	21
+147	9	2008	British Grand Prix	18	20	Adrian Sutil	Germany	Force India	10	16:59.400			181.183	1:38.160	5
+147	9	2008	British Grand Prix	19	15	Sebastian Vettel	Germany	Toro Rosso							
+147	9	2008	British Grand Prix	20	9	David Coulthard	Great Britain	Red Bull							

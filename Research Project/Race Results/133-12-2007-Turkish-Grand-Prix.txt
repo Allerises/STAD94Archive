@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+133	12	2007	Turkish Grand Prix	1	5	Felipe Massa	Brazil	Ferrari	58	1:26:42.161			214.108	1:27.922	18
+133	12	2007	Turkish Grand Prix	2	6	Kimi Räikkönen	Finland	Ferrari	58	1:26:44.436	+ 2.275	+ 2.275	214.014	1:27.295	57
+133	12	2007	Turkish Grand Prix	3	1	Fernando Alonso	Spain	McLaren	58	1:27:08.342	+ 26.181	+ 23.906	213.036	1:28.070	39
+133	12	2007	Turkish Grand Prix	4	9	Nick Heidfeld	Germany	Sauber	58	1:27:21.835	+ 39.674	+ 13.493	212.487	1:28.319	39
+133	12	2007	Turkish Grand Prix	5	2	Lewis Hamilton	Great Britain	McLaren	58	1:27:27.246	+ 45.085	+ 5.411	212.268	1:27.963	17
+133	12	2007	Turkish Grand Prix	6	4	Heikki Kovalainen	Finland	Renault	58	1:27:28.330	+ 46.169	+ 1.084	212.224	1:28.603	20
+133	12	2007	Turkish Grand Prix	7	16	Nico Rosberg	Germany	Williams	58	1:27:37.939	+ 55.778	+ 9.609	211.836	1:28.536	37
+133	12	2007	Turkish Grand Prix	8	10	Robert Kubica	Poland	Sauber	58	1:27:38.868	+ 56.707	+ 0.929	211.799	1:28.918	11
+133	12	2007	Turkish Grand Prix	9	3	Giancarlo Fisichella	Italy	Renault	58	1:27:41.652	+ 59.491	+ 2.784	211.687	1:28.793	56
+133	12	2007	Turkish Grand Prix	10	14	David Coulthard	Great Britain	Red Bull	58	1:27:53.170	+ 1:11.009	+ 11.518	211.225	1:29.068	54
+133	12	2007	Turkish Grand Prix	11	17	Alexander Wurz	Austria	Williams	58	1:28:01.789	+ 1:19.628	+ 8.619	210.880	1:28.737	55
+133	12	2007	Turkish Grand Prix	12	11	Ralf Schumacher	Germany	Toyota	57	1:26:42.779	1 Lap	1 Lap	210.389	1:28.924	55
+133	12	2007	Turkish Grand Prix	13	7	Jenson Button	Great Britain	Honda	57	1:26:56.426	1 Lap	+ 13.647	209.838	1:28.873	34
+133	12	2007	Turkish Grand Prix	14	23	Anthony Davidson	Great Britain	Super Aguri	57	1:27:02.147	1 Lap	+ 5.721	209.608	1:29.658	38
+133	12	2007	Turkish Grand Prix	15	18	Vitantonio Liuzzi	Italy	Toro Rosso	57	1:27:11.636	1 Lap	+ 9.489	209.228	1:29.563	56
+133	12	2007	Turkish Grand Prix	16	12	Jarno Trulli	Italy	Toyota	57	1:27:12.168	1 Lap	+ 0.532	209.207	1:29.459	39
+133	12	2007	Turkish Grand Prix	17	8	Rubens Barrichello	Brazil	Honda	57	1:27:13.195	1 Lap	+ 1.027	209.166	1:29.513	35
+133	12	2007	Turkish Grand Prix	18	22	Takuma Sato	Japan	Super Aguri	57	1:27:36.215	1 Lap	+ 23.020	208.250	1:29.916	56
+133	12	2007	Turkish Grand Prix	19	19	Sebastian Vettel	Germany	Toro Rosso	57	1:27:47.110	1 Lap	+ 10.895	207.819	1:29.983	39
+133	12	2007	Turkish Grand Prix	20	21	Sakon Yamamoto	Japan	Spyker	56	1:27:48.209	2 Laps	1 Lap	204.128	1:30.951	21
+133	12	2007	Turkish Grand Prix	21	20	Adrian Sutil	Germany	Spyker	53	1:25:43.944	5 Laps	3 Laps	197.852	1:30.617	52
+133	12	2007	Turkish Grand Prix	22	15	Mark Webber	Australia	Red Bull	9	14:05.834			203.588	1:30.808	4

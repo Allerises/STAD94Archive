@@ -1,0 +1,22 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+266	16	2014	Russian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team	7	1:38.513					
+266	16	2014	Russian Grand Prix	2	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	7	1:38.713	0.200	0.200			
+266	16	2014	Russian Grand Prix	3	77	Valtteri Bottas	Finland	Williams Martini Racing	8	1:38.920	0.407	0.207			
+266	16	2014	Russian Grand Prix	4	22	Jenson Button	Great Britain	McLaren Mercedes	7	1:39.121	0.608	0.201			
+266	16	2014	Russian Grand Prix	5	26	Daniil Kvyat	Russia	Scuderia Toro Rosso	7	1:39.277	0.764	0.156			
+266	16	2014	Russian Grand Prix	6	20	Kevin Magnussen	Denmark	McLaren Mercedes	7	1:39.629	1.116	0.352			
+266	16	2014	Russian Grand Prix	7	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing	6	1:39.635	1.122	0.006			
+266	16	2014	Russian Grand Prix	8	14	Fernando Alonso	Spain	Scuderia Ferrari	8	1:39.709	1.196	0.074			
+266	16	2014	Russian Grand Prix	9	7	Kimi Räikkönen	Finland	Scuderia Ferrari	8	1:39.771	1.258	0.062			
+266	16	2014	Russian Grand Prix	10	25	Jean-Eric Vergne	France	Scuderia Toro Rosso	7	1:40.020	1.507	0.249			
+266	16	2014	Russian Grand Prix	11	1	Sebastian Vettel	Germany	Infiniti Red Bull Racing	7	1:40.052	1.539	0.032			
+266	16	2014	Russian Grand Prix	12	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team	8	1:40.058	1.545	0.006			
+266	16	2014	Russian Grand Prix	13	11	Sergio Pérez	Mexico	Sahara Force India F1 Team	6	1:40.163	1.650	0.105			
+266	16	2014	Russian Grand Prix	14	21	Esteban Gutiérrez	Mexico	Sauber F1 Team	8	1:40.536	2.023	0.373			
+266	16	2014	Russian Grand Prix	15	99	Adrian Sutil	Germany	Sauber F1 Team	8	1:40.984	2.471	0.448			
+266	16	2014	Russian Grand Prix	16	8	Romain Grosjean	France	Lotus F1 Team	7	1:41.397	2.884	0.413			
+266	16	2014	Russian Grand Prix	17	9	Marcus Ericsson	Sweden	Caterham F1 Team	9	1:42.648	4.135	1.251			
+266	16	2014	Russian Grand Prix	18	19	Felipe Massa	Brazil	Williams Martini Racing	8	1:43.064	4.551	0.416			
+266	16	2014	Russian Grand Prix	19	10	Kamui Kobayashi	Japan	Caterham F1 Team	9	1:43.166	4.653	0.102			
+266	16	2014	Russian Grand Prix	20	13	Pastor Maldonado	Venezuela	Lotus F1 Team	5	1:43.205	4.692	0.039			
+266	16	2014	Russian Grand Prix	21	4	Max Chilton	Great Britain	Marussia F1 Team	10	1:43.649	5.136	0.444			

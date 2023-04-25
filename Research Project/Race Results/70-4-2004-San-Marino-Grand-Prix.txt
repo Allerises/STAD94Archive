@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+70	4	2004	San Marino Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	62	1:26:19.670			212.405	1:20.411	10
+70	4	2004	San Marino Grand Prix	2	9	Jenson Button	Great Britain	BAR	62	1:26:29.372	+ 9.702	+ 9.702	212.008	1:21.201	28
+70	4	2004	San Marino Grand Prix	3	3	Juan Pablo Montoya	Colombia	Williams	62	1:26:41.287	+ 21.617	+ 11.915	211.523	1:21.870	27
+70	4	2004	San Marino Grand Prix	4	8	Fernando Alonso	Spain	Renault	62	1:26:43.324	+ 23.654	+ 2.037	211.440	1:21.650	59
+70	4	2004	San Marino Grand Prix	5	7	Jarno Trulli	Italy	Renault	62	1:26:55.886	+ 36.216	+ 12.562	210.931	1:21.666	11
+70	4	2004	San Marino Grand Prix	6	2	Rubens Barrichello	Brazil	Ferrari	62	1:26:56.353	+ 36.683	+ 0.467	210.912	1:21.873	31
+70	4	2004	San Marino Grand Prix	7	4	Ralf Schumacher	Germany	Williams	62	1:27:15.400	+ 55.730	+ 19.047	210.144	1:21.689	30
+70	4	2004	San Marino Grand Prix	8	6	Kimi Räikkönen	Finland	McLaren	61	1:26:20.284	1 Lap	1 Lap	208.952	1:22.500	39
+70	4	2004	San Marino Grand Prix	9	11	Giancarlo Fisichella	Italy	Sauber	61	1:26:21.263	1 Lap	+ 0.979	208.913	1:22.654	60
+70	4	2004	San Marino Grand Prix	10	12	Felipe Massa	Brazil	Sauber	61	1:26:33.852	1 Lap	+ 12.589	208.406	1:22.895	36
+70	4	2004	San Marino Grand Prix	11	17	Olivier Panis	France	Toyota	61	1:26:58.490	1 Lap	+ 24.638	207.422	1:22.861	59
+70	4	2004	San Marino Grand Prix	12	5	David Coulthard	Great Britain	McLaren	61	1:26:59.350	1 Lap	+ 0.860	207.388	1:22.951	42
+70	4	2004	San Marino Grand Prix	13	14	Mark Webber	Australia	Jaguar	61	1:27:08.421	1 Lap	+ 9.071	207.028	1:22.931	55
+70	4	2004	San Marino Grand Prix	14	15	Christian Klien	Austria	Jaguar	60	1:26:54.894	2 Laps	1 Lap	204.160	1:23.647	27
+70	4	2004	San Marino Grand Prix	15	21	Zsolt Baumgartner	Hungary	Minardi	58	1:26:40.096	4 Laps	2 Laps	197.911	1:26.075	58
+70	4	2004	San Marino Grand Prix	16	10	Takuma Sato	Japan	BAR	56	1:19:10.315	6 Laps	2 Laps	209.173	1:21.929	44
+70	4	2004	San Marino Grand Prix	17	18	Nick Heidfeld	Germany	Jordan	48	1:09:14.164			204.991	1:23.381	44
+70	4	2004	San Marino Grand Prix	18	16	Cristiano da Matta	Brazil	Toyota	32	45:48.898			206.420	1:23.108	25
+70	4	2004	San Marino Grand Prix	19	20	Gianmaria Bruni	Italy	Minardi	22	32:58.138			197.074	1:26.857	11
+70	4	2004	San Marino Grand Prix	20	19	Giorgio Pantano	Italy	Jordan	6	8:43.157			202.041	1:25.457	6

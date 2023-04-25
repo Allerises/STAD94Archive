@@ -1,0 +1,11 @@
+library(tidyverse)
+
+
+#Find the files in the project directory
+standing_files <- list.files(path = "./Championship Standings", pattern = ".txt", full.names = T)
+race_files <- list.files(path = "./Race Results", pattern = ".txt", full.names = T)
+quali_files <- list.files(path = "./Quali Results", pattern = ".txt", full.names = T)
+
+standing_vector <- lapply(standing_files, read_tsv)
+race_vector <- lapply(race_files, read_tsv)
+quali_vector <- lapply(quali_files, read_tsv)

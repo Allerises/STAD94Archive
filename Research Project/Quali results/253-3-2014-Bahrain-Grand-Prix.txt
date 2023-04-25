@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+253	3	2014	Bahrain Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	5	1:33.185					
+253	3	2014	Bahrain Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team	5	1:33.464	0.279	0.279			
+253	3	2014	Bahrain Grand Prix	3	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing	6	1:34.051	0.866	0.587			
+253	3	2014	Bahrain Grand Prix	4	77	Valtteri Bottas	Finland	Williams Martini Racing	6	1:34.247	1.062	0.196			
+253	3	2014	Bahrain Grand Prix	5	11	Sergio Pérez	Mexico	Sahara Force India F1 Team	5	1:34.346	1.161	0.099			
+253	3	2014	Bahrain Grand Prix	6	7	Kimi Räikkönen	Finland	Scuderia Ferrari	3	1:34.368	1.183	0.022			
+253	3	2014	Bahrain Grand Prix	7	22	Jenson Button	Great Britain	McLaren Mercedes	6	1:34.387	1.202	0.019			
+253	3	2014	Bahrain Grand Prix	8	19	Felipe Massa	Brazil	Williams Martini Racing	5	1:34.511	1.326	0.124			
+253	3	2014	Bahrain Grand Prix	9	20	Kevin Magnussen	Denmark	McLaren Mercedes	6	1:34.712	1.527	0.201			
+253	3	2014	Bahrain Grand Prix	10	14	Fernando Alonso	Spain	Scuderia Ferrari	6	1:34.992	1.807	0.280			
+253	3	2014	Bahrain Grand Prix	11	1	Sebastian Vettel	Germany	Infiniti Red Bull Racing	3	1:34.985	1.800	0.273			
+253	3	2014	Bahrain Grand Prix	12	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team	6	1:35.116	1.931	0.131			
+253	3	2014	Bahrain Grand Prix	13	26	Daniil Kvyat	Russia	Scuderia Toro Rosso	6	1:35.145	1.960	0.029			
+253	3	2014	Bahrain Grand Prix	14	25	Jean-Eric Vergne	France	Scuderia Toro Rosso	6	1:35.286	2.101	0.141			
+253	3	2014	Bahrain Grand Prix	15	21	Esteban Gutiérrez	Mexico	Sauber F1 Team	6	1:35.891	2.706	0.605			
+253	3	2014	Bahrain Grand Prix	16	8	Romain Grosjean	France	Lotus F1 Team	3	1:35.908	2.723	0.017			
+253	3	2014	Bahrain Grand Prix	17	13	Pastor Maldonado	Venezuela	Lotus F1 Team	7	1:36.663	3.478	0.755			
+253	3	2014	Bahrain Grand Prix	18	99	Adrian Sutil	Germany	Sauber F1 Team	5	1:36.840	3.655	0.177			
+253	3	2014	Bahrain Grand Prix	19	10	Kamui Kobayashi	Japan	Caterham F1 Team	6	1:37.085	3.900	0.245			
+253	3	2014	Bahrain Grand Prix	20	17	Jules Bianchi	France	Marussia F1 Team	6	1:37.310	4.125	0.225			
+253	3	2014	Bahrain Grand Prix	21	9	Marcus Ericsson	Sweden	Caterham F1 Team	7	1:37.875	4.690	0.565			
+253	3	2014	Bahrain Grand Prix	22	4	Max Chilton	Great Britain	Marussia F1 Team	6	1:37.913	4.728	0.038			

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+11	12	2000	Hungarian Grand Prix	1	1	Mika Hakkinen	Finland	McLaren	77	1:45:33.869			173.964	1:20.028	33
+11	12	2000	Hungarian Grand Prix	2	3	Michael Schumacher	Germany	Ferrari	77	1:45:41.786	+ 7.917	+ 7.917	173.747	1:20.762	22
+11	12	2000	Hungarian Grand Prix	3	2	David Coulthard	Great Britain	McLaren	77	1:45:42.324	+ 8.455	+ 0.538	173.732	1:20.641	29
+11	12	2000	Hungarian Grand Prix	4	4	Rubens Barrichello	Brazil	Ferrari	77	1:46:18.026	+ 44.157	+ 35.702	172.760	1:20.520	42
+11	12	2000	Hungarian Grand Prix	5	9	Ralf Schumacher	Germany	Williams	77	1:46:24.306	+ 50.437	+ 6.280	172.590	1:21.211	45
+11	12	2000	Hungarian Grand Prix	6	5	Heinz-Harald Frentzen	Germany	Jordan	77	1:46:41.968	+ 1:08.099	+ 17.662	172.114	1:20.640	58
+11	12	2000	Hungarian Grand Prix	7	6	Jarno Trulli	Italy	Jordan	76	1:46:00.278	1 Lap	1 Lap	170.992	1:21.483	71
+11	12	2000	Hungarian Grand Prix	8	7	Eddie Irvine	Great Britain	Jaguar	76	1:46:01.026	1 Lap	+ 0.748	170.972	1:21.572	70
+11	12	2000	Hungarian Grand Prix	9	10	Jenson Button	Great Britain	Williams	76	1:46:05.565	1 Lap	+ 4.539	170.850	1:21.423	33
+11	12	2000	Hungarian Grand Prix	10	17	Mika Salo	Finland	Sauber	76	1:46:39.757	1 Lap	+ 34.192	169.937	1:21.372	32
+11	12	2000	Hungarian Grand Prix	11	12	Alexander Wurz	Austria	Benneton	76	1:46:46.856	1 Lap	+ 7.099	169.749	1:21.483	34
+11	12	2000	Hungarian Grand Prix	12	22	Jacques Villeneuve	Canada	BAR	75	1:45:36.684	2 Laps	1 Lap	169.370	1:21.163	48
+11	12	2000	Hungarian Grand Prix	13	19	Jos Verstappen	Netherlands	Arrows	75	1:46:13.985	2 Laps	+ 37.301	168.379	1:22.366	27
+11	12	2000	Hungarian Grand Prix	14	23	Ricardo Zonta	Brazil	BAR	75	1:46:57.044	2 Laps	+ 43.059	167.249	1:22.633	30
+11	12	2000	Hungarian Grand Prix	15	20	Marc Gene	Spain	Minardi	74	1:46:04.118	3 Laps	1 Lap	166.392	1:23.388	53
+11	12	2000	Hungarian Grand Prix	16	18	Pedro de la Rosa	Spain	Arrows	73	1:45:40.556	4 Laps	1 Lap	164.753	1:23.820	4
+11	12	2000	Hungarian Grand Prix	17	21	Gaston Mazzacane	Argentina	Minardi	68	1:38:18.781			164.962	1:23.912	29
+11	12	2000	Hungarian Grand Prix	18	8	Johnny Herbert	Great Britain	Jaguar	67	1:35:39.320			167.052	1:22.439	30
+11	12	2000	Hungarian Grand Prix	19	16	Pedro Diniz	Brazil	Sauber	62	1:26:43.822			170.493	1:21.491	47
+11	12	2000	Hungarian Grand Prix	20	11	Giancarlo Fisichella	Italy	Benneton	31	48:18.966			153.023	1:22.933	7
+11	12	2000	Hungarian Grand Prix	21	15	Nick Heidfeld	Germany	Prost	22	31:19.692			167.484	1:23.644	16
+11	12	2000	Hungarian Grand Prix	22	14	Jean Alesi	France	Prost	11	20:45.503			126.382	1:24.106	7

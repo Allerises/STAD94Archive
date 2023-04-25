@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+247	16	2013	Indian Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	60	1:31:12.187			202.130	1:28.116	54
+247	16	2013	Indian Grand Prix	2	9	Nico Rosberg	Germany	Mercedes	60	1:31:42.010	+ 29.823	+ 29.823	201.034	1:28.816	49
+247	16	2013	Indian Grand Prix	3	8	Romain Grosjean	France	Lotus	60	1:31:52.079	+ 39.892	+ 10.069	200.667	1:28.796	57
+247	16	2013	Indian Grand Prix	4	4	Felipe Massa	Brazil	Ferrari	60	1:31:53.879	+ 41.692	+ 1.800	200.602	1:28.886	54
+247	16	2013	Indian Grand Prix	5	6	Sergio Pérez	Mexico	McLaren	60	1:31:56.016	+ 43.829	+ 2.137	200.524	1:28.503	59
+247	16	2013	Indian Grand Prix	6	10	Lewis Hamilton	Great Britain	Mercedes	60	1:32:04.662	+ 52.475	+ 8.646	200.210	1:29.052	53
+247	16	2013	Indian Grand Prix	7	7	Kimi Räikkönen	Finland	Lotus	60	1:32:20.175	+ 1:07.988	+ 15.513	199.650	1:27.679	60
+247	16	2013	Indian Grand Prix	8	14	Paul di Resta	Great Britain	Force India	60	1:32:25.055	+ 1:12.868	+ 4.880	199.474	1:29.300	58
+247	16	2013	Indian Grand Prix	9	15	Adrian Sutil	Germany	Force India	60	1:32:26.921	+ 1:14.734	+ 1.866	199.407	1:28.419	60
+247	16	2013	Indian Grand Prix	10	19	Daniel Ricciardo	Australia	Toro Rosso	60	1:32:28.424	+ 1:16.237	+ 1.503	199.353	1:28.831	60
+247	16	2013	Indian Grand Prix	11	3	Fernando Alonso	Spain	Ferrari	60	1:32:30.484	+ 1:18.297	+ 2.060	199.279	1:28.709	58
+247	16	2013	Indian Grand Prix	12	16	Pastor Maldonado	Venezuela	Williams	60	1:32:31.138	+ 1:18.951	+ 0.654	199.255	1:29.012	56
+247	16	2013	Indian Grand Prix	13	18	Jean-Eric Vergne	France	Toro Rosso	59	1:31:15.708	1 Lap	1 Lap	198.631	1:29.280	53
+247	16	2013	Indian Grand Prix	14	5	Jenson Button	Great Britain	McLaren	59	1:31:15.816	1 Lap	+ 0.108	198.627	1:28.814	57
+247	16	2013	Indian Grand Prix	15	12	Esteban Gutiérrez	Mexico	Sauber	59	1:31:29.761	1 Lap	+ 13.945	198.122	1:28.682	49
+247	16	2013	Indian Grand Prix	16	17	Valtteri Bottas	Finland	Williams	59	1:31:30.288	1 Lap	+ 0.527	198.103	1:28.928	52
+247	16	2013	Indian Grand Prix	17	23	Max Chilton	Great Britain	Marussia	58	1:31:24.197	2 Laps	1 Lap	194.959	1:30.335	56
+247	16	2013	Indian Grand Prix	18	22	Jules Bianchi	France	Marussia	58	1:31:24.919	2 Laps	+ 0.722	194.933	1:30.171	57
+247	16	2013	Indian Grand Prix	19	11	Nico Hülkenberg	Germany	Sauber	54	1:23:53.621	6 Laps	4 Laps	197.749	1:28.947	52
+247	16	2013	Indian Grand Prix	20	2	Mark Webber	Australia	Red Bull	39	1:00:06.257			199.277	1:29.500	30
+247	16	2013	Indian Grand Prix	21	20	Charles Pic	France	Caterham	35	56:47.591			189.238	1:32.907	32
+247	16	2013	Indian Grand Prix	22	21	Giedo van der Garde	Netherlands	Caterham	1	2:42.390			108.050		

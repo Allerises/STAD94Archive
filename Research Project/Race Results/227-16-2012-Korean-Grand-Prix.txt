@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+227	16	2012	Korean Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	55	1:36:28.651					
+227	16	2012	Korean Grand Prix	2	2	Mark Webber	Australia	Red Bull	55	1:36:36.882	+ 8.231	+ 8.231		1:42.037	
+227	16	2012	Korean Grand Prix	3	5	Fernando Alonso	Spain	Ferrari	55	1:36:42.595	+ 13.944	+ 5.713			
+227	16	2012	Korean Grand Prix	4	6	Felipe Massa	Brazil	Ferrari	55	1:36:48.819	+ 20.168	+ 6.224			
+227	16	2012	Korean Grand Prix	5	9	Kimi Räikkönen	Finland	Lotus	55	1:37:05.390	+ 36.739	+ 16.571			
+227	16	2012	Korean Grand Prix	6	12	Nico Hülkenberg	Germany	Force India	55	1:37:13.952	+ 45.301	+ 8.562			
+227	16	2012	Korean Grand Prix	7	10	Romain Grosjean	France	Lotus	55	1:37:23.463	+ 54.812	+ 9.511			
+227	16	2012	Korean Grand Prix	8	17	Jean-Eric Vergne	France	Toro Rosso	55	1:37:38.240	+ 1:09.589	+ 14.777			
+227	16	2012	Korean Grand Prix	9	16	Daniel Ricciardo	Australia	Toro Rosso	55	1:37:40.438	+ 1:11.787	+ 2.198			
+227	16	2012	Korean Grand Prix	10	4	Lewis Hamilton	Great Britain	McLaren	55	1:37:48.343	+ 1:19.692	+ 7.905			
+227	16	2012	Korean Grand Prix	11	15	Sergio Pérez	Mexico	Sauber	55	1:37:48.713	+ 1:20.062	+ 0.370			
+227	16	2012	Korean Grand Prix	12	11	Paul di Resta	Great Britain	Force India	55	1:37:53.099	+ 1:24.448	+ 4.386			
+227	16	2012	Korean Grand Prix	13	7	Michael Schumacher	Germany	Mercedes	55	1:37:57.892	+ 1:29.241	+ 4.793			
+227	16	2012	Korean Grand Prix	14	18	Pastor Maldonado	Venezuela	Williams	55	1:38:03.575	+ 1:34.924	+ 5.683			
+227	16	2012	Korean Grand Prix	15	19	Bruno Senna	Brazil	Williams	55	1:38:05.553	+ 1:36.902	+ 1.978			
+227	16	2012	Korean Grand Prix	16	21	Vitaly Petrov	Russia	Caterham	54		1 Lap	1 Lap			
+227	16	2012	Korean Grand Prix	17	20	Heikki Kovalainen	Finland	Caterham	54		1 Lap				
+227	16	2012	Korean Grand Prix	18	24	Timo Glock	Germany	Marussia	54		1 Lap				
+227	16	2012	Korean Grand Prix	19	25	Charles Pic	France	Marussia	53		2 Laps	1 Lap			
+227	16	2012	Korean Grand Prix	20	23	Narain Karthikeyan	India	HRT	53		2 Laps				
+227	16	2012	Korean Grand Prix	21	22	Pedro de la Rosa	Spain	HRT	16						
+227	16	2012	Korean Grand Prix	22	14	Kamui Kobayashi	Japan	Sauber	16						
+227	16	2012	Korean Grand Prix	23	8	Nico Rosberg	Germany	Mercedes	1						
+227	16	2012	Korean Grand Prix	24	3	Jenson Button	Great Britain	McLaren							

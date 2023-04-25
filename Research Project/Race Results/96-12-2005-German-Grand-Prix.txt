@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+96	12	2005	German Grand Prix	1	5	Fernando Alonso	Spain	Renault	67	1:26:28.599			212.629	1:15.235	21
+96	12	2005	German Grand Prix	2	10	Juan Pablo Montoya	Colombia	McLaren	67	1:26:51.168	+ 22.569	+ 22.569	211.708	1:15.878	54
+96	12	2005	German Grand Prix	3	3	Jenson Button	Great Britain	BAR	67	1:26:53.021	+ 24.422	+ 1.853	211.633	1:15.843	19
+96	12	2005	German Grand Prix	4	6	Giancarlo Fisichella	Italy	Renault	67	1:27:19.186	+ 50.587	+ 26.165	210.576	1:15.890	21
+96	12	2005	German Grand Prix	5	1	Michael Schumacher	Germany	Ferrari	67	1:27:20.289	+ 51.690	+ 1.103	210.532	1:16.099	18
+96	12	2005	German Grand Prix	6	17	Ralf Schumacher	Germany	Toyota	67	1:27:20.841	+ 52.242	+ 0.552	210.509	1:16.073	23
+96	12	2005	German Grand Prix	7	14	David Coulthard	Great Britain	Red Bull	67	1:27:21.299	+ 52.700	+ 0.458	210.491	1:16.233	18
+96	12	2005	German Grand Prix	8	12	Felipe Massa	Brazil	Sauber	67	1:27:25.169	+ 56.570	+ 3.870	210.336	1:16.288	45
+96	12	2005	German Grand Prix	9	15	Christian Klien	Austria	Red Bull	67	1:27:38.417	+ 1:09.818	+ 13.248	209.806	1:16.236	45
+96	12	2005	German Grand Prix	10	2	Rubens Barrichello	Brazil	Ferrari	66	1:26:35.324	1 Lap	1 Lap	209.184	1:16.528	47
+96	12	2005	German Grand Prix	11	8	Nick Heidfeld	Germany	Williams	66	1:27:00.680	1 Lap	+ 25.356	208.168	1:16.607	10
+96	12	2005	German Grand Prix	12	4	Takuma Sato	Japan	BAR	66	1:27:03.966	1 Lap	+ 3.286	208.037	1:16.725	27
+96	12	2005	German Grand Prix	13	21	Christijan Albers	Netherlands	Minardi	65	1:27:42.081	2 Laps	1 Lap	203.401	1:18.425	11
+96	12	2005	German Grand Prix	14	16	Jarno Trulli	Italy	Toyota	64	1:25:08.964	3 Laps	1 Lap	206.274	1:16.474	45
+96	12	2005	German Grand Prix	15	11	Jacques Villeneuve	Canada	Sauber	64	1:26:50.262	3 Laps	+ 1:41.298	202.264	1:17.122	26
+96	12	2005	German Grand Prix	16	19	Narain Karthikeyan	India	Jordan	64	1:27:37.881	3 Laps	+ 47.619	200.432	1:18.212	7
+96	12	2005	German Grand Prix	17	18	Tiago Monteiro	Portugal	Jordan	64	1:27:42.805	3 Laps	+ 4.924	200.244	1:18.106	12
+96	12	2005	German Grand Prix	18	20	Robert Doornbos	Netherlands	Minardi	63	1:26:41.640	4 Laps	1 Lap	199.433	1:19.025	44
+96	12	2005	German Grand Prix	19	7	Mark Webber	Australia	Williams	55	1:26:30.215			174.492	1:16.803	46
+96	12	2005	German Grand Prix	20	9	Kimi Räikkönen	Finland	McLaren	35	44:51.381			214.136	1:14.873	24

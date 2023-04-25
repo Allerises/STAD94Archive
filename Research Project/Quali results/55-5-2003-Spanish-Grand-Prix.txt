@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+55	5	2003	Spanish Grand Prix	1	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:17.762					
+55	5	2003	Spanish Grand Prix	2	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:18.020	0.258	0.258			
+55	5	2003	Spanish Grand Prix	3	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team		1:18.233	0.471	0.213			
+55	5	2003	Spanish Grand Prix	4	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:18.615	0.853	0.382			
+55	5	2003	Spanish Grand Prix	5	17	Jenson Button	Great Britain	Lucky Strike BAR Honda		1:18.704	0.942	0.089			
+55	5	2003	Spanish Grand Prix	6	20	Olivier Panis	France	Panasonic Toyota Racing		1:18.811	1.049	0.107			
+55	5	2003	Spanish Grand Prix	7	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:19.006	1.244	0.195			
+55	5	2003	Spanish Grand Prix	8	5	David Coulthard	Great Britain	West McLaren Mercedes		1:19.128	1.366	0.122			
+55	5	2003	Spanish Grand Prix	9	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:19.377	1.615	0.249			
+55	5	2003	Spanish Grand Prix	10	10	Heinz-Harald Frentzen	Germany	Sauber Petronas		1:19.427	1.665	0.050			
+55	5	2003	Spanish Grand Prix	11	16	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:19.563	1.801	0.136			
+55	5	2003	Spanish Grand Prix	12	14	Mark Webber	Australia	Jaguar Racing		1:19.615	1.853	0.052			
+55	5	2003	Spanish Grand Prix	13	21	Cristiano da Matta	Brazil	Panasonic Toyota Racing		1:19.623	1.861	0.008			
+55	5	2003	Spanish Grand Prix	14	9	Nick Heidfeld	Germany	Sauber Petronas		1:19.646	1.884	0.023			
+55	5	2003	Spanish Grand Prix	15	12	Ralph Firman	Ireland	Jordan Ford		1:20.215	2.453	0.569			
+55	5	2003	Spanish Grand Prix	16	15	Antonio Pizzonia	Brazil	Jaguar Racing		1:20.308	2.546	0.093			
+55	5	2003	Spanish Grand Prix	17	11	Giancarlo Fisichella	Italy	Jordan Ford		1:20.976	3.214	0.668			
+55	5	2003	Spanish Grand Prix	18	18	Justin Wilson	Great Britain	European Minardi Cosworth		1:22.104	4.342	1.128			
+55	5	2003	Spanish Grand Prix	19	19	Jos Verstappen	Netherlands	European Minardi Cosworth		1:22.237	4.475	0.133			
+55	5	2003	Spanish Grand Prix	20	6	Kimi Räikkönen	Finland	West McLaren Mercedes		1:31.900	14.138	9.663			

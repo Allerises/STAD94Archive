@@ -1,0 +1,26 @@
+Year	Pos	Driver	Points
+2004	1	Michael Schumacher	148
+2004	2	Rubens Barrichello	114
+2004	3	Jenson Button	85
+2004	4	Fernando Alonso	59
+2004	5	Juan Pablo Montoya	58
+2004	6	Jarno Trulli	46
+2004	7	Kimi Räikkönen	45
+2004	8	Takuma Sato	34
+2004	9	Ralf Schumacher	24
+2004	10	David Coulthard	24
+2004	11	Giancarlo Fisichella	22
+2004	12	Felipe Massa	12
+2004	13	Mark Webber	7
+2004	14	Olivier Panis	6
+2004	15	Antonio Pizzonia	6
+2004	16	Christian Klien	3
+2004	17	Cristiano da Matta	3
+2004	18	Nick Heidfeld	3
+2004	19	Timo Glock	2
+2004	20	Zsolt Baumgartner	1
+2004	21	Jacques Villeneuve	
+2004	22	Ricardo Zonta	
+2004	23	Marc Gene	
+2004	24	Giorgio Pantano	
+2004	25	Gianmaria Bruni	

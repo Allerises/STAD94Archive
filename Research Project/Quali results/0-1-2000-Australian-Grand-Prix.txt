@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+0	1	2000	Australian Grand Prix	1	1	Mika Hakkinen	Finland	West McLaren Mercedes		1:30.556					
+0	1	2000	Australian Grand Prix	2	2	David Coulthard	Great Britain	West McLaren Mercedes		1:30.910	0.354	0.354			
+0	1	2000	Australian Grand Prix	3	3	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:31.075	0.519	0.165			
+0	1	2000	Australian Grand Prix	4	4	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:31.102	0.546	0.027			
+0	1	2000	Australian Grand Prix	5	5	Heinz-Harald Frentzen	Germany	Jordan		1:31.359	0.803	0.257			
+0	1	2000	Australian Grand Prix	6	6	Jarno Trulli	Italy	Jordan		1:31.504	0.948	0.145			
+0	1	2000	Australian Grand Prix	7	7	Eddie Irvine	Great Britain	Jaguar Racing		1:31.514	0.958	0.010			
+0	1	2000	Australian Grand Prix	8	22	Jacques Villeneuve	Canada	Lucky Strike Reynard BAR Honda		1:31.968	1.412	0.454			
+0	1	2000	Australian Grand Prix	9	11	Giancarlo Fisichella	Italy	Mild Seven Benetton Playlife		1:31.992	1.436	0.024			
+0	1	2000	Australian Grand Prix	10	17	Mika Salo	Finland	Red Bull Sauber Petronas		1:32.018	1.462	0.026			
+0	1	2000	Australian Grand Prix	11	9	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:32.220	1.664	0.202			
+0	1	2000	Australian Grand Prix	12	18	Pedro de la Rosa	Spain	Arrows F1 Team		1:32.323	1.767	0.103			
+0	1	2000	Australian Grand Prix	13	19	Jos Verstappen	Netherlands	Arrows F1 Team		1:32.477	1.921	0.154			
+0	1	2000	Australian Grand Prix	14	12	Alexander Wurz	Austria	Mild Seven Benetton Playlife		1:32.775	2.219	0.298			
+0	1	2000	Australian Grand Prix	15	15	Nick Heidfeld	Germany	Gauloises Prost Peugeot		1:33.024	2.468	0.249			
+0	1	2000	Australian Grand Prix	16	23	Ricardo Zonta	Brazil	Lucky Strike Reynard BAR Honda		1:33.117	2.561	0.093			
+0	1	2000	Australian Grand Prix	17	14	Jean Alesi	France	Gauloises Prost Peugeot		1:33.197	2.641	0.080			
+0	1	2000	Australian Grand Prix	18	20	Marc Gene	Spain	Telefonica Minardi Fondmetal		1:33.261	2.705	0.064			
+0	1	2000	Australian Grand Prix	19	16	Pedro Diniz	Brazil	Red Bull Sauber Petronas		1:33.378	2.822	0.117			
+0	1	2000	Australian Grand Prix	20	8	Johnny Herbert	Great Britain	Jaguar Racing		1:33.638	3.082	0.260			
+0	1	2000	Australian Grand Prix	21	10	Jenson Button	Great Britain	BMW WilliamsF1 Team		1:33.828	3.272	0.190			
+0	1	2000	Australian Grand Prix	22	21	Gaston Mazzacane	Argentina	Telefonica Minardi Fondmetal		1:34.705	4.149	0.877			

@@ -1,0 +1,19 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+90	6	2005	Monaco Grand Prix	1	9	Kimi Räikkönen	Finland	Team McLaren Mercedes	6	2:30.323					
+90	6	2005	Monaco Grand Prix	2	5	Fernando Alonso	Spain	Mild Seven Renault F1 Team	6	2:30.406	0.083	0.083			
+90	6	2005	Monaco Grand Prix	3	7	Mark Webber	Australia	BMW WilliamsF1 Team	6	2:31.656	1.333	1.250			
+90	6	2005	Monaco Grand Prix	4	6	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	6	2:32.100	1.777	0.444			
+90	6	2005	Monaco Grand Prix	5	16	Jarno Trulli	Italy	Panasonic Toyota Racing	6	2:32.590	2.267	0.490			
+90	6	2005	Monaco Grand Prix	6	8	Nick Heidfeld	Germany	BMW WilliamsF1 Team	6	2:32.883	2.560	0.293			
+90	6	2005	Monaco Grand Prix	7	14	David Coulthard	Great Britain	Red Bull Racing	6	2:33.867	3.544	0.984			
+90	6	2005	Monaco Grand Prix	8	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	6	2:34.736	4.413	0.869			
+90	6	2005	Monaco Grand Prix	9	11	Jacques Villeneuve	Canada	Sauber Petronas	6	2:34.936	4.613	0.200			
+90	6	2005	Monaco Grand Prix	10	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	6	2:34.983	4.660	0.047			
+90	6	2005	Monaco Grand Prix	11	12	Felipe Massa	Brazil	Sauber Petronas	6	2:35.120	4.797	0.137			
+90	6	2005	Monaco Grand Prix	12	15	Vitantonio Liuzzi	Italy	Red Bull Racing	6	2:37.152	6.829	2.032			
+90	6	2005	Monaco Grand Prix	13	20	Patrick Friesacher	Austria	Minardi Cosworth	6	2:40.810	10.487	3.658			
+90	6	2005	Monaco Grand Prix	14	21	Christijan Albers	Netherlands	Minardi Cosworth	6	2:42.206	11.883	1.396			
+90	6	2005	Monaco Grand Prix	15	18	Tiago Monteiro	Portugal	Jordan Grand Prix	6	2:43.078	12.755	0.872			
+90	6	2005	Monaco Grand Prix	16	19	Narain Karthikeyan	India	Jordan Grand Prix	6	2:43.442	13.119	0.364			
+90	6	2005	Monaco Grand Prix	17	10	Juan Pablo Montoya	Colombia	Team McLaren Mercedes	3						
+90	6	2005	Monaco Grand Prix	18	17	Ralf Schumacher	Germany	Panasonic Toyota Racing	3						

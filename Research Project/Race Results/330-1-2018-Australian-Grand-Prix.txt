@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+330	1	2018	Australian Grand Prix	1	5	Sebastian Vettel	Germany	Ferrari	58	1:29:33.283			206.068	1:26.469	53
+330	1	2018	Australian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes	58	1:29:38.319	+ 5.036	+ 5.036	205.875	1:26.444	50
+330	1	2018	Australian Grand Prix	3	7	Kimi Räikkönen	Finland	Ferrari	58	1:29:39.592	+ 6.309	+ 1.273	205.827	1:26.373	57
+330	1	2018	Australian Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull	58	1:29:40.352	+ 7.069	+ 0.760	205.798	1:25.945	54
+330	1	2018	Australian Grand Prix	5	14	Fernando Alonso	Spain	McLaren	58	1:30:01.169	+ 27.886	+ 20.817	205.004	1:26.978	57
+330	1	2018	Australian Grand Prix	6	33	Max Verstappen	Netherlands	Red Bull	58	1:30:02.228	+ 28.945	+ 1.059	204.964	1:26.880	54
+330	1	2018	Australian Grand Prix	7	27	Nico Hülkenberg	Germany	Renault	58	1:30:05.954	+ 32.671	+ 3.726	204.823	1:27.081	57
+330	1	2018	Australian Grand Prix	8	77	Valtteri Bottas	Finland	Mercedes	58	1:30:07.622	+ 34.339	+ 1.668	204.760	1:27.019	54
+330	1	2018	Australian Grand Prix	9	2	Stoffel Vandoorne	Belgium	McLaren	58	1:30:08.204	+ 34.921	+ 0.582	204.738	1:26.958	57
+330	1	2018	Australian Grand Prix	10	55	Carlos Sainz	Spain	Renault	58	1:30:19.005	+ 45.722	+ 10.801	204.330	1:27.944	51
+330	1	2018	Australian Grand Prix	11	11	Sergio Pérez	Mexico	Force India	58	1:30:20.100	+ 46.817	+ 1.095	204.288	1:27.633	51
+330	1	2018	Australian Grand Prix	12	31	Esteban Ocon	France	Force India	58	1:30:33.561	+ 1:00.278	+ 13.461	203.782	1:27.600	57
+330	1	2018	Australian Grand Prix	13	16	Charles Leclerc	Monaco	Sauber	58	1:30:49.042	+ 1:15.759	+ 15.481	203.203	1:28.759	56
+330	1	2018	Australian Grand Prix	14	18	Lance Stroll	Canada	Williams	58	1:30:51.571	+ 1:18.288	+ 2.529	203.109	1:28.511	55
+330	1	2018	Australian Grand Prix	15	28	Brendon Hartley	New Zealand	Toro Rosso	57	1:29:55.759	1 Lap	1 Lap	201.672	1:28.176	57
+330	1	2018	Australian Grand Prix	16	8	Romain Grosjean	France	Haas	24	36:32.878			208.939	1:28.805	23
+330	1	2018	Australian Grand Prix	17	20	Kevin Magnussen	Denmark	Haas	22	33:31.467			208.801	1:29.534	21
+330	1	2018	Australian Grand Prix	18	10	Pierre Gasly	France	Toro Rosso	13	20:11.451			204.862	1:30.649	13
+330	1	2018	Australian Grand Prix	19	9	Marcus Ericsson	Sweden	Sauber	5	7:55.096			200.915	1:32.210	4
+330	1	2018	Australian Grand Prix	20	35	Sergey Sirotkin	Russia	Williams	4	6:26.147			197.756	1:32.573	3

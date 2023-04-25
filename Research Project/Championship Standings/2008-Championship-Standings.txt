@@ -1,0 +1,23 @@
+Year	Pos	Driver	Points
+2008	1	Lewis Hamilton	98
+2008	2	Felipe Massa	97
+2008	3	Kimi Räikkönen	75
+2008	4	Robert Kubica	75
+2008	5	Fernando Alonso	61
+2008	6	Nick Heidfeld	60
+2008	7	Heikki Kovalainen	53
+2008	8	Sebastian Vettel	35
+2008	9	Jarno Trulli	31
+2008	10	Timo Glock	25
+2008	11	Mark Webber	21
+2008	12	Nelson Piquet Jr.	19
+2008	13	Nico Rosberg	17
+2008	14	Rubens Barrichello	11
+2008	15	Kazuki Nakajima	9
+2008	16	David Coulthard	8
+2008	17	Sebastien Bourdais	4
+2008	18	Jenson Button	3
+2008	19	Giancarlo Fisichella	
+2008	20	Adrian Sutil	
+2008	21	Takuma Sato	
+2008	22	Anthony Davidson	

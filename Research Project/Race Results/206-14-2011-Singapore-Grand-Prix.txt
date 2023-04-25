@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+206	14	2011	Singapore Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	61	1:59:06.757				1:48.688	51
+206	14	2011	Singapore Grand Prix	2	4	Jenson Button	Great Britain	McLaren	61	1:59:08.494	+ 1.737	+ 1.737		1:48.454	54
+206	14	2011	Singapore Grand Prix	3	2	Mark Webber	Australia	Red Bull	61	1:59:36.036	+ 29.279	+ 27.542		1:50.088	54
+206	14	2011	Singapore Grand Prix	4	5	Fernando Alonso	Spain	Ferrari	61	2:00:02.206	+ 55.449	+ 26.170		1:50.891	58
+206	14	2011	Singapore Grand Prix	5	3	Lewis Hamilton	Great Britain	McLaren	61	2:00:14.523	+ 1:07.766	+ 12.317		1:50.832	54
+206	14	2011	Singapore Grand Prix	6	15	Paul di Resta	Great Britain	Force India	61	2:00:57.824	+ 1:51.067	+ 43.301		1:54.239	41
+206	14	2011	Singapore Grand Prix	7	8	Nico Rosberg	Germany	Mercedes	60		1 Lap	1 Lap		1:54.383	42
+206	14	2011	Singapore Grand Prix	8	14	Adrian Sutil	Germany	Force India	60		1 Lap			1:54.564	45
+206	14	2011	Singapore Grand Prix	9	6	Felipe Massa	Brazil	Ferrari	60		1 Lap			1:52.550	26
+206	14	2011	Singapore Grand Prix	10	17	Sergio Pérez	Mexico	Sauber	60		1 Lap			1:54.615	42
+206	14	2011	Singapore Grand Prix	11	12	Pastor Maldonado	Venezuela	Williams	60		1 Lap			1:53.198	50
+206	14	2011	Singapore Grand Prix	12	18	Sébastien Buemi	Switzerland	Toro Rosso	60		1 Lap			1:52.197	51
+206	14	2011	Singapore Grand Prix	13	11	Rubens Barrichello	Brazil	Williams	60		1 Lap			1:55.235	40
+206	14	2011	Singapore Grand Prix	14	16	Kamui Kobayashi	Japan	Sauber	59		2 Laps	1 Lap		1:51.329	56
+206	14	2011	Singapore Grand Prix	15	9	Bruno Senna	Brazil	Renault	59		2 Laps			1:53.774	55
+206	14	2011	Singapore Grand Prix	16	20	Heikki Kovalainen	Finland	Lotus	59		2 Laps			1:54.063	56
+206	14	2011	Singapore Grand Prix	17	10	Vitaly Petrov	Russia	Renault	59		2 Laps			1:54.204	56
+206	14	2011	Singapore Grand Prix	18	25	Jerome d'Ambrosio	Belgium	Virgin	59		2 Laps			1:58.730	22
+206	14	2011	Singapore Grand Prix	19	22	Daniel Ricciardo	Australia	HRT	57		4 Laps	2 Laps		1:59.064	40
+206	14	2011	Singapore Grand Prix	20	23	Vitantonio Liuzzi	Italy	HRT	57		4 Laps			1:58.283	41
+206	14	2011	Singapore Grand Prix	21	19	Jaime Alguersuari	Spain	Toro Rosso	56		5 Laps	1 Lap		1:53.676	37
+206	14	2011	Singapore Grand Prix	22	21	Jarno Trulli	Italy	Lotus	47					1:57.126	25
+206	14	2011	Singapore Grand Prix	23	7	Michael Schumacher	Germany	Mercedes	28					1:53.096	26
+206	14	2011	Singapore Grand Prix	24	24	Timo Glock	Germany	Virgin	9					2:00.412	6

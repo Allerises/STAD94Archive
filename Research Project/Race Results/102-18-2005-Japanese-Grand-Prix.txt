@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+102	18	2005	Japanese Grand Prix	1	9	Kimi Räikkönen	Finland	McLaren	53	1:29:02.212			207.266	1:31.540	44
+102	18	2005	Japanese Grand Prix	2	6	Giancarlo Fisichella	Italy	Renault	53	1:29:03.845	+ 1.633	+ 1.633	207.203	1:32.522	19
+102	18	2005	Japanese Grand Prix	3	5	Fernando Alonso	Spain	Renault	53	1:29:19.668	+ 17.456	+ 15.823	206.591	1:31.599	21
+102	18	2005	Japanese Grand Prix	4	7	Mark Webber	Australia	Williams	53	1:29:24.486	+ 22.274	+ 4.818	206.406	1:33.022	21
+102	18	2005	Japanese Grand Prix	5	3	Jenson Button	Great Britain	BAR	53	1:29:31.719	+ 29.507	+ 7.233	206.128	1:32.754	19
+102	18	2005	Japanese Grand Prix	6	14	David Coulthard	Great Britain	Red Bull	53	1:29:33.813	+ 31.601	+ 2.094	206.047	1:33.023	18
+102	18	2005	Japanese Grand Prix	7	1	Michael Schumacher	Germany	Ferrari	53	1:29:36.091	+ 33.879	+ 2.278	205.960	1:32.763	25
+102	18	2005	Japanese Grand Prix	8	17	Ralf Schumacher	Germany	Toyota	53	1:29:51.760	+ 49.548	+ 15.669	205.362	1:32.795	9
+102	18	2005	Japanese Grand Prix	9	15	Christian Klien	Austria	Red Bull	53	1:29:54.137	+ 51.925	+ 2.377	205.271	1:33.499	49
+102	18	2005	Japanese Grand Prix	10	12	Felipe Massa	Brazil	Sauber	53	1:29:59.721	+ 57.509	+ 5.584	205.059	1:33.232	43
+102	18	2005	Japanese Grand Prix	11	2	Rubens Barrichello	Brazil	Ferrari	53	1:30:02.845	+ 1:00.633	+ 3.124	204.940	1:33.133	52
+102	18	2005	Japanese Grand Prix	12	11	Jacques Villeneuve	Canada	Sauber	53	1:30:25.433	+ 1:23.221	+ 22.588	204.087	1:33.288	50
+102	18	2005	Japanese Grand Prix	13	18	Tiago Monteiro	Portugal	Jordan	52	1:30:41.749	1 Lap	1 Lap	199.633	1:35.458	17
+102	18	2005	Japanese Grand Prix	14	20	Robert Doornbos	Netherlands	Minardi	51	1:29:13.775	2 Laps	1 Lap	199.009	1:36.574	50
+102	18	2005	Japanese Grand Prix	15	19	Narain Karthikeyan	India	Jordan	51	1:29:51.967	2 Laps	+ 38.192	197.599	1:35.887	11
+102	18	2005	Japanese Grand Prix	16	21	Christijan Albers	Netherlands	Minardi	49	1:29:19.802	4 Laps	2 Laps	190.985	1:36.039	33
+102	18	2005	Japanese Grand Prix	17	4	Takuma Sato	Japan	BAR	52	1:29:02.949			203.325	1:34.186	28
+102	18	2005	Japanese Grand Prix	18	8	Antonio Pizzonia	Brazil	Williams	9	19:55.642			156.764	1:36.711	9
+102	18	2005	Japanese Grand Prix	19	16	Jarno Trulli	Italy	Toyota	9	20:02.134			155.917	1:37.428	9
+102	18	2005	Japanese Grand Prix	20	10	Juan Pablo Montoya	Colombia	McLaren							

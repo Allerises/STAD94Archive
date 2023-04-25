@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+329	20	2017	Abu Dhabi Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:36.231			207.775		
+329	20	2017	Abu Dhabi Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:36.403	0.172	0.172	207.404		
+329	20	2017	Abu Dhabi Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:36.777	0.546	0.374	206.602		
+329	20	2017	Abu Dhabi Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull Racing		1:36.959	0.728	0.182	206.214		
+329	20	2017	Abu Dhabi Grand Prix	5	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:36.985	0.754	0.026	206.159		
+329	20	2017	Abu Dhabi Grand Prix	6	33	Max Verstappen	Netherlands	Red Bull Racing		1:37.328	1.097	0.343	205.433		
+329	20	2017	Abu Dhabi Grand Prix	7	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:38.282	2.051	0.954	203.439		
+329	20	2017	Abu Dhabi Grand Prix	8	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:38.374	2.143	0.092	203.248		
+329	20	2017	Abu Dhabi Grand Prix	9	31	Esteban Ocon	France	Sahara Force India F1 Team		1:38.397	2.166	0.023	203.201		
+329	20	2017	Abu Dhabi Grand Prix	10	19	Felipe Massa	Brazil	Williams Martini Racing		1:38.550	2.319	0.153	202.885		
+329	20	2017	Abu Dhabi Grand Prix	11	14	Fernando Alonso	Spain	McLaren Honda Formula 1 Team		1:38.636	2.405	0.086	202.708		
+329	20	2017	Abu Dhabi Grand Prix	12	55	Carlos Sainz	Spain	Renault Sport Formula One Team		1:38.725	2.494	0.089	202.526		
+329	20	2017	Abu Dhabi Grand Prix	13	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team		1:38.808	2.577	0.083	202.356		
+329	20	2017	Abu Dhabi Grand Prix	14	20	Kevin Magnussen	Denmark	Haas F1 Team		1:39.298	3.067	0.490	201.357		
+329	20	2017	Abu Dhabi Grand Prix	15	18	Lance Stroll	Canada	Williams Martini Racing		1:39.646	3.415	0.348	200.654		
+329	20	2017	Abu Dhabi Grand Prix	16	8	Romain Grosjean	France	Haas F1 Team		1:39.516	3.285		200.916		
+329	20	2017	Abu Dhabi Grand Prix	17	10	Pierre Gasly	France	Scuderia Toro Rosso		1:39.724	3.493	0.208	200.497		
+329	20	2017	Abu Dhabi Grand Prix	18	94	Pascal Wehrlein	Germany	Sauber F1 Team		1:39.930	3.699	0.206	200.084		
+329	20	2017	Abu Dhabi Grand Prix	19	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:39.994	3.763	0.064	199.955		
+329	20	2017	Abu Dhabi Grand Prix	20	28	Brendon Hartley	New Zealand	Scuderia Toro Rosso		1:40.471	4.240	0.477	199.006		

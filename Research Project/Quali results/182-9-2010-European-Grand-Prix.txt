@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+182	9	2010	European Grand Prix	1	5	Sebastian Vettel	Germany	Red Bull Racing	18	1:37.587					
+182	9	2010	European Grand Prix	2	6	Mark Webber	Australia	Red Bull Racing	21	1:37.662	0.075	0.075			
+182	9	2010	European Grand Prix	3	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	17	1:37.969	0.382	0.307			
+182	9	2010	European Grand Prix	4	8	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	23	1:38.075	0.488	0.106			
+182	9	2010	European Grand Prix	5	7	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	22	1:38.127	0.540	0.052			
+182	9	2010	European Grand Prix	6	11	Robert Kubica	Poland	Renault F1 Team	18	1:38.137	0.550	0.010			
+182	9	2010	European Grand Prix	7	1	Jenson Button	Great Britain	Vodafone McLaren Mercedes	22	1:38.210	0.623	0.073			
+182	9	2010	European Grand Prix	8	10	Nico Hülkenberg	Germany	AT&T Williams	23	1:38.428	0.841	0.218			
+182	9	2010	European Grand Prix	9	9	Rubens Barrichello	Brazil	AT&T Williams	23	1:38.428	0.841	0.218			
+182	9	2010	European Grand Prix	10	12	Vitaly Petrov	Russia	Renault F1 Team	21	1:38.523	0.936	0.095			
+182	9	2010	European Grand Prix	11	16	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	15	1:38.586	0.999	0.063			
+182	9	2010	European Grand Prix	12	4	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	12	1:38.627	1.040	0.041			
+182	9	2010	European Grand Prix	13	14	Adrian Sutil	Germany	Force India F1 Team	14	1:38.851	1.264	0.224			
+182	9	2010	European Grand Prix	14	15	Vitantonio Liuzzi	Italy	Force India F1 Team	15	1:38.884	1.297	0.033			
+182	9	2010	European Grand Prix	15	3	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	19	1:39.234	1.647	0.350			
+182	9	2010	European Grand Prix	16	22	Pedro de la Rosa	Spain	BMW Sauber F1 Team	16	1:39.264	1.677	0.030			
+182	9	2010	European Grand Prix	17	17	Jaime Alguersuari	Spain	Scuderia Toro Rosso	16	1:39.458	1.871	0.194			
+182	9	2010	European Grand Prix	18	23	Kamui Kobayashi	Japan	BMW Sauber F1 Team	9	1:39.343	1.756	0.079			
+182	9	2010	European Grand Prix	19	18	Jarno Trulli	Italy	Lotus Racing	11	1:40.658	3.071	1.315			
+182	9	2010	European Grand Prix	20	19	Heikki Kovalainen	Finland	Lotus Racing	11	1:40.882	3.295	0.224			
+182	9	2010	European Grand Prix	21	25	Lucas di Grassi	Brazil	Virgin Racing	11	1:42.086	4.499	1.204			
+182	9	2010	European Grand Prix	22	24	Timo Glock	Germany	Virgin Racing	9	1:42.140	4.553	0.054			
+182	9	2010	European Grand Prix	23	20	Karun Chandhok	India	HRT F1 Team	9	1:42.600	5.013	0.460			
+182	9	2010	European Grand Prix	24	21	Bruno Senna	Brazil	HRT F1 Team	10	1:42.851	5.264	0.251			

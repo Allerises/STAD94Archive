@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+49	16	2002	United States Grand Prix	1	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:10.790					
+49	16	2002	United States Grand Prix	2	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:11.058	0.268	0.268			
+49	16	2002	United States Grand Prix	3	3	David Coulthard	Great Britain	West McLaren Mercedes		1:11.413	0.623	0.355			
+49	16	2002	United States Grand Prix	4	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:11.414	0.624	0.001			
+49	16	2002	United States Grand Prix	5	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:11.587	0.797	0.173			
+49	16	2002	United States Grand Prix	6	4	Kimi Räikkönen	Finland	West McLaren Mercedes		1:11.633	0.843	0.046			
+49	16	2002	United States Grand Prix	7	11	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:11.738	0.948	0.105			
+49	16	2002	United States Grand Prix	8	14	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:11.888	1.098	0.150			
+49	16	2002	United States Grand Prix	9	9	Giancarlo Fisichella	Italy	DHL Jordan Honda		1:11.902	1.112	0.014			
+49	16	2002	United States Grand Prix	10	7	Nick Heidfeld	Germany	Sauber Petronas		1:11.953	1.163	0.051			
+49	16	2002	United States Grand Prix	11	8	Heinz-Harald Frentzen	Germany	Sauber Petronas		1:12.083	1.293	0.130			
+49	16	2002	United States Grand Prix	12	12	Olivier Panis	France	Lucky Strike BAR Honda		1:12.161	1.371	0.078			
+49	16	2002	United States Grand Prix	13	16	Eddie Irvine	Great Britain	Jaguar Racing		1:12.282	1.492	0.121			
+49	16	2002	United States Grand Prix	14	15	Jenson Button	Great Britain	Mild Seven Renault F1 Team		1:12.401	1.611	0.119			
+49	16	2002	United States Grand Prix	15	10	Takuma Sato	Japan	DHL Jordan Honda		1:12.647	1.857	0.246			
+49	16	2002	United States Grand Prix	16	25	Allan McNish	Great Britain	Panasonic Toyota Racing		1:12.723	1.933	0.076			
+49	16	2002	United States Grand Prix	17	17	Pedro de la Rosa	Spain	Jaguar Racing		1:12.739	1.949	0.016			
+49	16	2002	United States Grand Prix	18	23	Mark Webber	Australia	KL Minardi Asiatech		1:13.128	2.338	0.389			
+49	16	2002	United States Grand Prix	19	24	Mika Salo	Finland	Panasonic Toyota Racing		1:13.213	2.423	0.085			
+49	16	2002	United States Grand Prix	20	22	Alex Yoong	Malaysia	KL Minardi Asiatech		1:13.809	3.019	0.596			

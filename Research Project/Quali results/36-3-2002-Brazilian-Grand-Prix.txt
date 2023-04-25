@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+36	3	2002	Brazilian Grand Prix	1	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:13.114					
+36	3	2002	Brazilian Grand Prix	2	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:13.241	0.127	0.127			
+36	3	2002	Brazilian Grand Prix	3	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:13.328	0.214	0.087			
+36	3	2002	Brazilian Grand Prix	4	3	David Coulthard	Great Britain	West McLaren Mercedes		1:13.565	0.451	0.237			
+36	3	2002	Brazilian Grand Prix	5	4	Kimi Räikkönen	Finland	West McLaren Mercedes		1:13.595	0.481	0.030			
+36	3	2002	Brazilian Grand Prix	6	14	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:13.611	0.497	0.016			
+36	3	2002	Brazilian Grand Prix	7	15	Jenson Button	Great Britain	Mild Seven Renault F1 Team		1:13.665	0.551	0.054			
+36	3	2002	Brazilian Grand Prix	8	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:13.935	0.821	0.270			
+36	3	2002	Brazilian Grand Prix	9	7	Nick Heidfeld	Germany	Sauber Petronas		1:14.233	1.119	0.298			
+36	3	2002	Brazilian Grand Prix	10	24	Mika Salo	Finland	Panasonic Toyota Racing		1:14.443	1.329	0.210			
+36	3	2002	Brazilian Grand Prix	11	17	Pedro de la Rosa	Spain	Jaguar Racing		1:14.464	1.350	0.021			
+36	3	2002	Brazilian Grand Prix	12	8	Felipe Massa	Brazil	Sauber Petronas		1:14.533	1.419	0.069			
+36	3	2002	Brazilian Grand Prix	13	16	Eddie Irvine	Great Britain	Jaguar Racing		1:14.537	1.423	0.004			
+36	3	2002	Brazilian Grand Prix	14	9	Giancarlo Fisichella	Italy	DHL Jordan Honda		1:14.748	1.634	0.211			
+36	3	2002	Brazilian Grand Prix	15	11	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:14.760	1.646	0.012			
+36	3	2002	Brazilian Grand Prix	16	25	Allan McNish	Great Britain	Panasonic Toyota Racing		1:14.990	1.876	0.230			
+36	3	2002	Brazilian Grand Prix	17	12	Olivier Panis	France	Lucky Strike BAR Honda		1:14.996	1.882	0.006			
+36	3	2002	Brazilian Grand Prix	18	20	Heinz-Harald Frentzen	Germany	Orange Arrows		1:15.112	1.998	0.116			
+36	3	2002	Brazilian Grand Prix	19	10	Takuma Sato	Japan	DHL Jordan Honda		1:15.296	2.182	0.184			
+36	3	2002	Brazilian Grand Prix	20	23	Mark Webber	Australia	KL Minardi Asiatech		1:15.340	2.226	0.044			
+36	3	2002	Brazilian Grand Prix	21	21	Enrique Bernoldi	Brazil	Orange Arrows		1:15.355	2.241	0.015			
+36	3	2002	Brazilian Grand Prix	22	22	Alex Yoong	Malaysia	KL Minardi Asiatech		1:16.728	3.614	1.373			

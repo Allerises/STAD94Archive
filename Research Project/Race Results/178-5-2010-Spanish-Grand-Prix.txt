@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+178	5	2010	Spanish Grand Prix	1	6	Mark Webber	Australia	Red Bull	66	1:35:44.101			192.471	1:24.828	62
+178	5	2010	Spanish Grand Prix	2	8	Fernando Alonso	Spain	Ferrari	66	1:36:08.166	+ 24.065	+ 24.065	191.668	1:24.846	57
+178	5	2010	Spanish Grand Prix	3	5	Sebastian Vettel	Germany	Red Bull	66	1:36:35.439	+ 51.338	+ 27.273	190.766	1:25.176	56
+178	5	2010	Spanish Grand Prix	4	3	Michael Schumacher	Germany	Mercedes	66	1:36:46.296	+ 1:02.195	+ 10.857	190.409	1:25.529	64
+178	5	2010	Spanish Grand Prix	5	1	Jenson Button	Great Britain	McLaren	66	1:36:47.829	+ 1:03.728	+ 1.533	190.359	1:25.166	64
+178	5	2010	Spanish Grand Prix	6	7	Felipe Massa	Brazil	Ferrari	66	1:36:49.868	+ 1:05.767	+ 2.039	190.292	1:25.497	64
+178	5	2010	Spanish Grand Prix	7	14	Adrian Sutil	Germany	Force India	66	1:36:57.042	+ 1:12.941	+ 7.174	190.057	1:25.845	65
+178	5	2010	Spanish Grand Prix	8	11	Robert Kubica	Poland	Renault	66	1:36:57.778	+ 1:13.677	+ 0.736	190.033	1:25.466	66
+178	5	2010	Spanish Grand Prix	9	9	Rubens Barrichello	Brazil	Williams	65	1:36:04.378	1 Lap	1 Lap	188.887	1:25.728	59
+178	5	2010	Spanish Grand Prix	10	17	Jaime Alguersuari	Spain	Toro Rosso	65	1:36:13.288	1 Lap	+ 8.910	188.595	1:25.655	63
+178	5	2010	Spanish Grand Prix	11	12	Vitaly Petrov	Russia	Renault	65	1:36:20.307	1 Lap	+ 7.019	188.366	1:25.470	63
+178	5	2010	Spanish Grand Prix	12	23	Kamui Kobayashi	Japan	Sauber	65	1:36:21.168	1 Lap	+ 0.861	188.338	1:26.083	62
+178	5	2010	Spanish Grand Prix	13	4	Nico Rosberg	Germany	Mercedes	65	1:36:41.080	1 Lap	+ 19.912	187.692	1:25.455	50
+178	5	2010	Spanish Grand Prix	14	2	Lewis Hamilton	Great Britain	McLaren	64	1:32:59.272	2 Laps	1 Lap	192.150	1:24.357	59
+178	5	2010	Spanish Grand Prix	15	15	Vitantonio Liuzzi	Italy	Force India	64	1:35:09.944	2 Laps	+ 2:10.672	187.752	1:25.924	63
+178	5	2010	Spanish Grand Prix	16	10	Nico Hülkenberg	Germany	Williams	64	1:35:44.518	2 Laps	+ 34.574	186.622	1:26.863	63
+178	5	2010	Spanish Grand Prix	17	18	Jarno Trulli	Italy	Lotus	63	1:37:09.713	3 Laps	1 Lap	181.020	1:29.564	56
+178	5	2010	Spanish Grand Prix	18	24	Timo Glock	Germany	Virgin	63	1:37:11.174	3 Laps	+ 1.461	180.975	1:29.776	60
+178	5	2010	Spanish Grand Prix	19	25	Lucas di Grassi	Brazil	Virgin	62	1:37:00.618	4 Laps	1 Lap	178.424	1:29.904	47
+178	5	2010	Spanish Grand Prix	20	16	Sébastien Buemi	Switzerland	Toro Rosso	42	1:03:39.034			184.178	1:26.724	41
+178	5	2010	Spanish Grand Prix	21	20	Karun Chandhok	India	HRT	27	42:21.804			177.831	1:32.041	26
+178	5	2010	Spanish Grand Prix	22	22	Pedro de la Rosa	Spain	Sauber	18	29:01.455			172.953	1:30.411	9
+178	5	2010	Spanish Grand Prix	23	21	Bruno Senna	Brazil	HRT							
+178	5	2010	Spanish Grand Prix	24	19	Heikki Kovalainen	Finland	Lotus							

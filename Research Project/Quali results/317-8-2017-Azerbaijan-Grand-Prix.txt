@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+317	8	2017	Azerbaijan Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:40.593			214.834		
+317	8	2017	Azerbaijan Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:41.027	0.434	0.434	213.911		
+317	8	2017	Azerbaijan Grand Prix	3	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:41.693	1.100	0.666	212.510		
+317	8	2017	Azerbaijan Grand Prix	4	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:41.841	1.248	0.148	212.201		
+317	8	2017	Azerbaijan Grand Prix	5	33	Max Verstappen	Netherlands	Red Bull Racing		1:41.879	1.286	0.038	212.122		
+317	8	2017	Azerbaijan Grand Prix	6	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:42.111	1.518	0.232	211.640		
+317	8	2017	Azerbaijan Grand Prix	7	31	Esteban Ocon	France	Sahara Force India F1 Team		1:42.186	1.593	0.075	211.484		
+317	8	2017	Azerbaijan Grand Prix	8	18	Lance Stroll	Canada	Williams Martini Racing		1:42.753	2.160	0.567	210.317		
+317	8	2017	Azerbaijan Grand Prix	9	19	Felipe Massa	Brazil	Williams Martini Racing		1:42.798	2.205	0.045	210.225		
+317	8	2017	Azerbaijan Grand Prix	10	3	Daniel Ricciardo	Australia	Red Bull Racing		1:43.414	2.821	0.616	208.973		
+317	8	2017	Azerbaijan Grand Prix	11	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:43.186	2.593		209.435		
+317	8	2017	Azerbaijan Grand Prix	12	20	Kevin Magnussen	Denmark	Haas F1 Team		1:43.796	3.203	0.610	208.204		
+317	8	2017	Azerbaijan Grand Prix	13	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:44.267	3.674	0.471	207.264		
+317	8	2017	Azerbaijan Grand Prix	14	94	Pascal Wehrlein	Germany	Sauber F1 Team		1:44.603	4.010	0.336	206.598		
+317	8	2017	Azerbaijan Grand Prix	15	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:43.347	2.754		209.109		
+317	8	2017	Azerbaijan Grand Prix	16	8	Romain Grosjean	France	Haas F1 Team		1:44.468	3.875	1.121	206.865		
+317	8	2017	Azerbaijan Grand Prix	17	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:44.795	4.202	0.327	206.219		
+317	8	2017	Azerbaijan Grand Prix	18	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team		1:45.030	4.437	0.235	205.758		
+317	8	2017	Azerbaijan Grand Prix	19	14	Fernando Alonso	Spain	McLaren Honda Formula 1 Team		1:44.334	3.741		207.130		
+317	8	2017	Azerbaijan Grand Prix	20	30	Jolyon Palmer	Great Britain	Renault Sport Formula One Team							

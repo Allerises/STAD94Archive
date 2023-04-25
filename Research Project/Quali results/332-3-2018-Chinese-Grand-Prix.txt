@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+332	3	2018	Chinese Grand Prix	1	5	Sebastian Vettel	Germany	Scuderia Ferrari	15	1:31.095			215.419		
+332	3	2018	Chinese Grand Prix	2	7	Kimi Räikkönen	Finland	Scuderia Ferrari	17	1:31.182	0.087	0.087	215.213		
+332	3	2018	Chinese Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes AMG Petronas Motorsport	20	1:31.625	0.530	0.443	214.172		
+332	3	2018	Chinese Grand Prix	4	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas Motorsport	17	1:31.675	0.580	0.050	214.056		
+332	3	2018	Chinese Grand Prix	5	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	12	1:31.796	0.701	0.121	213.774		
+332	3	2018	Chinese Grand Prix	6	3	Daniel Ricciardo	Australia	Aston Martin Red Bull Racing	12	1:31.948	0.853	0.152	213.420		
+332	3	2018	Chinese Grand Prix	7	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team	15	1:32.532	1.437	0.584	212.073		
+332	3	2018	Chinese Grand Prix	8	11	Sergio Pérez	Mexico	Sahara Force India F1 Team	13	1:32.758	1.663	0.226	211.556		
+332	3	2018	Chinese Grand Prix	9	55	Carlos Sainz	Spain	Renault Sport Formula One Team	18	1:32.819	1.724	0.061	211.417		
+332	3	2018	Chinese Grand Prix	10	8	Romain Grosjean	France	Haas F1 Team	19	1:32.855	1.760	0.036	211.335		
+332	3	2018	Chinese Grand Prix	11	20	Kevin Magnussen	Denmark	Haas F1 Team	13	1:32.986	1.891	0.131	211.038		
+332	3	2018	Chinese Grand Prix	12	31	Esteban Ocon	France	Sahara Force India F1 Team	9	1:33.057	1.962	0.071	210.877		
+332	3	2018	Chinese Grand Prix	13	14	Fernando Alonso	Spain	McLaren F1 Team	11	1:33.232	2.137	0.175	210.481		
+332	3	2018	Chinese Grand Prix	14	2	Stoffel Vandoorne	Belgium	McLaren F1 Team	11	1:33.505	2.410	0.273	209.866		
+332	3	2018	Chinese Grand Prix	15	28	Brendon Hartley	New Zealand	Red Bull Toro Rosso Honda	15	1:33.795	2.700	0.290	209.217		
+332	3	2018	Chinese Grand Prix	16	35	Sergey Sirotkin	Russia	Williams Martini Racing	7	1:34.062	2.967	0.267	208.624		
+332	3	2018	Chinese Grand Prix	17	10	Pierre Gasly	France	Red Bull Toro Rosso Honda	9	1:34.101	3.006	0.039	208.537		
+332	3	2018	Chinese Grand Prix	18	18	Lance Stroll	Canada	Williams Martini Racing	7	1:34.285	3.190	0.184	208.130		
+332	3	2018	Chinese Grand Prix	19	16	Charles Leclerc	Monaco	Alfa Romeo Sauber F1 Team	9	1:34.454	3.359	0.169	207.758		
+332	3	2018	Chinese Grand Prix	20	9	Marcus Ericsson	Sweden	Alfa Romeo Sauber F1 Team	9	1:34.914	3.819	0.460	206.751		

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+107	4	2006	San Marino Grand Prix	1	5	Michael Schumacher	Germany	Ferrari	62	1:31:06.486			202.322	1:24.624	19
+107	4	2006	San Marino Grand Prix	2	1	Fernando Alonso	Spain	Renault	62	1:31:08.582	+ 2.096	+ 2.096	202.245	1:24.569	23
+107	4	2006	San Marino Grand Prix	3	4	Juan Pablo Montoya	Colombia	McLaren	62	1:31:22.354	+ 15.868	+ 13.772	201.737	1:25.096	22
+107	4	2006	San Marino Grand Prix	4	6	Felipe Massa	Brazil	Ferrari	62	1:31:23.582	+ 17.096	+ 1.228	201.692	1:25.528	12
+107	4	2006	San Marino Grand Prix	5	3	Kimi Räikkönen	Finland	McLaren	62	1:31:24.010	+ 17.524	+ 0.428	201.676	1:25.027	49
+107	4	2006	San Marino Grand Prix	6	9	Mark Webber	Australia	Williams	62	1:31:44.225	+ 37.739	+ 20.215	200.935	1:25.488	39
+107	4	2006	San Marino Grand Prix	7	12	Jenson Button	Great Britain	Honda	62	1:31:46.121	+ 39.635	+ 1.896	200.866	1:25.347	29
+107	4	2006	San Marino Grand Prix	8	2	Giancarlo Fisichella	Italy	Renault	62	1:31:46.686	+ 40.200	+ 0.565	200.845	1:25.353	43
+107	4	2006	San Marino Grand Prix	9	7	Ralf Schumacher	Germany	Toyota	62	1:31:51.997	+ 45.511	+ 5.311	200.652	1:25.316	45
+107	4	2006	San Marino Grand Prix	10	11	Rubens Barrichello	Brazil	Honda	62	1:32:24.337	+ 1:17.851	+ 32.340	199.482	1:26.129	12
+107	4	2006	San Marino Grand Prix	11	10	Nico Rosberg	Germany	Williams	62	1:32:26.161	+ 1:19.675	+ 1.824	199.416	1:26.418	30
+107	4	2006	San Marino Grand Prix	12	17	Jacques Villeneuve	Canada	Sauber	62	1:32:28.856	+ 1:22.370	+ 2.695	199.319	1:25.438	53
+107	4	2006	San Marino Grand Prix	13	16	Nick Heidfeld	Germany	Sauber	61	1:31:14.621	1 Lap	1 Lap	198.761	1:25.996	53
+107	4	2006	San Marino Grand Prix	14	20	Vitantonio Liuzzi	Italy	Toro Rosso	61	1:31:16.127	1 Lap	+ 1.506	198.706	1:25.679	43
+107	4	2006	San Marino Grand Prix	15	21	Scott Speed	USA	Toro Rosso	61	1:31:17.717	1 Lap	+ 1.590	198.649	1:26.248	57
+107	4	2006	San Marino Grand Prix	16	18	Tiago Monteiro	Portugal	MF1 Racing	60	1:32:04.462	2 Laps	1 Lap	193.736	1:27.160	53
+107	4	2006	San Marino Grand Prix	17	14	David Coulthard	Great Britain	Red Bull	47	1:11:12.998			196.164	1:26.855	41
+107	4	2006	San Marino Grand Prix	18	22	Takuma Sato	Japan	Super Aguri	44	1:08:45.746			190.184	1:29.100	40
+107	4	2006	San Marino Grand Prix	19	15	Christian Klien	Austria	Red Bull	40	1:00:36.834			196.116	1:26.759	30
+107	4	2006	San Marino Grand Prix	20	23	Yuji Ide	Japan	Super Aguri	23	50:50.196			134.336	1:31.032	15
+107	4	2006	San Marino Grand Prix	21	8	Jarno Trulli	Italy	Toyota	5	8:41.967			169.376	1:28.039	4
+107	4	2006	San Marino Grand Prix	22	19	Christijan Albers	Netherlands	MF1 Racing							

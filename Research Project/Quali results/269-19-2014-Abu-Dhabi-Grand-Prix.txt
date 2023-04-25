@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+269	19	2014	Abu Dhabi Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	6	1:40.480					
+269	19	2014	Abu Dhabi Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team	6	1:40.866	0.386	0.386			
+269	19	2014	Abu Dhabi Grand Prix	3	77	Valtteri Bottas	Finland	Williams Martini Racing	6	1:41.025	0.545	0.159			
+269	19	2014	Abu Dhabi Grand Prix	4	19	Felipe Massa	Brazil	Williams Martini Racing	6	1:41.119	0.639	0.094			
+269	19	2014	Abu Dhabi Grand Prix	5	26	Daniil Kvyat	Russia	Scuderia Toro Rosso	6	1:41.908	1.428	0.789			
+269	19	2014	Abu Dhabi Grand Prix	6	22	Jenson Button	Great Britain	McLaren Mercedes	6	1:41.964	1.484	0.056			
+269	19	2014	Abu Dhabi Grand Prix	7	7	Kimi Räikkönen	Finland	Scuderia Ferrari	3	1:42.236	1.756	0.272			
+269	19	2014	Abu Dhabi Grand Prix	8	14	Fernando Alonso	Spain	Scuderia Ferrari	5	1:42.866	2.386	0.630			
+269	19	2014	Abu Dhabi Grand Prix	9	20	Kevin Magnussen	Denmark	McLaren Mercedes	5	1:42.198	1.718	0.234			
+269	19	2014	Abu Dhabi Grand Prix	10	25	Jean-Eric Vergne	France	Scuderia Toro Rosso	6	1:42.207	1.727	0.009			
+269	19	2014	Abu Dhabi Grand Prix	11	11	Sergio Pérez	Mexico	Sahara Force India F1 Team	6	1:42.239	1.759	0.032			
+269	19	2014	Abu Dhabi Grand Prix	12	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team	6	1:42.384	1.904	0.145			
+269	19	2014	Abu Dhabi Grand Prix	13	99	Adrian Sutil	Germany	Sauber F1 Team	8	1:42.746	2.266	0.362			
+269	19	2014	Abu Dhabi Grand Prix	14	8	Romain Grosjean	France	Lotus F1 Team	8	1:42.768	2.288	0.022			
+269	19	2014	Abu Dhabi Grand Prix	15	21	Esteban Gutiérrez	Mexico	Sauber F1 Team	8	1:42.819	2.339	0.051			
+269	19	2014	Abu Dhabi Grand Prix	16	13	Pastor Maldonado	Venezuela	Lotus F1 Team	8	1:42.860	2.380	0.041			
+269	19	2014	Abu Dhabi Grand Prix	17	10	Kamui Kobayashi	Japan	Caterham F1 Team	7	1:44.540	4.060	1.680			
+269	19	2014	Abu Dhabi Grand Prix	18	46	Will Stevens	Great Britain	Caterham F1 Team	8	1:45.095	4.615	0.555			
+269	19	2014	Abu Dhabi Grand Prix	19	1	Sebastian Vettel	Germany	Infiniti Red Bull Racing	6	1:41.893	1.413	0.626			
+269	19	2014	Abu Dhabi Grand Prix	20	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing	6	1:41.267	0.787	0.148			

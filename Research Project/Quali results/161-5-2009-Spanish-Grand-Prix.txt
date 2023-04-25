@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+161	5	2009	Spanish Grand Prix	1	22	Jenson Button	Great Britain	Brawn GP Formula 1 Team	21	1:20.527					
+161	5	2009	Spanish Grand Prix	2	15	Sebastian Vettel	Germany	Red Bull Racing	15	1:20.660	0.133	0.133			
+161	5	2009	Spanish Grand Prix	3	23	Rubens Barrichello	Brazil	Brawn GP Formula 1 Team	20	1:20.762	0.235	0.102			
+161	5	2009	Spanish Grand Prix	4	3	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	18	1:20.934	0.407	0.172			
+161	5	2009	Spanish Grand Prix	5	14	Mark Webber	Australia	Red Bull Racing	17	1:21.049	0.522	0.115			
+161	5	2009	Spanish Grand Prix	6	10	Timo Glock	Germany	Panasonic Toyota Racing	25	1:21.247	0.720	0.198			
+161	5	2009	Spanish Grand Prix	7	9	Jarno Trulli	Italy	Panasonic Toyota Racing	25	1:21.254	0.727	0.007			
+161	5	2009	Spanish Grand Prix	8	7	Fernando Alonso	Spain	ING Renault F1 Team	20	1:21.392	0.865	0.138			
+161	5	2009	Spanish Grand Prix	9	16	Nico Rosberg	Germany	AT&T Williams	22	1:22.558	2.031	1.166			
+161	5	2009	Spanish Grand Prix	10	5	Robert Kubica	Poland	BMW Sauber F1 Team	15	1:22.685	2.158	0.127			
+161	5	2009	Spanish Grand Prix	11	17	Kazuki Nakajima	Japan	AT&T Williams	16	1:20.531	0.004	0.004			
+161	5	2009	Spanish Grand Prix	12	8	Nelson Piquet Jr.	Brazil	Renault	20	1:20.604	0.077	0.073			
+161	5	2009	Spanish Grand Prix	13	6	Nick Heidfeld	Germany	BMW Sauber F1 Team	16	1:20.676	0.149	0.072			
+161	5	2009	Spanish Grand Prix	14	1	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	12	1:20.805	0.278	0.129			
+161	5	2009	Spanish Grand Prix	15	12	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	15	1:21.067	0.540	0.262			
+161	5	2009	Spanish Grand Prix	16	4	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	5	1:21.291	0.764	0.224			
+161	5	2009	Spanish Grand Prix	17	11	Sebastien Bourdais	France	Scuderia Toro Rosso	8	1:21.300	0.773	0.009			
+161	5	2009	Spanish Grand Prix	18	2	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	10	1:21.675	1.148	0.375			
+161	5	2009	Spanish Grand Prix	19	20	Adrian Sutil	Germany	Force India F1 Team	11	1:21.742	1.215	0.067			
+161	5	2009	Spanish Grand Prix	20	21	Giancarlo Fisichella	Italy	Force India F1 Team	11	1:22.204	1.677	0.462			

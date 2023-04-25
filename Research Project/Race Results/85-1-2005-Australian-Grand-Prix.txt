@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+85	1	2005	Australian Grand Prix	1	6	Giancarlo Fisichella	Italy	Renault	57	1:24:17.336			215.167	1:25.994	55
+85	1	2005	Australian Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	57	1:24:22.889	+ 5.553	+ 5.553	214.931	1:26.233	54
+85	1	2005	Australian Grand Prix	3	5	Fernando Alonso	Spain	Renault	57	1:24:24.048	+ 6.712	+ 1.159	214.882	1:25.683	24
+85	1	2005	Australian Grand Prix	4	14	David Coulthard	Great Britain	Red Bull	57	1:24:33.467	+ 16.131	+ 9.419	214.483	1:26.690	40
+85	1	2005	Australian Grand Prix	5	7	Mark Webber	Australia	Williams	57	1:24:34.244	+ 16.908	+ 0.777	214.450	1:26.493	37
+85	1	2005	Australian Grand Prix	6	10	Juan Pablo Montoya	Colombia	McLaren	57	1:24:52.369	+ 35.033	+ 18.125	213.687	1:26.393	41
+85	1	2005	Australian Grand Prix	7	15	Christian Klien	Austria	Red Bull	57	1:24:56.333	+ 38.997	+ 3.964	213.521	1:26.627	39
+85	1	2005	Australian Grand Prix	8	9	Kimi Räikkönen	Finland	McLaren	57	1:24:56.969	+ 39.633	+ 0.636	213.494	1:26.255	55
+85	1	2005	Australian Grand Prix	9	16	Jarno Trulli	Italy	Toyota	57	1:25:20.444	+ 1:03.108	+ 23.475	212.515	1:27.116	56
+85	1	2005	Australian Grand Prix	10	12	Felipe Massa	Brazil	Sauber	57	1:25:21.729	+ 1:04.393	+ 1.285	212.462	1:26.893	55
+85	1	2005	Australian Grand Prix	11	3	Jenson Button	Great Britain	BAR	56	1:24:00.300	1 Lap	1 Lap	212.107	1:26.260	55
+85	1	2005	Australian Grand Prix	12	17	Ralf Schumacher	Germany	Toyota	56	1:24:19.875	1 Lap	+ 19.575	211.286	1:26.536	56
+85	1	2005	Australian Grand Prix	13	11	Jacques Villeneuve	Canada	Sauber	56	1:24:37.413	1 Lap	+ 17.538	210.556	1:27.745	54
+85	1	2005	Australian Grand Prix	14	4	Takuma Sato	Japan	BAR	55	1:22:58.991	2 Laps	1 Lap	210.884	1:27.877	36
+85	1	2005	Australian Grand Prix	15	19	Narain Karthikeyan	India	Jordan	55	1:24:19.027	2 Laps	+ 1:20.036	207.548	1:27.970	36
+85	1	2005	Australian Grand Prix	16	18	Tiago Monteiro	Portugal	Jordan	55	1:25:12.846	2 Laps	+ 53.819	205.363	1:28.999	16
+85	1	2005	Australian Grand Prix	17	20	Patrick Friesacher	Austria	Minardi	53	1:25:00.047	4 Laps	2 Laps	198.392	1:32.852	22
+85	1	2005	Australian Grand Prix	18	1	Michael Schumacher	Germany	Ferrari	42	1:03:02.680			211.969	1:26.261	38
+85	1	2005	Australian Grand Prix	19	8	Nick Heidfeld	Germany	Williams	42	1:03:06.379			211.762	1:26.854	38
+85	1	2005	Australian Grand Prix	20	21	Christijan Albers	Netherlands	Minardi	16	25:33.705			199.160	1:33.144	11

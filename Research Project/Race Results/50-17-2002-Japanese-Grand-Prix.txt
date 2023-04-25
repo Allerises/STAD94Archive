@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+50	17	2002	Japanese Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	53	1:26:59.698			212.644	1:36.125	15
+50	17	2002	Japanese Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	53	1:27:00.205	+ 0.507	+ 0.507	212.624	1:36.345	23
+50	17	2002	Japanese Grand Prix	3	4	Kimi Räikkönen	Finland	McLaren	53	1:27:22.990	+ 23.292	+ 22.785	211.700	1:36.848	46
+50	17	2002	Japanese Grand Prix	4	6	Juan Pablo Montoya	Colombia	Williams	53	1:27:35.973	+ 36.275	+ 12.983	211.177	1:36.757	38
+50	17	2002	Japanese Grand Prix	5	10	Takuma Sato	Japan	Jordan	53	1:28:22.392	+ 1:22.694	+ 46.419	209.328	1:37.840	35
+50	17	2002	Japanese Grand Prix	6	15	Jenson Button	Great Britain	Renault	52	1:27:00.657	1 Lap	1 Lap	208.591	1:38.046	31
+50	17	2002	Japanese Grand Prix	7	7	Nick Heidfeld	Germany	Sauber	52	1:27:02.825	1 Lap	+ 2.168	208.505	1:38.534	21
+50	17	2002	Japanese Grand Prix	8	24	Mika Salo	Finland	Toyota	52	1:27:13.722	1 Lap	+ 10.897	208.070	1:37.761	20
+50	17	2002	Japanese Grand Prix	9	16	Eddie Irvine	Great Britain	Jaguar	52	1:27:33.269	1 Lap	+ 19.547	207.296	1:38.647	40
+50	17	2002	Japanese Grand Prix	10	23	Mark Webber	Australia	Minardi	51	1:27:21.578	2 Laps	1 Lap	203.761	1:40.232	51
+50	17	2002	Japanese Grand Prix	11	5	Ralf Schumacher	Germany	Williams	48	1:19:00.991	5 Laps	3 Laps	212.015	1:36.590	26
+50	17	2002	Japanese Grand Prix	12	17	Pedro de la Rosa	Spain	Jaguar	39	1:05:59.318			206.238	1:38.836	35
+50	17	2002	Japanese Grand Prix	13	9	Giancarlo Fisichella	Italy	Jordan	37	1:02:16.132			207.340	1:38.217	23
+50	17	2002	Japanese Grand Prix	14	14	Jarno Trulli	Italy	Renault	32	53:17.923			209.471	1:38.000	30
+50	17	2002	Japanese Grand Prix	15	11	Jacques Villeneuve	Canada	BAR	27	45:21.500			207.641	1:38.058	24
+50	17	2002	Japanese Grand Prix	16	22	Alex Yoong	Malaysia	Minardi	14	24:08.621			202.035	1:40.937	6
+50	17	2002	Japanese Grand Prix	17	12	Olivier Panis	France	BAR	8	22:28.178			123.825	1:42.082	4
+50	17	2002	Japanese Grand Prix	18	3	David Coulthard	Great Britain	McLaren	7	12:08.267			200.453	1:38.251	6
+50	17	2002	Japanese Grand Prix	19	8	Felipe Massa	Brazil	Sauber	3	5:10.757			200.031	1:39.954	3
+50	17	2002	Japanese Grand Prix	20	25	Allan McNish	Great Britain	Toyota							

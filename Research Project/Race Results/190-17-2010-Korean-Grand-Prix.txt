@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+190	17	2010	Korean Grand Prix	1	8	Fernando Alonso	Spain	Ferrari	55	2:48:20.810			109.997	1:50.257	42
+190	17	2010	Korean Grand Prix	2	2	Lewis Hamilton	Great Britain	McLaren	55	2:48:35.809	+ 14.999	+ 14.999	109.834	1:50.430	42
+190	17	2010	Korean Grand Prix	3	7	Felipe Massa	Brazil	Ferrari	55	2:48:51.678	+ 30.868	+ 15.869	109.662	1:50.502	44
+190	17	2010	Korean Grand Prix	4	3	Michael Schumacher	Germany	Mercedes	55	2:49:00.498	+ 39.688	+ 8.820	109.567	1:51.835	43
+190	17	2010	Korean Grand Prix	5	11	Robert Kubica	Poland	Renault	55	2:49:08.544	+ 47.734	+ 8.046	109.480	1:51.604	45
+190	17	2010	Korean Grand Prix	6	15	Vitantonio Liuzzi	Italy	Force India	55	2:49:14.381	+ 53.571	+ 5.837	109.417	1:51.371	45
+190	17	2010	Korean Grand Prix	7	9	Rubens Barrichello	Brazil	Williams	55	2:49:30.067	+ 1:09.257	+ 15.686	109.248	1:51.564	45
+190	17	2010	Korean Grand Prix	8	23	Kamui Kobayashi	Japan	Sauber	55	2:49:38.699	+ 1:17.889	+ 8.632	109.156	1:53.086	42
+190	17	2010	Korean Grand Prix	9	22	Nick Heidfeld	Germany	Sauber	55	2:49:40.917	+ 1:20.107	+ 2.218	109.132	1:53.263	42
+190	17	2010	Korean Grand Prix	10	10	Nico Hülkenberg	Germany	Williams	55	2:49:41.661	+ 1:20.851	+ 0.744	109.124	1:51.982	43
+190	17	2010	Korean Grand Prix	11	17	Jaime Alguersuari	Spain	Toro Rosso	55	2:49:44.956	+ 1:24.146	+ 3.295	109.089	1:51.962	43
+190	17	2010	Korean Grand Prix	12	1	Jenson Button	Great Britain	McLaren	55	2:49:50.749	+ 1:29.939	+ 5.793	109.027	1:52.193	42
+190	17	2010	Korean Grand Prix	13	19	Heikki Kovalainen	Finland	Lotus	54	2:49:27.567	1 Lap	1 Lap	107.287	1:55.018	43
+190	17	2010	Korean Grand Prix	14	21	Bruno Senna	Brazil	HRT	53	2:48:30.504	2 Laps	1 Lap	105.893	1:59.290	30
+190	17	2010	Korean Grand Prix	15	20	Sakon Yamamoto	Japan	HRT	53	2:48:47.837	2 Laps	+ 17.333	105.712	1:58.313	36
+190	17	2010	Korean Grand Prix	16	14	Adrian Sutil	Germany	Force India	46	2:32:16.449			101.696	1:52.601	40
+190	17	2010	Korean Grand Prix	17	5	Sebastian Vettel	Germany	Red Bull	45	2:29:40.709			101.208	1:50.375	44
+190	17	2010	Korean Grand Prix	18	12	Vitaly Petrov	Russia	Renault	39	2:18:51.371			94.539	1:53.031	39
+190	17	2010	Korean Grand Prix	19	24	Timo Glock	Germany	Virgin	31	2:02:44.467			84.993	1:58.102	29
+190	17	2010	Korean Grand Prix	20	16	Sébastien Buemi	Switzerland	Toro Rosso	30	2:00:28.773			83.792	1:56.768	27
+190	17	2010	Korean Grand Prix	21	25	Lucas di Grassi	Brazil	Virgin	25	1:50:42.103			75.977	2:02.635	25
+190	17	2010	Korean Grand Prix	22	18	Jarno Trulli	Italy	Lotus	25	1:53:15.556			74.261	2:05.161	20
+190	17	2010	Korean Grand Prix	23	6	Mark Webber	Australia	Red Bull	18	1:34:32.943			64.014	2:00.025	18
+190	17	2010	Korean Grand Prix	24	4	Nico Rosberg	Germany	Mercedes	18	1:34:35.430			63.986	2:00.652	18

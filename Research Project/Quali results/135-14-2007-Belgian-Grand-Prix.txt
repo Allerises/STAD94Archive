@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+135	14	2007	Belgian Grand Prix	1	6	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	15	1:45.994					
+135	14	2007	Belgian Grand Prix	2	5	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	15	1:46.011	0.017	0.017			
+135	14	2007	Belgian Grand Prix	3	1	Fernando Alonso	Spain	Vodafone McLaren Mercedes	15	1:46.091	0.097	0.080			
+135	14	2007	Belgian Grand Prix	4	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	15	1:46.406	0.412	0.315			
+135	14	2007	Belgian Grand Prix	5	10	Robert Kubica	Poland	BMW Sauber F1 Team	22	1:46.996	1.002	0.590			
+135	14	2007	Belgian Grand Prix	6	16	Nico Rosberg	Germany	AT&T Williams	21	1:47.334	1.340	0.338			
+135	14	2007	Belgian Grand Prix	7	9	Nick Heidfeld	Germany	BMW Sauber F1 Team	18	1:47.409	1.415	0.075			
+135	14	2007	Belgian Grand Prix	8	15	Mark Webber	Australia	Red Bull Racing	20	1:47.524	1.530	0.115			
+135	14	2007	Belgian Grand Prix	9	12	Jarno Trulli	Italy	Panasonic Toyota Racing	21	1:47.798	1.804	0.274			
+135	14	2007	Belgian Grand Prix	10	4	Heikki Kovalainen	Finland	ING Renault F1 Team	21	1:48.505	2.511	0.707			
+135	14	2007	Belgian Grand Prix	11	3	Giancarlo Fisichella	Italy	ING Renault F1 Team	13	1:46.603	0.609	0.197			
+135	14	2007	Belgian Grand Prix	12	11	Ralf Schumacher	Germany	Panasonic Toyota Racing	11	1:46.618	0.624	0.015			
+135	14	2007	Belgian Grand Prix	13	14	David Coulthard	Great Britain	Red Bull Racing	12	1:46.800	0.806	0.182			
+135	14	2007	Belgian Grand Prix	14	7	Jenson Button	Great Britain	Honda Racing F1 Team	12	1:46.955	0.961	0.155			
+135	14	2007	Belgian Grand Prix	15	18	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	12	1:47.115	1.121	0.160			
+135	14	2007	Belgian Grand Prix	16	17	Alexander Wurz	Austria	AT&T Williams	12	1:47.394	1.400	0.279			
+135	14	2007	Belgian Grand Prix	17	19	Sebastian Vettel	Germany	Scuderia Toro Rosso	6	1:47.581	1.587	0.187			
+135	14	2007	Belgian Grand Prix	18	8	Rubens Barrichello	Brazil	Honda Racing F1 Team	6	1:47.954	1.960	0.373			
+135	14	2007	Belgian Grand Prix	19	22	Takuma Sato	Japan	Super Aguri F1 Team	6	1:47.980	1.986	0.026			
+135	14	2007	Belgian Grand Prix	20	20	Adrian Sutil	Germany	Etihad Aldar Spyker F1 Team	8	1:48.044	2.050	0.064			
+135	14	2007	Belgian Grand Prix	21	23	Anthony Davidson	Great Britain	Super Aguri F1 Team	6	1:48.199	2.205	0.155			
+135	14	2007	Belgian Grand Prix	22	21	Sakon Yamamoto	Japan	Etihad Aldar Spyker F1 Team	5	1:49.577	3.583	1.378			

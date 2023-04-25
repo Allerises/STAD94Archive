@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+357	7	2019	Canadian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	70	1:29:07.084			205.527	1:14.813	62
+357	7	2019	Canadian Grand Prix	2	5	Sebastian Vettel	Germany	Ferrari	70	1:29:10.742	+ 3.658	+ 3.658	205.386	1:14.875	57
+357	7	2019	Canadian Grand Prix	3	16	Charles Leclerc	Monaco	Ferrari	70	1:29:11.780	+ 4.696	+ 1.038	205.347	1:14.356	63
+357	7	2019	Canadian Grand Prix	4	77	Valtteri Bottas	Finland	Mercedes	70	1:29:58.127	+ 51.043	+ 46.347	203.583	1:13.078	69
+357	7	2019	Canadian Grand Prix	5	33	Max Verstappen	Netherlands	Red Bull	70	1:30:04.739	+ 57.655	+ 6.612	203.334	1:14.767	67
+357	7	2019	Canadian Grand Prix	6	3	Daniel Ricciardo	Australia	Renault	69	1:29:10.157	1 Lap	1 Lap	202.474	1:16.075	55
+357	7	2019	Canadian Grand Prix	7	27	Nico Hülkenberg	Germany	Renault	69	1:29:10.559	1 Lap	+ 0.402	202.459	1:15.995	57
+357	7	2019	Canadian Grand Prix	8	10	Pierre Gasly	France	Red Bull	69	1:29:20.625	1 Lap	+ 10.066	202.079	1:16.157	51
+357	7	2019	Canadian Grand Prix	9	18	Lance Stroll	Canada	Aston Martin	69	1:29:39.111	1 Lap	+ 18.486	201.385	1:16.043	47
+357	7	2019	Canadian Grand Prix	10	26	Daniil Kvyat	Russia	Toro Rosso	69	1:29:41.599	1 Lap	+ 2.488	201.291	1:16.198	44
+357	7	2019	Canadian Grand Prix	11	55	Carlos Sainz	Spain	McLaren	69	1:29:43.767	1 Lap	+ 2.168	201.210	1:16.471	37
+357	7	2019	Canadian Grand Prix	12	11	Sergio Pérez	Mexico	Aston Martin	69	1:29:51.999	1 Lap	+ 8.232	200.903	1:16.314	61
+357	7	2019	Canadian Grand Prix	13	99	Antonio Giovinazzi	Italy	Sauber	69	1:30:14.968	1 Lap	+ 22.969	200.051	1:16.365	69
+357	7	2019	Canadian Grand Prix	14	8	Romain Grosjean	France	Haas	69	1:30:16.637	1 Lap	+ 1.669	199.989	1:16.245	60
+357	7	2019	Canadian Grand Prix	15	7	Kimi Räikkönen	Finland	Sauber	69	1:30:17.197	1 Lap	+ 0.560	199.969	1:15.442	60
+357	7	2019	Canadian Grand Prix	16	63	George Russell	Great Britain	Williams	68	1:29:59.792	2 Laps	1 Lap	197.706	1:17.241	58
+357	7	2019	Canadian Grand Prix	17	20	Kevin Magnussen	Denmark	Haas	68	1:30:08.366	2 Laps	+ 8.574	197.392	1:17.309	41
+357	7	2019	Canadian Grand Prix	18	88	Robert Kubica	Poland	Williams	67	1:29:36.150	3 Laps	1 Lap	195.655	1:17.285	64
+357	7	2019	Canadian Grand Prix	19	23	Alexander Albon	Thailand	Toro Rosso	59	1:18:06.403			197.651	1:17.151	47
+357	7	2019	Canadian Grand Prix	20	4	Lando Norris	Great Britain	McLaren	8	10:46.205			194.360	1:18.023	4

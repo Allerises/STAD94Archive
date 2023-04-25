@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+322	13	2017	Italian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:35.554			218.251		
+322	13	2017	Italian Grand Prix	2	18	Lance Stroll	Canada	Williams Martini Racing		1:37.032	1.478	1.478	214.927		
+322	13	2017	Italian Grand Prix	3	31	Esteban Ocon	France	Sahara Force India F1 Team		1:37.719	2.165	0.687	213.416		
+322	13	2017	Italian Grand Prix	4	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:37.833	2.279	0.114	213.167		
+322	13	2017	Italian Grand Prix	5	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:37.987	2.433	0.154	212.832		
+322	13	2017	Italian Grand Prix	6	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:38.064	2.510	0.077	212.665		
+322	13	2017	Italian Grand Prix	7	19	Felipe Massa	Brazil	Williams Martini Racing		1:38.251	2.697	0.187	212.260		
+322	13	2017	Italian Grand Prix	8	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:38.245	2.691		212.273		
+322	13	2017	Italian Grand Prix	9	20	Kevin Magnussen	Denmark	Haas F1 Team		1:40.489	4.935	2.244	207.533		
+322	13	2017	Italian Grand Prix	10	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:37.582	2.028		213.715		
+322	13	2017	Italian Grand Prix	11	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:41.732	6.178	4.150	204.997		
+322	13	2017	Italian Grand Prix	12	94	Pascal Wehrlein	Germany	Sauber F1 Team		1:41.875	6.321	0.143	204.709		
+322	13	2017	Italian Grand Prix	13	33	Max Verstappen	Netherlands	Red Bull Racing		1:36.702	1.148		215.660		
+322	13	2017	Italian Grand Prix	14	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:38.059	2.505	1.357	212.676		
+322	13	2017	Italian Grand Prix	15	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:38.526	2.972	0.467	211.667		
+322	13	2017	Italian Grand Prix	16	3	Daniel Ricciardo	Australia	Red Bull Racing		1:36.841	1.287		215.350		
+322	13	2017	Italian Grand Prix	17	30	Jolyon Palmer	Great Britain	Renault Sport Formula One Team		1:40.646	5.092	3.805	207.209		
+322	13	2017	Italian Grand Prix	18	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team		1:39.157	3.603		210.321		
+322	13	2017	Italian Grand Prix	19	14	Fernando Alonso	Spain	McLaren Honda Formula 1 Team		1:38.202	2.648		212.366		
+322	13	2017	Italian Grand Prix	20	8	Romain Grosjean	France	Haas F1 Team		1:43.355	7.801	5.153	201.778		

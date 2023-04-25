@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+51	1	2003	Australian Grand Prix	1	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:27.173					
+51	1	2003	Australian Grand Prix	2	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:27.418	0.245	0.245			
+51	1	2003	Australian Grand Prix	3	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:28.101	0.928	0.683			
+51	1	2003	Australian Grand Prix	4	10	Heinz-Harald Frentzen	Germany	Sauber Petronas		1:28.274	1.101	0.173			
+51	1	2003	Australian Grand Prix	5	20	Olivier Panis	France	Panasonic Toyota Racing		1:28.288	1.115	0.014			
+51	1	2003	Australian Grand Prix	6	16	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:28.420	1.247	0.132			
+51	1	2003	Australian Grand Prix	7	9	Nick Heidfeld	Germany	Sauber Petronas		1:28.464	1.291	0.044			
+51	1	2003	Australian Grand Prix	8	17	Jenson Button	Great Britain	Lucky Strike BAR Honda		1:28.682	1.509	0.218			
+51	1	2003	Australian Grand Prix	9	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:28.830	1.657	0.148			
+51	1	2003	Australian Grand Prix	10	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team		1:28.928	1.755	0.098			
+51	1	2003	Australian Grand Prix	11	5	David Coulthard	Great Britain	West McLaren Mercedes		1:29.105	1.932	0.177			
+51	1	2003	Australian Grand Prix	12	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:29.136	1.963	0.031			
+51	1	2003	Australian Grand Prix	13	11	Giancarlo Fisichella	Italy	Jordan Ford		1:29.344	2.171	0.208			
+51	1	2003	Australian Grand Prix	14	14	Mark Webber	Australia	Jaguar Racing		1:29.367	2.194	0.023			
+51	1	2003	Australian Grand Prix	15	6	Kimi Räikkönen	Finland	West McLaren Mercedes		1:29.470	2.297	0.103			
+51	1	2003	Australian Grand Prix	16	21	Cristiano da Matta	Brazil	Panasonic Toyota Racing		1:29.538	2.365	0.068			
+51	1	2003	Australian Grand Prix	17	12	Ralph Firman	Ireland	Jordan Ford		1:31.242	4.069	1.704			
+51	1	2003	Australian Grand Prix	18	15	Antonio Pizzonia	Brazil	Jaguar Racing		1:31.723	4.550	0.481			
+51	1	2003	Australian Grand Prix	19	19	Jos Verstappen	Netherlands	European Minardi Cosworth							
+51	1	2003	Australian Grand Prix	20	18	Justin Wilson	Great Britain	European Minardi Cosworth							

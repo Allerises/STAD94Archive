@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+87	3	2005	Bahrain Grand Prix	1	5	Fernando Alonso	Spain	Mild Seven Renault F1 Team	6	3:01.902					
+87	3	2005	Bahrain Grand Prix	2	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	6	3:02.357	0.455	0.455			
+87	3	2005	Bahrain Grand Prix	3	16	Jarno Trulli	Italy	Panasonic Toyota Racing	6	3:02.660	0.758	0.303			
+87	3	2005	Bahrain Grand Prix	4	8	Nick Heidfeld	Germany	BMW WilliamsF1 Team	6	3:03.217	1.315	0.557			
+87	3	2005	Bahrain Grand Prix	5	7	Mark Webber	Australia	BMW WilliamsF1 Team	6	3:03.262	1.360	0.045			
+87	3	2005	Bahrain Grand Prix	6	17	Ralf Schumacher	Germany	Panasonic Toyota Racing	6	3:03.271	1.369	0.009			
+87	3	2005	Bahrain Grand Prix	7	15	Christian Klien	Austria	Red Bull Racing	6	3:03.369	1.467	0.098			
+87	3	2005	Bahrain Grand Prix	8	10	Pedro de la Rosa	Spain	Team McLaren Mercedes	6	3:03.373	1.471	0.004			
+87	3	2005	Bahrain Grand Prix	9	9	Kimi Räikkönen	Finland	Team McLaren Mercedes	6	3:03.524	1.622	0.151			
+87	3	2005	Bahrain Grand Prix	10	6	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	6	3:03.765	1.863	0.241			
+87	3	2005	Bahrain Grand Prix	11	3	Jenson Button	Great Britain	Lucky Strike BAR Honda	6	3:04.348	2.446	0.583			
+87	3	2005	Bahrain Grand Prix	12	12	Felipe Massa	Brazil	Sauber Petronas	6	3:05.202	3.300	0.854			
+87	3	2005	Bahrain Grand Prix	13	4	Takuma Sato	Japan	Lucky Strike BAR Honda	6	3:05.563	3.661	0.361			
+87	3	2005	Bahrain Grand Prix	14	14	David Coulthard	Great Britain	Red Bull Racing	6	3:05.844	3.942	0.281			
+87	3	2005	Bahrain Grand Prix	15	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	6	3:07.693	5.791	1.849			
+87	3	2005	Bahrain Grand Prix	16	11	Jacques Villeneuve	Canada	Sauber Petronas	6	3:07.983	6.081	0.290			
+87	3	2005	Bahrain Grand Prix	17	18	Tiago Monteiro	Portugal	Jordan Grand Prix	6	3:09.428	7.526	1.445			
+87	3	2005	Bahrain Grand Prix	18	19	Narain Karthikeyan	India	Jordan Grand Prix	6	3:10.143	8.241	0.715			
+87	3	2005	Bahrain Grand Prix	19	21	Christijan Albers	Netherlands	Minardi Cosworth	6	3:10.422	8.520	0.279			
+87	3	2005	Bahrain Grand Prix	20	20	Patrick Friesacher	Austria	Minardi Cosworth	6	3:11.261	9.359	0.839			

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+320	11	2017	Hungarian Grand Prix	1	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:16.276			206.770		
+320	11	2017	Hungarian Grand Prix	2	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:16.444	0.168	0.168	206.315		
+320	11	2017	Hungarian Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:16.530	0.254	0.086	206.083		
+320	11	2017	Hungarian Grand Prix	4	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:16.707	0.431	0.177	205.608		
+320	11	2017	Hungarian Grand Prix	5	33	Max Verstappen	Netherlands	Red Bull Racing		1:16.797	0.521	0.090	205.367		
+320	11	2017	Hungarian Grand Prix	6	3	Daniel Ricciardo	Australia	Red Bull Racing		1:16.818	0.542	0.021	205.311		
+320	11	2017	Hungarian Grand Prix	7	14	Fernando Alonso	Spain	McLaren Honda Formula 1 Team		1:17.549	1.273	0.731	203.375		
+320	11	2017	Hungarian Grand Prix	8	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team		1:17.894	1.618	0.345	202.475		
+320	11	2017	Hungarian Grand Prix	9	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:18.912	2.636	1.018	199.863		
+320	11	2017	Hungarian Grand Prix	10	30	Jolyon Palmer	Great Britain	Renault Sport Formula One Team		1:18.415	2.139		201.129		
+320	11	2017	Hungarian Grand Prix	11	31	Esteban Ocon	France	Sahara Force India F1 Team		1:18.495	2.219	0.080	200.924		
+320	11	2017	Hungarian Grand Prix	12	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:17.468	1.192		203.588		
+320	11	2017	Hungarian Grand Prix	13	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:18.639	2.363	1.171	200.556		
+320	11	2017	Hungarian Grand Prix	14	8	Romain Grosjean	France	Haas F1 Team		1:18.771	2.495	0.132	200.220		
+320	11	2017	Hungarian Grand Prix	15	20	Kevin Magnussen	Denmark	Haas F1 Team		1:19.095	2.819	0.324	199.400		
+320	11	2017	Hungarian Grand Prix	16	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:18.538	2.262		200.814		
+320	11	2017	Hungarian Grand Prix	17	18	Lance Stroll	Canada	Williams Martini Racing		1:19.102	2.826	0.564	199.383		
+320	11	2017	Hungarian Grand Prix	18	94	Pascal Wehrlein	Germany	Sauber F1 Team		1:19.839	3.563	0.737	197.542		
+320	11	2017	Hungarian Grand Prix	19	40	Paul di Resta	Great Britain	Williams		1:19.868	3.592	0.029	197.470		
+320	11	2017	Hungarian Grand Prix	20	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:19.972	3.696	0.104	197.214		

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+152	14	2008	Italian Grand Prix	1	15	Sebastian Vettel	Germany	Toro Rosso	53	1:26:47.494			212.039	1:30.510	53
+152	14	2008	Italian Grand Prix	2	23	Heikki Kovalainen	Finland	McLaren	53	1:27:00.006	+ 12.512	+ 12.512	211.530	1:30.300	53
+152	14	2008	Italian Grand Prix	3	4	Robert Kubica	Poland	Sauber	53	1:27:07.965	+ 20.471	+ 7.959	211.208	1:30.298	52
+152	14	2008	Italian Grand Prix	4	5	Fernando Alonso	Spain	Renault	53	1:27:11.397	+ 23.903	+ 3.432	211.070	1:29.961	51
+152	14	2008	Italian Grand Prix	5	3	Nick Heidfeld	Germany	Sauber	53	1:27:15.242	+ 27.748	+ 3.845	210.915	1:29.807	53
+152	14	2008	Italian Grand Prix	6	2	Felipe Massa	Brazil	Ferrari	53	1:27:16.310	+ 28.816	+ 1.068	210.872	1:29.696	52
+152	14	2008	Italian Grand Prix	7	22	Lewis Hamilton	Great Britain	McLaren	53	1:27:17.406	+ 29.912	+ 1.096	210.828	1:29.721	52
+152	14	2008	Italian Grand Prix	8	10	Mark Webber	Australia	Red Bull	53	1:27:19.542	+ 32.048	+ 2.136	210.742	1:29.681	52
+152	14	2008	Italian Grand Prix	9	1	Kimi Räikkönen	Finland	Ferrari	53	1:27:26.962	+ 39.468	+ 7.420	210.444	1:28.047	53
+152	14	2008	Italian Grand Prix	10	6	Nelson Piquet Jr.	Brazil	Renault	53	1:27:41.939	+ 54.445	+ 14.977	209.845	1:30.918	53
+152	14	2008	Italian Grand Prix	11	12	Timo Glock	Germany	Toyota	53	1:27:46.382	+ 58.888	+ 4.443	209.668	1:29.948	53
+152	14	2008	Italian Grand Prix	12	8	Kazuki Nakajima	Japan	Williams	53	1:27:49.509	+ 1:02.015	+ 3.127	209.543	1:30.215	53
+152	14	2008	Italian Grand Prix	13	11	Jarno Trulli	Italy	Toyota	53	1:27:53.448	+ 1:05.954	+ 3.939	209.387	1:30.853	52
+152	14	2008	Italian Grand Prix	14	7	Nico Rosberg	Germany	Williams	53	1:27:56.129	+ 1:08.635	+ 2.681	209.280	1:30.019	53
+152	14	2008	Italian Grand Prix	15	16	Jenson Button	Great Britain	Honda	53	1:28:00.864	+ 1:13.370	+ 4.735	209.093	1:29.827	52
+152	14	2008	Italian Grand Prix	16	9	David Coulthard	Great Britain	Red Bull	52	1:27:09.395	1 Lap	1 Lap	207.163	1:32.459	49
+152	14	2008	Italian Grand Prix	17	17	Rubens Barrichello	Brazil	Honda	52	1:27:37.452	1 Lap	+ 28.057	206.057	1:33.918	42
+152	14	2008	Italian Grand Prix	18	14	Sebastien Bourdais	France	Toro Rosso	52	1:27:57.260	1 Lap	+ 19.808	205.284	1:29.258	52
+152	14	2008	Italian Grand Prix	19	20	Adrian Sutil	Germany	Force India	51	1:27:45.015	2 Laps	1 Lap	201.800	1:33.458	51
+152	14	2008	Italian Grand Prix	20	21	Giancarlo Fisichella	Italy	Force India	11	20:05.808			189.325	1:37.304	6

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+56	6	2003	Austrian Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	69	1:24:04.888			213.003	1:08.337	41
+56	6	2003	Austrian Grand Prix	2	6	Kimi Räikkönen	Finland	McLaren	69	1:24:08.250	+ 3.362	+ 3.362	212.861	1:09.423	45
+56	6	2003	Austrian Grand Prix	3	2	Rubens Barrichello	Brazil	Ferrari	69	1:24:08.839	+ 3.951	+ 0.589	212.836	1:08.913	44
+56	6	2003	Austrian Grand Prix	4	17	Jenson Button	Great Britain	BAR	69	1:24:47.131	+ 42.243	+ 38.292	211.234	1:09.828	22
+56	6	2003	Austrian Grand Prix	5	5	David Coulthard	Great Britain	McLaren	69	1:25:04.628	+ 59.740	+ 17.497	210.510	1:09.626	64
+56	6	2003	Austrian Grand Prix	6	4	Ralf Schumacher	Germany	Williams	68	1:24:12.754	1 Lap	1 Lap	209.589	1:10.246	40
+56	6	2003	Austrian Grand Prix	7	14	Mark Webber	Australia	Jaguar	68	1:24:19.742	1 Lap	+ 6.988	209.300	1:08.966	68
+56	6	2003	Austrian Grand Prix	8	7	Jarno Trulli	Italy	Renault	68	1:24:39.039	1 Lap	+ 19.297	208.504	1:10.358	68
+56	6	2003	Austrian Grand Prix	9	15	Antonio Pizzonia	Brazil	Jaguar	68	1:24:44.746	1 Lap	+ 5.707	208.270	1:09.978	67
+56	6	2003	Austrian Grand Prix	10	21	Cristiano da Matta	Brazil	Toyota	68	1:24:51.065	1 Lap	+ 6.319	208.012	1:10.466	67
+56	6	2003	Austrian Grand Prix	11	12	Ralph Firman	Ireland	Jordan	68	1:24:55.148	1 Lap	+ 4.083	207.845	1:10.659	68
+56	6	2003	Austrian Grand Prix	12	16	Jacques Villeneuve	Canada	BAR	68	1:24:55.846	1 Lap	+ 0.698	207.817	1:09.764	64
+56	6	2003	Austrian Grand Prix	13	18	Justin Wilson	Great Britain	Minardi	67	1:24:44.538	2 Laps	1 Lap	205.216	1:11.267	67
+56	6	2003	Austrian Grand Prix	14	11	Giancarlo Fisichella	Italy	Jordan	60	1:15:24.379			206.529	1:11.019	60
+56	6	2003	Austrian Grand Prix	15	9	Nick Heidfeld	Germany	Sauber	46	59:05.348			202.063	1:10.516	12
+56	6	2003	Austrian Grand Prix	16	8	Fernando Alonso	Spain	Renault	44	55:22.926			206.215	1:10.526	34
+56	6	2003	Austrian Grand Prix	17	3	Juan Pablo Montoya	Colombia	Williams	32	40:44.351			203.880	1:10.112	28
+56	6	2003	Austrian Grand Prix	18	20	Olivier Panis	France	Toyota	6	9:18.631			167.268	1:13.097	6
+56	6	2003	Austrian Grand Prix	19	19	Jos Verstappen	Netherlands	Minardi							
+56	6	2003	Austrian Grand Prix	20	10	Heinz-Harald Frentzen	Germany	Sauber							

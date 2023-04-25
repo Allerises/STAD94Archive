@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+168	12	2009	Belgian Grand Prix	1	21	Giancarlo Fisichella	Italy	Force India F1 Team	23	1:46.308	1.189	0.001			
+168	12	2009	Belgian Grand Prix	2	9	Jarno Trulli	Italy	Panasonic Toyota Racing	24	1:46.395	0.087	0.087			
+168	12	2009	Belgian Grand Prix	3	6	Nick Heidfeld	Germany	BMW Sauber F1 Team	18	1:46.500	0.192	0.105			
+168	12	2009	Belgian Grand Prix	4	23	Rubens Barrichello	Brazil	Brawn GP Formula 1 Team	23	1:46.513	0.205	0.013			
+168	12	2009	Belgian Grand Prix	5	5	Robert Kubica	Poland	BMW Sauber F1 Team	22	1:46.586	0.278	0.073			
+168	12	2009	Belgian Grand Prix	6	4	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	21	1:46.633	0.325	0.047			
+168	12	2009	Belgian Grand Prix	7	10	Timo Glock	Germany	Panasonic Toyota Racing	21	1:46.677	0.369	0.044			
+168	12	2009	Belgian Grand Prix	8	15	Sebastian Vettel	Germany	Red Bull Racing	20	1:46.761	0.453	0.084			
+168	12	2009	Belgian Grand Prix	9	14	Mark Webber	Australia	Red Bull Racing	22	1:46.788	0.480	0.027			
+168	12	2009	Belgian Grand Prix	10	16	Nico Rosberg	Germany	AT&T Williams	20	1:47.362	1.054	0.574			
+168	12	2009	Belgian Grand Prix	11	20	Adrian Sutil	Germany	Force India F1 Team	18	1:45.119					
+168	12	2009	Belgian Grand Prix	12	1	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	16	1:45.122	0.003	0.003			
+168	12	2009	Belgian Grand Prix	13	7	Fernando Alonso	Spain	ING Renault F1 Team	16	1:45.136	0.017	0.014			
+168	12	2009	Belgian Grand Prix	14	22	Jenson Button	Great Britain	Brawn GP Formula 1 Team	18	1:45.251	0.132	0.115			
+168	12	2009	Belgian Grand Prix	15	2	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	19	1:45.259	0.140	0.008			
+168	12	2009	Belgian Grand Prix	16	12	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	7	1:45.951	0.832	0.692			
+168	12	2009	Belgian Grand Prix	17	11	Jaime Alguersuari	Spain	Scuderia Toro Rosso	10	1:46.032	0.913	0.081			
+168	12	2009	Belgian Grand Prix	18	17	Kazuki Nakajima	Japan	AT&T Williams	10	1:46.307	1.188	0.275			
+168	12	2009	Belgian Grand Prix	19	8	Romain Grosjean	France	ING Renault F1 Team	11	1:46.359	0.051	0.052			
+168	12	2009	Belgian Grand Prix	20	3	Luca Badoer	Italy	Scuderia Ferrari Marlboro	11	1:46.957	0.649	0.598			

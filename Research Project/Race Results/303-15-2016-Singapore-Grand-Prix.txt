@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+303	15	2016	Singapore Grand Prix	1	6	Nico Rosberg	Germany	Mercedes	61	1:55:48.950			159.992	1:50.296	38
+303	15	2016	Singapore Grand Prix	2	3	Daniel Ricciardo	Australia	Red Bull	61	1:55:49.438	+ 0.488	+ 0.488	159.981	1:47.187	49
+303	15	2016	Singapore Grand Prix	3	44	Lewis Hamilton	Great Britain	Mercedes	61	1:55:56.988	+ 8.038	+ 7.550	159.807	1:47.752	52
+303	15	2016	Singapore Grand Prix	4	7	Kimi Räikkönen	Finland	Ferrari	61	1:55:59.169	+ 10.219	+ 2.181	159.757	1:48.204	51
+303	15	2016	Singapore Grand Prix	5	5	Sebastian Vettel	Germany	Ferrari	61	1:56:16.644	+ 27.694	+ 17.475	159.357	1:47.345	45
+303	15	2016	Singapore Grand Prix	6	33	Max Verstappen	Netherlands	Red Bull	61	1:57:00.147	+ 1:11.197	+ 43.503	158.370	1:49.050	46
+303	15	2016	Singapore Grand Prix	7	14	Fernando Alonso	Spain	McLaren	61	1:57:18.148	+ 1:29.198	+ 18.001	157.964	1:51.249	49
+303	15	2016	Singapore Grand Prix	8	11	Sergio Pérez	Mexico	Force India	61	1:57:40.012	+ 1:51.062	+ 21.864	157.475	1:51.517	34
+303	15	2016	Singapore Grand Prix	9	26	Daniil Kvyat	Russia	Toro Rosso	61	1:57:40.507	+ 1:51.557	+ 0.495	157.464	1:50.944	39
+303	15	2016	Singapore Grand Prix	10	20	Kevin Magnussen	Denmark	Renault	61	1:57:48.902	+ 1:59.952	+ 8.395	157.277	1:50.858	44
+303	15	2016	Singapore Grand Prix	11	21	Esteban Gutiérrez	Mexico	Haas	60	1:56:05.789	1 Lap	1 Lap	156.988	1:51.075	39
+303	15	2016	Singapore Grand Prix	12	19	Felipe Massa	Brazil	Williams	60	1:56:07.239	1 Lap	+ 1.450	156.955	1:51.455	53
+303	15	2016	Singapore Grand Prix	13	12	Felipe Nasr	Brazil	Sauber	60	1:56:26.233	1 Lap	+ 18.994	156.528	1:51.683	41
+303	15	2016	Singapore Grand Prix	14	55	Carlos Sainz	Spain	Toro Rosso	60	1:56:32.556	1 Lap	+ 6.323	156.387	1:50.532	56
+303	15	2016	Singapore Grand Prix	15	30	Jolyon Palmer	Great Britain	Renault	60	1:56:53.524	1 Lap	+ 20.968	155.919	1:51.777	36
+303	15	2016	Singapore Grand Prix	16	94	Pascal Wehrlein	Germany	Manor	60	1:57:08.301	1 Lap	+ 14.777	155.591	1:52.021	40
+303	15	2016	Singapore Grand Prix	17	9	Marcus Ericsson	Sweden	Sauber	60	1:57:08.766	1 Lap	+ 0.465	155.581	1:50.963	27
+303	15	2016	Singapore Grand Prix	18	31	Esteban Ocon	France	Manor	59	1:57:23.635	2 Laps	1 Lap	152.664	1:51.748	47
+303	15	2016	Singapore Grand Prix	19	22	Jenson Button	Great Britain	McLaren	43	1:25:12.756			153.257	1:51.631	18
+303	15	2016	Singapore Grand Prix	20	77	Valtteri Bottas	Finland	Williams	35	1:10:24.299			150.959	1:51.368	17
+303	15	2016	Singapore Grand Prix	21	27	Nico Hülkenberg	Germany	Force India							
+303	15	2016	Singapore Grand Prix	22	8	Romain Grosjean	France	Haas							

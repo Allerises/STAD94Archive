@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+317	8	2017	Azerbaijan Grand Prix	1	3	Daniel Ricciardo	Australia	Red Bull	51	2:03:55.573			148.176	1:44.882	46
+317	8	2017	Azerbaijan Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	51	2:03:59.477	+ 3.904	+ 3.904	148.098	1:43.925	51
+317	8	2017	Azerbaijan Grand Prix	3	18	Lance Stroll	Canada	Williams	51	2:03:59.582	+ 4.009	+ 0.105	148.096	1:45.108	44
+317	8	2017	Azerbaijan Grand Prix	4	5	Sebastian Vettel	Germany	Ferrari	51	2:04:01.549	+ 5.976	+ 1.967	148.057	1:43.441	47
+317	8	2017	Azerbaijan Grand Prix	5	44	Lewis Hamilton	Great Britain	Mercedes	51	2:04:01.761	+ 6.188	+ 0.212	148.053	1:43.469	46
+317	8	2017	Azerbaijan Grand Prix	6	31	Esteban Ocon	France	Force India	51	2:04:25.871	+ 30.298	+ 24.110	147.575	1:45.634	39
+317	8	2017	Azerbaijan Grand Prix	7	20	Kevin Magnussen	Denmark	Haas	51	2:04:37.326	+ 41.753	+ 11.455	147.348	1:46.312	45
+317	8	2017	Azerbaijan Grand Prix	8	55	Carlos Sainz	Spain	Toro Rosso	51	2:04:44.973	+ 49.400	+ 7.647	147.198	1:45.866	46
+317	8	2017	Azerbaijan Grand Prix	9	14	Fernando Alonso	Spain	McLaren	51	2:04:55.124	+ 59.551	+ 10.151	146.999	1:45.168	49
+317	8	2017	Azerbaijan Grand Prix	10	94	Pascal Wehrlein	Germany	Sauber	51	2:05:24.666	+ 1:29.093	+ 29.542	146.421	1:47.120	46
+317	8	2017	Azerbaijan Grand Prix	11	9	Marcus Ericsson	Sweden	Sauber	51	2:05:27.367	+ 1:31.794	+ 2.701	146.369	1:47.186	45
+317	8	2017	Azerbaijan Grand Prix	12	2	Stoffel Vandoorne	Belgium	McLaren	51	2:05:27.733	+ 1:32.160	+ 0.366	146.362	1:46.648	45
+317	8	2017	Azerbaijan Grand Prix	13	8	Romain Grosjean	France	Haas	50	2:04:12.349	+ 16.776	1 Lap	144.942	1:46.831	45
+317	8	2017	Azerbaijan Grand Prix	14	7	Kimi Räikkönen	Finland	Ferrari	46	1:57:52.975	5 Laps	4 Laps	140.495	1:45.542	44
+317	8	2017	Azerbaijan Grand Prix	15	11	Sergio Pérez	Mexico	Force India	39	1:45:26.176			133.168	1:45.588	37
+317	8	2017	Azerbaijan Grand Prix	16	19	Felipe Massa	Brazil	Williams	25	1:18:29.913			114.629	1:47.340	10
+317	8	2017	Azerbaijan Grand Prix	17	27	Nico Hülkenberg	Germany	Renault	24	1:16:20.820			113.142	1:48.536	9
+317	8	2017	Azerbaijan Grand Prix	18	33	Max Verstappen	Netherlands	Red Bull	12	22:16.902			193.697	1:46.398	10
+317	8	2017	Azerbaijan Grand Prix	19	26	Daniil Kvyat	Russia	Toro Rosso	9	16:38.490			194.416	1:48.394	9
+317	8	2017	Azerbaijan Grand Prix	20	30	Jolyon Palmer	Great Britain	Renault	7	14:24.967			174.458	1:51.673	5

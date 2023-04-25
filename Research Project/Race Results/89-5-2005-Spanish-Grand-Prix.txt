@@ -1,0 +1,19 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+89	5	2005	Spanish Grand Prix	1	9	Kimi Räikkönen	Finland	McLaren	66	1:27:16.830			209.844	1:15.977	41
+89	5	2005	Spanish Grand Prix	2	5	Fernando Alonso	Spain	Renault	66	1:27:44.482	+ 27.652	+ 27.652	208.742	1:16.098	59
+89	5	2005	Spanish Grand Prix	3	16	Jarno Trulli	Italy	Toyota	66	1:28:02.777	+ 45.947	+ 18.295	208.019	1:16.614	63
+89	5	2005	Spanish Grand Prix	4	17	Ralf Schumacher	Germany	Toyota	66	1:28:03.549	+ 46.719	+ 0.772	207.989	1:16.469	63
+89	5	2005	Spanish Grand Prix	5	6	Giancarlo Fisichella	Italy	Renault	66	1:28:14.766	+ 57.936	+ 11.217	207.548	1:15.641	66
+89	5	2005	Spanish Grand Prix	6	7	Mark Webber	Australia	Williams	66	1:28:25.372	+ 1:08.542	+ 10.606	207.133	1:16.761	62
+89	5	2005	Spanish Grand Prix	7	10	Juan Pablo Montoya	Colombia	McLaren	65	1:27:17.051	1 Lap	1 Lap	206.655	1:15.771	55
+89	5	2005	Spanish Grand Prix	8	14	David Coulthard	Great Britain	Red Bull	65	1:27:19.215	1 Lap	+ 2.164	206.569	1:16.947	65
+89	5	2005	Spanish Grand Prix	9	2	Rubens Barrichello	Brazil	Ferrari	65	1:27:20.686	1 Lap	+ 1.471	206.511	1:17.156	64
+89	5	2005	Spanish Grand Prix	10	8	Nick Heidfeld	Germany	Williams	65	1:27:21.409	1 Lap	+ 0.723	206.483	1:16.519	60
+89	5	2005	Spanish Grand Prix	11	12	Felipe Massa	Brazil	Sauber	63	1:25:12.014	3 Laps	2 Laps	205.193	1:16.802	51
+89	5	2005	Spanish Grand Prix	12	18	Tiago Monteiro	Portugal	Jordan	63	1:28:01.053	3 Laps	+ 2:49.039	198.625	1:18.998	22
+89	5	2005	Spanish Grand Prix	13	19	Narain Karthikeyan	India	Jordan	63	1:28:26.975	3 Laps	+ 25.922	197.654	1:19.734	16
+89	5	2005	Spanish Grand Prix	14	11	Jacques Villeneuve	Canada	Sauber	51	1:09:22.717			203.968	1:17.585	43
+89	5	2005	Spanish Grand Prix	15	1	Michael Schumacher	Germany	Ferrari	46	1:04:00.651			199.387	1:15.648	31
+89	5	2005	Spanish Grand Prix	16	21	Christijan Albers	Netherlands	Minardi	19	30:26.505			173.026	1:20.124	15
+89	5	2005	Spanish Grand Prix	17	20	Patrick Friesacher	Austria	Minardi	11	20:13.794			150.582	1:20.865	10
+89	5	2005	Spanish Grand Prix	18	15	Vitantonio Liuzzi	Italy	Red Bull	9	13:49.912			180.092	1:19.435	9

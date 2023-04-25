@@ -1,0 +1,29 @@
+Year	Pos	Driver	Points
+2011	1	Sebastian Vettel	392
+2011	2	Jenson Button	270
+2011	3	Mark Webber	258
+2011	4	Fernando Alonso	257
+2011	5	Lewis Hamilton	227
+2011	6	Felipe Massa	118
+2011	7	Nico Rosberg	89
+2011	8	Michael Schumacher	76
+2011	9	Adrian Sutil	42
+2011	10	Vitaly Petrov	37
+2011	11	Nick Heidfeld	34
+2011	12	Kamui Kobayashi	30
+2011	13	Paul di Resta	27
+2011	14	Jaime Alguersuari	26
+2011	15	Sébastien Buemi	15
+2011	16	Sergio Pérez	14
+2011	17	Rubens Barrichello	4
+2011	18	Bruno Senna	2
+2011	19	Pastor Maldonado	1
+2011	20	Pedro de la Rosa	
+2011	21	Jarno Trulli	
+2011	22	Heikki Kovalainen	
+2011	23	Vitantonio Liuzzi	
+2011	24	Jerome d'Ambrosio	
+2011	25	Timo Glock	
+2011	26	Narain Karthikeyan	
+2011	27	Daniel Ricciardo	
+2011	28	Karun Chandhok	

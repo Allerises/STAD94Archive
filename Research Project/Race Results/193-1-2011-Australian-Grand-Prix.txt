@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+193	1	2011	Australian Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	58	1:29:30.259				1:29.844	44
+193	1	2011	Australian Grand Prix	2	3	Lewis Hamilton	Great Britain	McLaren	58	1:29:52.556	+ 22.297	+ 22.297		1:30.314	41
+193	1	2011	Australian Grand Prix	3	10	Vitaly Petrov	Russia	Renault	58	1:30:00.819	+ 30.560	+ 8.263		1:30.064	55
+193	1	2011	Australian Grand Prix	4	5	Fernando Alonso	Spain	Ferrari	58	1:30:02.031	+ 31.772	+ 1.212		1:29.487	49
+193	1	2011	Australian Grand Prix	5	2	Mark Webber	Australia	Red Bull	58	1:30:08.430	+ 38.171	+ 6.399		1:29.600	50
+193	1	2011	Australian Grand Prix	6	4	Jenson Button	Great Britain	McLaren	58	1:30:24.563	+ 54.304	+ 16.133		1:29.883	49
+193	1	2011	Australian Grand Prix	7	6	Felipe Massa	Brazil	Ferrari	58	1:30:55.445	+ 1:25.186	+ 30.882		1:28.947	55
+193	1	2011	Australian Grand Prix	8	18	Sébastien Buemi	Switzerland	Toro Rosso	57		1 Lap	1 Lap		1:30.836	44
+193	1	2011	Australian Grand Prix	9	14	Adrian Sutil	Germany	Force India	57		1 Lap			1:31.526	55
+193	1	2011	Australian Grand Prix	10	15	Paul di Resta	Great Britain	Force India	57		1 Lap			1:31.941	40
+193	1	2011	Australian Grand Prix	11	19	Jaime Alguersuari	Spain	Toro Rosso	57		1 Lap			1:30.467	41
+193	1	2011	Australian Grand Prix	12	9	Nick Heidfeld	Germany	Renault	57		1 Lap			1:32.377	43
+193	1	2011	Australian Grand Prix	13	21	Jarno Trulli	Italy	Lotus	56		2 Laps	1 Lap		1:32.550	52
+193	1	2011	Australian Grand Prix	14	25	Jerome d'Ambrosio	Belgium	Virgin	54		4 Laps	2 Laps		1:34.523	44
+193	1	2011	Australian Grand Prix	15	11	Rubens Barrichello	Brazil	Williams	48					1:31.404	47
+193	1	2011	Australian Grand Prix	16	8	Nico Rosberg	Germany	Mercedes	22					1:33.503	21
+193	1	2011	Australian Grand Prix	17	20	Heikki Kovalainen	Finland	Lotus	19					1:34.918	19
+193	1	2011	Australian Grand Prix	18	7	Michael Schumacher	Germany	Mercedes	19					1:35.319	13
+193	1	2011	Australian Grand Prix	19	12	Pastor Maldonado	Venezuela	Williams	9					1:34.102	7
+193	1	2011	Australian Grand Prix	20	24	Timo Glock	Germany	Virgin	49					1:35.789	48
+193	1	2011	Australian Grand Prix	21	17	Sergio Pérez	Mexico	Sauber	58					1:29.962	39
+193	1	2011	Australian Grand Prix	22	16	Kamui Kobayashi	Japan	Sauber	58					1:30.384	51
+193	1	2011	Australian Grand Prix	23	23	Vitantonio Liuzzi	Italy	HRT							
+193	1	2011	Australian Grand Prix	24	22	Narain Karthikeyan	India	HRT							

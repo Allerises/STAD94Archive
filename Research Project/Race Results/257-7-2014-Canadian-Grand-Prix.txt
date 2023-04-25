@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+257	7	2014	Canadian Grand Prix	1	3	Daniel Ricciardo	Australia	Red Bull	70	1:39:12.830			184.613	1:18.640	68
+257	7	2014	Canadian Grand Prix	2	6	Nico Rosberg	Germany	Mercedes	70	1:39:17.066	+ 4.236	+ 4.236	184.482	1:18.881	33
+257	7	2014	Canadian Grand Prix	3	1	Sebastian Vettel	Germany	Red Bull	70	1:39:18.077	+ 5.247	+ 1.011	184.450	1:19.171	48
+257	7	2014	Canadian Grand Prix	4	22	Jenson Button	Great Britain	McLaren	70	1:39:24.585	+ 11.755	+ 6.508	184.249	1:18.759	64
+257	7	2014	Canadian Grand Prix	5	27	Nico Hülkenberg	Germany	Force India	70	1:39:25.673	+ 12.843	+ 1.088	184.215	1:18.936	64
+257	7	2014	Canadian Grand Prix	6	14	Fernando Alonso	Spain	Ferrari	70	1:39:27.699	+ 14.869	+ 2.026	184.153	1:18.614	64
+257	7	2014	Canadian Grand Prix	7	77	Valtteri Bottas	Finland	Williams	70	1:39:36.408	+ 23.578	+ 8.709	183.885	1:19.321	52
+257	7	2014	Canadian Grand Prix	8	25	Jean-Eric Vergne	France	Toro Rosso	70	1:39:40.856	+ 28.026	+ 4.448	183.748	1:19.399	56
+257	7	2014	Canadian Grand Prix	9	20	Kevin Magnussen	Denmark	McLaren	70	1:39:42.084	+ 29.254	+ 1.228	183.710	1:18.819	56
+257	7	2014	Canadian Grand Prix	10	7	Kimi Räikkönen	Finland	Ferrari	70	1:40:06.508	+ 53.678	+ 24.424	182.963	1:18.529	68
+257	7	2014	Canadian Grand Prix	11	11	Sergio Pérez	Mexico	Force India	69	1:37:39.665	1 Lap	1 Lap	184.869	1:19.491	63
+257	7	2014	Canadian Grand Prix	12	19	Felipe Massa	Brazil	Williams	69	1:37:39.815	1 Lap	+ 0.150	184.864	1:18.504	58
+257	7	2014	Canadian Grand Prix	13	99	Adrian Sutil	Germany	Sauber	69	1:39:29.355	1 Lap	+ 1:49.540	181.472	1:20.226	66
+257	7	2014	Canadian Grand Prix	14	21	Esteban Gutiérrez	Mexico	Sauber	64	1:32:14.792	6 Laps	5 Laps	181.537	1:20.112	51
+257	7	2014	Canadian Grand Prix	15	8	Romain Grosjean	France	Lotus	59	1:25:12.836			181.166	1:19.650	54
+257	7	2014	Canadian Grand Prix	16	26	Daniil Kvyat	Russia	Toro Rosso	47	1:09:16.358			177.530	1:19.978	43
+257	7	2014	Canadian Grand Prix	17	44	Lewis Hamilton	Great Britain	Mercedes	46	1:06:51.734			180.017	1:18.942	24
+257	7	2014	Canadian Grand Prix	18	10	Kamui Kobayashi	Japan	Caterham	23	36:40.904			164.064	1:23.130	20
+257	7	2014	Canadian Grand Prix	19	13	Pastor Maldonado	Venezuela	Lotus	21	33:26.584			164.304	1:21.514	21
+257	7	2014	Canadian Grand Prix	20	9	Marcus Ericsson	Sweden	Caterham	7	14:20.285			127.745	1:51.041	7
+257	7	2014	Canadian Grand Prix	21	4	Max Chilton	Great Britain	Marussia							
+257	7	2014	Canadian Grand Prix	22	17	Jules Bianchi	France	Marussia							

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+27	11	2001	British Grand Prix	1	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:20.447					
+27	11	2001	British Grand Prix	2	3	Mika Hakkinen	Finland	West McLaren Mercedes		1:20.529	0.082	0.082			
+27	11	2001	British Grand Prix	3	4	David Coulthard	Great Britain	West McLaren Mercedes		1:20.927	0.480	0.398			
+27	11	2001	British Grand Prix	4	12	Jarno Trulli	Italy	B&H Jordan Honda		1:20.930	0.483	0.003			
+27	11	2001	British Grand Prix	5	11	Heinz-Harald Frentzen	Germany	B&H Jordan Honda		1:21.217	0.770	0.287			
+27	11	2001	British Grand Prix	6	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:21.715	1.268	0.498			
+27	11	2001	British Grand Prix	7	17	Kimi Räikkönen	Finland	Red Bull Sauber Petronas		1:22.023	1.576	0.308			
+27	11	2001	British Grand Prix	8	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:22.219	1.772	0.196			
+27	11	2001	British Grand Prix	9	16	Nick Heidfeld	Germany	Red Bull Sauber Petronas		1:22.223	1.776	0.004			
+27	11	2001	British Grand Prix	10	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:22.283	1.836	0.060			
+27	11	2001	British Grand Prix	11	9	Olivier Panis	France	Lucky Strike BAR Honda		1:22.316	1.869	0.033			
+27	11	2001	British Grand Prix	12	10	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:22.916	2.469	0.600			
+27	11	2001	British Grand Prix	13	19	Pedro de la Rosa	Spain	Jaguar Racing		1:23.273	2.826	0.357			
+27	11	2001	British Grand Prix	14	22	Jean Alesi	France	Prost Acer		1:23.392	2.945	0.119			
+27	11	2001	British Grand Prix	15	18	Eddie Irvine	Great Britain	Jaguar Racing		1:23.439	2.992	0.047			
+27	11	2001	British Grand Prix	16	23	Luciano Burti	Brazil	Prost Acer		1:23.735	3.288	0.296			
+27	11	2001	British Grand Prix	17	14	Jos Verstappen	Netherlands	Orange Arrows Asiatech		1:24.067	3.620	0.332			
+27	11	2001	British Grand Prix	18	8	Jenson Button	Great Britain	Mild Seven Benetton Renault		1:24.123	3.676	0.056			
+27	11	2001	British Grand Prix	19	7	Giancarlo Fisichella	Italy	Mild Seven Benetton Renault		1:24.275	3.828	0.152			
+27	11	2001	British Grand Prix	20	15	Enrique Bernoldi	Brazil	Orange Arrows Asiatech		1:24.606	4.159	0.331			
+27	11	2001	British Grand Prix	21	21	Fernando Alonso	Spain	European Minardi F1		1:24.792	4.345	0.186			
+27	11	2001	British Grand Prix	22	20	Tarso Marques	Brazil	European Minardi F1		1:26.506	6.059	1.714			

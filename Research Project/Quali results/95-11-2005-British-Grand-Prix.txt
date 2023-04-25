@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+95	11	2005	British Grand Prix	1	5	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:19.905					
+95	11	2005	British Grand Prix	2	9	Kimi Räikkönen	Finland	Team McLaren Mercedes	3	1:19.932	0.027	0.027			
+95	11	2005	British Grand Prix	3	3	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:20.207	0.302	0.275			
+95	11	2005	British Grand Prix	4	10	Juan Pablo Montoya	Colombia	Team McLaren Mercedes	3	1:20.382	0.477	0.175			
+95	11	2005	British Grand Prix	5	16	Jarno Trulli	Italy	Panasonic Toyota Racing	3	1:20.459	0.554	0.077			
+95	11	2005	British Grand Prix	6	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:20.906	1.001	0.447			
+95	11	2005	British Grand Prix	7	6	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	3	1:21.010	1.105	0.104			
+95	11	2005	British Grand Prix	8	4	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:21.114	1.209	0.104			
+95	11	2005	British Grand Prix	9	17	Ralf Schumacher	Germany	Panasonic Toyota Racing	3	1:21.191	1.286	0.077			
+95	11	2005	British Grand Prix	10	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:21.275	1.370	0.084			
+95	11	2005	British Grand Prix	11	11	Jacques Villeneuve	Canada	Sauber Petronas	3	1:21.352	1.447	0.077			
+95	11	2005	British Grand Prix	12	7	Mark Webber	Australia	BMW WilliamsF1 Team	3	1:21.997	2.092	0.645			
+95	11	2005	British Grand Prix	13	14	David Coulthard	Great Britain	Red Bull Racing	3	1:22.108	2.203	0.111			
+95	11	2005	British Grand Prix	14	8	Nick Heidfeld	Germany	BMW WilliamsF1 Team	3	1:22.117	2.212	0.009			
+95	11	2005	British Grand Prix	15	15	Christian Klien	Austria	Red Bull Racing	3	1:22.207	2.302	0.090			
+95	11	2005	British Grand Prix	16	12	Felipe Massa	Brazil	Sauber Petronas	3	1:22.495	2.590	0.288			
+95	11	2005	British Grand Prix	17	19	Narain Karthikeyan	India	Jordan Grand Prix	3	1:23.583	3.678	1.088			
+95	11	2005	British Grand Prix	18	21	Christijan Albers	Netherlands	Minardi Cosworth	3	1:24.576	4.671	0.993			
+95	11	2005	British Grand Prix	19	20	Patrick Friesacher	Austria	Minardi Cosworth	3	1:25.566	5.661	0.990			
+95	11	2005	British Grand Prix	20	18	Tiago Monteiro	Portugal	Jordan Grand Prix	1						

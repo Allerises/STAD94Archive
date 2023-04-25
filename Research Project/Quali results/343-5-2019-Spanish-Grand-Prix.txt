@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+343	5	2019	Spanish Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Motorsport	18	1:15.406			222.236		
+343	5	2019	Spanish Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Motorsport	17	1:16.040	0.634	0.634	220.384		
+343	5	2019	Spanish Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari Mission Winnow	18	1:16.272	0.866	0.232	219.713		
+343	5	2019	Spanish Grand Prix	4	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	12	1:16.357	0.951	0.085	219.469		
+343	5	2019	Spanish Grand Prix	5	16	Charles Leclerc	Monaco	Scuderia Ferrari Mission Winnow	19	1:16.588	1.182	0.231	218.807		
+343	5	2019	Spanish Grand Prix	6	10	Pierre Gasly	France	Aston Martin Red Bull Racing	17	1:16.708	1.302	0.120	218.464		
+343	5	2019	Spanish Grand Prix	7	8	Romain Grosjean	France	Rich Energy Haas F1 Team	16	1:16.911	1.505	0.203	217.888		
+343	5	2019	Spanish Grand Prix	8	20	Kevin Magnussen	Denmark	Rich Energy Haas F1 Team	15	1:16.922	1.516	0.011	217.857		
+343	5	2019	Spanish Grand Prix	9	26	Daniil Kvyat	Russia	Red Bull Toro Rosso Honda	20	1:17.573	2.167	0.651	216.028		
+343	5	2019	Spanish Grand Prix	10	3	Daniel Ricciardo	Australia	Renault F1 Team	19	1:18.106	2.700	0.533	214.554		
+343	5	2019	Spanish Grand Prix	11	4	Lando Norris	Great Britain	McLaren F1 Team	14	1:17.338	1.932		216.685		
+343	5	2019	Spanish Grand Prix	12	23	Alexander Albon	Thailand	Red Bull Toro Rosso Honda	14	1:17.445	2.039	0.107	216.385		
+343	5	2019	Spanish Grand Prix	13	55	Carlos Sainz	Spain	McLaren F1 Team	12	1:17.599	2.193	0.154	215.956		
+343	5	2019	Spanish Grand Prix	14	7	Kimi Räikkönen	Finland	Alfa Romeo Racing	14	1:17.788	2.382	0.189	215.431		
+343	5	2019	Spanish Grand Prix	15	11	Sergio Pérez	Mexico	SportPesa Racing Point F1 Team	12	1:17.886	2.480	0.098	215.160		
+343	5	2019	Spanish Grand Prix	16	27	Nico Hülkenberg	Germany	Renault F1 Team	7	1:18.404	2.998	0.518	213.739		
+343	5	2019	Spanish Grand Prix	17	18	Lance Stroll	Canada	SportPesa Racing Point F1 Team	9	1:18.471	3.065	0.067	213.556		
+343	5	2019	Spanish Grand Prix	18	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing	8	1:18.664	3.258	0.193	213.032		
+343	5	2019	Spanish Grand Prix	19	63	George Russell	Great Britain	ROKiT Williams Racing	8	1:19.072	3.666	0.408	211.933		
+343	5	2019	Spanish Grand Prix	20	88	Robert Kubica	Poland	ROKiT Williams Racing	9	1:20.254	4.848	1.182	208.812		

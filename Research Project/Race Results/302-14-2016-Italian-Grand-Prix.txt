@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+302	14	2016	Italian Grand Prix	1	6	Nico Rosberg	Germany	Mercedes	53	1:17:28.089			237.558	1:26.599	26
+302	14	2016	Italian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes	53	1:17:43.159	+ 15.070	+ 15.070	236.790	1:26.303	27
+302	14	2016	Italian Grand Prix	3	5	Sebastian Vettel	Germany	Ferrari	53	1:17:49.079	+ 20.990	+ 5.920	236.490	1:26.310	48
+302	14	2016	Italian Grand Prix	4	7	Kimi Räikkönen	Finland	Ferrari	53	1:17:55.650	+ 27.561	+ 6.571	236.157	1:26.016	50
+302	14	2016	Italian Grand Prix	5	3	Daniel Ricciardo	Australia	Red Bull	53	1:18:13.384	+ 45.295	+ 17.734	235.265	1:25.919	52
+302	14	2016	Italian Grand Prix	6	77	Valtteri Bottas	Finland	Williams	53	1:18:19.104	+ 51.015	+ 5.720	234.979	1:26.708	46
+302	14	2016	Italian Grand Prix	7	33	Max Verstappen	Netherlands	Red Bull	53	1:18:22.325	+ 54.236	+ 3.221	234.818	1:26.405	50
+302	14	2016	Italian Grand Prix	8	11	Sergio Pérez	Mexico	Force India	53	1:18:33.043	+ 1:04.954	+ 10.718	234.284	1:26.920	40
+302	14	2016	Italian Grand Prix	9	19	Felipe Massa	Brazil	Williams	53	1:18:33.706	+ 1:05.617	+ 0.663	234.251	1:26.400	50
+302	14	2016	Italian Grand Prix	10	27	Nico Hülkenberg	Germany	Force India	53	1:18:46.745	+ 1:18.656	+ 13.039	233.605	1:26.954	40
+302	14	2016	Italian Grand Prix	11	8	Romain Grosjean	France	Haas	52	1:17:31.675	1 Lap	1 Lap	232.891	1:27.227	50
+302	14	2016	Italian Grand Prix	12	22	Jenson Button	Great Britain	McLaren	52	1:17:32.226	1 Lap	+ 0.551	232.864	1:26.354	40
+302	14	2016	Italian Grand Prix	13	21	Esteban Gutiérrez	Mexico	Haas	52	1:17:52.418	1 Lap	+ 20.192	231.857	1:27.106	42
+302	14	2016	Italian Grand Prix	14	14	Fernando Alonso	Spain	McLaren	52	1:17:58.750	1 Lap	+ 6.332	231.544	1:25.340	51
+302	14	2016	Italian Grand Prix	15	55	Carlos Sainz	Spain	Toro Rosso	52	1:18:01.423	1 Lap	+ 2.673	231.411	1:26.751	41
+302	14	2016	Italian Grand Prix	16	9	Marcus Ericsson	Sweden	Sauber	52	1:18:21.969	1 Lap	+ 20.546	230.400	1:28.552	37
+302	14	2016	Italian Grand Prix	17	20	Kevin Magnussen	Denmark	Renault	52	1:18:54.688	1 Lap	+ 32.719	228.808	1:27.618	52
+302	14	2016	Italian Grand Prix	18	31	Esteban Ocon	France	Manor	51	1:17:44.407	2 Laps	1 Lap	227.785	1:28.534	51
+302	14	2016	Italian Grand Prix	19	26	Daniil Kvyat	Russia	Toro Rosso	36	55:04.697			226.846	1:28.037	35
+302	14	2016	Italian Grand Prix	20	94	Pascal Wehrlein	Germany	Manor	26	39:22.048			229.086	1:28.723	18
+302	14	2016	Italian Grand Prix	21	30	Jolyon Palmer	Great Britain	Renault	7	11:43.563			205.910	1:31.361	4
+302	14	2016	Italian Grand Prix	22	12	Felipe Nasr	Brazil	Sauber	6	25:30.577			81.025		

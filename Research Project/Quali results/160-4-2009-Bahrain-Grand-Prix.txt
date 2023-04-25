@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+160	4	2009	Bahrain Grand Prix	1	9	Jarno Trulli	Italy	Panasonic Toyota Racing	20	1:33.431	0.189	0.083			
+160	4	2009	Bahrain Grand Prix	2	10	Timo Glock	Germany	Panasonic Toyota Racing	20	1:33.712	0.281	0.281			
+160	4	2009	Bahrain Grand Prix	3	15	Sebastian Vettel	Germany	Red Bull Racing	18	1:34.015	0.584	0.303			
+160	4	2009	Bahrain Grand Prix	4	22	Jenson Button	Great Britain	Brawn GP Formula 1 Team	20	1:34.044	0.613	0.029			
+160	4	2009	Bahrain Grand Prix	5	1	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	18	1:34.196	0.765	0.152			
+160	4	2009	Bahrain Grand Prix	6	23	Rubens Barrichello	Brazil	Brawn GP Formula 1 Team	20	1:34.239	0.808	0.043			
+160	4	2009	Bahrain Grand Prix	7	7	Fernando Alonso	Spain	ING Renault F1 Team	20	1:34.578	1.147	0.339			
+160	4	2009	Bahrain Grand Prix	8	3	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	19	1:34.818	1.387	0.240			
+160	4	2009	Bahrain Grand Prix	9	16	Nico Rosberg	Germany	AT&T Williams	21	1:35.134	1.703	0.316			
+160	4	2009	Bahrain Grand Prix	10	4	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	19	1:35.380	1.949	0.246			
+160	4	2009	Bahrain Grand Prix	11	2	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	14	1:33.242					
+160	4	2009	Bahrain Grand Prix	12	17	Kazuki Nakajima	Japan	AT&T Williams	13	1:33.348	0.106	0.106			
+160	4	2009	Bahrain Grand Prix	13	5	Robert Kubica	Poland	BMW Sauber F1 Team	13	1:33.487	0.056	0.139			
+160	4	2009	Bahrain Grand Prix	14	6	Nick Heidfeld	Germany	BMW Sauber F1 Team	13	1:33.562	0.131	0.075			
+160	4	2009	Bahrain Grand Prix	15	8	Nelson Piquet Jr.	Brazil	Renault	18	1:33.941	0.510	0.379			
+160	4	2009	Bahrain Grand Prix	16	20	Adrian Sutil	Germany	Force India F1 Team	10	1:33.722	0.291	0.010			
+160	4	2009	Bahrain Grand Prix	17	12	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	9	1:33.753	0.322	0.031			
+160	4	2009	Bahrain Grand Prix	18	21	Giancarlo Fisichella	Italy	Force India F1 Team	9	1:33.910	0.479	0.157			
+160	4	2009	Bahrain Grand Prix	19	14	Mark Webber	Australia	Red Bull Racing	8	1:34.038	0.607	0.128			
+160	4	2009	Bahrain Grand Prix	20	11	Sebastien Bourdais	France	Scuderia Toro Rosso	9	1:34.159	0.728	0.121			

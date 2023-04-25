@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+264	14	2014	Singapore Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team	6	1:45.681					
+264	14	2014	Singapore Grand Prix	2	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	6	1:45.688	0.007	0.007			
+264	14	2014	Singapore Grand Prix	3	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing	6	1:45.854	0.173	0.166			
+264	14	2014	Singapore Grand Prix	4	1	Sebastian Vettel	Germany	Infiniti Red Bull Racing	6	1:45.902	0.221	0.048			
+264	14	2014	Singapore Grand Prix	5	14	Fernando Alonso	Spain	Scuderia Ferrari	6	1:45.907	0.226	0.005			
+264	14	2014	Singapore Grand Prix	6	19	Felipe Massa	Brazil	Williams Martini Racing	6	1:46.000	0.319	0.093			
+264	14	2014	Singapore Grand Prix	7	7	Kimi Räikkönen	Finland	Scuderia Ferrari	4	1:46.170	0.489	0.170			
+264	14	2014	Singapore Grand Prix	8	77	Valtteri Bottas	Finland	Williams Martini Racing	5	1:46.187	0.506	0.017			
+264	14	2014	Singapore Grand Prix	9	20	Kevin Magnussen	Denmark	McLaren Mercedes	6	1:46.250	0.569	0.063			
+264	14	2014	Singapore Grand Prix	10	26	Daniil Kvyat	Russia	Scuderia Toro Rosso	6	1:47.362	1.681	1.112			
+264	14	2014	Singapore Grand Prix	11	22	Jenson Button	Great Britain	McLaren Mercedes	6	1:46.943	1.262	0.693			
+264	14	2014	Singapore Grand Prix	12	25	Jean-Eric Vergne	France	Scuderia Toro Rosso	6	1:46.989	1.308	0.046			
+264	14	2014	Singapore Grand Prix	13	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team	6	1:47.308	1.627	0.319			
+264	14	2014	Singapore Grand Prix	14	21	Esteban Gutiérrez	Mexico	Sauber F1 Team	6	1:47.333	1.652	0.025			
+264	14	2014	Singapore Grand Prix	15	11	Sergio Pérez	Mexico	Sahara Force India F1 Team	6	1:47.575	1.894	0.242			
+264	14	2014	Singapore Grand Prix	16	8	Romain Grosjean	France	Lotus F1 Team	6	1:47.812	2.131	0.237			
+264	14	2014	Singapore Grand Prix	17	99	Adrian Sutil	Germany	Sauber F1 Team	6	1:48.324	2.643	0.512			
+264	14	2014	Singapore Grand Prix	18	13	Pastor Maldonado	Venezuela	Lotus F1 Team	8	1:49.063	3.382	0.739			
+264	14	2014	Singapore Grand Prix	19	17	Jules Bianchi	France	Marussia F1 Team	7	1:49.440	3.759	0.377			
+264	14	2014	Singapore Grand Prix	20	10	Kamui Kobayashi	Japan	Caterham F1 Team	8	1:50.405	4.724	0.965			
+264	14	2014	Singapore Grand Prix	21	4	Max Chilton	Great Britain	Marussia F1 Team	7	1:50.473	4.792	0.068			
+264	14	2014	Singapore Grand Prix	22	9	Marcus Ericsson	Sweden	Caterham F1 Team	5	1:52.287	6.606	1.814			

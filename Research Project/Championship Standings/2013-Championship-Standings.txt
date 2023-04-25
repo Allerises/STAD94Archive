@@ -1,0 +1,24 @@
+Year	Pos	Driver	Points
+2013	1	Sebastian Vettel	397
+2013	2	Fernando Alonso	242
+2013	3	Mark Webber	199
+2013	4	Lewis Hamilton	189
+2013	5	Kimi Räikkönen	183
+2013	6	Nico Rosberg	171
+2013	7	Romain Grosjean	132
+2013	8	Felipe Massa	112
+2013	9	Jenson Button	73
+2013	10	Nico Hülkenberg	51
+2013	11	Sergio Pérez	49
+2013	12	Paul di Resta	48
+2013	13	Adrian Sutil	29
+2013	14	Daniel Ricciardo	20
+2013	15	Jean-Eric Vergne	13
+2013	16	Esteban Gutiérrez	6
+2013	17	Valtteri Bottas	4
+2013	18	Pastor Maldonado	1
+2013	19	Jules Bianchi	
+2013	20	Charles Pic	
+2013	21	Heikki Kovalainen	
+2013	22	Giedo van der Garde	
+2013	23	Max Chilton	

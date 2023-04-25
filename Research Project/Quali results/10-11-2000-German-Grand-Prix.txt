@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+10	11	2000	German Grand Prix	1	2	David Coulthard	Great Britain	West McLaren Mercedes		1:45.697					
+10	11	2000	German Grand Prix	2	3	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:47.063	1.366	1.366			
+10	11	2000	German Grand Prix	3	11	Giancarlo Fisichella	Italy	Mild Seven Benetton Playlife		1:47.130	1.433	0.067			
+10	11	2000	German Grand Prix	4	1	Mika Hakkinen	Finland	West McLaren Mercedes		1:47.162	1.465	0.032			
+10	11	2000	German Grand Prix	5	18	Pedro de la Rosa	Spain	Arrows F1 Team		1:47.786	2.089	0.624			
+10	11	2000	German Grand Prix	6	6	Jarno Trulli	Italy	Benson and Hedges Jordan		1:47.830	2.133	0.044			
+10	11	2000	German Grand Prix	7	12	Alexander Wurz	Austria	Mild Seven Benetton Playlife		1:48.037	2.340	0.207			
+10	11	2000	German Grand Prix	8	8	Johnny Herbert	Great Britain	Jaguar Racing		1:48.078	2.381	0.041			
+10	11	2000	German Grand Prix	9	22	Jacques Villeneuve	Canada	Lucky Strike Reynard BAR Honda		1:48.121	2.424	0.043			
+10	11	2000	German Grand Prix	10	7	Eddie Irvine	Great Britain	Jaguar Racing		1:48.305	2.608	0.184			
+10	11	2000	German Grand Prix	11	19	Jos Verstappen	Netherlands	Arrows F1 Team		1:48.321	2.624	0.016			
+10	11	2000	German Grand Prix	12	23	Ricardo Zonta	Brazil	Lucky Strike Reynard BAR Honda		1:48.665	2.968	0.344			
+10	11	2000	German Grand Prix	13	15	Nick Heidfeld	Germany	Gauloises Prost Peugeot		1:48.690	2.993	0.025			
+10	11	2000	German Grand Prix	14	9	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:48.841	3.144	0.151			
+10	11	2000	German Grand Prix	15	17	Mika Salo	Finland	Red Bull Sauber Petronas		1:49.204	3.507	0.363			
+10	11	2000	German Grand Prix	16	10	Jenson Button	Great Britain	BMW WilliamsF1 Team		1:49.215	3.518	0.011			
+10	11	2000	German Grand Prix	17	5	Heinz-Harald Frentzen	Germany	Benson and Hedges Jordan		1:49.280	3.583	0.065			
+10	11	2000	German Grand Prix	18	4	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:49.544	3.847	0.264			
+10	11	2000	German Grand Prix	19	16	Pedro Diniz	Brazil	Red Bull Sauber Petronas		1:49.936	4.239	0.392			
+10	11	2000	German Grand Prix	20	14	Jean Alesi	France	Gauloises Prost Peugeot		1:50.289	4.592	0.353			
+10	11	2000	German Grand Prix	21	21	Gaston Mazzacane	Argentina	Telefonica Minardi Fondmetal		1:51.611	5.914	1.322			
+10	11	2000	German Grand Prix	22	20	Marc Gene	Spain	Telefonica Minardi Fondmetal		1:53.094	7.397	1.483			

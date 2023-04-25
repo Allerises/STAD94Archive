@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+283	14	2015	Japanese Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	53	1:28:06.508			209.381	1:36.145	33
+283	14	2015	Japanese Grand Prix	2	6	Nico Rosberg	Germany	Mercedes	53	1:28:25.472	+ 18.964	+ 18.964	208.632	1:37.147	31
+283	14	2015	Japanese Grand Prix	3	5	Sebastian Vettel	Germany	Ferrari	53	1:28:27.358	+ 20.850	+ 1.886	208.558	1:37.906	32
+283	14	2015	Japanese Grand Prix	4	7	Kimi Räikkönen	Finland	Ferrari	53	1:28:40.276	+ 33.768	+ 12.918	208.052	1:38.035	32
+283	14	2015	Japanese Grand Prix	5	77	Valtteri Bottas	Finland	Williams	53	1:28:43.254	+ 36.746	+ 2.978	207.935	1:38.241	41
+283	14	2015	Japanese Grand Prix	6	27	Nico Hülkenberg	Germany	Force India	53	1:29:02.067	+ 55.559	+ 18.813	207.203	1:38.331	43
+283	14	2015	Japanese Grand Prix	7	8	Romain Grosjean	France	Lotus	53	1:29:18.806	+ 1:12.298	+ 16.739	206.556	1:38.167	35
+283	14	2015	Japanese Grand Prix	8	13	Pastor Maldonado	Venezuela	Lotus	53	1:29:20.083	+ 1:13.575	+ 1.277	206.507	1:38.136	39
+283	14	2015	Japanese Grand Prix	9	33	Max Verstappen	Netherlands	Toro Rosso	53	1:29:41.823	+ 1:35.315	+ 21.740	205.672	1:38.237	32
+283	14	2015	Japanese Grand Prix	10	55	Carlos Sainz	Spain	Toro Rosso	52	1:28:18.282	1 Lap	1 Lap	204.970	1:38.686	16
+283	14	2015	Japanese Grand Prix	11	14	Fernando Alonso	Spain	McLaren	52	1:28:31.223	1 Lap	+ 12.941	204.470	1:39.614	45
+283	14	2015	Japanese Grand Prix	12	11	Sergio Pérez	Mexico	Force India	52	1:28:35.478	1 Lap	+ 4.255	204.307	1:38.591	50
+283	14	2015	Japanese Grand Prix	13	26	Daniil Kvyat	Russia	Red Bull	52	1:28:41.523	1 Lap	+ 6.045	204.075	1:38.366	36
+283	14	2015	Japanese Grand Prix	14	9	Marcus Ericsson	Sweden	Sauber	52	1:28:51.522	1 Lap	+ 9.999	203.692	1:39.343	28
+283	14	2015	Japanese Grand Prix	15	3	Daniel Ricciardo	Australia	Red Bull	52	1:28:53.042	1 Lap	+ 1.520	203.634	1:38.898	32
+283	14	2015	Japanese Grand Prix	16	22	Jenson Button	Great Britain	McLaren	52	1:28:58.032	1 Lap	+ 4.990	203.443	1:40.121	31
+283	14	2015	Japanese Grand Prix	17	19	Felipe Massa	Brazil	Williams	51	1:28:47.939	2 Laps	1 Lap	199.905	1:38.595	51
+283	14	2015	Japanese Grand Prix	18	53	Alexander Rossi	USA	Manor	51	1:29:22.167	2 Laps	+ 34.228	198.629	1:41.467	35
+283	14	2015	Japanese Grand Prix	19	28	Will Stevens	Great Britain	Manor	50	1:28:20.471	3 Laps	1 Lap	196.997	1:41.452	44
+283	14	2015	Japanese Grand Prix	20	12	Felipe Nasr	Brazil	Sauber	49	1:24:09.742	4 Laps	1 Lap	202.639	1:40.088	39

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+369	19	2019	United States Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes	56	1:33:55.653			197.006	1:36.957	37
+369	19	2019	United States Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes	56	1:33:59.801	+ 4.148	+ 4.148	196.861	1:38.446	26
+369	19	2019	United States Grand Prix	3	33	Max Verstappen	Netherlands	Red Bull	56	1:34:00.655	+ 5.002	+ 0.854	196.831	1:38.214	42
+369	19	2019	United States Grand Prix	4	16	Charles Leclerc	Monaco	Ferrari	56	1:34:47.892	+ 52.239	+ 47.237	195.196	1:36.169	44
+369	19	2019	United States Grand Prix	5	23	Alexander Albon	Thailand	Red Bull	56	1:35:13.691	+ 1:18.038	+ 25.799	194.315	1:38.029	42
+369	19	2019	United States Grand Prix	6	3	Daniel Ricciardo	Australia	Renault	56	1:35:26.019	+ 1:30.366	+ 12.328	193.897	1:40.564	28
+369	19	2019	United States Grand Prix	7	4	Lando Norris	Great Britain	McLaren	56	1:35:26.417	+ 1:30.764	+ 0.398	193.883	1:38.074	44
+369	19	2019	United States Grand Prix	8	55	Carlos Sainz	Spain	McLaren	55	1:34:04.201	1 Lap	1 Lap	193.191	1:40.844	44
+369	19	2019	United States Grand Prix	9	27	Nico Hülkenberg	Germany	Renault	55	1:34:08.115	1 Lap	+ 3.914	193.057	1:38.437	47
+369	19	2019	United States Grand Prix	10	11	Sergio Pérez	Mexico	Aston Martin	55	1:34:14.355	1 Lap	+ 6.240	192.844	1:40.165	34
+369	19	2019	United States Grand Prix	11	7	Kimi Räikkönen	Finland	Sauber	55	1:34:15.280	1 Lap	+ 0.925	192.812	1:39.608	46
+369	19	2019	United States Grand Prix	12	26	Daniil Kvyat	Russia	Toro Rosso	55	1:34:17.420	1 Lap	+ 2.140	192.740	1:38.969	41
+369	19	2019	United States Grand Prix	13	18	Lance Stroll	Canada	Aston Martin	55	1:34:37.575	1 Lap	+ 20.155	192.055	1:40.380	42
+369	19	2019	United States Grand Prix	14	99	Antonio Giovinazzi	Italy	Sauber	55	1:34:49.443	1 Lap	+ 11.868	191.655	1:39.964	41
+369	19	2019	United States Grand Prix	15	8	Romain Grosjean	France	Haas	55	1:35:06.885	1 Lap	+ 17.442	191.069	1:41.270	52
+369	19	2019	United States Grand Prix	16	10	Pierre Gasly	France	Toro Rosso	54	1:33:11.079	2 Laps	1 Lap	191.477	1:40.850	31
+369	19	2019	United States Grand Prix	17	63	George Russell	Great Britain	Williams	54	1:34:18.137	2 Laps	+ 1:07.058	189.207	1:41.239	54
+369	19	2019	United States Grand Prix	18	20	Kevin Magnussen	Denmark	Haas	52	1:29:53.921	4 Laps	2 Laps	191.117	1:40.347	42
+369	19	2019	United States Grand Prix	19	88	Robert Kubica	Poland	Williams	31	54:56.089			186.308	1:43.830	22
+369	19	2019	United States Grand Prix	20	5	Sebastian Vettel	Germany	Ferrari	7	12:03.130			190.511	1:42.165	6

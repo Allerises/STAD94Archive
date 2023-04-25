@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+53	3	2003	Brazilian Grand Prix	1	11	Giancarlo Fisichella	Italy	Jordan	54	1:31:17.748			152.902	1:23.454	51
+53	3	2003	Brazilian Grand Prix	2	6	Kimi Räikkönen	Finland	McLaren	54	1:31:18.693	+ 0.945	+ 0.945	152.876	1:24.104	39
+53	3	2003	Brazilian Grand Prix	3	8	Fernando Alonso	Spain	Renault	54	1:31:24.096	+ 6.348	+ 5.403	152.725	1:23.770	41
+53	3	2003	Brazilian Grand Prix	4	5	David Coulthard	Great Britain	McLaren	54	1:31:25.844	+ 8.096	+ 1.748	152.676	1:23.132	40
+53	3	2003	Brazilian Grand Prix	5	10	Heinz-Harald Frentzen	Germany	Sauber	54	1:31:26.390	+ 8.642	+ 0.546	152.661	1:23.089	53
+53	3	2003	Brazilian Grand Prix	6	16	Jacques Villeneuve	Canada	BAR	54	1:31:33.802	+ 16.054	+ 7.412	152.455	1:22.713	54
+53	3	2003	Brazilian Grand Prix	7	4	Ralf Schumacher	Germany	Williams	54	1:31:56.274	+ 38.526	+ 22.472	151.834	1:24.778	46
+53	3	2003	Brazilian Grand Prix	8	7	Jarno Trulli	Italy	Renault	54	1:32:03.675	+ 45.927	+ 7.401	151.631	1:25.036	43
+53	3	2003	Brazilian Grand Prix	9	14	Mark Webber	Australia	Jaguar	53	1:30:13.249	1 Lap	1 Lap	151.858	1:24.956	50
+53	3	2003	Brazilian Grand Prix	10	21	Cristiano da Matta	Brazil	Toyota	53	1:31:56.018	1 Lap	+ 1:42.769	149.029	1:27.080	47
+53	3	2003	Brazilian Grand Prix	11	2	Rubens Barrichello	Brazil	Ferrari	46	1:19:35.138			149.411	1:22.032	46
+53	3	2003	Brazilian Grand Prix	12	17	Jenson Button	Great Britain	BAR	32	57:44.015			143.269	1:26.042	17
+53	3	2003	Brazilian Grand Prix	13	19	Jos Verstappen	Netherlands	Minardi	30	54:53.909			141.249	1:28.010	25
+53	3	2003	Brazilian Grand Prix	14	1	Michael Schumacher	Germany	Ferrari	26	47:25.754			141.689	1:24.040	18
+53	3	2003	Brazilian Grand Prix	15	3	Juan Pablo Montoya	Colombia	Williams	24	44:39.952			138.879	1:25.814	24
+53	3	2003	Brazilian Grand Prix	16	15	Antonio Pizzonia	Brazil	Jaguar	24	44:42.824			138.730	1:27.990	24
+53	3	2003	Brazilian Grand Prix	17	20	Olivier Panis	France	Toyota	17	32:56.134			133.393	1:30.494	17
+53	3	2003	Brazilian Grand Prix	18	12	Ralph Firman	Ireland	Jordan	17	32:56.957			133.337	1:29.159	13
+53	3	2003	Brazilian Grand Prix	19	18	Justin Wilson	Great Britain	Minardi	15	29:28.569			131.506	1:28.023	15
+53	3	2003	Brazilian Grand Prix	20	9	Nick Heidfeld	Germany	Sauber	8	18:41.572			110.551	2:11.396	4

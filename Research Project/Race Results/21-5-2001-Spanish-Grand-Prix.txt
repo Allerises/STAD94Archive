@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+21	5	2001	Spanish Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	65	1:31:03.305			202.507	1:21.151	25
+21	5	2001	Spanish Grand Prix	2	6	Juan Pablo Montoya	Colombia	Williams	65	1:31:44.042	+ 40.737	+ 40.737	201.009	1:22.841	39
+21	5	2001	Spanish Grand Prix	3	10	Jacques Villeneuve	Canada	BAR	65	1:31:52.930	+ 49.625	+ 8.888	200.685	1:22.513	22
+21	5	2001	Spanish Grand Prix	4	12	Jarno Trulli	Italy	Jordan	65	1:31:54.557	+ 51.252	+ 1.627	200.625	1:23.087	24
+21	5	2001	Spanish Grand Prix	5	4	David Coulthard	Great Britain	McLaren	65	1:31:54.920	+ 51.615	+ 0.363	200.612	1:22.091	41
+21	5	2001	Spanish Grand Prix	6	16	Nick Heidfeld	Germany	Sauber	65	1:32:05.197	+ 1:01.892	+ 10.277	200.239	1:22.738	26
+21	5	2001	Spanish Grand Prix	7	9	Olivier Panis	France	BAR	65	1:32:08.281	+ 1:04.976	+ 3.084	200.127	1:22.475	26
+21	5	2001	Spanish Grand Prix	8	17	Kimi Räikkönen	Finland	Sauber	65	1:32:23.112	+ 1:19.807	+ 14.831	199.592	1:23.049	40
+21	5	2001	Spanish Grand Prix	9	3	Mika Hakkinen	Finland	McLaren	64	1:28:54.548	1 Lap	1 Lap	204.203	1:21.368	49
+21	5	2001	Spanish Grand Prix	10	22	Jean Alesi	France	Prost	64	1:31:40.836	1 Lap	+ 2:46.288	198.030	1:23.668	20
+21	5	2001	Spanish Grand Prix	11	23	Luciano Burti	Brazil	Prost	64	1:32:22.792	1 Lap	+ 41.956	196.531	1:23.794	23
+21	5	2001	Spanish Grand Prix	12	14	Jos Verstappen	Netherlands	Arrows	63	1:31:14.302	2 Laps	1 Lap	195.880	1:23.965	17
+21	5	2001	Spanish Grand Prix	13	21	Fernando Alonso	Spain	Minardi	63	1:31:14.732	2 Laps	+ 0.430	195.864	1:24.423	37
+21	5	2001	Spanish Grand Prix	14	7	Giancarlo Fisichella	Italy	Benneton	63	1:32:22.119	2 Laps	+ 1:07.387	193.483	1:25.298	14
+21	5	2001	Spanish Grand Prix	15	8	Jenson Button	Great Britain	Benneton	62	1:31:35.986	3 Laps	1 Lap	192.009	1:25.406	57
+21	5	2001	Spanish Grand Prix	16	20	Tarso Marques	Brazil	Minardi	62	1:32:07.119	3 Laps	+ 31.133	190.927	1:25.791	16
+21	5	2001	Spanish Grand Prix	17	2	Rubens Barrichello	Brazil	Ferrari	49	1:09:56.263			198.727	1:21.720	27
+21	5	2001	Spanish Grand Prix	18	18	Eddie Irvine	Great Britain	Jaguar	48	1:08:14.212			199.522	1:22.568	23
+21	5	2001	Spanish Grand Prix	19	5	Ralf Schumacher	Germany	Williams	20	27:49.737			203.686	1:22.362	19
+21	5	2001	Spanish Grand Prix	20	15	Enrique Bernoldi	Brazil	Arrows	8	12:05.422			187.155	1:24.740	4
+21	5	2001	Spanish Grand Prix	21	19	Pedro de la Rosa	Spain	Jaguar	5	7:25.549			190.063	1:25.932	3
+21	5	2001	Spanish Grand Prix	22	11	Heinz-Harald Frentzen	Germany	Jordan	5	7:25.827			189.945	1:26.158	3

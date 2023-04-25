@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+388	17	2020	Abu Dhabi Grand Prix	1	33	Max Verstappen	Netherlands	Red Bull	55	1:36:28.645			189.902	1:40.958	14
+388	17	2020	Abu Dhabi Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	55	1:36:44.621	+ 15.976	+ 15.976	189.379	1:41.131	40
+388	17	2020	Abu Dhabi Grand Prix	3	44	Lewis Hamilton	Great Britain	Mercedes	55	1:36:47.060	+ 18.415	+ 2.439	189.300	1:41.420	37
+388	17	2020	Abu Dhabi Grand Prix	4	23	Alexander Albon	Thailand	Red Bull	55	1:36:48.632	+ 19.987	+ 1.572	189.249	1:41.227	42
+388	17	2020	Abu Dhabi Grand Prix	5	4	Lando Norris	Great Britain	McLaren	55	1:37:29.374	+ 1:00.729	+ 40.742	187.930	1:41.964	53
+388	17	2020	Abu Dhabi Grand Prix	6	55	Carlos Sainz	Spain	McLaren	55	1:37:34.307	+ 1:05.662	+ 4.933	187.772	1:41.947	48
+388	17	2020	Abu Dhabi Grand Prix	7	3	Daniel Ricciardo	Australia	Renault	55	1:37:42.393	+ 1:13.748	+ 8.086	187.513	1:40.926	55
+388	17	2020	Abu Dhabi Grand Prix	8	10	Pierre Gasly	France	Toro Rosso	55	1:37:58.363	+ 1:29.718	+ 15.970	187.004	1:42.474	53
+388	17	2020	Abu Dhabi Grand Prix	9	31	Esteban Ocon	France	Renault	55	1:38:09.714	+ 1:41.069	+ 11.351	186.643	1:42.894	47
+388	17	2020	Abu Dhabi Grand Prix	10	18	Lance Stroll	Canada	Aston Martin	55	1:38:11.383	+ 1:42.738	+ 1.669	186.590	1:41.866	41
+388	17	2020	Abu Dhabi Grand Prix	11	26	Daniil Kvyat	Russia	Toro Rosso	54	1:36:31.445	1 Lap	1 Lap	186.358	1:42.704	47
+388	17	2020	Abu Dhabi Grand Prix	12	7	Kimi Räikkönen	Finland	Sauber	54	1:36:34.174	1 Lap	+ 2.729	186.270	1:42.148	53
+388	17	2020	Abu Dhabi Grand Prix	13	16	Charles Leclerc	Monaco	Ferrari	54	1:36:42.721	1 Lap	+ 8.547	185.996	1:41.908	24
+388	17	2020	Abu Dhabi Grand Prix	14	5	Sebastian Vettel	Germany	Ferrari	54	1:36:51.876	1 Lap	+ 9.155	185.703	1:41.475	37
+388	17	2020	Abu Dhabi Grand Prix	15	63	George Russell	Great Britain	Williams	54	1:37:01.030	1 Lap	+ 9.154	185.411	1:43.328	54
+388	17	2020	Abu Dhabi Grand Prix	16	99	Antonio Giovinazzi	Italy	Sauber	54	1:37:02.381	1 Lap	+ 1.351	185.368	1:41.675	29
+388	17	2020	Abu Dhabi Grand Prix	17	6	Nicholas Latifi	Canada	Williams	54	1:37:11.562	1 Lap	+ 9.181	185.076	1:42.497	49
+388	17	2020	Abu Dhabi Grand Prix	18	20	Kevin Magnussen	Denmark	Haas	54	1:38:00.387	1 Lap	+ 48.825	183.539	1:41.999	50
+388	17	2020	Abu Dhabi Grand Prix	19	51	Pietro Fittipaldi	Brazil	Haas	53	1:36:38.988	2 Laps	1 Lap	182.667	1:41.707	50
+388	17	2020	Abu Dhabi Grand Prix	20	11	Sergio Pérez	Mexico	Aston Martin	8	14:13.035			187.027	1:43.263	6

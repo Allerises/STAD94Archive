@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+202	10	2011	German Grand Prix	1	3	Lewis Hamilton	Great Britain	McLaren	60	1:37:30.344				1:34.302	59
+202	10	2011	German Grand Prix	2	5	Fernando Alonso	Spain	Ferrari	60	1:37:34.324	+ 3.980	+ 3.980		1:34.626	60
+202	10	2011	German Grand Prix	3	2	Mark Webber	Australia	Red Bull	60	1:37:40.132	+ 9.788	+ 5.808		1:34.468	60
+202	10	2011	German Grand Prix	4	1	Sebastian Vettel	Germany	Red Bull	60	1:38:18.265	+ 47.921	+ 38.133		1:34.587	47
+202	10	2011	German Grand Prix	5	6	Felipe Massa	Brazil	Ferrari	60	1:38:22.596	+ 52.252	+ 4.331		1:34.609	51
+202	10	2011	German Grand Prix	6	14	Adrian Sutil	Germany	Force India	60	1:38:56.552	+ 1:26.208	+ 33.956		1:36.653	57
+202	10	2011	German Grand Prix	7	8	Nico Rosberg	Germany	Mercedes	59		1 Lap	1 Lap		1:36.181	51
+202	10	2011	German Grand Prix	8	7	Michael Schumacher	Germany	Mercedes	59		1 Lap			1:35.628	49
+202	10	2011	German Grand Prix	9	16	Kamui Kobayashi	Japan	Sauber	59		1 Lap			1:36.659	50
+202	10	2011	German Grand Prix	10	10	Vitaly Petrov	Russia	Renault	59		1 Lap			1:36.186	50
+202	10	2011	German Grand Prix	11	17	Sergio Pérez	Mexico	Sauber	59		1 Lap			1:37.033	53
+202	10	2011	German Grand Prix	12	19	Jaime Alguersuari	Spain	Toro Rosso	59		1 Lap			1:37.415	59
+202	10	2011	German Grand Prix	13	15	Paul di Resta	Great Britain	Force India	59		1 Lap			1:36.715	54
+202	10	2011	German Grand Prix	14	12	Pastor Maldonado	Venezuela	Williams	59		1 Lap			1:37.568	50
+202	10	2011	German Grand Prix	15	18	Sébastien Buemi	Switzerland	Toro Rosso	59		1 Lap			1:37.863	48
+202	10	2011	German Grand Prix	16	20	Heikki Kovalainen	Finland	Lotus	58		2 Laps	1 Lap		1:39.050	54
+202	10	2011	German Grand Prix	17	24	Timo Glock	Germany	Virgin	57		3 Laps	1 Lap		1:39.982	57
+202	10	2011	German Grand Prix	18	25	Jerome d'Ambrosio	Belgium	Virgin	57		3 Laps			1:39.787	57
+202	10	2011	German Grand Prix	19	22	Daniel Ricciardo	Australia	HRT	57		3 Laps			1:40.489	57
+202	10	2011	German Grand Prix	20	21	Karun Chandhok	India	Lotus	56		4 Laps	1 Lap		1:40.435	56
+202	10	2011	German Grand Prix	21	23	Vitantonio Liuzzi	Italy	HRT	37					1:40.683	28
+202	10	2011	German Grand Prix	22	4	Jenson Button	Great Britain	McLaren	35					1:36.258	33
+202	10	2011	German Grand Prix	23	11	Rubens Barrichello	Brazil	Williams	16					1:39.679	8
+202	10	2011	German Grand Prix	24	9	Nick Heidfeld	Germany	Renault	9					1:39.452	7

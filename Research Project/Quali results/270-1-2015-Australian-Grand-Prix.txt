@@ -1,0 +1,19 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+270	1	2015	Australian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:26.327			221.145		
+270	1	2015	Australian Grand Prix	2	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:26.921	0.594	0.594	219.633		
+270	1	2015	Australian Grand Prix	3	19	Felipe Massa	Brazil	Williams Martini Racing		1:27.718	1.391	0.797	217.638		
+270	1	2015	Australian Grand Prix	4	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:27.757	1.430	0.039	217.541		
+270	1	2015	Australian Grand Prix	5	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:27.790	1.463	0.033	217.459		
+270	1	2015	Australian Grand Prix	6	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing		1:28.329	2.002	0.539	216.132		
+270	1	2015	Australian Grand Prix	7	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:28.510	2.183	0.181	215.690		
+270	1	2015	Australian Grand Prix	8	8	Romain Grosjean	France	Lotus F1 Team		1:28.560	2.233	0.050	215.569		
+270	1	2015	Australian Grand Prix	9	13	Pastor Maldonado	Venezuela	Lotus F1 Team		1:29.480	3.153	0.920	213.352		
+270	1	2015	Australian Grand Prix	10	12	Felipe Nasr	Brazil	Sauber F1 Team		1:28.800	2.473		214.986		
+270	1	2015	Australian Grand Prix	11	33	Max Verstappen	Netherlands	Scuderia Toro Rosso		1:28.868	2.541	0.068	214.821		
+270	1	2015	Australian Grand Prix	12	26	Daniil Kvyat	Russia	Infiniti Red Bull Racing		1:29.070	2.743	0.202	214.334		
+270	1	2015	Australian Grand Prix	13	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:29.208	2.881	0.138	214.003		
+270	1	2015	Australian Grand Prix	14	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:29.209	2.882	0.001	214.000		
+270	1	2015	Australian Grand Prix	15	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:31.376	5.049	2.167	208.925		
+270	1	2015	Australian Grand Prix	16	22	Jenson Button	Great Britain	McLaren Honda		1:31.422	5.095	0.046	208.820		
+270	1	2015	Australian Grand Prix	17	20	Kevin Magnussen	Denmark	McLaren Honda		1:32.037	5.710	0.615	207.425		
+270	1	2015	Australian Grand Prix		77	Valtteri Bottas	Finland	Williams Martini Racing		1:28.087	1.760		216.726		

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+251	1	2014	Australian Grand Prix	1	6	Nico Rosberg	Germany	Mercedes	57	1:32:58.710			195.058	1:32.478	19
+251	1	2014	Australian Grand Prix	2	20	Kevin Magnussen	Denmark	McLaren	57	1:33:25.487	+ 26.777	+ 26.777	194.126	1:32.917	39
+251	1	2014	Australian Grand Prix	3	22	Jenson Button	Great Britain	McLaren	57	1:33:28.737	+ 30.027	+ 3.250	194.014	1:33.186	57
+251	1	2014	Australian Grand Prix	4	14	Fernando Alonso	Spain	Ferrari	57	1:33:33.994	+ 35.284	+ 5.257	193.832	1:32.616	56
+251	1	2014	Australian Grand Prix	5	77	Valtteri Bottas	Finland	Williams	57	1:33:46.349	+ 47.639	+ 12.355	193.407	1:32.568	56
+251	1	2014	Australian Grand Prix	6	27	Nico Hülkenberg	Germany	Force India	57	1:33:49.428	+ 50.718	+ 3.079	193.301	1:33.210	56
+251	1	2014	Australian Grand Prix	7	7	Kimi Räikkönen	Finland	Ferrari	57	1:33:56.385	+ 57.675	+ 6.957	193.062	1:33.691	56
+251	1	2014	Australian Grand Prix	8	25	Jean-Eric Vergne	France	Toro Rosso	57	1:33:59.151	+ 1:00.441	+ 2.766	192.967	1:33.864	35
+251	1	2014	Australian Grand Prix	9	26	Daniil Kvyat	Russia	Toro Rosso	57	1:34:02.295	+ 1:03.585	+ 3.144	192.860	1:32.634	38
+251	1	2014	Australian Grand Prix	10	11	Sergio Pérez	Mexico	Force India	57	1:34:24.626	+ 1:25.916	+ 22.331	192.100	1:33.366	34
+251	1	2014	Australian Grand Prix	11	99	Adrian Sutil	Germany	Sauber	56	1:33:06.852	1 Lap	1 Lap	191.357	1:34.564	41
+251	1	2014	Australian Grand Prix	12	21	Esteban Gutiérrez	Mexico	Sauber	56	1:33:12.956	1 Lap	+ 6.104	191.148	1:34.202	33
+251	1	2014	Australian Grand Prix	13	4	Max Chilton	Great Britain	Marussia	55	1:33:21.069	2 Laps	1 Lap	187.463	1:35.635	55
+251	1	2014	Australian Grand Prix	14	3	Daniel Ricciardo	Australia	Red Bull	57	1:33:23.235			194.204	1:33.066	49
+251	1	2014	Australian Grand Prix	15	17	Jules Bianchi	France	Marussia	49	1:34:32.241			164.917	1:35.281	41
+251	1	2014	Australian Grand Prix	16	8	Romain Grosjean	France	Lotus	43	1:12:24.165			188.967	1:34.766	30
+251	1	2014	Australian Grand Prix	17	13	Pastor Maldonado	Venezuela	Lotus	29	50:16.969			183.506	1:37.332	17
+251	1	2014	Australian Grand Prix	18	9	Marcus Ericsson	Sweden	Caterham	27	47:15.386			181.792	1:37.064	26
+251	1	2014	Australian Grand Prix	19	1	Sebastian Vettel	Germany	Red Bull	3	5:42.384			167.275	1:49.947	2
+251	1	2014	Australian Grand Prix	20	44	Lewis Hamilton	Great Britain	Mercedes	2	3:26.415			184.974	1:40.287	2
+251	1	2014	Australian Grand Prix	21	19	Felipe Massa	Brazil	Williams							
+251	1	2014	Australian Grand Prix	22	10	Kamui Kobayashi	Japan	Caterham							

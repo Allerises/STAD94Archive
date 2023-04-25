@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+255	5	2014	Spanish Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	66	1:41:05.155			182.282	1:29.483	54
+255	5	2014	Spanish Grand Prix	2	6	Nico Rosberg	Germany	Mercedes	66	1:41:05.791	+ 0.636	+ 0.636	182.263	1:29.236	51
+255	5	2014	Spanish Grand Prix	3	3	Daniel Ricciardo	Australia	Red Bull	66	1:41:54.169	+ 49.014	+ 48.378	180.821	1:30.012	65
+255	5	2014	Spanish Grand Prix	4	1	Sebastian Vettel	Germany	Red Bull	66	1:42:21.857	+ 1:16.702	+ 27.688	180.006	1:28.918	55
+255	5	2014	Spanish Grand Prix	5	77	Valtteri Bottas	Finland	Williams	66	1:42:24.448	+ 1:19.293	+ 2.591	179.930	1:30.424	47
+255	5	2014	Spanish Grand Prix	6	14	Fernando Alonso	Spain	Ferrari	66	1:42:32.898	+ 1:27.743	+ 8.450	179.683	1:29.898	55
+255	5	2014	Spanish Grand Prix	7	7	Kimi Räikkönen	Finland	Ferrari	65	1:41:08.447	1 Lap	1 Lap	179.422	1:30.580	53
+255	5	2014	Spanish Grand Prix	8	8	Romain Grosjean	France	Lotus	65	1:41:21.479	1 Lap	+ 13.032	179.038	1:31.068	47
+255	5	2014	Spanish Grand Prix	9	11	Sergio Pérez	Mexico	Force India	65	1:41:22.577	1 Lap	+ 1.098	179.005	1:30.756	39
+255	5	2014	Spanish Grand Prix	10	27	Nico Hülkenberg	Germany	Force India	65	1:41:32.981	1 Lap	+ 10.404	178.700	1:31.411	42
+255	5	2014	Spanish Grand Prix	11	22	Jenson Button	Great Britain	McLaren	65	1:41:37.467	1 Lap	+ 4.486	178.568	1:30.563	43
+255	5	2014	Spanish Grand Prix	12	20	Kevin Magnussen	Denmark	McLaren	65	1:41:38.124	1 Lap	+ 0.657	178.549	1:30.318	43
+255	5	2014	Spanish Grand Prix	13	19	Felipe Massa	Brazil	Williams	65	1:41:38.705	1 Lap	+ 0.581	178.532	1:30.468	55
+255	5	2014	Spanish Grand Prix	14	26	Daniil Kvyat	Russia	Toro Rosso	65	1:41:46.961	1 Lap	+ 8.256	178.291	1:30.269	59
+255	5	2014	Spanish Grand Prix	15	13	Pastor Maldonado	Venezuela	Lotus	65	1:41:55.021	1 Lap	+ 8.060	178.056	1:31.235	39
+255	5	2014	Spanish Grand Prix	16	21	Esteban Gutiérrez	Mexico	Sauber	65	1:42:15.363	1 Lap	+ 20.342	177.465	1:30.666	55
+255	5	2014	Spanish Grand Prix	17	99	Adrian Sutil	Germany	Sauber	65	1:42:18.487	1 Lap	+ 3.124	177.375	1:31.473	38
+255	5	2014	Spanish Grand Prix	18	17	Jules Bianchi	France	Marussia	64	1:41:29.297	2 Laps	1 Lap	176.056	1:31.784	46
+255	5	2014	Spanish Grand Prix	19	4	Max Chilton	Great Britain	Marussia	64	1:42:09.988	2 Laps	+ 40.691	174.887	1:31.767	44
+255	5	2014	Spanish Grand Prix	20	9	Marcus Ericsson	Sweden	Caterham	64	1:42:30.846	2 Laps	+ 20.858	174.294	1:33.350	54
+255	5	2014	Spanish Grand Prix	21	10	Kamui Kobayashi	Japan	Caterham	34	54:55.779			172.741	1:33.064	25
+255	5	2014	Spanish Grand Prix	22	25	Jean-Eric Vergne	France	Toro Rosso	24	38:19.607			174.698	1:31.781	18

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+154	16	2008	Japanese Grand Prix	1	5	Fernando Alonso	Spain	Renault	67	1:30:21.892			202.788	1:19.101	41
+154	16	2008	Japanese Grand Prix	2	4	Robert Kubica	Poland	Sauber	67	1:30:27.175	+ 5.283	+ 5.283	202.591	1:19.292	16
+154	16	2008	Japanese Grand Prix	3	1	Kimi Räikkönen	Finland	Ferrari	67	1:30:28.292	+ 6.400	+ 1.117	202.549	1:18.995	66
+154	16	2008	Japanese Grand Prix	4	6	Nelson Piquet Jr.	Brazil	Renault	67	1:30:42.462	+ 20.570	+ 14.170	202.022	1:19.199	54
+154	16	2008	Japanese Grand Prix	5	11	Jarno Trulli	Italy	Toyota	67	1:30:45.659	+ 23.767	+ 3.197	201.903	1:19.524	18
+154	16	2008	Japanese Grand Prix	6	15	Sebastian Vettel	Germany	Toro Rosso	67	1:31:01.099	+ 39.207	+ 15.440	201.332	1:19.617	21
+154	16	2008	Japanese Grand Prix	7	2	Felipe Massa	Brazil	Ferrari	67	1:31:08.050	+ 46.158	+ 6.951	201.076	1:18.426	55
+154	16	2008	Japanese Grand Prix	8	10	Mark Webber	Australia	Red Bull	67	1:31:12.703	+ 50.811	+ 4.653	200.905	1:19.820	30
+154	16	2008	Japanese Grand Prix	9	3	Nick Heidfeld	Germany	Sauber	67	1:31:16.012	+ 54.120	+ 3.309	200.784	1:19.461	67
+154	16	2008	Japanese Grand Prix	10	14	Sebastien Bourdais	France	Toro Rosso	67	1:31:20.977	+ 59.085	+ 4.965	200.602	1:19.262	49
+154	16	2008	Japanese Grand Prix	11	7	Nico Rosberg	Germany	Williams	67	1:31:23.988	+ 1:02.096	+ 3.011	200.492	1:19.531	66
+154	16	2008	Japanese Grand Prix	12	22	Lewis Hamilton	Great Britain	McLaren	67	1:31:40.792	+ 1:18.900	+ 16.804	199.879	1:19.560	65
+154	16	2008	Japanese Grand Prix	13	17	Rubens Barrichello	Brazil	Honda	66	1:30:54.306	1 Lap	1 Lap	198.571	1:20.575	66
+154	16	2008	Japanese Grand Prix	14	16	Jenson Button	Great Britain	Honda	66	1:30:58.093	1 Lap	+ 3.787	198.433	1:20.849	66
+154	16	2008	Japanese Grand Prix	15	8	Kazuki Nakajima	Japan	Williams	66	1:31:09.438	1 Lap	+ 11.345	198.022	1:20.364	32
+154	16	2008	Japanese Grand Prix	16	21	Giancarlo Fisichella	Italy	Force India	21	29:15.954			195.827	1:21.577	20
+154	16	2008	Japanese Grand Prix	17	23	Heikki Kovalainen	Finland	McLaren	16	21:20.556			204.388	1:19.258	12
+154	16	2008	Japanese Grand Prix	18	20	Adrian Sutil	Germany	Force India	8	11:04.117			196.225	1:21.189	6
+154	16	2008	Japanese Grand Prix	19	12	Timo Glock	Germany	Toyota	6	9:12.716			176.334	1:20.254	4
+154	16	2008	Japanese Grand Prix	20	9	David Coulthard	Great Britain	Red Bull							

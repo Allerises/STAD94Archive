@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+308	20	2016	Brazilian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	71	3:01:01.335			101.393	1:25.639	44
+308	20	2016	Brazilian Grand Prix	2	6	Nico Rosberg	Germany	Mercedes	71	3:01:12.790	+ 11.455	+ 11.455	101.287	1:26.222	47
+308	20	2016	Brazilian Grand Prix	3	33	Max Verstappen	Netherlands	Red Bull	71	3:01:22.816	+ 21.481	+ 10.026	101.193	1:25.305	67
+308	20	2016	Brazilian Grand Prix	4	11	Sergio Pérez	Mexico	Force India	71	3:01:26.681	+ 25.346	+ 3.865	101.157	1:27.093	41
+308	20	2016	Brazilian Grand Prix	5	5	Sebastian Vettel	Germany	Ferrari	71	3:01:27.669	+ 26.334	+ 0.988	101.148	1:26.195	70
+308	20	2016	Brazilian Grand Prix	6	55	Carlos Sainz	Spain	Toro Rosso	71	3:01:30.495	+ 29.160	+ 2.826	101.122	1:27.153	38
+308	20	2016	Brazilian Grand Prix	7	27	Nico Hülkenberg	Germany	Force India	71	3:01:31.162	+ 29.827	+ 0.667	101.116	1:26.728	69
+308	20	2016	Brazilian Grand Prix	8	3	Daniel Ricciardo	Australia	Red Bull	71	3:01:31.821	+ 30.486	+ 0.659	101.110	1:25.532	42
+308	20	2016	Brazilian Grand Prix	9	12	Felipe Nasr	Brazil	Sauber	71	3:01:43.955	+ 42.620	+ 12.134	100.997	1:27.547	70
+308	20	2016	Brazilian Grand Prix	10	14	Fernando Alonso	Spain	McLaren	71	3:01:45.767	+ 44.432	+ 1.812	100.980	1:27.104	70
+308	20	2016	Brazilian Grand Prix	11	77	Valtteri Bottas	Finland	Williams	71	3:01:46.627	+ 45.292	+ 0.860	100.972	1:26.062	70
+308	20	2016	Brazilian Grand Prix	12	31	Esteban Ocon	France	Manor	71	3:01:47.144	+ 45.809	+ 0.517	100.967	1:27.796	47
+308	20	2016	Brazilian Grand Prix	13	26	Daniil Kvyat	Russia	Toro Rosso	71	3:01:52.527	+ 51.192	+ 5.383	100.918	1:27.476	42
+308	20	2016	Brazilian Grand Prix	14	20	Kevin Magnussen	Denmark	Renault	71	3:01:52.890	+ 51.555	+ 0.363	100.914	1:26.524	69
+308	20	2016	Brazilian Grand Prix	15	94	Pascal Wehrlein	Germany	Manor	71	3:02:01.833	+ 1:00.498	+ 8.943	100.832	1:27.919	69
+308	20	2016	Brazilian Grand Prix	16	22	Jenson Button	Great Britain	McLaren	71	3:02:23.329	+ 1:21.994	+ 21.496	100.634	1:26.983	38
+308	20	2016	Brazilian Grand Prix	17	21	Esteban Gutiérrez	Mexico	Haas	60	2:46:07.069			93.371	1:27.805	43
+308	20	2016	Brazilian Grand Prix	18	19	Felipe Massa	Brazil	Williams	46	2:20:54.430			84.389	1:26.767	39
+308	20	2016	Brazilian Grand Prix	19	30	Jolyon Palmer	Great Britain	Renault	20	38:25.510			134.521	1:34.334	11
+308	20	2016	Brazilian Grand Prix	20	7	Kimi Räikkönen	Finland	Ferrari	19	35:46.612			137.252	1:28.847	12
+308	20	2016	Brazilian Grand Prix	21	9	Marcus Ericsson	Sweden	Sauber	11	21:10.514			134.220	1:31.265	11
+308	20	2016	Brazilian Grand Prix	22	8	Romain Grosjean	France	Haas							

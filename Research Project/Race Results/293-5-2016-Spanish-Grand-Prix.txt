@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+293	5	2016	Spanish Grand Prix	1	33	Max Verstappen	Netherlands	Red Bull	66	1:41:40.017			181.241	1:28.816	36
+293	5	2016	Spanish Grand Prix	2	7	Kimi Räikkönen	Finland	Ferrari	66	1:41:40.633	+ 0.616	+ 0.616	181.222	1:28.538	38
+293	5	2016	Spanish Grand Prix	3	5	Sebastian Vettel	Germany	Ferrari	66	1:41:45.598	+ 5.581	+ 4.965	181.075	1:27.974	39
+293	5	2016	Spanish Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull	66	1:42:23.967	+ 43.950	+ 38.369	179.944	1:28.209	46
+293	5	2016	Spanish Grand Prix	5	77	Valtteri Bottas	Finland	Williams	66	1:42:25.288	+ 45.271	+ 1.321	179.906	1:29.081	60
+293	5	2016	Spanish Grand Prix	6	55	Carlos Sainz	Spain	Toro Rosso	66	1:42:41.412	+ 1:01.395	+ 16.124	179.435	1:29.663	42
+293	5	2016	Spanish Grand Prix	7	11	Sergio Pérez	Mexico	Force India	66	1:42:59.555	+ 1:19.538	+ 18.143	178.908	1:29.801	37
+293	5	2016	Spanish Grand Prix	8	19	Felipe Massa	Brazil	Williams	66	1:43:00.724	+ 1:20.707	+ 1.169	178.874	1:29.238	43
+293	5	2016	Spanish Grand Prix	9	22	Jenson Button	Great Britain	McLaren	65	1:41:42.447	1 Lap	1 Lap	178.422	1:30.260	39
+293	5	2016	Spanish Grand Prix	10	26	Daniil Kvyat	Russia	Toro Rosso	65	1:41:45.762	1 Lap	+ 3.315	178.326	1:26.948	53
+293	5	2016	Spanish Grand Prix	11	21	Esteban Gutiérrez	Mexico	Haas	65	1:41:53.405	1 Lap	+ 7.643	178.103	1:30.139	34
+293	5	2016	Spanish Grand Prix	12	9	Marcus Ericsson	Sweden	Sauber	65	1:42:21.247	1 Lap	+ 27.842	177.295	1:29.715	42
+293	5	2016	Spanish Grand Prix	13	30	Jolyon Palmer	Great Britain	Renault	65	1:42:26.844	1 Lap	+ 5.597	177.134	1:29.779	35
+293	5	2016	Spanish Grand Prix	14	12	Felipe Nasr	Brazil	Sauber	65	1:42:30.164	1 Lap	+ 3.320	177.038	1:29.905	38
+293	5	2016	Spanish Grand Prix	15	20	Kevin Magnussen	Denmark	Renault	65	1:42:39.630	1 Lap	+ 9.466	176.766	1:28.716	57
+293	5	2016	Spanish Grand Prix	16	94	Pascal Wehrlein	Germany	Manor	65	1:42:54.927	1 Lap	+ 15.297	176.328	1:31.182	37
+293	5	2016	Spanish Grand Prix	17	88	Rio Haryanto	Indonesia	Manor	65	1:43:09.675	1 Lap	+ 14.748	175.908	1:29.402	52
+293	5	2016	Spanish Grand Prix	18	8	Romain Grosjean	France	Haas	56	1:28:54.836			175.824	1:28.974	41
+293	5	2016	Spanish Grand Prix	19	14	Fernando Alonso	Spain	McLaren	45	1:11:26.464			175.822	1:29.750	41
+293	5	2016	Spanish Grand Prix	20	27	Nico Hülkenberg	Germany	Force India	20	32:51.102			169.806	1:31.810	8
+293	5	2016	Spanish Grand Prix	21	44	Lewis Hamilton	Great Britain	Mercedes							
+293	5	2016	Spanish Grand Prix	22	6	Nico Rosberg	Germany	Mercedes							

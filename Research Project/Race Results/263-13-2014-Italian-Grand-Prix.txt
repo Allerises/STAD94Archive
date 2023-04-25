@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+263	13	2014	Italian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	53	1:19:10.236			232.449	1:28.004	29
+263	13	2014	Italian Grand Prix	2	6	Nico Rosberg	Germany	Mercedes	53	1:19:13.411	+ 3.175	+ 3.175	232.294	1:28.206	51
+263	13	2014	Italian Grand Prix	3	19	Felipe Massa	Brazil	Williams	53	1:19:35.262	+ 25.026	+ 21.851	231.231	1:28.342	46
+263	13	2014	Italian Grand Prix	4	77	Valtteri Bottas	Finland	Williams	53	1:19:51.022	+ 40.786	+ 15.760	230.471	1:28.559	50
+263	13	2014	Italian Grand Prix	5	3	Daniel Ricciardo	Australia	Red Bull	53	1:20:00.545	+ 50.309	+ 9.523	230.013	1:28.588	53
+263	13	2014	Italian Grand Prix	6	1	Sebastian Vettel	Germany	Red Bull	53	1:20:10.201	+ 59.965	+ 9.656	229.552	1:29.141	34
+263	13	2014	Italian Grand Prix	7	11	Sergio Pérez	Mexico	Force India	53	1:20:12.754	+ 1:02.518	+ 2.553	229.430	1:29.107	35
+263	13	2014	Italian Grand Prix	8	22	Jenson Button	Great Britain	McLaren	53	1:20:13.299	+ 1:03.063	+ 0.545	229.404	1:29.245	35
+263	13	2014	Italian Grand Prix	9	7	Kimi Räikkönen	Finland	Ferrari	53	1:20:13.771	+ 1:03.535	+ 0.472	229.381	1:28.942	43
+263	13	2014	Italian Grand Prix	10	20	Kevin Magnussen	Denmark	McLaren	53	1:20:16.407	+ 1:06.171	+ 2.636	229.256	1:29.283	34
+263	13	2014	Italian Grand Prix	11	26	Daniil Kvyat	Russia	Toro Rosso	53	1:20:21.420	+ 1:11.184	+ 5.013	229.017	1:28.486	51
+263	13	2014	Italian Grand Prix	12	27	Nico Hülkenberg	Germany	Force India	53	1:20:22.842	+ 1:12.606	+ 1.422	228.950	1:29.366	35
+263	13	2014	Italian Grand Prix	13	25	Jean-Eric Vergne	France	Toro Rosso	53	1:20:23.329	+ 1:13.093	+ 0.487	228.927	1:29.121	39
+263	13	2014	Italian Grand Prix	14	13	Pastor Maldonado	Venezuela	Lotus	52	1:19:12.764	1 Lap	1 Lap	227.938	1:29.856	32
+263	13	2014	Italian Grand Prix	15	99	Adrian Sutil	Germany	Sauber	52	1:19:24.548	1 Lap	+ 11.784	227.374	1:29.375	46
+263	13	2014	Italian Grand Prix	16	8	Romain Grosjean	France	Lotus	52	1:19:48.754	1 Lap	+ 24.206	226.225	1:30.083	38
+263	13	2014	Italian Grand Prix	17	10	Kamui Kobayashi	Japan	Caterham	52	1:20:19.283	1 Lap	+ 30.529	224.792	1:30.758	35
+263	13	2014	Italian Grand Prix	18	17	Jules Bianchi	France	Marussia	52	1:20:32.389	1 Lap	+ 13.106	224.182	1:30.521	51
+263	13	2014	Italian Grand Prix	19	9	Marcus Ericsson	Sweden	Caterham	51	1:19:25.655	2 Laps	1 Lap	222.945	1:30.280	47
+263	13	2014	Italian Grand Prix	20	21	Esteban Gutiérrez	Mexico	Sauber	51	1:19:34.772	2 Laps	+ 9.117	222.520	1:29.449	40
+263	13	2014	Italian Grand Prix	21	14	Fernando Alonso	Spain	Ferrari	28	42:49.261			226.844	1:29.680	23
+263	13	2014	Italian Grand Prix	22	4	Max Chilton	Great Britain	Marussia	5	7:56.692			216.411	1:32.569	5

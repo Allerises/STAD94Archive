@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+218	7	2012	Canadian Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull Racing	16	1:13.784					
+218	7	2012	Canadian Grand Prix	2	4	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	22	1:14.087	0.303	0.303			
+218	7	2012	Canadian Grand Prix	3	5	Fernando Alonso	Spain	Scuderia Ferrari	23	1:14.151	0.367	0.064			
+218	7	2012	Canadian Grand Prix	4	2	Mark Webber	Australia	Red Bull Racing	19	1:14.346	0.562	0.195			
+218	7	2012	Canadian Grand Prix	5	8	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	25	1:14.411	0.627	0.065			
+218	7	2012	Canadian Grand Prix	6	6	Felipe Massa	Brazil	Scuderia Ferrari	24	1:14.465	0.681	0.054			
+218	7	2012	Canadian Grand Prix	7	10	Romain Grosjean	France	Lotus F1 Team	28	1:14.645	0.861	0.180			
+218	7	2012	Canadian Grand Prix	8	11	Paul di Resta	Great Britain	Sahara Force India F1 Team	22	1:14.705	0.921	0.060			
+218	7	2012	Canadian Grand Prix	9	7	Michael Schumacher	Germany	Mercedes AMG Petronas F1 Team	18	1:14.812	1.028	0.107			
+218	7	2012	Canadian Grand Prix	10	3	Jenson Button	Great Britain	Vodafone McLaren Mercedes	24	1:15.182	1.398	0.370			
+218	7	2012	Canadian Grand Prix	11	14	Kamui Kobayashi	Japan	Sauber F1 Team	21	1:14.688	0.904	0.043			
+218	7	2012	Canadian Grand Prix	12	9	Kimi Räikkönen	Finland	Lotus F1 Team	22	1:14.734	0.950	0.046			
+218	7	2012	Canadian Grand Prix	13	12	Nico Hülkenberg	Germany	Sahara Force India F1 Team	18	1:14.748	0.964	0.014			
+218	7	2012	Canadian Grand Prix	14	16	Daniel Ricciardo	Australia	Scuderia Toro Rosso	21	1:15.078	1.294	0.330			
+218	7	2012	Canadian Grand Prix	15	15	Sergio Pérez	Mexico	Sauber F1 Team	21	1:15.156	1.372	0.078			
+218	7	2012	Canadian Grand Prix	16	19	Bruno Senna	Brazil	Williams F1 Team	20	1:15.170	1.386	0.014			
+218	7	2012	Canadian Grand Prix	17	18	Pastor Maldonado	Venezuela	Williams F1 Team	21	1:15.231	1.447	0.061			
+218	7	2012	Canadian Grand Prix	18	20	Heikki Kovalainen	Finland	Caterham F1 Team	12	1:16.263	2.479	1.032			
+218	7	2012	Canadian Grand Prix	19	21	Vitaly Petrov	Russia	Caterham F1 Team	10	1:16.482	2.698	0.219			
+218	7	2012	Canadian Grand Prix	20	17	Jean-Eric Vergne	France	Scuderia Toro Rosso	12	1:16.602	2.818	0.120			
+218	7	2012	Canadian Grand Prix	21	22	Pedro de la Rosa	Spain	HRT F1 Team	8	1:17.492	3.708	0.890			
+218	7	2012	Canadian Grand Prix	22	24	Timo Glock	Germany	Marussia F1 Team	10	1:17.901	4.117	0.409			
+218	7	2012	Canadian Grand Prix	23	25	Charles Pic	France	Marussia F1 Team	9	1:18.255	4.471	0.354			
+218	7	2012	Canadian Grand Prix	24	23	Narain Karthikeyan	India	HRT F1 Team	9	1:18.330	4.546	0.075			

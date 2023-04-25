@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+325	16	2017	Japanese Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:27.319			239.411		
+325	16	2017	Japanese Grand Prix	2	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:27.791	0.472	0.472	238.124		
+325	16	2017	Japanese Grand Prix	3	3	Daniel Ricciardo	Australia	Red Bull Racing		1:28.306	0.987	0.515	236.735		
+325	16	2017	Japanese Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull Racing		1:28.332	1.013	0.026	236.666		
+325	16	2017	Japanese Grand Prix	5	31	Esteban Ocon	France	Sahara Force India F1 Team		1:29.111	1.792	0.779	234.597		
+325	16	2017	Japanese Grand Prix	6	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:27.651	0.332		238.504		
+325	16	2017	Japanese Grand Prix	7	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:29.260	1.941	1.609	234.205		
+325	16	2017	Japanese Grand Prix	8	19	Felipe Massa	Brazil	Williams Martini Racing		1:29.480	2.161	0.220	233.629		
+325	16	2017	Japanese Grand Prix	9	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team		1:29.778	2.459	0.298	232.854		
+325	16	2017	Japanese Grand Prix	10	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:28.498	1.179		236.222		
+325	16	2017	Japanese Grand Prix	11	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:29.879	2.560	1.381	232.592		
+325	16	2017	Japanese Grand Prix	12	20	Kevin Magnussen	Denmark	Haas F1 Team		1:29.972	2.653	0.093	232.352		
+325	16	2017	Japanese Grand Prix	13	8	Romain Grosjean	France	Haas F1 Team		1:30.849	3.530	0.877	230.109		
+325	16	2017	Japanese Grand Prix	14	10	Pierre Gasly	France	Scuderia Toro Rosso		1:31.317	3.998	0.468	228.929		
+325	16	2017	Japanese Grand Prix	15	18	Lance Stroll	Canada	Williams Martini Racing		1:31.409	4.090	0.092	228.699		
+325	16	2017	Japanese Grand Prix	16	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:31.597	4.278	0.188	228.230		
+325	16	2017	Japanese Grand Prix	17	94	Pascal Wehrlein	Germany	Sauber F1 Team		1:31.885	4.566	0.288	227.514		
+325	16	2017	Japanese Grand Prix	18	30	Jolyon Palmer	Great Britain	Renault Sport Formula One Team		1:30.022	2.703		232.223		
+325	16	2017	Japanese Grand Prix	19	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:30.413	3.094	0.391	231.218		
+325	16	2017	Japanese Grand Prix	20	14	Fernando Alonso	Spain	McLaren Honda Formula 1 Team		1:30.687	3.368	0.274	230.520		

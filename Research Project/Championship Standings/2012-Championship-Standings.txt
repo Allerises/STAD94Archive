@@ -1,0 +1,26 @@
+Year	Pos	Driver	Points
+2012	1	Sebastian Vettel	281
+2012	2	Fernando Alonso	278
+2012	3	Kimi Räikkönen	207
+2012	4	Lewis Hamilton	190
+2012	5	Jenson Button	188
+2012	6	Mark Webber	179
+2012	7	Felipe Massa	122
+2012	8	Romain Grosjean	96
+2012	9	Nico Rosberg	93
+2012	10	Sergio Pérez	66
+2012	11	Nico Hülkenberg	63
+2012	12	Kamui Kobayashi	60
+2012	13	Michael Schumacher	49
+2012	14	Paul di Resta	46
+2012	15	Pastor Maldonado	45
+2012	16	Bruno Senna	31
+2012	17	Jean-Eric Vergne	16
+2012	18	Daniel Ricciardo	10
+2012	19	Vitaly Petrov	
+2012	20	Timo Glock	
+2012	21	Charles Pic	
+2012	22	Heikki Kovalainen	
+2012	23	Jerome d'Ambrosio	
+2012	24	Narain Karthikeyan	
+2012	25	Pedro de la Rosa	

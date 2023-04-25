@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+54	4	2003	San Marino Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	62	1:28:12.058			207.894	1:22.491	17
+54	4	2003	San Marino Grand Prix	2	6	Kimi Räikkönen	Finland	McLaren	62	1:28:13.940	+ 1.882	+ 1.882	207.821	1:22.810	21
+54	4	2003	San Marino Grand Prix	3	2	Rubens Barrichello	Brazil	Ferrari	62	1:28:14.349	+ 2.291	+ 0.409	207.805	1:22.775	49
+54	4	2003	San Marino Grand Prix	4	4	Ralf Schumacher	Germany	Williams	62	1:28:20.861	+ 8.803	+ 6.512	207.549	1:23.265	29
+54	4	2003	San Marino Grand Prix	5	5	David Coulthard	Great Britain	McLaren	62	1:28:21.469	+ 9.411	+ 0.608	207.525	1:23.200	20
+54	4	2003	San Marino Grand Prix	6	8	Fernando Alonso	Spain	Renault	62	1:28:55.747	+ 43.689	+ 34.278	206.192	1:23.844	60
+54	4	2003	San Marino Grand Prix	7	3	Juan Pablo Montoya	Colombia	Williams	62	1:28:57.329	+ 45.271	+ 1.582	206.131	1:22.946	32
+54	4	2003	San Marino Grand Prix	8	17	Jenson Button	Great Britain	BAR	61	1:28:13.071	1 Lap	1 Lap	204.500	1:23.972	15
+54	4	2003	San Marino Grand Prix	9	20	Olivier Panis	France	Toyota	61	1:28:31.807	1 Lap	+ 18.736	203.778	1:25.123	36
+54	4	2003	San Marino Grand Prix	10	9	Nick Heidfeld	Germany	Sauber	61	1:28:33.715	1 Lap	+ 1.908	203.705	1:25.329	38
+54	4	2003	San Marino Grand Prix	11	10	Heinz-Harald Frentzen	Germany	Sauber	61	1:28:34.809	1 Lap	+ 1.094	203.663	1:24.874	34
+54	4	2003	San Marino Grand Prix	12	21	Cristiano da Matta	Brazil	Toyota	61	1:29:01.343	1 Lap	+ 26.534	202.651	1:24.705	15
+54	4	2003	San Marino Grand Prix	13	7	Jarno Trulli	Italy	Renault	61	1:29:13.272	1 Lap	+ 11.929	202.200	1:25.444	13
+54	4	2003	San Marino Grand Prix	14	15	Antonio Pizzonia	Brazil	Jaguar	60	1:29:23.841	2 Laps	1 Lap	198.491	1:24.733	36
+54	4	2003	San Marino Grand Prix	15	11	Giancarlo Fisichella	Italy	Jordan	57	1:23:03.822	5 Laps	3 Laps	202.936	1:24.730	27
+54	4	2003	San Marino Grand Prix	16	14	Mark Webber	Australia	Jaguar	54	1:19:26.442			201.014	1:24.258	30
+54	4	2003	San Marino Grand Prix	17	12	Ralph Firman	Ireland	Jordan	51	1:15:04.924			200.857	1:25.539	45
+54	4	2003	San Marino Grand Prix	18	19	Jos Verstappen	Netherlands	Minardi	38	56:26.591			199.014	1:26.835	35
+54	4	2003	San Marino Grand Prix	19	18	Justin Wilson	Great Britain	Minardi	23	34:26.930			197.200	1:26.354	23
+54	4	2003	San Marino Grand Prix	20	16	Jacques Villeneuve	Canada	BAR	19	27:47.702			201.813	1:24.108	16

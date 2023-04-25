@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+138	17	2007	Brazilian Grand Prix	1	5	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	19	1:11.931					
+138	17	2007	Brazilian Grand Prix	2	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	19	1:12.082	0.151	0.151			
+138	17	2007	Brazilian Grand Prix	3	6	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	20	1:12.322	0.391	0.240			
+138	17	2007	Brazilian Grand Prix	4	1	Fernando Alonso	Spain	Vodafone McLaren Mercedes	22	1:12.356	0.425	0.034			
+138	17	2007	Brazilian Grand Prix	5	15	Mark Webber	Australia	Red Bull Racing	24	1:12.928	0.997	0.572			
+138	17	2007	Brazilian Grand Prix	6	9	Nick Heidfeld	Germany	BMW Sauber F1 Team	24	1:13.081	1.150	0.153			
+138	17	2007	Brazilian Grand Prix	7	10	Robert Kubica	Poland	BMW Sauber F1 Team	23	1:13.129	1.198	0.048			
+138	17	2007	Brazilian Grand Prix	8	12	Jarno Trulli	Italy	Panasonic Toyota Racing	25	1:13.195	1.264	0.066			
+138	17	2007	Brazilian Grand Prix	9	14	David Coulthard	Great Britain	Red Bull Racing	24	1:13.272	1.341	0.077			
+138	17	2007	Brazilian Grand Prix	10	16	Nico Rosberg	Germany	AT&T Williams	24	1:13.477	1.546	0.205			
+138	17	2007	Brazilian Grand Prix	11	8	Rubens Barrichello	Brazil	Honda Racing F1 Team	12	1:12.932	1.001	0.004			
+138	17	2007	Brazilian Grand Prix	12	3	Giancarlo Fisichella	Italy	ING Renault F1 Team	12	1:12.968	1.037	0.036			
+138	17	2007	Brazilian Grand Prix	13	19	Sebastian Vettel	Germany	Scuderia Toro Rosso	12	1:13.058	1.127	0.090			
+138	17	2007	Brazilian Grand Prix	14	18	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	12	1:13.251	1.320	0.193			
+138	17	2007	Brazilian Grand Prix	15	11	Ralf Schumacher	Germany	Panasonic Toyota Racing	12	1:13.315	1.384	0.064			
+138	17	2007	Brazilian Grand Prix	16	7	Jenson Button	Great Britain	Honda Racing F1 Team	12	1:13.469	1.538	0.154			
+138	17	2007	Brazilian Grand Prix	17	4	Heikki Kovalainen	Finland	ING Renault F1 Team	7	1:14.078	2.147	0.609			
+138	17	2007	Brazilian Grand Prix	18	22	Takuma Sato	Japan	Super Aguri F1 Team	6	1:14.098	2.167	0.020			
+138	17	2007	Brazilian Grand Prix	19	17	Kazuki Nakajima	Japan	AT&T Williams	6	1:14.417	2.486	0.319			
+138	17	2007	Brazilian Grand Prix	20	23	Anthony Davidson	Great Britain	Super Aguri F1 Team	6	1:14.596	2.665	0.179			
+138	17	2007	Brazilian Grand Prix	21	20	Adrian Sutil	Germany	Etihad Aldar Spyker F1 Team	3	1:15.217	3.286	0.621			
+138	17	2007	Brazilian Grand Prix	22	21	Sakon Yamamoto	Japan	Etihad Aldar Spyker F1 Team	6	1:15.487	3.556	0.270			

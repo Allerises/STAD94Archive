@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+24	8	2001	Canadian Grand Prix	1	5	Ralf Schumacher	Germany	Williams	69	1:34:31.522			193.629	1:17.205	50
+24	8	2001	Canadian Grand Prix	2	1	Michael Schumacher	Germany	Ferrari	69	1:34:51.757	+ 20.235	+ 20.235	192.941	1:18.176	48
+24	8	2001	Canadian Grand Prix	3	3	Mika Hakkinen	Finland	McLaren	69	1:35:12.194	+ 40.672	+ 20.437	192.251	1:18.148	45
+24	8	2001	Canadian Grand Prix	4	17	Kimi Räikkönen	Finland	Sauber	69	1:35:39.638	+ 1:08.116	+ 27.444	191.331	1:19.309	63
+24	8	2001	Canadian Grand Prix	5	22	Jean Alesi	France	Prost	69	1:35:41.957	+ 1:10.435	+ 2.319	191.254	1:19.328	59
+24	8	2001	Canadian Grand Prix	6	19	Pedro de la Rosa	Spain	Jaguar	68	1:34:42.423	1 Lap	1 Lap	190.457	1:19.006	50
+24	8	2001	Canadian Grand Prix	7	11	Ricardo Zonta	Brazil	Jordan	68	1:34:56.782	1 Lap	+ 14.359	189.977	1:20.078	38
+24	8	2001	Canadian Grand Prix	8	23	Luciano Burti	Brazil	Prost	68	1:35:04.461	1 Lap	+ 7.679	189.721	1:19.841	60
+24	8	2001	Canadian Grand Prix	9	20	Tarso Marques	Brazil	Minardi	66	1:35:03.629	3 Laps	2 Laps	184.168	1:22.312	19
+24	8	2001	Canadian Grand Prix	10	14	Jos Verstappen	Netherlands	Arrows	65	1:30:32.952	4 Laps	1 Lap	190.414	1:19.257	59
+24	8	2001	Canadian Grand Prix	11	12	Jarno Trulli	Italy	Jordan	63	1:27:52.704	6 Laps	2 Laps	190.164	1:19.414	29
+24	8	2001	Canadian Grand Prix	12	4	David Coulthard	Great Britain	McLaren	54	1:15:29.012			189.763	1:19.745	32
+24	8	2001	Canadian Grand Prix	13	9	Olivier Panis	France	BAR	38	58:50.283			171.315	1:19.856	30
+24	8	2001	Canadian Grand Prix	14	10	Jacques Villeneuve	Canada	BAR	34	48:37.845			185.455	1:19.782	30
+24	8	2001	Canadian Grand Prix	15	15	Enrique Bernoldi	Brazil	Arrows	24	35:11.225			180.925	1:20.767	11
+24	8	2001	Canadian Grand Prix	16	6	Juan Pablo Montoya	Colombia	Williams	19	25:52.737			194.750	1:20.159	18
+24	8	2001	Canadian Grand Prix	17	2	Rubens Barrichello	Brazil	Ferrari	19	25:53.331			194.676	1:19.722	13
+24	8	2001	Canadian Grand Prix	18	8	Jenson Button	Great Britain	Benneton	17	24:44.315			182.282	1:21.124	11
+24	8	2001	Canadian Grand Prix	19	21	Fernando Alonso	Spain	Minardi	7	9:56.222			186.858	1:22.413	4
+24	8	2001	Canadian Grand Prix	20	16	Nick Heidfeld	Germany	Sauber	1	1:31.894			173.195		
+24	8	2001	Canadian Grand Prix	21	18	Eddie Irvine	Great Britain	Jaguar	1	1:32.210			172.601		
+24	8	2001	Canadian Grand Prix	22	7	Giancarlo Fisichella	Italy	Benneton							

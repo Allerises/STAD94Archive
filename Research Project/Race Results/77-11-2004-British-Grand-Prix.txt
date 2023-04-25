@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+77	11	2004	British Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	60	1:24:42.700			218.403	1:18.739	14
+77	11	2004	British Grand Prix	2	6	Kimi Räikkönen	Finland	McLaren	60	1:24:44.830	+ 2.130	+ 2.130	218.311	1:19.554	10
+77	11	2004	British Grand Prix	3	2	Rubens Barrichello	Brazil	Ferrari	60	1:24:45.814	+ 3.114	+ 0.984	218.269	1:19.296	8
+77	11	2004	British Grand Prix	4	9	Jenson Button	Great Britain	BAR	60	1:24:53.383	+ 10.683	+ 7.569	217.945	1:19.488	10
+77	11	2004	British Grand Prix	5	3	Juan Pablo Montoya	Colombia	Williams	60	1:24:54.873	+ 12.173	+ 1.490	217.881	1:19.968	26
+77	11	2004	British Grand Prix	6	11	Giancarlo Fisichella	Italy	Sauber	60	1:24:55.588	+ 12.888	+ 0.715	217.850	1:19.813	22
+77	11	2004	British Grand Prix	7	5	David Coulthard	Great Britain	McLaren	60	1:25:02.368	+ 19.668	+ 6.780	217.561	1:20.547	25
+77	11	2004	British Grand Prix	8	14	Mark Webber	Australia	Jaguar	60	1:25:06.401	+ 23.701	+ 4.033	217.389	1:20.768	11
+77	11	2004	British Grand Prix	9	12	Felipe Massa	Brazil	Sauber	60	1:25:06.723	+ 24.023	+ 0.322	217.375	1:20.484	58
+77	11	2004	British Grand Prix	10	8	Fernando Alonso	Spain	Renault	60	1:25:07.535	+ 24.835	+ 0.812	217.341	1:20.442	39
+77	11	2004	British Grand Prix	11	10	Takuma Sato	Japan	BAR	60	1:25:16.436	+ 33.736	+ 8.901	216.963	1:20.790	12
+77	11	2004	British Grand Prix	12	4	Marc Gene	Spain	Williams	60	1:25:17.003	+ 34.303	+ 0.567	216.939	1:20.434	58
+77	11	2004	British Grand Prix	13	16	Cristiano da Matta	Brazil	Toyota	59	1:25:19.903	1 Lap	1 Lap	213.201	1:20.768	35
+77	11	2004	British Grand Prix	14	15	Christian Klien	Austria	Jaguar	59	1:25:20.971	1 Lap	+ 1.068	213.156	1:20.956	10
+77	11	2004	British Grand Prix	15	18	Nick Heidfeld	Germany	Jordan	59	1:25:29.729	1 Lap	+ 8.758	212.792	1:21.720	17
+77	11	2004	British Grand Prix	16	20	Gianmaria Bruni	Italy	Minardi	56	1:25:12.423	4 Laps	3 Laps	202.652	1:24.296	33
+77	11	2004	British Grand Prix	17	19	Giorgio Pantano	Italy	Jordan	47	1:08:59.582			210.040	1:22.146	13
+77	11	2004	British Grand Prix	18	7	Jarno Trulli	Italy	Renault	39	53:54.073			223.068	1:20.655	34
+77	11	2004	British Grand Prix	19	21	Zsolt Baumgartner	Hungary	Minardi	29	42:35.555			209.873	1:24.317	12
+77	11	2004	British Grand Prix	20	17	Olivier Panis	France	Toyota	16	22:43.991			216.822	1:23.131	4

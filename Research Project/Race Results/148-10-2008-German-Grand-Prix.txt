@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+148	10	2008	German Grand Prix	1	22	Lewis Hamilton	Great Britain	McLaren	67	1:31:20.874			201.290	1:16.039	17
+148	10	2008	German Grand Prix	2	6	Nelson Piquet Jr.	Brazil	Renault	67	1:31:26.460	+ 5.586	+ 5.586	201.085	1:16.910	66
+148	10	2008	German Grand Prix	3	2	Felipe Massa	Brazil	Ferrari	67	1:31:30.213	+ 9.339	+ 3.753	200.948	1:16.502	19
+148	10	2008	German Grand Prix	4	3	Nick Heidfeld	Germany	Sauber	67	1:31:30.699	+ 9.825	+ 0.486	200.930	1:15.987	52
+148	10	2008	German Grand Prix	5	23	Heikki Kovalainen	Finland	McLaren	67	1:31:33.285	+ 12.411	+ 2.586	200.835	1:16.495	63
+148	10	2008	German Grand Prix	6	1	Kimi Räikkönen	Finland	Ferrari	67	1:31:35.357	+ 14.483	+ 2.072	200.760	1:16.342	66
+148	10	2008	German Grand Prix	7	4	Robert Kubica	Poland	Sauber	67	1:31:43.477	+ 22.603	+ 8.120	200.463	1:16.610	17
+148	10	2008	German Grand Prix	8	15	Sebastian Vettel	Germany	Toro Rosso	67	1:31:54.156	+ 33.282	+ 10.679	200.075	1:16.772	20
+148	10	2008	German Grand Prix	9	11	Jarno Trulli	Italy	Toyota	67	1:31:58.073	+ 37.199	+ 3.917	199.933	1:17.023	17
+148	10	2008	German Grand Prix	10	7	Nico Rosberg	Germany	Williams	67	1:31:58.532	+ 37.658	+ 0.459	199.917	1:17.380	34
+148	10	2008	German Grand Prix	11	5	Fernando Alonso	Spain	Renault	67	1:31:59.499	+ 38.625	+ 0.967	199.882	1:17.115	17
+148	10	2008	German Grand Prix	12	14	Sebastien Bourdais	France	Toro Rosso	67	1:31:59.985	+ 39.111	+ 0.486	199.864	1:16.969	63
+148	10	2008	German Grand Prix	13	9	David Coulthard	Great Britain	Red Bull	67	1:32:15.845	+ 54.971	+ 15.860	199.291	1:16.994	18
+148	10	2008	German Grand Prix	14	8	Kazuki Nakajima	Japan	Williams	67	1:32:20.877	+ 1:00.003	+ 5.032	199.110	1:17.691	23
+148	10	2008	German Grand Prix	15	20	Adrian Sutil	Germany	Force India	67	1:32:30.362	+ 1:09.488	+ 9.485	198.770	1:17.889	66
+148	10	2008	German Grand Prix	16	21	Giancarlo Fisichella	Italy	Force India	67	1:32:44.967	+ 1:24.093	+ 14.605	198.248	1:18.208	67
+148	10	2008	German Grand Prix	17	16	Jenson Button	Great Britain	Honda	66	1:32:01.303	1 Lap	1 Lap	196.834	1:17.636	56
+148	10	2008	German Grand Prix	18	17	Rubens Barrichello	Brazil	Honda	50	1:10:52.618			193.603	1:17.986	30
+148	10	2008	German Grand Prix	19	10	Mark Webber	Australia	Red Bull	40	55:56.742			196.218	1:17.206	20
+148	10	2008	German Grand Prix	20	12	Timo Glock	Germany	Toyota	35	46:07.917			208.215	1:16.712	24

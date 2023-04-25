@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+328	19	2017	Brazilian Grand Prix	1	5	Sebastian Vettel	Germany	Ferrari	71	1:31:26.262			200.732	1:12.539	63
+328	19	2017	Brazilian Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	71	1:31:29.024	+ 2.762	+ 2.762	200.631	1:12.466	58
+328	19	2017	Brazilian Grand Prix	3	7	Kimi Räikkönen	Finland	Ferrari	71	1:31:30.862	+ 4.600	+ 1.838	200.564	1:12.492	61
+328	19	2017	Brazilian Grand Prix	4	44	Lewis Hamilton	Great Britain	Mercedes	71	1:31:31.730	+ 5.468	+ 0.868	200.532	1:11.845	63
+328	19	2017	Brazilian Grand Prix	5	33	Max Verstappen	Netherlands	Red Bull	71	1:31:59.202	+ 32.940	+ 27.472	199.534	1:11.044	64
+328	19	2017	Brazilian Grand Prix	6	3	Daniel Ricciardo	Australia	Red Bull	71	1:32:14.953	+ 48.691	+ 15.751	198.966	1:12.029	71
+328	19	2017	Brazilian Grand Prix	7	19	Felipe Massa	Brazil	Williams	71	1:32:35.144	+ 1:08.882	+ 20.191	198.243	1:13.452	60
+328	19	2017	Brazilian Grand Prix	8	14	Fernando Alonso	Spain	McLaren	71	1:32:35.625	+ 1:09.363	+ 0.481	198.226	1:13.451	57
+328	19	2017	Brazilian Grand Prix	9	11	Sergio Pérez	Mexico	Force India	71	1:32:35.762	+ 1:09.500	+ 0.137	198.221	1:13.052	61
+328	19	2017	Brazilian Grand Prix	10	27	Nico Hülkenberg	Germany	Renault	70	1:31:43.880	+ 17.618	1 Lap	197.271	1:13.758	57
+328	19	2017	Brazilian Grand Prix	11	55	Carlos Sainz	Spain	Renault	70	1:31:50.426	+ 24.164	+ 6.546	197.037	1:13.625	67
+328	19	2017	Brazilian Grand Prix	12	10	Pierre Gasly	France	Toro Rosso	70	1:32:07.102	+ 40.840	+ 16.676	196.442	1:13.323	61
+328	19	2017	Brazilian Grand Prix	13	9	Marcus Ericsson	Sweden	Sauber	70	1:32:24.548	+ 58.286	+ 17.446	195.824	1:13.666	70
+328	19	2017	Brazilian Grand Prix	14	94	Pascal Wehrlein	Germany	Sauber	70	1:32:33.405	+ 1:07.143	+ 8.857	195.512	1:14.812	60
+328	19	2017	Brazilian Grand Prix	15	8	Romain Grosjean	France	Haas	69	1:31:47.048	+ 20.786	1 Lap	194.341	1:13.532	66
+328	19	2017	Brazilian Grand Prix	16	18	Lance Stroll	Canada	Williams	69	1:32:12.329	+ 46.067	+ 25.281	193.453	1:11.862	69
+328	19	2017	Brazilian Grand Prix	17	28	Brendon Hartley	New Zealand	Toro Rosso	40	55:00.835			187.948	1:14.658	29
+328	19	2017	Brazilian Grand Prix	18	31	Esteban Ocon	France	Force India							
+328	19	2017	Brazilian Grand Prix	19	2	Stoffel Vandoorne	Belgium	McLaren							
+328	19	2017	Brazilian Grand Prix	20	20	Kevin Magnussen	Denmark	Haas							

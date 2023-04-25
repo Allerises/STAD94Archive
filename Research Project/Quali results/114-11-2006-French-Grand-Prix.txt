@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+114	11	2006	French Grand Prix	1	5	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	19	1:15.493					
+114	11	2006	French Grand Prix	2	6	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	18	1:15.510	0.017	0.017			
+114	11	2006	French Grand Prix	3	1	Fernando Alonso	Spain	Mild Seven Renault F1 Team	18	1:15.785	0.292	0.275			
+114	11	2006	French Grand Prix	4	8	Jarno Trulli	Italy	Panasonic Toyota Racing	21	1:16.036	0.543	0.251			
+114	11	2006	French Grand Prix	5	7	Ralf Schumacher	Germany	Panasonic Toyota Racing	21	1:16.091	0.598	0.055			
+114	11	2006	French Grand Prix	6	3	Kimi Räikkönen	Finland	Team McLaren Mercedes	20	1:16.281	0.788	0.190			
+114	11	2006	French Grand Prix	7	2	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	18	1:16.345	0.852	0.064			
+114	11	2006	French Grand Prix	8	4	Pedro de la Rosa	Spain	Team McLaren Mercedes	23	1:16.632	1.139	0.287			
+114	11	2006	French Grand Prix	9	10	Nico Rosberg	Germany	WilliamsF1 Team	24	1:18.272	2.779	1.640			
+114	11	2006	French Grand Prix	10	14	David Coulthard	Great Britain	Red Bull Racing	24	1:18.663	3.170	0.391			
+114	11	2006	French Grand Prix	11	9	Mark Webber	Australia	WilliamsF1 Team	12	1:16.129	0.636	0.038			
+114	11	2006	French Grand Prix	12	16	Nick Heidfeld	Germany	BMW Sauber F1 Team	13	1:16.294	0.801	0.165			
+114	11	2006	French Grand Prix	13	15	Christian Klien	Austria	Red Bull Racing	12	1:16.433	0.940	0.139			
+114	11	2006	French Grand Prix	14	11	Rubens Barrichello	Brazil	Lucky Strike Honda Racing F1 Team	12	1:17.027	1.534	0.594			
+114	11	2006	French Grand Prix	15	21	Scott Speed	USA	Scuderia Toro Rosso	17	1:17.063	1.570	0.036			
+114	11	2006	French Grand Prix	16	19	Christijan Albers	Netherlands	MF1 Racing	11	1:17.105	1.612	0.042			
+114	11	2006	French Grand Prix	17	20	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	8	1:17.164	1.671	0.059			
+114	11	2006	French Grand Prix	18	17	Jacques Villeneuve	Canada	BMW Sauber F1 Team	3	1:17.304	1.811	0.140			
+114	11	2006	French Grand Prix	19	12	Jenson Button	Great Britain	Lucky Strike Honda Racing F1 Team	7	1:17.495	2.002	0.191			
+114	11	2006	French Grand Prix	20	18	Tiago Monteiro	Portugal	MF1 Racing	7	1:17.589	2.096	0.094			
+114	11	2006	French Grand Prix	21	23	Franck Montagny	France	Super Aguri F1	6	1:18.637	3.144	1.048			
+114	11	2006	French Grand Prix	22	22	Takuma Sato	Japan	Super Aguri F1	6	1:18.845	3.352	0.208			

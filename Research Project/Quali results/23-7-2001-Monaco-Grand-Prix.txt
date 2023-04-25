@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+23	7	2001	Monaco Grand Prix	1	4	David Coulthard	Great Britain	West McLaren Mercedes		1:17.430					
+23	7	2001	Monaco Grand Prix	2	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:17.631	0.201	0.201			
+23	7	2001	Monaco Grand Prix	3	3	Mika Hakkinen	Finland	West McLaren Mercedes		1:17.749	0.319	0.118			
+23	7	2001	Monaco Grand Prix	4	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:17.856	0.426	0.107			
+23	7	2001	Monaco Grand Prix	5	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:18.029	0.599	0.173			
+23	7	2001	Monaco Grand Prix	6	18	Eddie Irvine	Great Britain	Jaguar Racing		1:18.432	1.002	0.403			
+23	7	2001	Monaco Grand Prix	7	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:18.751	1.321	0.319			
+23	7	2001	Monaco Grand Prix	8	12	Jarno Trulli	Italy	B&H Jordan Honda		1:18.921	1.491	0.170			
+23	7	2001	Monaco Grand Prix	9	10	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:19.086	1.656	0.165			
+23	7	2001	Monaco Grand Prix	10	7	Giancarlo Fisichella	Italy	Mild Seven Benetton Renault		1:19.220	1.790	0.134			
+23	7	2001	Monaco Grand Prix	11	22	Jean Alesi	France	Prost Acer		1:19.245	1.815	0.025			
+23	7	2001	Monaco Grand Prix	12	9	Olivier Panis	France	Lucky Strike BAR Honda		1:19.294	1.864	0.049			
+23	7	2001	Monaco Grand Prix	13	11	Heinz-Harald Frentzen	Germany	B&H Jordan Honda		1:19.316	1.886	0.022			
+23	7	2001	Monaco Grand Prix	14	19	Pedro de la Rosa	Spain	Jaguar Racing		1:20.033	2.603	0.717			
+23	7	2001	Monaco Grand Prix	15	17	Kimi Räikkönen	Finland	Red Bull Sauber Petronas		1:20.081	2.651	0.048			
+23	7	2001	Monaco Grand Prix	16	16	Nick Heidfeld	Germany	Red Bull Sauber Petronas		1:20.261	2.831	0.180			
+23	7	2001	Monaco Grand Prix	17	8	Jenson Button	Great Britain	Mild Seven Benetton Renault		1:20.342	2.912	0.081			
+23	7	2001	Monaco Grand Prix	18	21	Fernando Alonso	Spain	European Minardi F1		1:20.788	3.358	0.446			
+23	7	2001	Monaco Grand Prix	19	14	Jos Verstappen	Netherlands	Orange Arrows Asiatech		1:20.823	3.393	0.035			
+23	7	2001	Monaco Grand Prix	20	15	Enrique Bernoldi	Brazil	Orange Arrows Asiatech		1:21.336	3.906	0.513			
+23	7	2001	Monaco Grand Prix	21	23	Luciano Burti	Brazil	Prost Acer		1:21.771	4.341	0.435			
+23	7	2001	Monaco Grand Prix	22	20	Tarso Marques	Brazil	European Minardi F1		1:22.201	4.771	0.430			

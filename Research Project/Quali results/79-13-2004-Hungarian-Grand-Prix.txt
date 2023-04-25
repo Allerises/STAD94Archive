@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+79	13	2004	Hungarian Grand Prix	1	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:19.146					
+79	13	2004	Hungarian Grand Prix	2	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:19.323	0.177	0.177			
+79	13	2004	Hungarian Grand Prix	3	10	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:19.693	0.547	0.370			
+79	13	2004	Hungarian Grand Prix	4	9	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:19.700	0.554	0.007			
+79	13	2004	Hungarian Grand Prix	5	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:19.996	0.850	0.296			
+79	13	2004	Hungarian Grand Prix	6	4	Antonio Pizzonia	Brazil	BMW WilliamsF1 Team	3	1:20.170	1.024	0.174			
+79	13	2004	Hungarian Grand Prix	7	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team	3	1:20.199	1.053	0.029			
+79	13	2004	Hungarian Grand Prix	8	11	Giancarlo Fisichella	Italy	Sauber Petronas	3	1:20.324	1.178	0.125			
+79	13	2004	Hungarian Grand Prix	9	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team	3	1:20.411	1.265	0.087			
+79	13	2004	Hungarian Grand Prix	10	6	Kimi Räikkönen	Finland	West McLaren Mercedes	3	1:20.570	1.424	0.159			
+79	13	2004	Hungarian Grand Prix	11	14	Mark Webber	Australia	Jaguar Racing	3	1:20.730	1.584	0.160			
+79	13	2004	Hungarian Grand Prix	12	5	David Coulthard	Great Britain	West McLaren Mercedes	3	1:20.897	1.751	0.167			
+79	13	2004	Hungarian Grand Prix	13	17	Olivier Panis	France	Panasonic Toyota Racing	3	1:21.068	1.922	0.171			
+79	13	2004	Hungarian Grand Prix	14	15	Christian Klien	Austria	Jaguar Racing	3	1:21.118	1.972	0.050			
+79	13	2004	Hungarian Grand Prix	15	16	Ricardo Zonta	Brazil	Panasonic Toyota Racing	3	1:21.135	1.989	0.017			
+79	13	2004	Hungarian Grand Prix	16	18	Nick Heidfeld	Germany	Jordan Ford	3	1:22.180	3.034	1.045			
+79	13	2004	Hungarian Grand Prix	17	19	Giorgio Pantano	Italy	Jordan Ford	3	1:22.356	3.210	0.176			
+79	13	2004	Hungarian Grand Prix	18	21	Zsolt Baumgartner	Hungary	Minardi Cosworth	3	1:24.329	5.183	1.973			
+79	13	2004	Hungarian Grand Prix	19	20	Gianmaria Bruni	Italy	Minardi Cosworth	3	1:24.679	5.533	0.350			
+79	13	2004	Hungarian Grand Prix	20	12	Felipe Massa	Brazil	Sauber Petronas							

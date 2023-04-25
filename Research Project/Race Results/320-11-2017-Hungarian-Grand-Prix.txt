@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+320	11	2017	Hungarian Grand Prix	1	5	Sebastian Vettel	Germany	Ferrari	70	1:39:46.713			184.386	1:20.807	69
+320	11	2017	Hungarian Grand Prix	2	7	Kimi Räikkönen	Finland	Ferrari	70	1:39:47.621	+ 0.908	+ 0.908	184.358	1:20.461	70
+320	11	2017	Hungarian Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes	70	1:39:59.175	+ 12.462	+ 11.554	184.003	1:21.214	68
+320	11	2017	Hungarian Grand Prix	4	44	Lewis Hamilton	Great Britain	Mercedes	70	1:39:59.598	+ 12.885	+ 0.423	183.990	1:20.818	66
+320	11	2017	Hungarian Grand Prix	5	33	Max Verstappen	Netherlands	Red Bull	70	1:39:59.989	+ 13.276	+ 0.391	183.978	1:20.490	44
+320	11	2017	Hungarian Grand Prix	6	14	Fernando Alonso	Spain	McLaren	70	1:40:57.936	+ 1:11.223	+ 57.947	182.218	1:20.182	69
+320	11	2017	Hungarian Grand Prix	7	55	Carlos Sainz	Spain	Toro Rosso	69	1:39:56.379	+ 9.666	1 Lap	181.458	1:21.871	67
+320	11	2017	Hungarian Grand Prix	8	11	Sergio Pérez	Mexico	Force India	69	1:39:57.415	+ 10.702	+ 1.036	181.427	1:22.105	68
+320	11	2017	Hungarian Grand Prix	9	31	Esteban Ocon	France	Force India	69	1:40:06.145	+ 19.432	+ 8.730	181.163	1:22.431	60
+320	11	2017	Hungarian Grand Prix	10	2	Stoffel Vandoorne	Belgium	McLaren	69	1:40:06.740	+ 20.027	+ 0.595	181.145	1:21.960	44
+320	11	2017	Hungarian Grand Prix	11	26	Daniil Kvyat	Russia	Toro Rosso	69	1:40:14.446	+ 27.733	+ 7.706	180.913	1:21.631	42
+320	11	2017	Hungarian Grand Prix	12	30	Jolyon Palmer	Great Britain	Renault	69	1:40:14.925	+ 28.212	+ 0.479	180.899	1:21.589	68
+320	11	2017	Hungarian Grand Prix	13	20	Kevin Magnussen	Denmark	Haas	69	1:40:18.195	+ 31.482	+ 3.270	180.801	1:22.100	67
+320	11	2017	Hungarian Grand Prix	14	18	Lance Stroll	Canada	Williams	69	1:40:38.709	+ 51.996	+ 20.514	180.186	1:22.830	53
+320	11	2017	Hungarian Grand Prix	15	94	Pascal Wehrlein	Germany	Sauber	68	1:40:11.875	+ 25.162	1 Lap	178.367	1:23.573	50
+320	11	2017	Hungarian Grand Prix	16	9	Marcus Ericsson	Sweden	Sauber	68	1:40:29.343	+ 42.630	+ 17.468	177.851	1:21.752	66
+320	11	2017	Hungarian Grand Prix	17	27	Nico Hülkenberg	Germany	Renault	67	1:37:46.787	3 Laps	1 Lap	180.090	1:21.611	61
+320	11	2017	Hungarian Grand Prix	18	40	Paul di Resta	Great Britain	Williams	60	1:28:58.199			177.241	1:23.242	49
+320	11	2017	Hungarian Grand Prix	19	8	Romain Grosjean	France	Haas	20	31:58.359			164.352	1:24.702	19
+320	11	2017	Hungarian Grand Prix	20	3	Daniel Ricciardo	Australia	Red Bull							

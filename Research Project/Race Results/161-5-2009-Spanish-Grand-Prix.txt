@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+161	5	2009	Spanish Grand Prix	1	22	Jenson Button	Great Britain	Brawn	66	1:37:19.202			189.336	1:22.899	17
+161	5	2009	Spanish Grand Prix	2	23	Rubens Barrichello	Brazil	Brawn	66	1:37:32.258	+ 13.056	+ 13.056	188.914	1:22.762	28
+161	5	2009	Spanish Grand Prix	3	14	Mark Webber	Australia	Red Bull	66	1:37:33.126	+ 13.924	+ 0.868	188.886	1:23.112	18
+161	5	2009	Spanish Grand Prix	4	15	Sebastian Vettel	Germany	Red Bull	66	1:37:38.143	+ 18.941	+ 5.017	188.724	1:23.090	41
+161	5	2009	Spanish Grand Prix	5	7	Fernando Alonso	Spain	Renault	66	1:38:02.368	+ 43.166	+ 24.225	187.947	1:23.420	14
+161	5	2009	Spanish Grand Prix	6	3	Felipe Massa	Brazil	Ferrari	66	1:38:10.029	+ 50.827	+ 7.661	187.702	1:23.089	14
+161	5	2009	Spanish Grand Prix	7	6	Nick Heidfeld	Germany	Sauber	66	1:38:11.514	+ 52.312	+ 1.485	187.655	1:23.878	29
+161	5	2009	Spanish Grand Prix	8	16	Nico Rosberg	Germany	Williams	66	1:38:24.413	+ 1:05.211	+ 12.899	187.245	1:23.621	24
+161	5	2009	Spanish Grand Prix	9	1	Lewis Hamilton	Great Britain	McLaren	65	1:37:20.216	1 Lap	1 Lap	186.434	1:23.839	29
+161	5	2009	Spanish Grand Prix	10	10	Timo Glock	Germany	Toyota	65	1:37:20.990	1 Lap	+ 0.774	186.409	1:24.134	44
+161	5	2009	Spanish Grand Prix	11	5	Robert Kubica	Poland	Sauber	65	1:37:23.811	1 Lap	+ 2.821	186.319	1:24.078	26
+161	5	2009	Spanish Grand Prix	12	8	Nelson Piquet Jr.	Brazil	Renault	65	1:37:26.107	1 Lap	+ 2.296	186.246	1:24.286	41
+161	5	2009	Spanish Grand Prix	13	17	Kazuki Nakajima	Japan	Williams	65	1:37:37.113	1 Lap	+ 11.006	185.896	1:24.155	38
+161	5	2009	Spanish Grand Prix	14	21	Giancarlo Fisichella	Italy	Force India	65	1:37:50.740	1 Lap	+ 13.627	185.464	1:23.796	63
+161	5	2009	Spanish Grand Prix	15	4	Kimi Räikkönen	Finland	Ferrari	17	28:17.924			167.517	1:24.490	16
+161	5	2009	Spanish Grand Prix	16	2	Heikki Kovalainen	Finland	McLaren	7	14:57.995			130.125	1:28.719	6
+161	5	2009	Spanish Grand Prix	17	9	Jarno Trulli	Italy	Toyota							
+161	5	2009	Spanish Grand Prix	18	12	Sébastien Buemi	Switzerland	Toro Rosso							
+161	5	2009	Spanish Grand Prix	19	11	Sebastien Bourdais	France	Toro Rosso							
+161	5	2009	Spanish Grand Prix	20	20	Adrian Sutil	Germany	Force India							

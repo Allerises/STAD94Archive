@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+367	8	2020	Italian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Formula One Team	18	1:18.887			264.362		
+367	8	2020	Italian Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Formula One Team	18	1:18.956	0.069	0.069	264.131		
+367	8	2020	Italian Grand Prix	3	55	Carlos Sainz	Spain	McLaren F1 Team	16	1:19.695	0.808	0.739	261.682		
+367	8	2020	Italian Grand Prix	4	11	Sergio Pérez	Mexico	BWT Racing Point F1 Team	17	1:19.720	0.833	0.025	261.600		
+367	8	2020	Italian Grand Prix	5	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	17	1:19.795	0.908	0.075	261.354		
+367	8	2020	Italian Grand Prix	6	4	Lando Norris	Great Britain	McLaren F1 Team	18	1:19.820	0.933	0.025	261.272		
+367	8	2020	Italian Grand Prix	7	3	Daniel Ricciardo	Australia	Renault DP World F1 Team	16	1:19.864	0.977	0.044	261.128		
+367	8	2020	Italian Grand Prix	8	18	Lance Stroll	Canada	BWT Racing Point F1 Team	19	1:20.049	1.162	0.185	260.525		
+367	8	2020	Italian Grand Prix	9	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	19	1:20.090	1.203	0.041	260.392		
+367	8	2020	Italian Grand Prix	10	10	Pierre Gasly	France	Scuderia AlphaTauri Honda	20	1:20.177	1.290	0.087	260.109		
+367	8	2020	Italian Grand Prix	11	26	Daniil Kvyat	Russia	Scuderia AlphaTauri Honda	14	1:20.169	1.282		260.135		
+367	8	2020	Italian Grand Prix	12	31	Esteban Ocon	France	Renault DP World F1 Team	12	1:20.234	1.347	0.065	259.924		
+367	8	2020	Italian Grand Prix	13	16	Charles Leclerc	Monaco	Scuderia Ferrari	15	1:20.273	1.386	0.039	259.798		
+367	8	2020	Italian Grand Prix	14	7	Kimi Räikkönen	Finland	Alfa Romeo Racing ORLEN	14	1:20.926	2.039	0.653	257.702		
+367	8	2020	Italian Grand Prix	15	20	Kevin Magnussen	Denmark	Haas F1 Team	14	1:21.573	2.686	0.647	255.658		
+367	8	2020	Italian Grand Prix	16	8	Romain Grosjean	France	Haas F1 Team	8	1:21.139	2.252		257.025		
+367	8	2020	Italian Grand Prix	17	5	Sebastian Vettel	Germany	Scuderia Ferrari	5	1:21.151	2.264	0.012	256.987		
+367	8	2020	Italian Grand Prix	18	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing ORLEN	9	1:21.206	2.319	0.055	256.813		
+367	8	2020	Italian Grand Prix	19	63	George Russell	Great Britain	Williams Racing	7	1:21.587	2.700	0.381	255.614		
+367	8	2020	Italian Grand Prix	20	6	Nicholas Latifi	Canada	Williams Racing	8	1:21.717	2.830	0.130	255.207		

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+379	8	2020	Italian Grand Prix	1	10	Pierre Gasly	France	Toro Rosso	53	1:47:06.056			171.830	1:24.037	34
+379	8	2020	Italian Grand Prix	2	55	Carlos Sainz	Spain	McLaren	53	1:47:06.471	+ 0.415	+ 0.415	171.819	1:23.882	40
+379	8	2020	Italian Grand Prix	3	18	Lance Stroll	Canada	Aston Martin	53	1:47:09.414	+ 3.358	+ 2.943	171.740	1:23.897	42
+379	8	2020	Italian Grand Prix	4	4	Lando Norris	Great Britain	McLaren	53	1:47:12.056	+ 6.000	+ 2.642	171.670	1:24.232	50
+379	8	2020	Italian Grand Prix	5	77	Valtteri Bottas	Finland	Mercedes	53	1:47:13.164	+ 7.108	+ 1.108	171.640	1:23.961	51
+379	8	2020	Italian Grand Prix	6	3	Daniel Ricciardo	Australia	Renault	53	1:47:14.447	+ 8.391	+ 1.283	171.606	1:23.898	38
+379	8	2020	Italian Grand Prix	7	44	Lewis Hamilton	Great Britain	Mercedes	53	1:47:23.301	+ 17.245	+ 8.854	171.370	1:22.746	34
+379	8	2020	Italian Grand Prix	8	31	Esteban Ocon	France	Renault	53	1:47:24.747	+ 18.691	+ 1.446	171.332	1:24.490	52
+379	8	2020	Italian Grand Prix	9	26	Daniil Kvyat	Russia	Toro Rosso	53	1:47:28.264	+ 22.208	+ 3.517	171.238	1:24.479	44
+379	8	2020	Italian Grand Prix	10	11	Sergio Pérez	Mexico	Aston Martin	53	1:47:29.280	+ 23.224	+ 1.016	171.211	1:24.336	50
+379	8	2020	Italian Grand Prix	11	6	Nicholas Latifi	Canada	Williams	53	1:47:38.932	+ 32.876	+ 9.652	170.955	1:24.999	39
+379	8	2020	Italian Grand Prix	12	8	Romain Grosjean	France	Haas	53	1:47:41.220	+ 35.164	+ 2.288	170.895	1:24.785	48
+379	8	2020	Italian Grand Prix	13	7	Kimi Räikkönen	Finland	Sauber	53	1:47:42.368	+ 36.312	+ 1.148	170.864	1:24.835	29
+379	8	2020	Italian Grand Prix	14	63	George Russell	Great Britain	Williams	53	1:47:42.649	+ 36.593	+ 0.281	170.857	1:24.421	39
+379	8	2020	Italian Grand Prix	15	23	Alexander Albon	Thailand	Red Bull	53	1:47:43.589	+ 37.533	+ 0.940	170.832	1:24.926	48
+379	8	2020	Italian Grand Prix	16	99	Antonio Giovinazzi	Italy	Sauber	53	1:48:01.255	+ 55.199	+ 17.666	170.367	1:24.856	43
+379	8	2020	Italian Grand Prix	17	33	Max Verstappen	Netherlands	Red Bull	30	1:14:59.415			138.802	1:25.539	10
+379	8	2020	Italian Grand Prix	18	16	Charles Leclerc	Monaco	Ferrari	23	35:27.678			224.915	1:26.026	19
+379	8	2020	Italian Grand Prix	19	20	Kevin Magnussen	Denmark	Haas	17	25:15.852			233.148	1:25.787	10
+379	8	2020	Italian Grand Prix	20	5	Sebastian Vettel	Germany	Ferrari	6	9:48.850			210.607	1:27.107	4

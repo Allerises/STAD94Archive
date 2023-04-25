@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+168	12	2009	Belgian Grand Prix	1	4	Kimi Räikkönen	Finland	Ferrari	44	1:23:50.995			220.430	1:47.674	42
+168	12	2009	Belgian Grand Prix	2	21	Giancarlo Fisichella	Italy	Force India	44	1:23:51.934	+ 0.939	+ 0.939	220.389	1:47.737	43
+168	12	2009	Belgian Grand Prix	3	15	Sebastian Vettel	Germany	Red Bull	44	1:23:54.870	+ 3.875	+ 2.936	220.261	1:47.263	38
+168	12	2009	Belgian Grand Prix	4	5	Robert Kubica	Poland	Sauber	44	1:24:00.961	+ 9.966	+ 6.091	219.995	1:47.664	41
+168	12	2009	Belgian Grand Prix	5	6	Nick Heidfeld	Germany	Sauber	44	1:24:02.271	+ 11.276	+ 1.310	219.938	1:47.371	35
+168	12	2009	Belgian Grand Prix	6	2	Heikki Kovalainen	Finland	McLaren	44	1:24:23.758	+ 32.763	+ 21.487	219.004	1:48.348	24
+168	12	2009	Belgian Grand Prix	7	23	Rubens Barrichello	Brazil	Brawn	44	1:24:26.456	+ 35.461	+ 2.698	218.888	1:48.257	37
+168	12	2009	Belgian Grand Prix	8	16	Nico Rosberg	Germany	Williams	44	1:24:27.203	+ 36.208	+ 0.747	218.855	1:47.766	41
+168	12	2009	Belgian Grand Prix	9	14	Mark Webber	Australia	Red Bull	44	1:24:27.954	+ 36.959	+ 0.751	218.823	1:47.783	39
+168	12	2009	Belgian Grand Prix	10	10	Timo Glock	Germany	Toyota	44	1:24:32.485	+ 41.490	+ 4.531	218.627	1:47.736	40
+168	12	2009	Belgian Grand Prix	11	20	Adrian Sutil	Germany	Force India	44	1:24:33.631	+ 42.636	+ 1.146	218.578	1:47.859	42
+168	12	2009	Belgian Grand Prix	12	12	Sébastien Buemi	Switzerland	Toro Rosso	44	1:24:37.101	+ 46.106	+ 3.470	218.429	1:47.763	42
+168	12	2009	Belgian Grand Prix	13	17	Kazuki Nakajima	Japan	Williams	44	1:24:45.236	+ 54.241	+ 8.135	218.079	1:48.205	42
+168	12	2009	Belgian Grand Prix	14	3	Luca Badoer	Italy	Ferrari	44	1:25:33.172	+ 1:42.177	+ 47.936	216.043	1:49.803	41
+168	12	2009	Belgian Grand Prix	15	7	Fernando Alonso	Spain	Renault	26	52:15.759			208.921	1:48.634	23
+168	12	2009	Belgian Grand Prix	16	9	Jarno Trulli	Italy	Toyota	21	43:07.606			204.457	1:50.029	16
+168	12	2009	Belgian Grand Prix	17	1	Lewis Hamilton	Great Britain	McLaren							
+168	12	2009	Belgian Grand Prix	18	22	Jenson Button	Great Britain	Brawn							
+168	12	2009	Belgian Grand Prix	19	11	Jaime Alguersuari	Spain	Toro Rosso							
+168	12	2009	Belgian Grand Prix	20	8	Romain Grosjean	France	Renault							

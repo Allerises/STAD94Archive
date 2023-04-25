@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+319	10	2017	British Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	51	1:21:27.430			221.201	1:30.621	48
+319	10	2017	British Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	51	1:21:41.493	+ 14.063	+ 14.063	220.566	1:30.905	46
+319	10	2017	British Grand Prix	3	7	Kimi Räikkönen	Finland	Ferrari	51	1:22:04.000	+ 36.570	+ 22.507	219.558	1:31.517	44
+319	10	2017	British Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull	51	1:22:19.555	+ 52.125	+ 15.555	218.866	1:30.678	51
+319	10	2017	British Grand Prix	5	3	Daniel Ricciardo	Australia	Red Bull	51	1:22:33.385	+ 1:05.955	+ 13.830	218.255	1:31.874	47
+319	10	2017	British Grand Prix	6	27	Nico Hülkenberg	Germany	Renault	51	1:22:35.539	+ 1:08.109	+ 2.154	218.160	1:32.577	43
+319	10	2017	British Grand Prix	7	5	Sebastian Vettel	Germany	Ferrari	51	1:23:01.419	+ 1:33.989	+ 25.880	217.027	1:31.872	38
+319	10	2017	British Grand Prix	8	31	Esteban Ocon	France	Force India	50	1:21:29.920	1 Lap	1 Lap	216.751	1:33.521	39
+319	10	2017	British Grand Prix	9	11	Sergio Pérez	Mexico	Force India	50	1:21:31.922	1 Lap	+ 2.002	216.662	1:33.504	42
+319	10	2017	British Grand Prix	10	19	Felipe Massa	Brazil	Williams	50	1:21:32.729	1 Lap	+ 0.807	216.627	1:33.562	39
+319	10	2017	British Grand Prix	11	2	Stoffel Vandoorne	Belgium	McLaren	50	1:21:36.659	1 Lap	+ 3.930	216.453	1:33.464	43
+319	10	2017	British Grand Prix	12	20	Kevin Magnussen	Denmark	Haas	50	1:21:42.959	1 Lap	+ 6.300	216.175	1:32.683	41
+319	10	2017	British Grand Prix	13	8	Romain Grosjean	France	Haas	50	1:21:57.262	1 Lap	+ 14.303	215.546	1:32.290	45
+319	10	2017	British Grand Prix	14	9	Marcus Ericsson	Sweden	Sauber	50	1:22:07.324	1 Lap	+ 10.062	215.106	1:33.119	30
+319	10	2017	British Grand Prix	15	26	Daniil Kvyat	Russia	Toro Rosso	50	1:22:19.190	1 Lap	+ 11.866	214.589	1:33.594	29
+319	10	2017	British Grand Prix	16	18	Lance Stroll	Canada	Williams	50	1:22:27.376	1 Lap	+ 8.186	214.234	1:33.400	44
+319	10	2017	British Grand Prix	17	94	Pascal Wehrlein	Germany	Sauber	50	1:22:29.106	1 Lap	+ 1.730	214.159	1:33.342	34
+319	10	2017	British Grand Prix	18	14	Fernando Alonso	Spain	McLaren	32	53:49.876			209.964	1:34.263	22
+319	10	2017	British Grand Prix	19	55	Carlos Sainz	Spain	Toro Rosso							
+319	10	2017	British Grand Prix	20	30	Jolyon Palmer	Great Britain	Renault							

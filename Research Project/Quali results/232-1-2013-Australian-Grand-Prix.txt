@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+232	1	2013	Australian Grand Prix	1	1	Sebastian Vettel	Germany	Infiniti Red Bull Racing	6	1:27.407					
+232	1	2013	Australian Grand Prix	2	2	Mark Webber	Australia	Infiniti Red Bull Racing	6	1:27.827	0.420	0.420			
+232	1	2013	Australian Grand Prix	3	10	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team	7	1:28.087	0.680	0.260			
+232	1	2013	Australian Grand Prix	4	4	Felipe Massa	Brazil	Scuderia Ferrari	7	1:28.490	1.083	0.403			
+232	1	2013	Australian Grand Prix	5	3	Fernando Alonso	Spain	Scuderia Ferrari	7	1:28.493	1.086	0.003			
+232	1	2013	Australian Grand Prix	6	9	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	7	1:28.523	1.116	0.030			
+232	1	2013	Australian Grand Prix	7	7	Kimi Räikkönen	Finland	Lotus F1 Team	6	1:28.738	1.331	0.215			
+232	1	2013	Australian Grand Prix	8	8	Romain Grosjean	France	Lotus F1 Team	5	1:29.013	1.606	0.275			
+232	1	2013	Australian Grand Prix	9	14	Paul di Resta	Great Britain	Sahara Force India F1 Team	4	1:29.305	1.898	0.292			
+232	1	2013	Australian Grand Prix	10	5	Jenson Button	Great Britain	Vodafone McLaren Mercedes	5	1:30.357	2.950	1.052			
+232	1	2013	Australian Grand Prix	11	11	Nico Hülkenberg	Germany	Sauber F1 Team	9	1:38.067	10.660	7.710			
+232	1	2013	Australian Grand Prix	12	15	Adrian Sutil	Germany	Sahara Force India F1 Team	9	1:38.134	10.727	0.067			
+232	1	2013	Australian Grand Prix	13	18	Jean-Eric Vergne	France	Scuderia Toro Rosso	9	1:38.778	11.371	0.644			
+232	1	2013	Australian Grand Prix	14	19	Daniel Ricciardo	Australia	Scuderia Toro Rosso	10	1:39.042	11.635	0.264			
+232	1	2013	Australian Grand Prix	15	6	Sergio Pérez	Mexico	Vodafone McLaren Mercedes	8	1:39.900	12.493	0.858			
+232	1	2013	Australian Grand Prix	16	17	Valtteri Bottas	Finland	Williams F1 Team	9	1:40.290	12.883	0.390			
+232	1	2013	Australian Grand Prix	17	16	Pastor Maldonado	Venezuela	Williams F1 Team	11	1:47.614	20.207	7.324			
+232	1	2013	Australian Grand Prix	18	12	Esteban Gutiérrez	Mexico	Sauber F1 Team	10	1:47.776	20.369	0.162			
+232	1	2013	Australian Grand Prix	19	22	Jules Bianchi	France	Marussia F1 Team	11	1:48.147	20.740	0.371			
+232	1	2013	Australian Grand Prix	20	23	Max Chilton	Great Britain	Marussia F1 Team	11	1:48.909	21.502	0.762			
+232	1	2013	Australian Grand Prix	21	21	Giedo van der Garde	Netherlands	Caterham F1 Team	11	1:49.519	22.112	0.610			
+232	1	2013	Australian Grand Prix	22	20	Charles Pic	France	Caterham F1 Team	10	1:50.626	23.219	1.107			

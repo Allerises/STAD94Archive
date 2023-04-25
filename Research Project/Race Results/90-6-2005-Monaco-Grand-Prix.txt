@@ -1,0 +1,19 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+90	6	2005	Monaco Grand Prix	1	9	Kimi Räikkönen	Finland	McLaren	78	1:45:15.556			148.501	1:15.921	41
+90	6	2005	Monaco Grand Prix	2	8	Nick Heidfeld	Germany	Williams	78	1:45:29.433	+ 13.877	+ 13.877	148.176	1:17.159	15
+90	6	2005	Monaco Grand Prix	3	7	Mark Webber	Australia	Williams	78	1:45:34.040	+ 18.484	+ 4.607	148.068	1:16.971	77
+90	6	2005	Monaco Grand Prix	4	5	Fernando Alonso	Spain	Renault	78	1:45:52.043	+ 36.487	+ 18.003	147.648	1:16.600	19
+90	6	2005	Monaco Grand Prix	5	10	Juan Pablo Montoya	Colombia	McLaren	78	1:45:52.203	+ 36.647	+ 0.160	147.645	1:17.403	50
+90	6	2005	Monaco Grand Prix	6	17	Ralf Schumacher	Germany	Toyota	78	1:45:52.733	+ 37.177	+ 0.530	147.632	1:17.070	11
+90	6	2005	Monaco Grand Prix	7	1	Michael Schumacher	Germany	Ferrari	78	1:45:52.779	+ 37.223	+ 0.046	147.631	1:15.842	40
+90	6	2005	Monaco Grand Prix	8	2	Rubens Barrichello	Brazil	Ferrari	78	1:45:53.126	+ 37.570	+ 0.347	147.623	1:16.916	51
+90	6	2005	Monaco Grand Prix	9	12	Felipe Massa	Brazil	Sauber	77	1:46:03.563	1 Lap	1 Lap	145.492	1:17.799	16
+90	6	2005	Monaco Grand Prix	10	16	Jarno Trulli	Italy	Toyota	77	1:46:14.202	1 Lap	+ 10.639	145.249	1:16.812	38
+90	6	2005	Monaco Grand Prix	11	11	Jacques Villeneuve	Canada	Sauber	77	1:46:14.667	1 Lap	+ 0.465	145.238	1:17.482	17
+90	6	2005	Monaco Grand Prix	12	6	Giancarlo Fisichella	Italy	Renault	77	1:46:41.615	1 Lap	+ 26.948	144.627	1:16.776	20
+90	6	2005	Monaco Grand Prix	13	18	Tiago Monteiro	Portugal	Jordan	75	1:46:31.025	3 Laps	2 Laps	141.104	1:20.747	12
+90	6	2005	Monaco Grand Prix	14	21	Christijan Albers	Netherlands	Minardi	73	1:46:20.060	5 Laps	2 Laps	137.577	1:20.237	22
+90	6	2005	Monaco Grand Prix	15	15	Vitantonio Liuzzi	Italy	Red Bull	59	1:20:44.485			146.437	1:18.030	43
+90	6	2005	Monaco Grand Prix	16	20	Patrick Friesacher	Austria	Minardi	29	41:57.170			138.526	1:19.037	19
+90	6	2005	Monaco Grand Prix	17	14	David Coulthard	Great Britain	Red Bull	23	30:12.171			152.608	1:17.693	15
+90	6	2005	Monaco Grand Prix	18	19	Narain Karthikeyan	India	Jordan	18	27:26.214			131.472	1:22.019	14

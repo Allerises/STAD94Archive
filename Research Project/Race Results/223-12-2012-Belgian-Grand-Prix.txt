@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+223	12	2012	Belgian Grand Prix	1	3	Jenson Button	Great Britain	McLaren	44	1:29:08.530		14 Laps			
+223	12	2012	Belgian Grand Prix	2	1	Sebastian Vettel	Germany	Red Bull	44	1:29:22.154	+ 13.624	+ 13.624			
+223	12	2012	Belgian Grand Prix	3	9	Kimi Räikkönen	Finland	Lotus	44	1:29:33.864	+ 25.334	+ 11.710			
+223	12	2012	Belgian Grand Prix	4	12	Nico Hülkenberg	Germany	Force India	44	1:29:36.373	+ 27.843	+ 2.509			
+223	12	2012	Belgian Grand Prix	5	6	Felipe Massa	Brazil	Ferrari	44	1:29:38.375	+ 29.845	+ 2.002			
+223	12	2012	Belgian Grand Prix	6	2	Mark Webber	Australia	Red Bull	44	1:29:39.774	+ 31.244	+ 1.399			
+223	12	2012	Belgian Grand Prix	7	7	Michael Schumacher	Germany	Mercedes	44	1:30:01.904	+ 53.374	+ 22.130			
+223	12	2012	Belgian Grand Prix	8	17	Jean-Eric Vergne	France	Toro Rosso	44	1:30:07.395	+ 58.865	+ 5.491			
+223	12	2012	Belgian Grand Prix	9	16	Daniel Ricciardo	Australia	Toro Rosso	44	1:30:11.512	+ 1:02.982	+ 4.117			
+223	12	2012	Belgian Grand Prix	10	11	Paul di Resta	Great Britain	Force India	44	1:30:12.313	+ 1:03.783	+ 0.801			
+223	12	2012	Belgian Grand Prix	11	8	Nico Rosberg	Germany	Mercedes	44	1:30:13.641	+ 1:05.111	+ 1.328			
+223	12	2012	Belgian Grand Prix	12	19	Bruno Senna	Brazil	Williams	44	1:30:20.059	+ 1:11.529	+ 6.418		1:52.822	
+223	12	2012	Belgian Grand Prix	13	14	Kamui Kobayashi	Japan	Sauber	44	1:31:04.649	+ 1:56.119	+ 44.590			
+223	12	2012	Belgian Grand Prix	14	21	Vitaly Petrov	Russia	Caterham	43		1 Lap	1 Lap			
+223	12	2012	Belgian Grand Prix	15	24	Timo Glock	Germany	Marussia	43		1 Lap				
+223	12	2012	Belgian Grand Prix	16	25	Charles Pic	France	Marussia	43		1 Lap				
+223	12	2012	Belgian Grand Prix	17	20	Heikki Kovalainen	Finland	Caterham	43		1 Lap				
+223	12	2012	Belgian Grand Prix	18	22	Pedro de la Rosa	Spain	HRT	43		1 Lap				
+223	12	2012	Belgian Grand Prix	19	23	Narain Karthikeyan	India	HRT	30						
+223	12	2012	Belgian Grand Prix	20	18	Pastor Maldonado	Venezuela	Williams	5						
+223	12	2012	Belgian Grand Prix	21	15	Sergio Pérez	Mexico	Sauber							
+223	12	2012	Belgian Grand Prix	22	5	Fernando Alonso	Spain	Ferrari							
+223	12	2012	Belgian Grand Prix	23	4	Lewis Hamilton	Great Britain	McLaren							
+223	12	2012	Belgian Grand Prix	24	10	Romain Grosjean	France	Lotus							

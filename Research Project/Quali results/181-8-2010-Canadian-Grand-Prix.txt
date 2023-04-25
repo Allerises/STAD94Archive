@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+181	8	2010	Canadian Grand Prix	1	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	20	1:15.105					
+181	8	2010	Canadian Grand Prix	2	6	Mark Webber	Australia	Red Bull Racing	21	1:15.373	0.268	0.268			
+181	8	2010	Canadian Grand Prix	3	5	Sebastian Vettel	Germany	Red Bull Racing	24	1:15.420	0.315	0.047			
+181	8	2010	Canadian Grand Prix	4	8	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	24	1:15.435	0.330	0.015			
+181	8	2010	Canadian Grand Prix	5	1	Jenson Button	Great Britain	Vodafone McLaren Mercedes	24	1:15.520	0.415	0.085			
+181	8	2010	Canadian Grand Prix	6	15	Vitantonio Liuzzi	Italy	Force India F1 Team	22	1:15.648	0.543	0.128			
+181	8	2010	Canadian Grand Prix	7	7	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	23	1:15.688	0.583	0.040			
+181	8	2010	Canadian Grand Prix	8	11	Robert Kubica	Poland	Renault F1 Team	21	1:15.715	0.610	0.027			
+181	8	2010	Canadian Grand Prix	9	14	Adrian Sutil	Germany	Force India F1 Team	21	1:15.881	0.776	0.166			
+181	8	2010	Canadian Grand Prix	10	4	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	20	1:16.071	0.966	0.190			
+181	8	2010	Canadian Grand Prix	11	9	Rubens Barrichello	Brazil	AT&T Williams	22	1:16.434	1.329	0.363			
+181	8	2010	Canadian Grand Prix	12	10	Nico Hülkenberg	Germany	AT&T Williams	20	1:16.438	1.333	0.004			
+181	8	2010	Canadian Grand Prix	13	3	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	16	1:16.492	1.387	0.054			
+181	8	2010	Canadian Grand Prix	14	12	Vitaly Petrov	Russia	Renault F1 Team	21	1:16.844	1.739	0.352			
+181	8	2010	Canadian Grand Prix	15	16	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	16	1:16.928	1.823	0.084			
+181	8	2010	Canadian Grand Prix	16	17	Jaime Alguersuari	Spain	Scuderia Toro Rosso	17	1:17.029	1.924	0.101			
+181	8	2010	Canadian Grand Prix	17	22	Pedro de la Rosa	Spain	BMW Sauber F1 Team	19	1:17.384	2.279	0.355			
+181	8	2010	Canadian Grand Prix	18	23	Kamui Kobayashi	Japan	BMW Sauber F1 Team	10	1:18.019	2.914	0.635			
+181	8	2010	Canadian Grand Prix	19	19	Heikki Kovalainen	Finland	Lotus Racing	12	1:18.237	3.132	0.218			
+181	8	2010	Canadian Grand Prix	20	18	Jarno Trulli	Italy	Lotus Racing	11	1:18.698	3.593	0.461			
+181	8	2010	Canadian Grand Prix	21	24	Timo Glock	Germany	Virgin Racing	12	1:18.941	3.836	0.243			
+181	8	2010	Canadian Grand Prix	22	21	Bruno Senna	Brazil	HRT F1 Team	10	1:19.484	4.379	0.543			
+181	8	2010	Canadian Grand Prix	23	25	Lucas di Grassi	Brazil	Virgin Racing	12	1:19.675	4.570	0.191			
+181	8	2010	Canadian Grand Prix	24	20	Karun Chandhok	India	HRT F1 Team	3	1:27.757	12.652	8.082			

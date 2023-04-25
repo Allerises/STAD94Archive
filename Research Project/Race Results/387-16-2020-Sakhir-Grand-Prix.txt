@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+387	16	2020	Sakhir Grand Prix	1	11	Sergio Pérez	Mexico	Aston Martin	87	1:31:15.114			202.513	56.789	69
+387	16	2020	Sakhir Grand Prix	2	31	Esteban Ocon	France	Renault	87	1:31:25.632	+ 10.518	+ 10.518	202.124	57.350	75
+387	16	2020	Sakhir Grand Prix	3	18	Lance Stroll	Canada	Aston Martin	87	1:31:26.983	+ 11.869	+ 1.351	202.074	57.388	85
+387	16	2020	Sakhir Grand Prix	4	55	Carlos Sainz	Spain	McLaren	87	1:31:27.694	+ 12.580	+ 0.711	202.048	57.165	80
+387	16	2020	Sakhir Grand Prix	5	3	Daniel Ricciardo	Australia	Renault	87	1:31:28.444	+ 13.330	+ 0.750	202.021	56.979	57
+387	16	2020	Sakhir Grand Prix	6	23	Alexander Albon	Thailand	Red Bull	87	1:31:28.956	+ 13.842	+ 0.512	202.002	57.056	52
+387	16	2020	Sakhir Grand Prix	7	26	Daniil Kvyat	Russia	Toro Rosso	87	1:31:29.648	+ 14.534	+ 0.692	201.976	57.001	80
+387	16	2020	Sakhir Grand Prix	8	77	Valtteri Bottas	Finland	Mercedes	87	1:31:30.503	+ 15.389	+ 0.855	201.945	56.563	60
+387	16	2020	Sakhir Grand Prix	9	63	George Russell	Great Britain	Mercedes	87	1:31:33.670	+ 18.556	+ 3.167	201.829	55.404	80
+387	16	2020	Sakhir Grand Prix	10	4	Lando Norris	Great Britain	McLaren	87	1:31:34.655	+ 19.541	+ 0.985	201.792	57.270	85
+387	16	2020	Sakhir Grand Prix	11	10	Pierre Gasly	France	Toro Rosso	87	1:31:35.641	+ 20.527	+ 0.986	201.756	57.220	53
+387	16	2020	Sakhir Grand Prix	12	5	Sebastian Vettel	Germany	Ferrari	87	1:31:37.725	+ 22.611	+ 2.084	201.680	56.905	56
+387	16	2020	Sakhir Grand Prix	13	99	Antonio Giovinazzi	Italy	Sauber	87	1:31:39.225	+ 24.111	+ 1.500	201.625	56.887	56
+387	16	2020	Sakhir Grand Prix	14	7	Kimi Räikkönen	Finland	Sauber	87	1:31:41.267	+ 26.153	+ 2.042	201.550	57.375	56
+387	16	2020	Sakhir Grand Prix	15	20	Kevin Magnussen	Denmark	Haas	87	1:31:47.484	+ 32.370	+ 6.217	201.322	57.516	57
+387	16	2020	Sakhir Grand Prix	16	89	Jack Aitken	Great Britain	Williams	87	1:31:48.788	+ 33.674	+ 1.304	201.275	57.392	56
+387	16	2020	Sakhir Grand Prix	17	51	Pietro Fittipaldi	Brazil	Haas	87	1:31:51.972	+ 36.858	+ 3.184	201.158	57.742	56
+387	16	2020	Sakhir Grand Prix	18	6	Nicholas Latifi	Canada	Williams	52	54:39.646			201.962	58.206	29
+387	16	2020	Sakhir Grand Prix	19	33	Max Verstappen	Netherlands	Red Bull							
+387	16	2020	Sakhir Grand Prix	20	16	Charles Leclerc	Monaco	Ferrari							

@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+186	13	2010	Belgian Grand Prix	1	2	Lewis Hamilton	Great Britain	McLaren	44	1:29:04.268			207.509	1:49.069	32
+186	13	2010	Belgian Grand Prix	2	6	Mark Webber	Australia	Red Bull	44	1:29:05.839	+ 1.571	+ 1.571	207.448	1:49.395	32
+186	13	2010	Belgian Grand Prix	3	11	Robert Kubica	Poland	Renault	44	1:29:07.761	+ 3.493	+ 1.922	207.374	1:49.807	29
+186	13	2010	Belgian Grand Prix	4	7	Felipe Massa	Brazil	Ferrari	44	1:29:12.532	+ 8.264	+ 4.771	207.189	1:50.111	26
+186	13	2010	Belgian Grand Prix	5	14	Adrian Sutil	Germany	Force India	44	1:29:13.362	+ 9.094	+ 0.830	207.157	1:50.477	25
+186	13	2010	Belgian Grand Prix	6	4	Nico Rosberg	Germany	Mercedes	44	1:29:16.627	+ 12.359	+ 3.265	207.030	1:51.688	31
+186	13	2010	Belgian Grand Prix	7	3	Michael Schumacher	Germany	Mercedes	44	1:29:19.816	+ 15.548	+ 3.189	206.907	1:51.914	32
+186	13	2010	Belgian Grand Prix	8	23	Kamui Kobayashi	Japan	Sauber	44	1:29:20.946	+ 16.678	+ 1.130	206.864	1:51.749	29
+186	13	2010	Belgian Grand Prix	9	12	Vitaly Petrov	Russia	Renault	44	1:29:28.119	+ 23.851	+ 7.173	206.587	1:51.175	32
+186	13	2010	Belgian Grand Prix	10	15	Vitantonio Liuzzi	Italy	Force India	44	1:29:39.099	+ 34.831	+ 10.980	206.165	1:52.267	31
+186	13	2010	Belgian Grand Prix	11	22	Pedro de la Rosa	Spain	Sauber	44	1:29:40.287	+ 36.019	+ 1.188	206.120	1:52.537	31
+186	13	2010	Belgian Grand Prix	12	16	Sébastien Buemi	Switzerland	Toro Rosso	44	1:29:44.163	+ 39.895	+ 3.876	205.972	1:52.966	30
+186	13	2010	Belgian Grand Prix	13	17	Jaime Alguersuari	Spain	Toro Rosso	44	1:29:53.725	+ 49.457	+ 9.562	205.606	1:51.576	31
+186	13	2010	Belgian Grand Prix	14	10	Nico Hülkenberg	Germany	Williams	43	1:29:25.271	1 Lap	1 Lap	201.997	1:51.864	28
+186	13	2010	Belgian Grand Prix	15	5	Sebastian Vettel	Germany	Red Bull	43	1:29:30.159	1 Lap	+ 4.888	201.813	1:50.868	22
+186	13	2010	Belgian Grand Prix	16	19	Heikki Kovalainen	Finland	Lotus	43	1:29:44.538	1 Lap	+ 14.379	201.274	1:55.797	23
+186	13	2010	Belgian Grand Prix	17	25	Lucas di Grassi	Brazil	Virgin	43	1:29:46.318	1 Lap	+ 1.780	201.208	1:55.705	25
+186	13	2010	Belgian Grand Prix	18	24	Timo Glock	Germany	Virgin	43	1:29:52.280	1 Lap	+ 5.962	200.986	1:55.268	31
+186	13	2010	Belgian Grand Prix	19	18	Jarno Trulli	Italy	Lotus	43	1:30:06.854	1 Lap	+ 14.574	200.444	1:55.103	24
+186	13	2010	Belgian Grand Prix	20	20	Sakon Yamamoto	Japan	HRT	42	1:29:57.404	2 Laps	1 Lap	196.123	1:55.484	31
+186	13	2010	Belgian Grand Prix	21	8	Fernando Alonso	Spain	Ferrari	37	1:13:00.087			212.892	1:51.374	29
+186	13	2010	Belgian Grand Prix	22	1	Jenson Button	Great Britain	McLaren	15	30:09.591			208.759	1:52.879	6
+186	13	2010	Belgian Grand Prix	23	21	Bruno Senna	Brazil	HRT	5	12:26.568			168.270	2:20.201	5
+186	13	2010	Belgian Grand Prix	24	9	Rubens Barrichello	Brazil	Williams							

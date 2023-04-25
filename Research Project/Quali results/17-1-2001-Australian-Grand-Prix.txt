@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+17	1	2001	Australian Grand Prix	1	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:26.892					
+17	1	2001	Australian Grand Prix	2	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:27.263	0.371	0.371			
+17	1	2001	Australian Grand Prix	3	3	Mika Hakkinen	Finland	West McLaren Mercedes		1:27.461	0.569	0.198			
+17	1	2001	Australian Grand Prix	4	11	Heinz-Harald Frentzen	Germany	B&H Jordan Honda		1:27.658	0.766	0.197			
+17	1	2001	Australian Grand Prix	5	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:27.719	0.827	0.061			
+17	1	2001	Australian Grand Prix	6	4	David Coulthard	Great Britain	West McLaren Mercedes		1:28.010	1.118	0.291			
+17	1	2001	Australian Grand Prix	7	12	Jarno Trulli	Italy	B&H Jordan Honda		1:28.377	1.485	0.367			
+17	1	2001	Australian Grand Prix	8	10	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:28.435	1.543	0.058			
+17	1	2001	Australian Grand Prix	9	9	Olivier Panis	France	Lucky Strike BAR Honda		1:28.518	1.626	0.083			
+17	1	2001	Australian Grand Prix	10	16	Nick Heidfeld	Germany	Red Bull Sauber Petronas		1:28.615	1.723	0.097			
+17	1	2001	Australian Grand Prix	11	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:28.738	1.846	0.123			
+17	1	2001	Australian Grand Prix	12	18	Eddie Irvine	Great Britain	Jaguar Racing		1:28.965	2.073	0.227			
+17	1	2001	Australian Grand Prix	13	17	Kimi Räikkönen	Finland	Red Bull Sauber Petronas		1:28.993	2.101	0.028			
+17	1	2001	Australian Grand Prix	14	22	Jean Alesi	France	Prost Acer		1:29.893	3.001	0.900			
+17	1	2001	Australian Grand Prix	15	14	Jos Verstappen	Netherlands	Orange Arrows Asiatech		1:29.934	3.042	0.041			
+17	1	2001	Australian Grand Prix	16	8	Jenson Button	Great Britain	Mild Seven Benetton Renault		1:30.035	3.143	0.101			
+17	1	2001	Australian Grand Prix	17	7	Giancarlo Fisichella	Italy	Mild Seven Benetton Renault		1:30.209	3.317	0.174			
+17	1	2001	Australian Grand Prix	18	15	Enrique Bernoldi	Brazil	Orange Arrows Asiatech		1:30.520	3.628	0.311			
+17	1	2001	Australian Grand Prix	19	21	Fernando Alonso	Spain	European Minardi F1		1:30.657	3.765	0.137			
+17	1	2001	Australian Grand Prix	20	23	Gaston Mazzacane	Argentina	Prost Acer		1:30.798	3.906	0.141			
+17	1	2001	Australian Grand Prix	21	19	Luciano Burti	Brazil	Jaguar Racing		1:30.978	4.086	0.180			
+17	1	2001	Australian Grand Prix	22	20	Tarso Marques	Brazil	European Minardi F1		1:33.228	6.336	2.250			

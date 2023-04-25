@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+218	7	2012	Canadian Grand Prix	1	4	Lewis Hamilton	Great Britain	McLaren	70	1:32:29.586					
+218	7	2012	Canadian Grand Prix	2	10	Romain Grosjean	France	Lotus	70	1:32:32.099	+ 2.513	+ 2.513			
+218	7	2012	Canadian Grand Prix	3	15	Sergio Pérez	Mexico	Sauber	70	1:32:34.846	+ 5.260	+ 2.747			
+218	7	2012	Canadian Grand Prix	4	1	Sebastian Vettel	Germany	Red Bull	70	1:32:36.881	+ 7.295	+ 2.035		1:15.752	
+218	7	2012	Canadian Grand Prix	5	5	Fernando Alonso	Spain	Ferrari	70	1:32:42.997	+ 13.411	+ 6.116			
+218	7	2012	Canadian Grand Prix	6	8	Nico Rosberg	Germany	Mercedes	70	1:32:43.428	+ 13.842	+ 0.431			
+218	7	2012	Canadian Grand Prix	7	2	Mark Webber	Australia	Red Bull	70	1:32:44.671	+ 15.085	+ 1.243			
+218	7	2012	Canadian Grand Prix	8	9	Kimi Räikkönen	Finland	Lotus	70	1:32:45.153	+ 15.567	+ 0.482			
+218	7	2012	Canadian Grand Prix	9	14	Kamui Kobayashi	Japan	Sauber	70	1:32:54.018	+ 24.432	+ 8.865			
+218	7	2012	Canadian Grand Prix	10	6	Felipe Massa	Brazil	Ferrari	70	1:32:54.858	+ 25.272	+ 0.840			
+218	7	2012	Canadian Grand Prix	11	11	Paul di Resta	Great Britain	Force India	70	1:33:07.279	+ 37.693	+ 12.421			
+218	7	2012	Canadian Grand Prix	12	12	Nico Hülkenberg	Germany	Force India	70	1:33:15.822	+ 46.236	+ 8.543			
+218	7	2012	Canadian Grand Prix	13	18	Pastor Maldonado	Venezuela	Williams	70	1:33:16.638	+ 47.052	+ 0.816			
+218	7	2012	Canadian Grand Prix	14	16	Daniel Ricciardo	Australia	Toro Rosso	70	1:33:34.061	+ 1:04.475	+ 17.423			
+218	7	2012	Canadian Grand Prix	15	17	Jean-Eric Vergne	France	Toro Rosso	69		1 Lap	1 Lap			
+218	7	2012	Canadian Grand Prix	16	3	Jenson Button	Great Britain	McLaren	69		1 Lap				
+218	7	2012	Canadian Grand Prix	17	19	Bruno Senna	Brazil	Williams	69		1 Lap				
+218	7	2012	Canadian Grand Prix	18	20	Heikki Kovalainen	Finland	Caterham	69		1 Lap				
+218	7	2012	Canadian Grand Prix	19	21	Vitaly Petrov	Russia	Caterham	69		1 Lap				
+218	7	2012	Canadian Grand Prix	20	25	Charles Pic	France	Marussia	67		3 Laps	2 Laps			
+218	7	2012	Canadian Grand Prix	21	24	Timo Glock	Germany	Marussia	56						
+218	7	2012	Canadian Grand Prix	22	7	Michael Schumacher	Germany	Mercedes	43						
+218	7	2012	Canadian Grand Prix	23	22	Pedro de la Rosa	Spain	HRT	24						
+218	7	2012	Canadian Grand Prix	24	23	Narain Karthikeyan	India	HRT	22						

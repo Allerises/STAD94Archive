@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+86	2	2005	Malaysian Grand Prix	1	5	Fernando Alonso	Spain	Renault	56	1:31:33.736			203.407	1:35.899	18
+86	2	2005	Malaysian Grand Prix	2	16	Jarno Trulli	Italy	Toyota	56	1:31:58.063	+ 24.327	+ 24.327	202.511	1:35.816	18
+86	2	2005	Malaysian Grand Prix	3	8	Nick Heidfeld	Germany	Williams	56	1:32:05.924	+ 32.188	+ 7.861	202.222	1:35.712	40
+86	2	2005	Malaysian Grand Prix	4	10	Juan Pablo Montoya	Colombia	McLaren	56	1:32:15.367	+ 41.631	+ 9.443	201.877	1:36.585	42
+86	2	2005	Malaysian Grand Prix	5	17	Ralf Schumacher	Germany	Toyota	56	1:32:25.590	+ 51.854	+ 10.223	201.505	1:36.321	15
+86	2	2005	Malaysian Grand Prix	6	14	David Coulthard	Great Britain	Red Bull	56	1:32:46.279	+ 1:12.543	+ 20.689	200.756	1:36.790	18
+86	2	2005	Malaysian Grand Prix	7	1	Michael Schumacher	Germany	Ferrari	56	1:32:53.724	+ 1:19.988	+ 7.445	200.488	1:36.982	41
+86	2	2005	Malaysian Grand Prix	8	15	Christian Klien	Austria	Red Bull	56	1:32:54.571	+ 1:20.835	+ 0.847	200.458	1:36.902	17
+86	2	2005	Malaysian Grand Prix	9	9	Kimi Räikkönen	Finland	McLaren	56	1:32:55.316	+ 1:21.580	+ 0.745	200.431	1:35.483	23
+86	2	2005	Malaysian Grand Prix	10	12	Felipe Massa	Brazil	Sauber	55	1:31:45.412	1 Lap	1 Lap	199.351	1:37.212	18
+86	2	2005	Malaysian Grand Prix	11	19	Narain Karthikeyan	India	Jordan	54	1:32:43.360	2 Laps	1 Lap	193.688	1:39.833	18
+86	2	2005	Malaysian Grand Prix	12	18	Tiago Monteiro	Portugal	Jordan	53	1:31:52.049	3 Laps	1 Lap	191.871	1:40.432	36
+86	2	2005	Malaysian Grand Prix	13	21	Christijan Albers	Netherlands	Minardi	52	1:32:07.696	4 Laps	1 Lap	187.718	1:42.465	12
+86	2	2005	Malaysian Grand Prix	14	2	Rubens Barrichello	Brazil	Ferrari	49	1:22:11.046			198.291	1:36.878	22
+86	2	2005	Malaysian Grand Prix	15	6	Giancarlo Fisichella	Italy	Renault	36	59:10.778			202.314	1:36.182	21
+86	2	2005	Malaysian Grand Prix	16	7	Mark Webber	Australia	Williams	36	59:11.313			202.283	1:36.026	20
+86	2	2005	Malaysian Grand Prix	17	11	Jacques Villeneuve	Canada	Sauber	26	43:39.156			198.088	1:38.058	18
+86	2	2005	Malaysian Grand Prix	18	3	Jenson Button	Great Britain	BAR	2	3:24.975			194.704	1:37.912	2
+86	2	2005	Malaysian Grand Prix	19	4	Anthony Davidson	Great Britain	BAR	2	3:34.793			185.804	1:41.470	2
+86	2	2005	Malaysian Grand Prix	20	20	Patrick Friesacher	Austria	Minardi	2	3:39.734			181.626	1:43.558	2

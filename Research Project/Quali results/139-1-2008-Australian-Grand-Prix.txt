@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+139	1	2008	Australian Grand Prix	1	22	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	14	1:26.714	0.541	0.301			
+139	1	2008	Australian Grand Prix	2	4	Robert Kubica	Poland	BMW Sauber F1 Team	15	1:26.869	0.155	0.155			
+139	1	2008	Australian Grand Prix	3	23	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	13	1:27.079	0.365	0.210			
+139	1	2008	Australian Grand Prix	4	2	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	12	1:27.178	0.464	0.099			
+139	1	2008	Australian Grand Prix	5	3	Nick Heidfeld	Germany	BMW Sauber F1 Team	16	1:27.236	0.522	0.058			
+139	1	2008	Australian Grand Prix	6	11	Jarno Trulli	Italy	Panasonic Toyota Racing	17	1:28.527	1.813	1.291			
+139	1	2008	Australian Grand Prix	7	7	Nico Rosberg	Germany	AT&T Williams	21	1:28.687	1.973	0.160			
+139	1	2008	Australian Grand Prix	8	9	David Coulthard	Great Britain	Red Bull Racing	18	1:29.041	2.327	0.354			
+139	1	2008	Australian Grand Prix	9	12	Timo Glock	Germany	Panasonic Toyota Racing	17	1:29.593	2.879	0.552			
+139	1	2008	Australian Grand Prix	10	15	Sebastian Vettel	Germany	Scuderia Toro Rosso	18						
+139	1	2008	Australian Grand Prix	11	17	Rubens Barrichello	Brazil	Honda Racing F1 Team	13	1:26.173					
+139	1	2008	Australian Grand Prix	12	5	Fernando Alonso	Spain	ING Renault F1 Team	10	1:26.188	0.015	0.015			
+139	1	2008	Australian Grand Prix	13	16	Jenson Button	Great Britain	Honda Racing F1 Team	13	1:26.259	0.086	0.071			
+139	1	2008	Australian Grand Prix	14	8	Kazuki Nakajima	Japan	AT&T Williams	13	1:26.413	0.240	0.154			
+139	1	2008	Australian Grand Prix	15	10	Mark Webber	Australia	Red Bull Racing	8						
+139	1	2008	Australian Grand Prix	16	1	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	3						
+139	1	2008	Australian Grand Prix	17	21	Giancarlo Fisichella	Italy	Force India F1 Team	9	1:27.207	0.493	0.029			
+139	1	2008	Australian Grand Prix	18	14	Sebastien Bourdais	France	Scuderia Toro Rosso	10	1:27.446	0.732	0.239			
+139	1	2008	Australian Grand Prix	19	20	Adrian Sutil	Germany	Force India F1 Team	9	1:27.859	1.145	0.413			
+139	1	2008	Australian Grand Prix	20	18	Takuma Sato	Japan	Super Aguri F1 Team	9	1:28.208	1.494	0.349			
+139	1	2008	Australian Grand Prix	21	6	Nelson Piquet Jr.	Brazil	Renault	6	1:28.330	1.616	0.122			
+139	1	2008	Australian Grand Prix	22	19	Anthony Davidson	Great Britain	Super Aguri F1 Team	9	1:29.059	2.345	0.729			

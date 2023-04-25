@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+180	7	2010	Turkish Grand Prix	1	6	Mark Webber	Australia	Red Bull Racing	18	1:26.295					
+180	7	2010	Turkish Grand Prix	2	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	18	1:26.433	0.138	0.138			
+180	7	2010	Turkish Grand Prix	3	5	Sebastian Vettel	Germany	Red Bull Racing	18	1:26.760	0.465	0.327			
+180	7	2010	Turkish Grand Prix	4	1	Jenson Button	Great Britain	Vodafone McLaren Mercedes	18	1:26.781	0.486	0.021			
+180	7	2010	Turkish Grand Prix	5	3	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	19	1:26.857	0.562	0.076			
+180	7	2010	Turkish Grand Prix	6	4	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	18	1:26.952	0.657	0.095			
+180	7	2010	Turkish Grand Prix	7	11	Robert Kubica	Poland	Renault F1 Team	19	1:27.039	0.744	0.087			
+180	7	2010	Turkish Grand Prix	8	7	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	18	1:27.082	0.787	0.043			
+180	7	2010	Turkish Grand Prix	9	12	Vitaly Petrov	Russia	Renault F1 Team	21	1:27.430	1.135	0.348			
+180	7	2010	Turkish Grand Prix	10	23	Kamui Kobayashi	Japan	BMW Sauber F1 Team	17	1:28.122	1.827	0.692			
+180	7	2010	Turkish Grand Prix	11	14	Adrian Sutil	Germany	Force India F1 Team	18	1:27.525	1.230	0.095			
+180	7	2010	Turkish Grand Prix	12	8	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	14	1:27.612	1.317	0.087			
+180	7	2010	Turkish Grand Prix	13	22	Pedro de la Rosa	Spain	BMW Sauber F1 Team	14	1:27.879	1.584	0.267			
+180	7	2010	Turkish Grand Prix	14	16	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	15	1:28.273	1.978	0.394			
+180	7	2010	Turkish Grand Prix	15	9	Rubens Barrichello	Brazil	AT&T Williams	14	1:28.392	2.097	0.119			
+180	7	2010	Turkish Grand Prix	16	17	Jaime Alguersuari	Spain	Scuderia Toro Rosso	16	1:28.540	2.245	0.148			
+180	7	2010	Turkish Grand Prix	17	10	Nico Hülkenberg	Germany	AT&T Williams	15	1:28.841	2.546	0.301			
+180	7	2010	Turkish Grand Prix	18	15	Vitantonio Liuzzi	Italy	Force India F1 Team	8	1:28.958	2.663	0.117			
+180	7	2010	Turkish Grand Prix	19	18	Jarno Trulli	Italy	Lotus Racing	13	1:30.237	3.942	1.279			
+180	7	2010	Turkish Grand Prix	20	19	Heikki Kovalainen	Finland	Lotus Racing	11	1:30.519	4.224	0.282			
+180	7	2010	Turkish Grand Prix	21	24	Timo Glock	Germany	Virgin Racing	9	1:30.744	4.449	0.225			
+180	7	2010	Turkish Grand Prix	22	21	Bruno Senna	Brazil	HRT F1 Team	9	1:31.266	4.971	0.522			
+180	7	2010	Turkish Grand Prix	23	25	Lucas di Grassi	Brazil	Virgin Racing	9	1:31.989	5.694	0.723			
+180	7	2010	Turkish Grand Prix	24	20	Karun Chandhok	India	HRT F1 Team	10	1:32.060	5.765	0.071			

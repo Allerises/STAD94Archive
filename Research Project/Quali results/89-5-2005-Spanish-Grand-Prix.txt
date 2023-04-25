@@ -1,0 +1,19 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+89	5	2005	Spanish Grand Prix	1	9	Kimi Räikkönen	Finland	Team McLaren Mercedes	6	2:31.421					
+89	5	2005	Spanish Grand Prix	2	7	Mark Webber	Australia	BMW WilliamsF1 Team	6	2:31.668	0.247	0.247			
+89	5	2005	Spanish Grand Prix	3	5	Fernando Alonso	Spain	Mild Seven Renault F1 Team	6	2:31.691	0.270	0.023			
+89	5	2005	Spanish Grand Prix	4	17	Ralf Schumacher	Germany	Panasonic Toyota Racing	6	2:31.917	0.496	0.226			
+89	5	2005	Spanish Grand Prix	5	16	Jarno Trulli	Italy	Panasonic Toyota Racing	6	2:31.995	0.574	0.078			
+89	5	2005	Spanish Grand Prix	6	6	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	6	2:32.830	1.409	0.835			
+89	5	2005	Spanish Grand Prix	7	10	Juan Pablo Montoya	Colombia	Team McLaren Mercedes	6	2:33.472	2.051	0.642			
+89	5	2005	Spanish Grand Prix	8	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	6	2:33.551	2.130	0.079			
+89	5	2005	Spanish Grand Prix	9	14	David Coulthard	Great Britain	Red Bull Racing	6	2:34.168	2.747	0.617			
+89	5	2005	Spanish Grand Prix	10	12	Felipe Massa	Brazil	Sauber Petronas	6	2:34.224	2.803	0.056			
+89	5	2005	Spanish Grand Prix	11	15	Vitantonio Liuzzi	Italy	Red Bull Racing	6	2:35.302	3.881	1.078			
+89	5	2005	Spanish Grand Prix	12	11	Jacques Villeneuve	Canada	Sauber Petronas	6	2:36.480	5.059	1.178			
+89	5	2005	Spanish Grand Prix	13	19	Narain Karthikeyan	India	Jordan Grand Prix	8	2:39.268	7.847	2.788			
+89	5	2005	Spanish Grand Prix	14	18	Tiago Monteiro	Portugal	Jordan Grand Prix	6	2:39.943	8.522	0.675			
+89	5	2005	Spanish Grand Prix	15	21	Christijan Albers	Netherlands	Minardi Cosworth	6	2:41.141	9.720	1.198			
+89	5	2005	Spanish Grand Prix	16	20	Patrick Friesacher	Austria	Minardi Cosworth	6	2:42.759	11.338	1.618			
+89	5	2005	Spanish Grand Prix	17	8	Nick Heidfeld	Germany	BMW WilliamsF1 Team	3						
+89	5	2005	Spanish Grand Prix	18	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3						

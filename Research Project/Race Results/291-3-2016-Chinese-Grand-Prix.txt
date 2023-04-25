@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+291	3	2016	Chinese Grand Prix	1	6	Nico Rosberg	Germany	Mercedes	56	1:38:53.891			185.078	1:40.418	38
+291	3	2016	Chinese Grand Prix	2	5	Sebastian Vettel	Germany	Ferrari	56	1:39:31.667	+ 37.776	+ 37.776	183.908	1:40.610	37
+291	3	2016	Chinese Grand Prix	3	26	Daniil Kvyat	Russia	Red Bull	56	1:39:39.827	+ 45.936	+ 8.160	183.657	1:41.546	38
+291	3	2016	Chinese Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull	56	1:39:46.579	+ 52.688	+ 6.752	183.449	1:41.015	55
+291	3	2016	Chinese Grand Prix	5	7	Kimi Räikkönen	Finland	Ferrari	56	1:39:59.763	+ 1:05.872	+ 13.184	183.046	1:40.593	40
+291	3	2016	Chinese Grand Prix	6	19	Felipe Massa	Brazil	Williams	56	1:40:09.402	+ 1:15.511	+ 9.639	182.753	1:41.815	34
+291	3	2016	Chinese Grand Prix	7	44	Lewis Hamilton	Great Britain	Mercedes	56	1:40:12.121	+ 1:18.230	+ 2.719	182.670	1:40.662	32
+291	3	2016	Chinese Grand Prix	8	33	Max Verstappen	Netherlands	Toro Rosso	56	1:40:13.159	+ 1:19.268	+ 1.038	182.639	1:40.399	41
+291	3	2016	Chinese Grand Prix	9	55	Carlos Sainz	Spain	Toro Rosso	56	1:40:18.018	+ 1:24.127	+ 4.859	182.491	1:41.485	35
+291	3	2016	Chinese Grand Prix	10	77	Valtteri Bottas	Finland	Williams	56	1:40:20.083	+ 1:26.192	+ 2.065	182.428	1:41.558	23
+291	3	2016	Chinese Grand Prix	11	11	Sergio Pérez	Mexico	Force India	56	1:40:28.174	+ 1:34.283	+ 8.091	182.184	1:41.846	30
+291	3	2016	Chinese Grand Prix	12	14	Fernando Alonso	Spain	McLaren	56	1:40:31.144	+ 1:37.253	+ 2.970	182.094	1:42.226	36
+291	3	2016	Chinese Grand Prix	13	22	Jenson Button	Great Britain	McLaren	56	1:40:35.881	+ 1:41.990	+ 4.737	181.951	1:40.298	46
+291	3	2016	Chinese Grand Prix	14	21	Esteban Gutiérrez	Mexico	Haas	55	1:38:58.537	1 Lap	1 Lap	181.629	1:40.368	45
+291	3	2016	Chinese Grand Prix	15	27	Nico Hülkenberg	Germany	Force India	55	1:38:59.871	1 Lap	+ 1.334	181.588	1:39.824	48
+291	3	2016	Chinese Grand Prix	16	9	Marcus Ericsson	Sweden	Sauber	55	1:39:10.418	1 Lap	+ 10.547	181.266	1:43.269	41
+291	3	2016	Chinese Grand Prix	17	20	Kevin Magnussen	Denmark	Renault	55	1:39:20.177	1 Lap	+ 9.759	180.970	1:42.311	22
+291	3	2016	Chinese Grand Prix	18	94	Pascal Wehrlein	Germany	Manor	55	1:39:24.975	1 Lap	+ 4.798	180.824	1:41.489	48
+291	3	2016	Chinese Grand Prix	19	8	Romain Grosjean	France	Haas	55	1:39:26.606	1 Lap	+ 1.631	180.775	1:39.923	47
+291	3	2016	Chinese Grand Prix	20	12	Felipe Nasr	Brazil	Sauber	55	1:39:49.662	1 Lap	+ 23.056	180.079	1:40.582	42
+291	3	2016	Chinese Grand Prix	21	88	Rio Haryanto	Indonesia	Manor	55	1:39:55.203	1 Lap	+ 5.541	179.912	1:42.009	42
+291	3	2016	Chinese Grand Prix	22	30	Jolyon Palmer	Great Britain	Renault	55	1:39:57.369	1 Lap	+ 2.166	179.847	1:42.232	26

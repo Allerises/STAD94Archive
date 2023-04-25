@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+23	7	2001	Monaco Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	78	1:47:22.561			146.881	1:19.770	50
+23	7	2001	Monaco Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	78	1:47:22.992	+ 0.431	+ 0.431	146.872	1:20.329	57
+23	7	2001	Monaco Grand Prix	3	18	Eddie Irvine	Great Britain	Jaguar	78	1:47:53.259	+ 30.698	+ 30.267	146.185	1:20.681	76
+23	7	2001	Monaco Grand Prix	4	10	Jacques Villeneuve	Canada	BAR	78	1:47:55.015	+ 32.454	+ 1.756	146.145	1:20.417	75
+23	7	2001	Monaco Grand Prix	5	4	David Coulthard	Great Britain	McLaren	77	1:47:31.433	1 Lap	1 Lap	144.799	1:19.424	68
+23	7	2001	Monaco Grand Prix	6	22	Jean Alesi	France	Prost	77	1:47:48.652	1 Lap	+ 17.219	144.414	1:21.151	73
+23	7	2001	Monaco Grand Prix	7	8	Jenson Button	Great Britain	Benneton	77	1:48:16.971	1 Lap	+ 28.319	143.784	1:21.580	65
+23	7	2001	Monaco Grand Prix	8	14	Jos Verstappen	Netherlands	Arrows	77	1:48:35.060	1 Lap	+ 18.089	143.385	1:21.732	74
+23	7	2001	Monaco Grand Prix	9	15	Enrique Bernoldi	Brazil	Arrows	76	1:48:25.166	2 Laps	1 Lap	141.738	1:22.053	75
+23	7	2001	Monaco Grand Prix	10	17	Kimi Räikkönen	Finland	Sauber	73	1:48:17.285	5 Laps	3 Laps	136.308	1:20.705	60
+23	7	2001	Monaco Grand Prix	11	5	Ralf Schumacher	Germany	Williams	57	1:18:50.345			146.188	1:20.975	47
+23	7	2001	Monaco Grand Prix	12	20	Tarso Marques	Brazil	Minardi	56	1:22:16.011			137.639	1:24.570	33
+23	7	2001	Monaco Grand Prix	13	21	Fernando Alonso	Spain	Minardi	54	1:17:10.160			141.491	1:22.956	28
+23	7	2001	Monaco Grand Prix	14	11	Heinz-Harald Frentzen	Germany	Jordan	49	1:08:19.124			145.023	1:20.810	46
+23	7	2001	Monaco Grand Prix	15	7	Giancarlo Fisichella	Italy	Benneton	43	1:00:02.209			144.821	1:21.646	37
+23	7	2001	Monaco Grand Prix	16	12	Jarno Trulli	Italy	Jordan	30	42:04.997			144.142	1:22.345	30
+23	7	2001	Monaco Grand Prix	17	23	Luciano Burti	Brazil	Prost	24	35:27.411			136.864	1:24.206	18
+23	7	2001	Monaco Grand Prix	18	19	Pedro de la Rosa	Spain	Jaguar	18	25:49.969			140.890	1:23.483	18
+23	7	2001	Monaco Grand Prix	19	3	Mika Hakkinen	Finland	McLaren	15	22:05.752			137.265	1:21.682	12
+23	7	2001	Monaco Grand Prix	20	9	Olivier Panis	France	BAR	13	30:23.929			86.470	1:24.719	10
+23	7	2001	Monaco Grand Prix	21	6	Juan Pablo Montoya	Colombia	Williams	2	2:57.342			136.820	1:25.773	2
+23	7	2001	Monaco Grand Prix	22	16	Nick Heidfeld	Germany	Sauber							

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+359	9	2019	Austrian Grand Prix	1	33	Max Verstappen	Netherlands	Red Bull	71	1:22:01.822			224.150	1:07.475	60
+359	9	2019	Austrian Grand Prix	2	16	Charles Leclerc	Monaco	Ferrari	71	1:22:04.546	+ 2.724	+ 2.724	224.026	1:07.994	58
+359	9	2019	Austrian Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes	71	1:22:20.782	+ 18.960	+ 16.236	223.289	1:08.565	53
+359	9	2019	Austrian Grand Prix	4	5	Sebastian Vettel	Germany	Ferrari	71	1:22:21.432	+ 19.610	+ 0.650	223.260	1:07.676	62
+359	9	2019	Austrian Grand Prix	5	44	Lewis Hamilton	Great Britain	Mercedes	71	1:22:24.627	+ 22.805	+ 3.195	223.116	1:08.050	69
+359	9	2019	Austrian Grand Prix	6	4	Lando Norris	Great Britain	McLaren	70	1:22:03.289	1 Lap	1 Lap	220.925	1:08.699	69
+359	9	2019	Austrian Grand Prix	7	10	Pierre Gasly	France	Red Bull	70	1:22:09.034	1 Lap	+ 5.745	220.668	1:08.790	63
+359	9	2019	Austrian Grand Prix	8	55	Carlos Sainz	Spain	McLaren	70	1:22:20.204	1 Lap	+ 11.170	220.169	1:08.117	53
+359	9	2019	Austrian Grand Prix	9	7	Kimi Räikkönen	Finland	Sauber	70	1:22:22.313	1 Lap	+ 2.109	220.075	1:09.126	57
+359	9	2019	Austrian Grand Prix	10	99	Antonio Giovinazzi	Italy	Sauber	70	1:22:22.975	1 Lap	+ 0.662	220.046	1:09.051	57
+359	9	2019	Austrian Grand Prix	11	11	Sergio Pérez	Mexico	Aston Martin	70	1:22:25.725	1 Lap	+ 2.750	219.923	1:09.061	67
+359	9	2019	Austrian Grand Prix	12	3	Daniel Ricciardo	Australia	Renault	70	1:22:26.886	1 Lap	+ 1.161	219.872	1:08.019	65
+359	9	2019	Austrian Grand Prix	13	27	Nico Hülkenberg	Germany	Renault	70	1:22:28.613	1 Lap	+ 1.727	219.795	1:09.248	59
+359	9	2019	Austrian Grand Prix	14	18	Lance Stroll	Canada	Aston Martin	70	1:22:36.541	1 Lap	+ 7.928	219.443	1:09.288	57
+359	9	2019	Austrian Grand Prix	15	23	Alexander Albon	Thailand	Toro Rosso	70	1:22:38.215	1 Lap	+ 1.674	219.369	1:08.946	59
+359	9	2019	Austrian Grand Prix	16	8	Romain Grosjean	France	Haas	70	1:22:46.158	1 Lap	+ 7.943	219.018	1:08.987	56
+359	9	2019	Austrian Grand Prix	17	26	Daniil Kvyat	Russia	Toro Rosso	70	1:23:07.718	1 Lap	+ 21.560	218.072	1:09.498	58
+359	9	2019	Austrian Grand Prix	18	63	George Russell	Great Britain	Williams	69	1:22:17.832	2 Laps	1 Lap	217.127	1:09.926	52
+359	9	2019	Austrian Grand Prix	19	20	Kevin Magnussen	Denmark	Haas	69	1:22:39.693	2 Laps	+ 21.861	216.170	1:08.903	69
+359	9	2019	Austrian Grand Prix	20	88	Robert Kubica	Poland	Williams	68	1:22:14.362	3 Laps	1 Lap	214.129	1:10.964	55

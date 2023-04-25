@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+184	11	2010	German Grand Prix	1	5	Sebastian Vettel	Germany	Red Bull Racing	22	1:13.791					
+184	11	2010	German Grand Prix	2	8	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	22	1:13.793	0.002	0.002			
+184	11	2010	German Grand Prix	3	7	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	24	1:14.290	0.499	0.497			
+184	11	2010	German Grand Prix	4	6	Mark Webber	Australia	Red Bull Racing	25	1:14.347	0.556	0.057			
+184	11	2010	German Grand Prix	5	1	Jenson Button	Great Britain	Vodafone McLaren Mercedes	23	1:14.427	0.636	0.080			
+184	11	2010	German Grand Prix	6	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	20	1:14.566	0.775	0.139			
+184	11	2010	German Grand Prix	7	11	Robert Kubica	Poland	Renault F1 Team	23	1:15.079	1.288	0.513			
+184	11	2010	German Grand Prix	8	9	Rubens Barrichello	Brazil	AT&T Williams	25	1:15.109	1.318	0.030			
+184	11	2010	German Grand Prix	9	4	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	25	1:15.179	1.388	0.070			
+184	11	2010	German Grand Prix	10	10	Nico Hülkenberg	Germany	AT&T Williams	22	1:15.339	1.548	0.160			
+184	11	2010	German Grand Prix	11	3	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	18	1:15.026	1.235	0.460			
+184	11	2010	German Grand Prix	12	23	Kamui Kobayashi	Japan	BMW Sauber F1 Team	12	1:15.084	1.293	0.058			
+184	11	2010	German Grand Prix	13	12	Vitaly Petrov	Russia	Renault F1 Team	17	1:15.307	1.516	0.223			
+184	11	2010	German Grand Prix	14	14	Adrian Sutil	Germany	Force India F1 Team	16	1:15.467	1.676	0.160			
+184	11	2010	German Grand Prix	15	22	Pedro de la Rosa	Spain	BMW Sauber F1 Team	11	1:15.550	1.759	0.083			
+184	11	2010	German Grand Prix	16	17	Jaime Alguersuari	Spain	Scuderia Toro Rosso	14	1:15.588	1.797	0.038			
+184	11	2010	German Grand Prix	17	16	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	15	1:15.974	2.183	0.386			
+184	11	2010	German Grand Prix	18	18	Jarno Trulli	Italy	Lotus Racing	12	1:17.583	3.792	1.609			
+184	11	2010	German Grand Prix	19	19	Heikki Kovalainen	Finland	Lotus Racing	11	1:18.300	4.509	0.717			
+184	11	2010	German Grand Prix	20	24	Timo Glock	Germany	Virgin Racing	6	1:18.343	4.552	0.043			
+184	11	2010	German Grand Prix	21	21	Bruno Senna	Brazil	HRT F1 Team	10	1:18.592	4.801	0.249			
+184	11	2010	German Grand Prix	22	15	Vitantonio Liuzzi	Italy	Force India F1 Team	3	1:18.952	5.161	0.360			
+184	11	2010	German Grand Prix	23	20	Sakon Yamamoto	Japan	HRT F1 Team	11	1:19.844	6.053	0.892			
+184	11	2010	German Grand Prix	24	25	Lucas di Grassi	Brazil	Virgin Racing	1						

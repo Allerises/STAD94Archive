@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+116	13	2006	Hungarian Grand Prix	1	12	Jenson Button	Great Britain	Honda	70	1:52:20.941			163.773	1:25.143	57
+116	13	2006	Hungarian Grand Prix	2	4	Pedro de la Rosa	Spain	McLaren	70	1:52:51.778	+ 30.837	+ 30.837	163.027	1:24.315	67
+116	13	2006	Hungarian Grand Prix	3	16	Nick Heidfeld	Germany	Sauber	70	1:53:04.763	+ 43.822	+ 12.985	162.715	1:25.801	65
+116	13	2006	Hungarian Grand Prix	4	11	Rubens Barrichello	Brazil	Honda	70	1:53:06.146	+ 45.205	+ 1.383	162.682	1:24.678	69
+116	13	2006	Hungarian Grand Prix	5	14	David Coulthard	Great Britain	Red Bull	69	1:52:42.055	1 Lap	1 Lap	160.929	1:27.572	65
+116	13	2006	Hungarian Grand Prix	6	7	Ralf Schumacher	Germany	Toyota	69	1:53:05.344	1 Lap	+ 23.289	160.377	1:25.247	65
+116	13	2006	Hungarian Grand Prix	7	6	Felipe Massa	Brazil	Ferrari	69	1:53:24.702	1 Lap	+ 19.358	159.921	1:23.516	65
+116	13	2006	Hungarian Grand Prix	8	5	Michael Schumacher	Germany	Ferrari	67	1:49:09.799	3 Laps	2 Laps	161.328	1:27.834	57
+116	13	2006	Hungarian Grand Prix	9	18	Tiago Monteiro	Portugal	MF1 Racing	67	1:53:15.391	3 Laps	+ 4:05.592	155.498	1:28.178	66
+116	13	2006	Hungarian Grand Prix	10	19	Christijan Albers	Netherlands	MF1 Racing	67	1:53:19.136	3 Laps	+ 3.745	155.412	1:26.117	67
+116	13	2006	Hungarian Grand Prix	11	21	Scott Speed	USA	Toro Rosso	66	1:53:32.755	4 Laps	1 Lap	152.787	1:26.249	66
+116	13	2006	Hungarian Grand Prix	12	8	Jarno Trulli	Italy	Toyota	65	1:47:35.019	5 Laps	1 Lap	158.811	1:25.779	58
+116	13	2006	Hungarian Grand Prix	13	22	Takuma Sato	Japan	Super Aguri	65	1:52:23.674	5 Laps	+ 4:48.655	152.013	1:30.957	53
+116	13	2006	Hungarian Grand Prix	14	17	Robert Kubica	Poland	Sauber	69	1:53:24.265			159.931	1:28.154	55
+116	13	2006	Hungarian Grand Prix	15	1	Fernando Alonso	Spain	Renault	51	1:24:20.193			158.951	1:29.408	50
+116	13	2006	Hungarian Grand Prix	16	3	Kimi Räikkönen	Finland	McLaren	25	40:42.493			161.419	1:33.690	7
+116	13	2006	Hungarian Grand Prix	17	20	Vitantonio Liuzzi	Italy	Toro Rosso	25	42:59.433			152.849	1:38.858	8
+116	13	2006	Hungarian Grand Prix	18	10	Nico Rosberg	Germany	Williams	19	32:36.526			153.146	1:38.964	9
+116	13	2006	Hungarian Grand Prix	19	2	Giancarlo Fisichella	Italy	Renault	18	29:37.916			159.660	1:35.550	9
+116	13	2006	Hungarian Grand Prix	20	15	Christian Klien	Austria	Red Bull	6	10:33.480			149.340	1:38.702	6
+116	13	2006	Hungarian Grand Prix	21	9	Mark Webber	Australia	Williams	1	2:01.734			129.350		
+116	13	2006	Hungarian Grand Prix	22	23	Sakon Yamamoto	Japan	Super Aguri							

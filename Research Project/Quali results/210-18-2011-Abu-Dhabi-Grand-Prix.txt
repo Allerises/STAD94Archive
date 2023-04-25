@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+210	18	2011	Abu Dhabi Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull Racing	16	1:38.481					
+210	18	2011	Abu Dhabi Grand Prix	2	3	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	15	1:38.622	0.141	0.141			
+210	18	2011	Abu Dhabi Grand Prix	3	4	Jenson Button	Great Britain	Vodafone McLaren Mercedes	14	1:38.631	0.150	0.009			
+210	18	2011	Abu Dhabi Grand Prix	4	2	Mark Webber	Australia	Red Bull Racing	19	1:38.858	0.377	0.227			
+210	18	2011	Abu Dhabi Grand Prix	5	5	Fernando Alonso	Spain	Scuderia Ferrari	16	1:39.058	0.577	0.200			
+210	18	2011	Abu Dhabi Grand Prix	6	6	Felipe Massa	Brazil	Scuderia Ferrari	20	1:39.695	1.214	0.637			
+210	18	2011	Abu Dhabi Grand Prix	7	8	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	17	1:39.773	1.292	0.078			
+210	18	2011	Abu Dhabi Grand Prix	8	7	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	18	1:40.662	2.181	0.889			
+210	18	2011	Abu Dhabi Grand Prix	9	14	Adrian Sutil	Germany	Force India F1 Team	17	1:40.768	2.287	0.106			
+210	18	2011	Abu Dhabi Grand Prix	10	15	Paul di Resta	Great Britain	Force India F1 Team	15						
+210	18	2011	Abu Dhabi Grand Prix	11	17	Sergio Pérez	Mexico	Sauber F1 Team	18	1:40.874	2.393	0.106			
+210	18	2011	Abu Dhabi Grand Prix	12	10	Vitaly Petrov	Russia	Lotus Renault GP	18	1:40.919	2.438	0.045			
+210	18	2011	Abu Dhabi Grand Prix	13	18	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	15	1:41.000	2.519	0.081			
+210	18	2011	Abu Dhabi Grand Prix	14	9	Bruno Senna	Brazil	Lotus Renault GP	15	1:41.079	2.598	0.079			
+210	18	2011	Abu Dhabi Grand Prix	15	19	Jaime Alguersuari	Spain	Scuderia Toro Rosso	16	1:41.162	2.681	0.083			
+210	18	2011	Abu Dhabi Grand Prix	16	16	Kamui Kobayashi	Japan	Sauber F1 Team	17	1:41.240	2.759	0.078			
+210	18	2011	Abu Dhabi Grand Prix	17	12	Pastor Maldonado	Venezuela	AT&T Williams	13	1:41.760	3.279	0.520			
+210	18	2011	Abu Dhabi Grand Prix	18	20	Heikki Kovalainen	Finland	Team Lotus	11	1:42.979	4.498	1.219			
+210	18	2011	Abu Dhabi Grand Prix	19	21	Jarno Trulli	Italy	Team Lotus	11	1:43.884	5.403	0.905			
+210	18	2011	Abu Dhabi Grand Prix	20	24	Timo Glock	Germany	Marussia Virgin Racing	9	1:44.515	6.034	0.631			
+210	18	2011	Abu Dhabi Grand Prix	21	22	Daniel Ricciardo	Australia	HRT F1 Team	9	1:44.641	6.160	0.126			
+210	18	2011	Abu Dhabi Grand Prix	22	25	Jerome d'Ambrosio	Belgium	Marussia Virgin Racing	8	1:44.699	6.218	0.058			
+210	18	2011	Abu Dhabi Grand Prix	23	23	Vitantonio Liuzzi	Italy	HRT F1 Team	8	1:45.159	6.678	0.460			
+210	18	2011	Abu Dhabi Grand Prix	24	11	Rubens Barrichello	Brazil	AT&T Williams							

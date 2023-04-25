@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+315	6	2017	Monaco Grand Prix	1	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:12.178			166.438		
+315	6	2017	Monaco Grand Prix	2	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:12.221	0.043	0.043	166.339		
+315	6	2017	Monaco Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:12.223	0.045	0.002	166.334		
+315	6	2017	Monaco Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull Racing		1:12.496	0.318	0.273	165.708		
+315	6	2017	Monaco Grand Prix	5	3	Daniel Ricciardo	Australia	Red Bull Racing		1:12.998	0.820	0.502	164.568		
+315	6	2017	Monaco Grand Prix	6	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:13.162	0.984	0.164	164.199		
+315	6	2017	Monaco Grand Prix	7	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:13.329	1.151	0.167	163.826		
+315	6	2017	Monaco Grand Prix	8	8	Romain Grosjean	France	Haas F1 Team		1:13.349	1.171	0.020	163.781		
+315	6	2017	Monaco Grand Prix	9	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:13.516	1.338	0.167	163.409		
+315	6	2017	Monaco Grand Prix	10	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:13.628	1.450	0.112	163.160		
+315	6	2017	Monaco Grand Prix	11	20	Kevin Magnussen	Denmark	Haas F1 Team		1:13.959	1.781	0.331	162.430		
+315	6	2017	Monaco Grand Prix	12	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team							
+315	6	2017	Monaco Grand Prix	13	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:14.106	1.928		162.108		
+315	6	2017	Monaco Grand Prix	14	19	Felipe Massa	Brazil	Williams Martini Racing		1:20.529	8.351	6.423	149.178		
+315	6	2017	Monaco Grand Prix	15	31	Esteban Ocon	France	Sahara Force India F1 Team		1:14.101	1.923		162.119		
+315	6	2017	Monaco Grand Prix	16	30	Jolyon Palmer	Great Britain	Renault Sport Formula One Team		1:14.696	2.518	0.595	160.827		
+315	6	2017	Monaco Grand Prix	17	18	Lance Stroll	Canada	Williams Martini Racing		1:14.893	2.715	0.197	160.404		
+315	6	2017	Monaco Grand Prix	18	94	Pascal Wehrlein	Germany	Sauber F1 Team		1:15.159	2.981	0.266	159.837		
+315	6	2017	Monaco Grand Prix	19	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:15.276	3.098	0.117	159.588		
+315	6	2017	Monaco Grand Prix	20	22	Jenson Button	Great Britain	McLaren Honda Formula 1 Team		1:13.613	1.435		163.194		

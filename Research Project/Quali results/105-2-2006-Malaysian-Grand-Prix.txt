@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+105	2	2006	Malaysian Grand Prix	1	2	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	22	1:33.840					
+105	2	2006	Malaysian Grand Prix	2	12	Jenson Button	Great Britain	Lucky Strike Honda Racing F1 Team	19	1:33.986	0.146	0.146			
+105	2	2006	Malaysian Grand Prix	3	10	Nico Rosberg	Germany	WilliamsF1 Team	19	1:34.626	0.786	0.640			
+105	2	2006	Malaysian Grand Prix	4	5	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	23	1:34.668	0.828	0.042			
+105	2	2006	Malaysian Grand Prix	5	9	Mark Webber	Australia	WilliamsF1 Team	18	1:34.672	0.832	0.004			
+105	2	2006	Malaysian Grand Prix	6	4	Juan Pablo Montoya	Colombia	Team McLaren Mercedes	18	1:34.916	1.076	0.244			
+105	2	2006	Malaysian Grand Prix	7	3	Kimi Räikkönen	Finland	Team McLaren Mercedes	18	1:34.983	1.143	0.067			
+105	2	2006	Malaysian Grand Prix	8	1	Fernando Alonso	Spain	Mild Seven Renault F1 Team	22	1:35.747	1.907	0.764			
+105	2	2006	Malaysian Grand Prix	9	15	Christian Klien	Austria	Red Bull Racing	16	1:38.715	4.875	2.968			
+105	2	2006	Malaysian Grand Prix	10	7	Ralf Schumacher	Germany	Panasonic Toyota Racing	10	1:34.586	0.746	0.600			
+105	2	2006	Malaysian Grand Prix	11	14	David Coulthard	Great Britain	Red Bull Racing	12	1:34.614	0.774	0.028			
+105	2	2006	Malaysian Grand Prix	12	11	Rubens Barrichello	Brazil	Lucky Strike Honda Racing F1 Team	14	1:34.683	0.843	0.069			
+105	2	2006	Malaysian Grand Prix	13	8	Jarno Trulli	Italy	Panasonic Toyota Racing	12	1:34.702	0.862	0.019			
+105	2	2006	Malaysian Grand Prix	14	17	Jacques Villeneuve	Canada	BMW Sauber F1 Team	10	1:34.752	0.912	0.050			
+105	2	2006	Malaysian Grand Prix	15	16	Nick Heidfeld	Germany	BMW Sauber F1 Team	10	1:34.783	0.943	0.031			
+105	2	2006	Malaysian Grand Prix	16	6	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	3	1:35.091	1.251	0.308			
+105	2	2006	Malaysian Grand Prix	17	21	Scott Speed	USA	Scuderia Toro Rosso	6	1:36.297	2.457	1.206			
+105	2	2006	Malaysian Grand Prix	18	20	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	7	1:36.581	2.741	0.284			
+105	2	2006	Malaysian Grand Prix	19	19	Christijan Albers	Netherlands	MF1 Racing	7	1:37.426	3.586	0.845			
+105	2	2006	Malaysian Grand Prix	20	18	Tiago Monteiro	Portugal	MF1 Racing	6	1:37.819	3.979	0.393			
+105	2	2006	Malaysian Grand Prix	21	22	Takuma Sato	Japan	Super Aguri F1	6	1:39.011	5.171	1.192			
+105	2	2006	Malaysian Grand Prix	22	23	Yuji Ide	Japan	Super Aguri F1	6	1:40.720	6.880	1.709			

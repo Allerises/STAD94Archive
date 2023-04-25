@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+76	10	2004	French Grand Prix	1	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:13.698					
+76	10	2004	French Grand Prix	2	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:13.971	0.273	0.273			
+76	10	2004	French Grand Prix	3	5	David Coulthard	Great Britain	West McLaren Mercedes	3	1:13.987	0.289	0.016			
+76	10	2004	French Grand Prix	4	9	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:13.995	0.297	0.008			
+76	10	2004	French Grand Prix	5	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team	3	1:14.070	0.372	0.075			
+76	10	2004	French Grand Prix	6	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team	3	1:14.172	0.474	0.102			
+76	10	2004	French Grand Prix	7	10	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:14.240	0.542	0.068			
+76	10	2004	French Grand Prix	8	4	Marc Gene	Spain	BMW WilliamsF1 Team	3	1:14.275	0.577	0.035			
+76	10	2004	French Grand Prix	9	6	Kimi Räikkönen	Finland	West McLaren Mercedes	3	1:14.346	0.648	0.071			
+76	10	2004	French Grand Prix	10	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:14.478	0.780	0.132			
+76	10	2004	French Grand Prix	11	16	Cristiano da Matta	Brazil	Panasonic Toyota Racing	3	1:14.553	0.855	0.075			
+76	10	2004	French Grand Prix	12	14	Mark Webber	Australia	Jaguar Racing	3	1:14.798	1.100	0.245			
+76	10	2004	French Grand Prix	13	15	Christian Klien	Austria	Jaguar Racing	3	1:15.065	1.367	0.267			
+76	10	2004	French Grand Prix	14	17	Olivier Panis	France	Panasonic Toyota Racing	3	1:15.130	1.432	0.065			
+76	10	2004	French Grand Prix	15	11	Giancarlo Fisichella	Italy	Sauber Petronas	3	1:16.177	2.479	1.047			
+76	10	2004	French Grand Prix	16	12	Felipe Massa	Brazil	Sauber Petronas	3	1:16.200	2.502	0.023			
+76	10	2004	French Grand Prix	17	18	Nick Heidfeld	Germany	Jordan Ford	3	1:16.807	3.109	0.607			
+76	10	2004	French Grand Prix	18	19	Giorgio Pantano	Italy	Jordan Ford	3	1:17.462	3.764	0.655			
+76	10	2004	French Grand Prix	19	20	Gianmaria Bruni	Italy	Minardi Cosworth	3	1:17.903	4.205	0.441			
+76	10	2004	French Grand Prix	20	21	Zsolt Baumgartner	Hungary	Minardi Cosworth	3	1:18.247	4.549	0.344			

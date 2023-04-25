@@ -1,0 +1,452 @@
+2000-Arrows	Jos Verstappen	12	5
+2000-Arrows	Pedro de la Rosa	16	2
+2000-BAR	Jacques Villeneuve	7	17
+2000-BAR	Ricardo Zonta	14	3
+2000-Benneton	Giancarlo Fisichella	6	18
+2000-Benneton	Alexander Wurz	15	2
+2000-Ferrari	Michael Schumacher	1	108
+2000-Ferrari	Rubens Barrichello	4	62
+2000-Jaguar	Eddie Irvine	13	4
+2000-Jaguar	Johnny Herbert	17	0
+2000-Jordan	Heinz-Harald Frentzen	9	11
+2000-Jordan	Jarno Trulli	10	6
+2000-McLaren	Mika Hakkinen	2	89
+2000-McLaren	David Coulthard	3	73
+2000-Minardi	Marc Gene	19	0
+2000-Minardi	Gaston Mazzacane	21	0
+2000-Prost	Nick Heidfeld	20	0
+2000-Prost	Jean Alesi	22	0
+2000-Sauber	Mika Salo	11	6
+2000-Sauber	Pedro Diniz	18	0
+2000-Williams	Ralf Schumacher	5	24
+2000-Williams	Jenson Button	8	12
+2001-Arrows	Jos Verstappen	18	1
+2001-Arrows	Enrique Bernoldi	21	0
+2001-BAR	Jacques Villeneuve	7	12
+2001-BAR	Olivier Panis	14	5
+2001-Benneton	Giancarlo Fisichella	11	8
+2001-Benneton	Jenson Button	17	2
+2001-Ferrari	Michael Schumacher	1	123
+2001-Ferrari	Rubens Barrichello	3	56
+2001-Jaguar	Eddie Irvine	12	6
+2001-Jaguar	Pedro de la Rosa	16	3
+2001-Jordan	Jarno Trulli	9	12
+2001-Jordan	Heinz-Harald Frentzen	13	6
+2001-McLaren	David Coulthard	2	65
+2001-McLaren	Mika Hakkinen	5	37
+2001-Minardi	Tarso Marques	22	0
+2001-Minardi	Fernando Alonso	23	0
+2001-Prost	Jean Alesi	15	5
+2001-Prost	Gaston Mazzacane	25	0
+2001-Sauber	Nick Heidfeld	8	12
+2001-Sauber	Kimi R<e4>ikk<f6>nen	10	9
+2001-Williams	Ralf Schumacher	4	49
+2001-Williams	Juan Pablo Montoya	6	31
+2002-Arrows	Heinz-Harald Frentzen	18	2
+2002-Arrows	Enrique Bernoldi	22	0
+2002-BAR	Jacques Villeneuve	12	4
+2002-BAR	Olivier Panis	14	3
+2002-Ferrari	Michael Schumacher	1	144
+2002-Ferrari	Rubens Barrichello	2	77
+2002-Jaguar	Eddie Irvine	9	8
+2002-Jaguar	Pedro de la Rosa	21	0
+2002-Jordan	Giancarlo Fisichella	11	7
+2002-Jordan	Takuma Sato	15	2
+2002-McLaren	David Coulthard	5	41
+2002-McLaren	Kimi R<e4>ikk<f6>nen	6	24
+2002-Minardi	Mark Webber	16	2
+2002-Minardi	Alex Yoong	20	0
+2002-Renault	Jenson Button	7	14
+2002-Renault	Jarno Trulli	8	9
+2002-Sauber	Nick Heidfeld	10	7
+2002-Sauber	Felipe Massa	13	4
+2002-Toyota	Mika Salo	17	2
+2002-Toyota	Allan McNish	19	0
+2002-Williams	Juan Pablo Montoya	3	50
+2002-Williams	Ralf Schumacher	4	42
+2003-BAR	Jenson Button	9	17
+2003-BAR	Jacques Villeneuve	16	6
+2003-Ferrari	Michael Schumacher	1	93
+2003-Ferrari	Rubens Barrichello	4	65
+2003-Jaguar	Mark Webber	10	17
+2003-Jaguar	Justin Wilson	20	1
+2003-Jordan	Giancarlo Fisichella	12	12
+2003-Jordan	Ralph Firman	19	1
+2003-McLaren	Kimi R<e4>ikk<f6>nen	2	91
+2003-McLaren	David Coulthard	7	51
+2003-Minardi	Justin Wilson	20	1
+2003-Minardi	Jos Verstappen	22	0
+2003-Renault	Fernando Alonso	6	55
+2003-Renault	Jarno Trulli	8	33
+2003-Sauber	Heinz-Harald Frentzen	11	13
+2003-Sauber	Nick Heidfeld	14	6
+2003-Toyota	Cristiano da Matta	13	10
+2003-Toyota	Olivier Panis	15	6
+2003-Williams	Juan Pablo Montoya	3	82
+2003-Williams	Ralf Schumacher	5	58
+2004-BAR	Jenson Button	3	85
+2004-BAR	Takuma Sato	8	34
+2004-Ferrari	Michael Schumacher	1	148
+2004-Ferrari	Rubens Barrichello	2	114
+2004-Jaguar	Mark Webber	13	7
+2004-Jaguar	Christian Klien	16	3
+2004-Jordan	Nick Heidfeld	18	3
+2004-Jordan	Timo Glock	19	2
+2004-McLaren	Kimi R<e4>ikk<f6>nen	7	45
+2004-McLaren	David Coulthard	10	24
+2004-Minardi	Zsolt Baumgartner	20	1
+2004-Minardi	Gianmaria Bruni	25	0
+2004-Renault	Fernando Alonso	4	59
+2004-Renault	Jarno Trulli	6	46
+2004-Sauber	Giancarlo Fisichella	11	22
+2004-Sauber	Felipe Massa	12	12
+2004-Toyota	Olivier Panis	14	6
+2004-Toyota	Cristiano da Matta	17	3
+2004-Williams	Juan Pablo Montoya	5	58
+2004-Williams	Ralf Schumacher	9	24
+2005-BAR	Jenson Button	9	37
+2005-BAR	Takuma Sato	23	1
+2005-Ferrari	Michael Schumacher	3	62
+2005-Ferrari	Rubens Barrichello	8	38
+2005-Jordan	Tiago Monteiro	16	7
+2005-Jordan	Narain Karthikeyan	18	5
+2005-McLaren	Kimi R<e4>ikk<f6>nen	2	112
+2005-McLaren	Juan Pablo Montoya	4	60
+2005-Minardi	Christijan Albers	19	4
+2005-Minardi	Patrick Friesacher	21	3
+2005-Red Bull	David Coulthard	12	24
+2005-Red Bull	Christian Klien	15	9
+2005-Renault	Fernando Alonso	1	133
+2005-Renault	Giancarlo Fisichella	5	58
+2005-Sauber	Felipe Massa	13	11
+2005-Sauber	Jacques Villeneuve	14	9
+2005-Toyota	Ralf Schumacher	6	45
+2005-Toyota	Jarno Trulli	7	43
+2005-Williams	Mark Webber	10	36
+2005-Williams	Nick Heidfeld	11	28
+2006-Ferrari	Michael Schumacher	2	121
+2006-Ferrari	Felipe Massa	3	80
+2006-Honda	Jenson Button	6	56
+2006-Honda	Rubens Barrichello	7	30
+2006-McLaren	Kimi R<e4>ikk<f6>nen	5	65
+2006-McLaren	Juan Pablo Montoya	8	26
+2006-MF1 Racing	Tiago Monteiro	21	0
+2006-MF1 Racing	Christijan Albers	22	0
+2006-Red Bull	David Coulthard	13	14
+2006-Red Bull	Christian Klien	18	2
+2006-Renault	Fernando Alonso	1	134
+2006-Renault	Giancarlo Fisichella	4	72
+2006-Sauber	Nick Heidfeld	9	23
+2006-Sauber	Jacques Villeneuve	15	7
+2006-Spyker	Tiago Monteiro	21	0
+2006-Spyker	Christijan Albers	22	0
+2006-Super Aguri	Takuma Sato	23	0
+2006-Super Aguri	Yuji Ide	25	0
+2006-Toro Rosso	Vitantonio Liuzzi	19	1
+2006-Toro Rosso	Scott Speed	20	0
+2006-Toyota	Ralf Schumacher	10	20
+2006-Toyota	Jarno Trulli	12	15
+2006-Williams	Mark Webber	14	7
+2006-Williams	Nico Rosberg	17	4
+2007-Ferrari	Kimi R<e4>ikk<f6>nen	1	110
+2007-Ferrari	Felipe Massa	4	94
+2007-Honda	Jenson Button	15	6
+2007-Honda	Rubens Barrichello	20	0
+2007-McLaren	Lewis Hamilton	2	109
+2007-McLaren	Fernando Alonso	3	109
+2007-Red Bull	David Coulthard	10	14
+2007-Red Bull	Mark Webber	12	10
+2007-Renault	Heikki Kovalainen	7	30
+2007-Renault	Giancarlo Fisichella	8	21
+2007-Sauber	Nick Heidfeld	5	61
+2007-Sauber	Robert Kubica	6	39
+2007-Spyker	Adrian Sutil	19	1
+2007-Spyker	Christijan Albers	25	0
+2007-Super Aguri	Takuma Sato	17	4
+2007-Super Aguri	Anthony Davidson	23	0
+2007-Toro Rosso	Vitantonio Liuzzi	18	3
+2007-Toro Rosso	Scott Speed	21	0
+2007-Toyota	Jarno Trulli	13	8
+2007-Toyota	Ralf Schumacher	16	5
+2007-Williams	Nico Rosberg	9	20
+2007-Williams	Alexander Wurz	11	13
+2008-Ferrari	Felipe Massa	2	97
+2008-Ferrari	Kimi R<e4>ikk<f6>nen	3	75
+2008-Force India	Giancarlo Fisichella	19	0
+2008-Force India	Adrian Sutil	20	0
+2008-Honda	Rubens Barrichello	14	11
+2008-Honda	Jenson Button	18	3
+2008-McLaren	Lewis Hamilton	1	98
+2008-McLaren	Heikki Kovalainen	7	53
+2008-Red Bull	Mark Webber	11	21
+2008-Red Bull	David Coulthard	16	8
+2008-Renault	Fernando Alonso	5	61
+2008-Renault	Nelson Piquet Jr.	12	19
+2008-Sauber	Robert Kubica	4	75
+2008-Sauber	Nick Heidfeld	6	60
+2008-Super Aguri	Takuma Sato	21	0
+2008-Super Aguri	Anthony Davidson	22	0
+2008-Toro Rosso	Sebastian Vettel	8	35
+2008-Toro Rosso	Sebastien Bourdais	17	4
+2008-Toyota	Jarno Trulli	9	31
+2008-Toyota	Timo Glock	10	25
+2008-Williams	Nico Rosberg	13	17
+2008-Williams	Kazuki Nakajima	15	9
+2009-Brawn	Jenson Button	1	95
+2009-Brawn	Rubens Barrichello	3	77
+2009-Ferrari	Kimi R<e4>ikk<f6>nen	6	48
+2009-Ferrari	Felipe Massa	11	22
+2009-Force India	Giancarlo Fisichella	15	8
+2009-Force India	Adrian Sutil	17	5
+2009-McLaren	Lewis Hamilton	5	49
+2009-McLaren	Heikki Kovalainen	12	22
+2009-Red Bull	Sebastian Vettel	2	84
+2009-Red Bull	Mark Webber	4	69.5
+2009-Renault	Fernando Alonso	9	26
+2009-Renault	Nelson Piquet Jr.	21	0
+2009-Sauber	Nick Heidfeld	13	19
+2009-Sauber	Robert Kubica	14	17
+2009-Toro Rosso	S<e9>bastien Buemi	16	6
+2009-Toro Rosso	Sebastien Bourdais	19	2
+2009-Toyota	Jarno Trulli	8	32.5
+2009-Toyota	Timo Glock	10	24
+2009-Williams	Nico Rosberg	7	34.5
+2009-Williams	Kazuki Nakajima	20	0
+2010-Ferrari	Fernando Alonso	2	252
+2010-Ferrari	Felipe Massa	6	144
+2010-Force India	Adrian Sutil	11	47
+2010-Force India	Vitantonio Liuzzi	15	21
+2010-HRT	Karun Chandhok	22	0
+2010-HRT	Bruno Senna	23	0
+2010-Lotus	Heikki Kovalainen	20	0
+2010-Lotus	Jarno Trulli	21	0
+2010-McLaren	Lewis Hamilton	4	240
+2010-McLaren	Jenson Button	5	214
+2010-Mercedes	Nico Rosberg	7	142
+2010-Mercedes	Michael Schumacher	9	72
+2010-Red Bull	Sebastian Vettel	1	256
+2010-Red Bull	Mark Webber	3	242
+2010-Renault	Robert Kubica	8	136
+2010-Renault	Vitaly Petrov	13	27
+2010-Sauber	Kamui Kobayashi	12	32
+2010-Sauber	Pedro de la Rosa	17	6
+2010-Toro Rosso	S<e9>bastien Buemi	16	8
+2010-Toro Rosso	Jaime Alguersuari	19	5
+2010-Virgin	Lucas di Grassi	24	0
+2010-Virgin	Timo Glock	25	0
+2010-Williams	Rubens Barrichello	10	47
+2010-Williams	Nico H<fc>lkenberg	14	22
+2011-Ferrari	Fernando Alonso	4	257
+2011-Ferrari	Felipe Massa	6	118
+2011-Force India	Adrian Sutil	9	42
+2011-Force India	Paul di Resta	13	27
+2011-HRT	Vitantonio Liuzzi	23	0
+2011-HRT	Narain Karthikeyan	26	0
+2011-Lotus	Jarno Trulli	21	0
+2011-Lotus	Heikki Kovalainen	22	0
+2011-McLaren	Jenson Button	2	270
+2011-McLaren	Lewis Hamilton	5	227
+2011-Mercedes	Nico Rosberg	7	89
+2011-Mercedes	Michael Schumacher	8	76
+2011-Red Bull	Sebastian Vettel	1	392
+2011-Red Bull	Mark Webber	3	258
+2011-Renault	Vitaly Petrov	10	37
+2011-Renault	Nick Heidfeld	11	34
+2011-Sauber	Kamui Kobayashi	12	30
+2011-Sauber	Sergio P<e9>rez	16	14
+2011-Toro Rosso	Jaime Alguersuari	14	26
+2011-Toro Rosso	S<e9>bastien Buemi	15	15
+2011-Virgin	Jerome d'Ambrosio	24	0
+2011-Virgin	Timo Glock	25	0
+2011-Williams	Rubens Barrichello	17	4
+2011-Williams	Pastor Maldonado	19	1
+2012-Caterham	Vitaly Petrov	19	0
+2012-Caterham	Heikki Kovalainen	22	0
+2012-Ferrari	Fernando Alonso	2	278
+2012-Ferrari	Felipe Massa	7	122
+2012-Force India	Nico H<fc>lkenberg	11	63
+2012-Force India	Paul di Resta	14	46
+2012-HRT	Narain Karthikeyan	24	0
+2012-HRT	Pedro de la Rosa	25	0
+2012-Lotus	Kimi R<e4>ikk<f6>nen	3	207
+2012-Lotus	Romain Grosjean	8	96
+2012-Marussia	Timo Glock	20	0
+2012-Marussia	Charles Pic	21	0
+2012-McLaren	Lewis Hamilton	4	190
+2012-McLaren	Jenson Button	5	188
+2012-Mercedes	Nico Rosberg	9	93
+2012-Mercedes	Michael Schumacher	13	49
+2012-Red Bull	Sebastian Vettel	1	281
+2012-Red Bull	Mark Webber	6	179
+2012-Sauber	Sergio P<e9>rez	10	66
+2012-Sauber	Kamui Kobayashi	12	60
+2012-Toro Rosso	Jean-Eric Vergne	17	16
+2012-Toro Rosso	Daniel Ricciardo	18	10
+2012-Williams	Pastor Maldonado	15	45
+2012-Williams	Bruno Senna	16	31
+2013-Caterham	Charles Pic	20	0
+2013-Caterham	Giedo van der Garde	22	0
+2013-Ferrari	Fernando Alonso	2	242
+2013-Ferrari	Felipe Massa	8	112
+2013-Force India	Paul di Resta	12	48
+2013-Force India	Adrian Sutil	13	29
+2013-Lotus	Kimi R<e4>ikk<f6>nen	5	183
+2013-Lotus	Romain Grosjean	7	132
+2013-Marussia	Jules Bianchi	19	0
+2013-Marussia	Max Chilton	23	0
+2013-McLaren	Jenson Button	9	73
+2013-McLaren	Sergio P<e9>rez	11	49
+2013-Mercedes	Lewis Hamilton	4	189
+2013-Mercedes	Nico Rosberg	6	171
+2013-Red Bull	Sebastian Vettel	1	397
+2013-Red Bull	Mark Webber	3	199
+2013-Sauber	Nico H<fc>lkenberg	10	51
+2013-Sauber	Esteban Guti<e9>rrez	16	6
+2013-Toro Rosso	Daniel Ricciardo	14	20
+2013-Toro Rosso	Jean-Eric Vergne	15	13
+2013-Williams	Valtteri Bottas	17	4
+2013-Williams	Pastor Maldonado	18	1
+2014-Caterham	Marcus Ericsson	19	0
+2014-Caterham	Kamui Kobayashi	22	0
+2014-Ferrari	Fernando Alonso	6	161
+2014-Ferrari	Kimi R<e4>ikk<f6>nen	12	55
+2014-Force India	Nico H<fc>lkenberg	9	96
+2014-Force India	Sergio P<e9>rez	10	59
+2014-Lotus	Romain Grosjean	14	8
+2014-Lotus	Pastor Maldonado	16	2
+2014-Marussia	Jules Bianchi	17	2
+2014-Marussia	Max Chilton	21	0
+2014-McLaren	Jenson Button	8	126
+2014-McLaren	Kevin Magnussen	11	55
+2014-Mercedes	Lewis Hamilton	1	384
+2014-Mercedes	Nico Rosberg	2	317
+2014-Red Bull	Daniel Ricciardo	3	238
+2014-Red Bull	Sebastian Vettel	5	167
+2014-Sauber	Adrian Sutil	18	0
+2014-Sauber	Esteban Guti<e9>rrez	20	0
+2014-Toro Rosso	Jean-Eric Vergne	13	22
+2014-Toro Rosso	Daniil Kvyat	15	8
+2014-Williams	Valtteri Bottas	4	186
+2014-Williams	Felipe Massa	7	134
+2015-Ferrari	Sebastian Vettel	3	278
+2015-Ferrari	Kimi R<e4>ikk<f6>nen	4	150
+2015-Force India	Sergio P<e9>rez	9	78
+2015-Force India	Nico H<fc>lkenberg	10	58
+2015-Lotus	Romain Grosjean	11	51
+2015-Lotus	Pastor Maldonado	14	27
+2015-Manor	Roberto Merhi	19	0
+2015-Manor	Alexander Rossi	20	0
+2015-McLaren	Jenson Button	16	16
+2015-McLaren	Fernando Alonso	17	11
+2015-Mercedes	Lewis Hamilton	1	381
+2015-Mercedes	Nico Rosberg	2	322
+2015-Red Bull	Daniil Kvyat	7	95
+2015-Red Bull	Daniel Ricciardo	8	92
+2015-Sauber	Felipe Nasr	13	27
+2015-Sauber	Marcus Ericsson	18	9
+2015-Toro Rosso	Max Verstappen	12	49
+2015-Toro Rosso	Carlos Sainz	15	18
+2015-Williams	Valtteri Bottas	5	136
+2015-Williams	Felipe Massa	6	121
+2016-Ferrari	Sebastian Vettel	4	212
+2016-Ferrari	Kimi R<e4>ikk<f6>nen	6	186
+2016-Force India	Sergio P<e9>rez	7	101
+2016-Force India	Nico H<fc>lkenberg	9	72
+2016-Haas	Romain Grosjean	13	29
+2016-Haas	Esteban Guti<e9>rrez	21	0
+2016-Manor	Pascal Wehrlein	19	1
+2016-Manor	Rio Haryanto	24	0
+2016-McLaren	Fernando Alonso	10	54
+2016-McLaren	Jenson Button	15	21
+2016-Mercedes	Nico Rosberg	1	385
+2016-Mercedes	Lewis Hamilton	2	380
+2016-Red Bull	Daniel Ricciardo	3	256
+2016-Red Bull	Daniil Kvyat	14	25
+2016-Renault	Kevin Magnussen	16	7
+2016-Renault	Jolyon Palmer	18	1
+2016-Sauber	Felipe Nasr	17	2
+2016-Sauber	Marcus Ericsson	22	0
+2016-Toro Rosso	Max Verstappen	5	204
+2016-Toro Rosso	Carlos Sainz	12	46
+2016-Williams	Valtteri Bottas	8	85
+2016-Williams	Felipe Massa	11	53
+2017-Ferrari	Sebastian Vettel	2	317
+2017-Ferrari	Kimi R<e4>ikk<f6>nen	4	205
+2017-Force India	Sergio P<e9>rez	7	100
+2017-Force India	Esteban Ocon	8	87
+2017-Haas	Romain Grosjean	13	28
+2017-Haas	Kevin Magnussen	14	19
+2017-McLaren	Fernando Alonso	15	17
+2017-McLaren	Stoffel Vandoorne	16	13
+2017-Mercedes	Lewis Hamilton	1	363
+2017-Mercedes	Valtteri Bottas	3	305
+2017-Red Bull	Daniel Ricciardo	5	200
+2017-Red Bull	Max Verstappen	6	168
+2017-Renault	Nico H<fc>lkenberg	10	43
+2017-Renault	Jolyon Palmer	17	8
+2017-Sauber	Pascal Wehrlein	18	5
+2017-Sauber	Marcus Ericsson	20	0
+2017-Toro Rosso	Carlos Sainz	9	54
+2017-Toro Rosso	Daniil Kvyat	19	5
+2017-Williams	Felipe Massa	11	43
+2017-Williams	Lance Stroll	12	40
+2018-Ferrari	Sebastian Vettel	2	320
+2018-Ferrari	Kimi R<e4>ikk<f6>nen	3	251
+2018-Force India	Sergio P<e9>rez	8	62
+2018-Force India	Esteban Ocon	12	49
+2018-Haas	Kevin Magnussen	9	56
+2018-Haas	Romain Grosjean	14	37
+2018-McLaren	Fernando Alonso	11	50
+2018-McLaren	Stoffel Vandoorne	16	12
+2018-Mercedes	Lewis Hamilton	1	408
+2018-Mercedes	Valtteri Bottas	5	247
+2018-Red Bull	Max Verstappen	4	249
+2018-Red Bull	Daniel Ricciardo	6	170
+2018-Renault	Nico H<fc>lkenberg	7	69
+2018-Renault	Carlos Sainz	10	53
+2018-Sauber	Charles Leclerc	13	39
+2018-Sauber	Marcus Ericsson	17	9
+2018-Toro Rosso	Pierre Gasly	15	29
+2018-Toro Rosso	Brendon Hartley	19	4
+2018-Williams	Lance Stroll	18	6
+2018-Williams	Sergey Sirotkin	20	1
+2019-Aston Martin	Sergio P<e9>rez	10	52
+2019-Aston Martin	Lance Stroll	15	21
+2019-Ferrari	Charles Leclerc	4	264
+2019-Ferrari	Sebastian Vettel	5	240
+2019-Haas	Kevin Magnussen	16	20
+2019-Haas	Romain Grosjean	18	8
+2019-McLaren	Carlos Sainz	6	96
+2019-McLaren	Lando Norris	11	49
+2019-Mercedes	Lewis Hamilton	1	413
+2019-Mercedes	Valtteri Bottas	2	326
+2019-Red Bull	Max Verstappen	3	278
+2019-Red Bull	Pierre Gasly	7	95
+2019-Renault	Daniel Ricciardo	9	54
+2019-Renault	Nico H<fc>lkenberg	14	37
+2019-Sauber	Kimi R<e4>ikk<f6>nen	12	43
+2019-Sauber	Antonio Giovinazzi	17	14
+2019-Toro Rosso	Alexander Albon	8	92
+2019-Toro Rosso	Daniil Kvyat	13	37
+2019-Williams	Robert Kubica	19	1
+2019-Williams	George Russell	20	0
+2020-Aston Martin	Sergio P<e9>rez	4	125
+2020-Aston Martin	Lance Stroll	10	74
+2020-Ferrari	Charles Leclerc	6	98
+2020-Ferrari	Sebastian Vettel	13	33
+2020-Haas	Romain Grosjean	19	2
+2020-Haas	Kevin Magnussen	20	1
+2020-McLaren	Carlos Sainz	7	97
+2020-McLaren	Lando Norris	9	87
+2020-Mercedes	Lewis Hamilton	1	332
+2020-Mercedes	Valtteri Bottas	2	205
+2020-Red Bull	Max Verstappen	3	189
+2020-Red Bull	Alexander Albon	8	93
+2020-Renault	Daniel Ricciardo	5	112
+2020-Renault	Esteban Ocon	12	60
+2020-Sauber	Kimi R<e4>ikk<f6>nen	16	4
+2020-Sauber	Antonio Giovinazzi	17	4
+2020-Toro Rosso	Pierre Gasly	11	71
+2020-Toro Rosso	Daniil Kvyat	14	32
+2020-Williams	George Russell	18	3
+2020-Williams	Nicholas Latifi	21	0

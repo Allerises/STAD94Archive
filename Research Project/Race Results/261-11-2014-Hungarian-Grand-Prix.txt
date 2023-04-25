@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+261	11	2014	Hungarian Grand Prix	1	3	Daniel Ricciardo	Australia	Red Bull	70	1:53:05.058			162.690	1:26.608	58
+261	11	2014	Hungarian Grand Prix	2	14	Fernando Alonso	Spain	Ferrari	70	1:53:10.283	+ 5.225	+ 5.225	162.565	1:27.419	40
+261	11	2014	Hungarian Grand Prix	3	44	Lewis Hamilton	Great Britain	Mercedes	70	1:53:10.915	+ 5.857	+ 0.632	162.550	1:27.380	36
+261	11	2014	Hungarian Grand Prix	4	6	Nico Rosberg	Germany	Mercedes	70	1:53:11.419	+ 6.361	+ 0.504	162.538	1:25.724	64
+261	11	2014	Hungarian Grand Prix	5	19	Felipe Massa	Brazil	Williams	70	1:53:34.899	+ 29.841	+ 23.480	161.978	1:28.229	51
+261	11	2014	Hungarian Grand Prix	6	7	Kimi Räikkönen	Finland	Ferrari	70	1:53:36.549	+ 31.491	+ 1.650	161.939	1:27.983	47
+261	11	2014	Hungarian Grand Prix	7	1	Sebastian Vettel	Germany	Red Bull	70	1:53:46.022	+ 40.964	+ 9.473	161.714	1:28.746	52
+261	11	2014	Hungarian Grand Prix	8	77	Valtteri Bottas	Finland	Williams	70	1:53:46.402	+ 41.344	+ 0.380	161.705	1:26.850	63
+261	11	2014	Hungarian Grand Prix	9	25	Jean-Eric Vergne	France	Toro Rosso	70	1:54:03.585	+ 58.527	+ 17.183	161.299	1:29.120	31
+261	11	2014	Hungarian Grand Prix	10	22	Jenson Button	Great Britain	McLaren	70	1:54:12.338	+ 1:07.280	+ 8.753	161.093	1:29.156	50
+261	11	2014	Hungarian Grand Prix	11	99	Adrian Sutil	Germany	Sauber	70	1:54:13.227	+ 1:08.169	+ 0.889	161.072	1:28.704	41
+261	11	2014	Hungarian Grand Prix	12	20	Kevin Magnussen	Denmark	McLaren	70	1:54:23.523	+ 1:18.465	+ 10.296	160.831	1:28.883	41
+261	11	2014	Hungarian Grand Prix	13	13	Pastor Maldonado	Venezuela	Lotus	70	1:54:29.082	+ 1:24.024	+ 5.559	160.700	1:29.128	45
+261	11	2014	Hungarian Grand Prix	14	26	Daniil Kvyat	Russia	Toro Rosso	69	1:53:23.731	1 Lap	1 Lap	159.926	1:29.401	51
+261	11	2014	Hungarian Grand Prix	15	17	Jules Bianchi	France	Marussia	69	1:53:53.390	1 Lap	+ 29.659	159.232	1:29.883	49
+261	11	2014	Hungarian Grand Prix	16	4	Max Chilton	Great Britain	Marussia	69	1:53:53.894	1 Lap	+ 0.504	159.220	1:29.499	47
+261	11	2014	Hungarian Grand Prix	17	21	Esteban Gutiérrez	Mexico	Sauber	32	57:12.140			147.006	1:30.485	29
+261	11	2014	Hungarian Grand Prix	18	10	Kamui Kobayashi	Japan	Caterham	24	43:47.242			144.019	1:32.888	21
+261	11	2014	Hungarian Grand Prix	19	11	Sergio Pérez	Mexico	Force India	22	39:40.128			145.719	1:30.280	21
+261	11	2014	Hungarian Grand Prix	20	27	Nico Hülkenberg	Germany	Force India	14	27:19.745			134.568	1:41.151	14
+261	11	2014	Hungarian Grand Prix	21	8	Romain Grosjean	France	Lotus	10	18:55.742			138.739	1:46.312	7
+261	11	2014	Hungarian Grand Prix	22	9	Marcus Ericsson	Sweden	Caterham	7	13:07.618			139.988	1:48.459	6

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+250	19	2013	Brazilian Grand Prix	1	1	Sebastian Vettel	Germany	Infiniti Red Bull Racing	8	1:26.479					
+250	19	2013	Brazilian Grand Prix	2	9	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	7	1:27.102	0.623	0.623			
+250	19	2013	Brazilian Grand Prix	3	3	Fernando Alonso	Spain	Scuderia Ferrari	7	1:27.539	1.060	0.437			
+250	19	2013	Brazilian Grand Prix	4	2	Mark Webber	Australia	Infiniti Red Bull Racing	8	1:27.572	1.093	0.033			
+250	19	2013	Brazilian Grand Prix	5	10	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team	7	1:27.677	1.198	0.105			
+250	19	2013	Brazilian Grand Prix	6	8	Romain Grosjean	France	Lotus F1 Team	7	1:27.737	1.258	0.060			
+250	19	2013	Brazilian Grand Prix	7	19	Daniel Ricciardo	Australia	Scuderia Toro Rosso	7	1:28.052	1.573	0.315			
+250	19	2013	Brazilian Grand Prix	8	18	Jean-Eric Vergne	France	Scuderia Toro Rosso	7	1:28.081	1.602	0.029			
+250	19	2013	Brazilian Grand Prix	9	4	Felipe Massa	Brazil	Scuderia Ferrari	7	1:28.109	1.630	0.028			
+250	19	2013	Brazilian Grand Prix	10	11	Nico Hülkenberg	Germany	Sauber F1 Team	7	1:29.582	3.103	1.473			
+250	19	2013	Brazilian Grand Prix	11	7	Heikki Kovalainen	Finland	Lotus F1 Team	10	1:27.456	0.977	0.011			
+250	19	2013	Brazilian Grand Prix	12	14	Paul di Resta	Great Britain	Sahara Force India F1 Team	10	1:27.798	1.319	0.342			
+250	19	2013	Brazilian Grand Prix	13	17	Valtteri Bottas	Finland	Williams F1 Team	9	1:27.954	1.475	0.156			
+250	19	2013	Brazilian Grand Prix	14	6	Sergio Pérez	Mexico	Vodafone McLaren Mercedes	10	1:28.269	1.790	0.315			
+250	19	2013	Brazilian Grand Prix	15	5	Jenson Button	Great Britain	Vodafone McLaren Mercedes	10	1:28.308	1.829	0.039			
+250	19	2013	Brazilian Grand Prix	16	15	Adrian Sutil	Germany	Sahara Force India F1 Team	10	1:28.586	2.107	0.278			
+250	19	2013	Brazilian Grand Prix	17	16	Pastor Maldonado	Venezuela	Williams F1 Team	12	1:27.367	0.888	0.265			
+250	19	2013	Brazilian Grand Prix	18	12	Esteban Gutiérrez	Mexico	Sauber F1 Team	14	1:27.445	0.966	0.078			
+250	19	2013	Brazilian Grand Prix	19	20	Charles Pic	France	Caterham F1 Team	6	1:27.843	1.364	0.398			
+250	19	2013	Brazilian Grand Prix	20	21	Giedo van der Garde	Netherlands	Caterham F1 Team	6	1:28.320	1.841	0.477			
+250	19	2013	Brazilian Grand Prix	21	22	Jules Bianchi	France	Marussia F1 Team	11	1:28.366	1.887	0.046			
+250	19	2013	Brazilian Grand Prix	22	23	Max Chilton	Great Britain	Marussia F1 Team	11	1:28.950	2.471	0.584			

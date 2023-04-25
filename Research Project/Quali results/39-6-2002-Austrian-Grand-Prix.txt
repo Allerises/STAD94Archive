@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+39	6	2002	Austrian Grand Prix	1	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:08.082					
+39	6	2002	Austrian Grand Prix	2	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:08.364	0.282	0.282			
+39	6	2002	Austrian Grand Prix	3	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:08.704	0.622	0.340			
+39	6	2002	Austrian Grand Prix	4	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:09.118	1.036	0.414			
+39	6	2002	Austrian Grand Prix	5	7	Nick Heidfeld	Germany	Sauber Petronas		1:09.129	1.047	0.011			
+39	6	2002	Austrian Grand Prix	6	4	Kimi Räikkönen	Finland	West McLaren Mercedes		1:09.154	1.072	0.025			
+39	6	2002	Austrian Grand Prix	7	8	Felipe Massa	Brazil	Sauber Petronas		1:09.228	1.146	0.074			
+39	6	2002	Austrian Grand Prix	8	3	David Coulthard	Great Britain	West McLaren Mercedes		1:09.335	1.253	0.107			
+39	6	2002	Austrian Grand Prix	9	12	Olivier Panis	France	Lucky Strike BAR Honda		1:09.561	1.479	0.226			
+39	6	2002	Austrian Grand Prix	10	24	Mika Salo	Finland	Panasonic Toyota Racing		1:09.661	1.579	0.100			
+39	6	2002	Austrian Grand Prix	11	20	Heinz-Harald Frentzen	Germany	Orange Arrows		1:09.671	1.589	0.010			
+39	6	2002	Austrian Grand Prix	12	21	Enrique Bernoldi	Brazil	Orange Arrows		1:09.723	1.641	0.052			
+39	6	2002	Austrian Grand Prix	13	15	Jenson Button	Great Britain	Mild Seven Renault F1 Team		1:09.780	1.698	0.057			
+39	6	2002	Austrian Grand Prix	14	25	Allan McNish	Great Britain	Panasonic Toyota Racing		1:09.818	1.736	0.038			
+39	6	2002	Austrian Grand Prix	15	9	Giancarlo Fisichella	Italy	DHL Jordan Honda		1:09.901	1.819	0.083			
+39	6	2002	Austrian Grand Prix	16	14	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:09.980	1.898	0.079			
+39	6	2002	Austrian Grand Prix	17	11	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:10.051	1.969	0.071			
+39	6	2002	Austrian Grand Prix	18	10	Takuma Sato	Japan	DHL Jordan Honda		1:10.058	1.976	0.007			
+39	6	2002	Austrian Grand Prix	19	17	Pedro de la Rosa	Spain	Jaguar Racing		1:10.533	2.451	0.475			
+39	6	2002	Austrian Grand Prix	20	16	Eddie Irvine	Great Britain	Jaguar Racing		1:10.741	2.659	0.208			
+39	6	2002	Austrian Grand Prix	21	23	Mark Webber	Australia	KL Minardi Asiatech		1:11.388	3.306	0.647			
+39	6	2002	Austrian Grand Prix	22	22	Alex Yoong	Malaysia	KL Minardi Asiatech		1:12.336	4.254	0.948			

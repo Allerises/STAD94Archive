@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+299	11	2016	Hungarian Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:19.965			197.231		
+299	11	2016	Hungarian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:20.108	0.143	0.143	196.879		
+299	11	2016	Hungarian Grand Prix	3	3	Daniel Ricciardo	Australia	Red Bull Racing		1:20.280	0.315	0.172	196.457		
+299	11	2016	Hungarian Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull Racing		1:20.557	0.592	0.277	195.781		
+299	11	2016	Hungarian Grand Prix	5	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:20.874	0.909	0.317	195.014		
+299	11	2016	Hungarian Grand Prix	6	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:21.131	1.166	0.257	194.396		
+299	11	2016	Hungarian Grand Prix	7	14	Fernando Alonso	Spain	McLaren Honda		1:21.211	1.246	0.080	194.205		
+299	11	2016	Hungarian Grand Prix	8	22	Jenson Button	Great Britain	McLaren Honda		1:21.597	1.632	0.386	193.286		
+299	11	2016	Hungarian Grand Prix	9	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:21.823	1.858	0.226	192.752		
+299	11	2016	Hungarian Grand Prix	10	77	Valtteri Bottas	Finland	Williams Martini Racing		1:22.182	2.217	0.359	191.910		
+299	11	2016	Hungarian Grand Prix	11	8	Romain Grosjean	France	Haas F1 Team		1:24.941	4.976	2.759	185.677		
+299	11	2016	Hungarian Grand Prix	12	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:25.301	5.336	0.360	184.893		
+299	11	2016	Hungarian Grand Prix	13	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:25.416	5.451	0.115	184.644		
+299	11	2016	Hungarian Grand Prix	14	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:25.435	5.470	0.019	184.603		
+299	11	2016	Hungarian Grand Prix	15	21	Esteban Gutiérrez	Mexico	Haas F1 Team		1:26.189	6.224	0.754	182.988		
+299	11	2016	Hungarian Grand Prix	16	12	Felipe Nasr	Brazil	Sauber F1 Team		1:27.063	7.098	0.874	181.151		
+299	11	2016	Hungarian Grand Prix	17	30	Jolyon Palmer	Great Britain	Renault Sport F1 Team		1:43.965	24.000	16.902	151.701		
+299	11	2016	Hungarian Grand Prix	18	19	Felipe Massa	Brazil	Williams Martini Racing		1:43.999	24.034	0.034	151.651		
+299	11	2016	Hungarian Grand Prix	19	20	Kevin Magnussen	Denmark	Renault Sport F1 Team		1:44.543	24.578	0.544	150.862		
+299	11	2016	Hungarian Grand Prix	20	94	Pascal Wehrlein	Germany	Manor Racing MRT		1:47.343	27.378	2.800	146.927		
+299	11	2016	Hungarian Grand Prix	21	88	Rio Haryanto	Indonesia	Manor Racing MRT		1:50.189	30.224	2.846	143.132		
+299	11	2016	Hungarian Grand Prix	22	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:46.984	27.019		147.420		

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+85	1	2005	Australian Grand Prix	1	6	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	6	3:01.460			105.206		
+85	1	2005	Australian Grand Prix	2	16	Jarno Trulli	Italy	Panasonic Toyota Racing	6	3:04.429	2.969	2.969	103.513		
+85	1	2005	Australian Grand Prix	3	7	Mark Webber	Australia	BMW WilliamsF1 Team	6	3:04.996	3.536	0.567	103.195		
+85	1	2005	Australian Grand Prix	4	11	Jacques Villeneuve	Canada	Sauber Petronas	6	3:06.846	5.386	1.850	102.173		
+85	1	2005	Australian Grand Prix	5	14	David Coulthard	Great Britain	Red Bull Racing	6	3:07.212	5.752	0.366	101.974		
+85	1	2005	Australian Grand Prix	6	15	Christian Klien	Austria	Red Bull Racing	6	3:07.477	6.017	0.265	101.830		
+85	1	2005	Australian Grand Prix	7	8	Nick Heidfeld	Germany	BMW WilliamsF1 Team	6	3:09.130	7.670	1.653	100.940		
+85	1	2005	Australian Grand Prix	8	3	Jenson Button	Great Britain	Lucky Strike BAR Honda	6	3:12.128	10.668	2.998	99.365		
+85	1	2005	Australian Grand Prix	9	10	Juan Pablo Montoya	Colombia	West McLaren Mercedes	6	3:14.645	13.185	2.517	98.080		
+85	1	2005	Australian Grand Prix	10	9	Kimi Räikkönen	Finland	West McLaren Mercedes	6	3:15.558	14.098	0.913	97.622		
+85	1	2005	Australian Grand Prix	11	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	6	3:16.822	15.362	1.264	96.995		
+85	1	2005	Australian Grand Prix	12	19	Narain Karthikeyan	India	Jordan Grand Prix	6	3:17.092	15.632	0.270	96.862		
+85	1	2005	Australian Grand Prix	13	5	Fernando Alonso	Spain	Mild Seven Renault F1 Team	6	3:17.466	16.006	0.374	96.678		
+85	1	2005	Australian Grand Prix	14	18	Tiago Monteiro	Portugal	Jordan Grand Prix	6	3:20.329	18.869	2.863	95.297		
+85	1	2005	Australian Grand Prix	15	17	Ralf Schumacher	Germany	Panasonic Toyota Racing	6	3:22.717	21.257	2.388	94.174		
+85	1	2005	Australian Grand Prix	16	20	Patrick Friesacher	Austria	Minardi Cosworth	6	3:28.363	26.903	5.646	91.622		
+85	1	2005	Australian Grand Prix	17	21	Christijan Albers	Netherlands	Minardi Cosworth	3						
+85	1	2005	Australian Grand Prix	18	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	4						
+85	1	2005	Australian Grand Prix	19	4	Takuma Sato	Japan	Lucky Strike BAR Honda	2						
+85	1	2005	Australian Grand Prix	20	12	Felipe Massa	Brazil	Sauber Petronas	2						

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+372	13	2020	Emilia Romagna Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Formula One Team	22	1:13.609			240.084		
+372	13	2020	Emilia Romagna Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Formula One Team	22	1:13.706	0.097	0.097	239.768		
+372	13	2020	Emilia Romagna Grand Prix	3	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	16	1:14.176	0.567	0.470	238.249		
+372	13	2020	Emilia Romagna Grand Prix	4	10	Pierre Gasly	France	Scuderia AlphaTauri Honda	19	1:14.502	0.893	0.326	237.207		
+372	13	2020	Emilia Romagna Grand Prix	5	3	Daniel Ricciardo	Australia	Renault DP World F1 Team	18	1:14.520	0.911	0.018	237.149		
+372	13	2020	Emilia Romagna Grand Prix	6	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	21	1:14.572	0.963	0.052	236.984		
+372	13	2020	Emilia Romagna Grand Prix	7	16	Charles Leclerc	Monaco	Scuderia Ferrari	20	1:14.616	1.007	0.044	236.844		
+372	13	2020	Emilia Romagna Grand Prix	8	26	Daniil Kvyat	Russia	Scuderia AlphaTauri Honda	21	1:14.696	1.087	0.080	236.590		
+372	13	2020	Emilia Romagna Grand Prix	9	4	Lando Norris	Great Britain	McLaren F1 Team	17	1:14.814	1.205	0.118	236.217		
+372	13	2020	Emilia Romagna Grand Prix	10	55	Carlos Sainz	Spain	McLaren F1 Team	19	1:14.911	1.302	0.097	235.911		
+372	13	2020	Emilia Romagna Grand Prix	11	11	Sergio Pérez	Mexico	BWT Racing Point F1 Team	16	1:15.061	1.452	0.150	235.440		
+372	13	2020	Emilia Romagna Grand Prix	12	31	Esteban Ocon	France	Renault DP World F1 Team	14	1:15.201	1.592	0.140	235.002		
+372	13	2020	Emilia Romagna Grand Prix	13	63	George Russell	Great Britain	Williams Racing	18	1:15.323	1.714	0.122	234.621		
+372	13	2020	Emilia Romagna Grand Prix	14	5	Sebastian Vettel	Germany	Scuderia Ferrari	20	1:15.385	1.776	0.062	234.428		
+372	13	2020	Emilia Romagna Grand Prix	15	18	Lance Stroll	Canada	BWT Racing Point F1 Team	16	1:15.494	1.885	0.109	234.090		
+372	13	2020	Emilia Romagna Grand Prix	16	8	Romain Grosjean	France	Haas F1 Team	10	1:15.918	2.309	0.424	232.782		
+372	13	2020	Emilia Romagna Grand Prix	17	20	Kevin Magnussen	Denmark	Haas F1 Team	11	1:15.939	2.330	0.021	232.718		
+372	13	2020	Emilia Romagna Grand Prix	18	7	Kimi Räikkönen	Finland	Alfa Romeo Racing ORLEN	10	1:15.953	2.344	0.014	232.675		
+372	13	2020	Emilia Romagna Grand Prix	19	6	Nicholas Latifi	Canada	Williams Racing	12	1:15.987	2.378	0.034	232.571		
+372	13	2020	Emilia Romagna Grand Prix	20	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing ORLEN	8	1:16.208	2.599	0.221	231.896		

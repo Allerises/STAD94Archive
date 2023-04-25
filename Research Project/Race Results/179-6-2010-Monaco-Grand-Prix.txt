@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+179	6	2010	Monaco Grand Prix	1	6	Mark Webber	Australia	Red Bull	78	1:50:13.355			141.814	1:15.318	63
+179	6	2010	Monaco Grand Prix	2	5	Sebastian Vettel	Germany	Red Bull	78	1:50:13.803	+ 0.448	+ 0.448	141.805	1:15.192	71
+179	6	2010	Monaco Grand Prix	3	11	Robert Kubica	Poland	Renault	78	1:50:15.030	+ 1.675	+ 1.227	141.778	1:15.353	72
+179	6	2010	Monaco Grand Prix	4	7	Felipe Massa	Brazil	Ferrari	78	1:50:16.021	+ 2.666	+ 0.991	141.757	1:15.503	68
+179	6	2010	Monaco Grand Prix	5	2	Lewis Hamilton	Great Britain	McLaren	78	1:50:17.718	+ 4.363	+ 1.697	141.721	1:16.219	68
+179	6	2010	Monaco Grand Prix	6	8	Fernando Alonso	Spain	Ferrari	78	1:50:19.696	+ 6.341	+ 1.978	141.679	1:15.905	73
+179	6	2010	Monaco Grand Prix	7	4	Nico Rosberg	Germany	Mercedes	78	1:50:20.006	+ 6.651	+ 0.310	141.672	1:15.959	65
+179	6	2010	Monaco Grand Prix	8	14	Adrian Sutil	Germany	Force India	78	1:50:20.325	+ 6.970	+ 0.319	141.665	1:15.963	72
+179	6	2010	Monaco Grand Prix	9	15	Vitantonio Liuzzi	Italy	Force India	78	1:50:20.660	+ 7.305	+ 0.335	141.658	1:16.142	72
+179	6	2010	Monaco Grand Prix	10	16	Sébastien Buemi	Switzerland	Toro Rosso	78	1:50:21.554	+ 8.199	+ 0.894	141.639	1:16.493	68
+179	6	2010	Monaco Grand Prix	11	17	Jaime Alguersuari	Spain	Toro Rosso	78	1:50:22.490	+ 9.135	+ 0.936	141.619	1:16.381	73
+179	6	2010	Monaco Grand Prix	12	3	Michael Schumacher	Germany	Mercedes	78	1:50:39.067	+ 25.712	+ 16.577	141.265	1:15.580	71
+179	6	2010	Monaco Grand Prix	13	12	Vitaly Petrov	Russia	Renault	73	1:43:48.498	5 Laps	5 Laps	140.925	1:16.405	60
+179	6	2010	Monaco Grand Prix	14	20	Karun Chandhok	India	HRT	70	1:41:33.584	8 Laps	3 Laps	138.125	1:19.553	69
+179	6	2010	Monaco Grand Prix	15	18	Jarno Trulli	Italy	Lotus	70	1:41:34.121	8 Laps	+ 0.537	138.113	1:19.340	69
+179	6	2010	Monaco Grand Prix	16	19	Heikki Kovalainen	Finland	Lotus	58	1:24:41.499			137.241	1:18.401	57
+179	6	2010	Monaco Grand Prix	17	21	Bruno Senna	Brazil	HRT	58	1:25:04.478			136.623	1:20.130	58
+179	6	2010	Monaco Grand Prix	18	9	Rubens Barrichello	Brazil	Williams	30	44:10.712			136.084	1:19.074	22
+179	6	2010	Monaco Grand Prix	19	23	Kamui Kobayashi	Japan	Sauber	26	38:34.002			135.101	1:18.775	24
+179	6	2010	Monaco Grand Prix	20	25	Lucas di Grassi	Brazil	Virgin	25	38:35.216			129.836	1:22.255	19
+179	6	2010	Monaco Grand Prix	21	24	Timo Glock	Germany	Virgin	22	33:42.747			130.776	1:20.775	11
+179	6	2010	Monaco Grand Prix	22	22	Pedro de la Rosa	Spain	Sauber	21	31:54.913			131.861	1:19.270	21
+179	6	2010	Monaco Grand Prix	23	1	Jenson Button	Great Britain	McLaren	2	3:52.794			103.301	2:14.285	2
+179	6	2010	Monaco Grand Prix	24	10	Nico Hülkenberg	Germany	Williams							

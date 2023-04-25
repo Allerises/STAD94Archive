@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+61	11	2003	British Grand Prix	1	2	Rubens Barrichello	Brazil	Ferrari	60	1:28:37.554			208.757	1:22.236	38
+61	11	2003	British Grand Prix	2	3	Juan Pablo Montoya	Colombia	Williams	60	1:28:43.016	+ 5.462	+ 5.462	208.543	1:22.938	33
+61	11	2003	British Grand Prix	3	6	Kimi Räikkönen	Finland	McLaren	60	1:28:48.210	+ 10.656	+ 5.194	208.339	1:22.911	9
+61	11	2003	British Grand Prix	4	1	Michael Schumacher	Germany	Ferrari	60	1:29:03.202	+ 25.648	+ 14.992	207.755	1:23.024	10
+61	11	2003	British Grand Prix	5	5	David Coulthard	Great Britain	McLaren	60	1:29:14.381	+ 36.827	+ 11.179	207.321	1:22.692	60
+61	11	2003	British Grand Prix	6	7	Jarno Trulli	Italy	Renault	60	1:29:20.621	+ 43.067	+ 6.240	207.080	1:22.797	9
+61	11	2003	British Grand Prix	7	21	Cristiano da Matta	Brazil	Toyota	60	1:29:22.639	+ 45.085	+ 2.018	207.002	1:23.528	32
+61	11	2003	British Grand Prix	8	17	Jenson Button	Great Britain	BAR	60	1:29:23.032	+ 45.478	+ 0.393	206.987	1:23.912	53
+61	11	2003	British Grand Prix	9	4	Ralf Schumacher	Germany	Williams	60	1:29:35.586	+ 58.032	+ 12.554	206.503	1:22.943	10
+61	11	2003	British Grand Prix	10	16	Jacques Villeneuve	Canada	BAR	60	1:29:41.123	+ 1:03.569	+ 5.537	206.291	1:23.705	57
+61	11	2003	British Grand Prix	11	20	Olivier Panis	France	Toyota	60	1:29:42.761	+ 1:05.207	+ 1.638	206.228	1:23.463	47
+61	11	2003	British Grand Prix	12	10	Heinz-Harald Frentzen	Germany	Sauber	60	1:29:43.118	+ 1:05.564	+ 0.357	206.214	1:23.933	58
+61	11	2003	British Grand Prix	13	12	Ralph Firman	Ireland	Jordan	59	1:28:38.294	1 Lap	1 Lap	205.248	1:25.087	33
+61	11	2003	British Grand Prix	14	14	Mark Webber	Australia	Jaguar	59	1:28:39.222	1 Lap	+ 0.928	205.212	1:23.833	28
+61	11	2003	British Grand Prix	15	19	Jos Verstappen	Netherlands	Minardi	58	1:28:40.391	2 Laps	1 Lap	201.688	1:27.021	2
+61	11	2003	British Grand Prix	16	18	Justin Wilson	Great Britain	Minardi	58	1:28:44.162	2 Laps	+ 3.771	201.545	1:25.859	9
+61	11	2003	British Grand Prix	17	9	Nick Heidfeld	Germany	Sauber	58	1:28:47.645	2 Laps	+ 3.483	201.414	1:24.537	9
+61	11	2003	British Grand Prix	18	8	Fernando Alonso	Spain	Renault	52	1:18:10.218			205.111	1:22.819	37
+61	11	2003	British Grand Prix	19	11	Giancarlo Fisichella	Italy	Jordan	44	1:08:29.980			198.043	1:24.823	40
+61	11	2003	British Grand Prix	20	15	Antonio Pizzonia	Brazil	Jaguar	32	49:37.709			198.765	1:23.158	9

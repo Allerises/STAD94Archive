@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+225	14	2012	Singapore Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	59	2:00:26.144					
+225	14	2012	Singapore Grand Prix	2	3	Jenson Button	Great Britain	McLaren	59	2:00:35.103	+ 8.959	+ 8.959			
+225	14	2012	Singapore Grand Prix	3	5	Fernando Alonso	Spain	Ferrari	59	2:00:41.371	+ 15.227	+ 6.268			
+225	14	2012	Singapore Grand Prix	4	11	Paul di Resta	Great Britain	Force India	59	2:00:45.207	+ 19.063	+ 3.836			
+225	14	2012	Singapore Grand Prix	5	8	Nico Rosberg	Germany	Mercedes	59	2:01:00.928	+ 34.784	+ 15.721			
+225	14	2012	Singapore Grand Prix	6	9	Kimi Räikkönen	Finland	Lotus	59	2:01:01.903	+ 35.759	+ 0.975			
+225	14	2012	Singapore Grand Prix	7	10	Romain Grosjean	France	Lotus	59	2:01:02.842	+ 36.698	+ 0.939			
+225	14	2012	Singapore Grand Prix	8	6	Felipe Massa	Brazil	Ferrari	59	2:01:08.973	+ 42.829	+ 6.131			
+225	14	2012	Singapore Grand Prix	9	16	Daniel Ricciardo	Australia	Toro Rosso	59	2:01:11.964	+ 45.820	+ 2.991			
+225	14	2012	Singapore Grand Prix	10	15	Sergio Pérez	Mexico	Sauber	59	2:01:16.763	+ 50.619	+ 4.799			
+225	14	2012	Singapore Grand Prix	11	2	Mark Webber	Australia	Red Bull	59	2:01:33.319	+ 1:07.175	+ 16.556			
+225	14	2012	Singapore Grand Prix	12	24	Timo Glock	Germany	Marussia	59	2:01:58.062	+ 1:31.918	+ 24.743			
+225	14	2012	Singapore Grand Prix	13	14	Kamui Kobayashi	Japan	Sauber	59	2:02:03.285	+ 1:37.141	+ 5.223			
+225	14	2012	Singapore Grand Prix	14	12	Nico Hülkenberg	Germany	Force India	59	2:02:05.557	+ 1:39.413	+ 2.272		1:51.033	
+225	14	2012	Singapore Grand Prix	15	20	Heikki Kovalainen	Finland	Caterham	59	2:02:13.611	+ 1:47.467	+ 8.054			
+225	14	2012	Singapore Grand Prix	16	25	Charles Pic	France	Marussia	59	2:00:26.144					
+225	14	2012	Singapore Grand Prix	17	22	Pedro de la Rosa	Spain	HRT	58		1 Lap	1 Lap			
+225	14	2012	Singapore Grand Prix	18	19	Bruno Senna	Brazil	Williams	57		2 Laps	1 Lap			
+225	14	2012	Singapore Grand Prix	19	21	Vitaly Petrov	Russia	Caterham	57		2 Laps				
+225	14	2012	Singapore Grand Prix	20	17	Jean-Eric Vergne	France	Toro Rosso	39						
+225	14	2012	Singapore Grand Prix	21	7	Michael Schumacher	Germany	Mercedes	39						
+225	14	2012	Singapore Grand Prix	22	18	Pastor Maldonado	Venezuela	Williams	36						
+225	14	2012	Singapore Grand Prix	23	23	Narain Karthikeyan	India	HRT	30						
+225	14	2012	Singapore Grand Prix	24	4	Lewis Hamilton	Great Britain	McLaren	22						

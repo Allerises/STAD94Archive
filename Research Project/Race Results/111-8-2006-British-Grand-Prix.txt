@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+111	8	2006	British Grand Prix	1	1	Fernando Alonso	Spain	Renault	60	1:25:51.927			215.468	1:21.599	21
+111	8	2006	British Grand Prix	2	5	Michael Schumacher	Germany	Ferrari	60	1:26:05.878	+ 13.951	+ 13.951	214.886	1:21.934	53
+111	8	2006	British Grand Prix	3	3	Kimi Räikkönen	Finland	McLaren	60	1:26:10.599	+ 18.672	+ 4.721	214.690	1:22.461	15
+111	8	2006	British Grand Prix	4	2	Giancarlo Fisichella	Italy	Renault	60	1:26:11.903	+ 19.976	+ 1.304	214.636	1:22.238	42
+111	8	2006	British Grand Prix	5	6	Felipe Massa	Brazil	Ferrari	60	1:26:23.486	+ 31.559	+ 11.583	214.156	1:22.371	43
+111	8	2006	British Grand Prix	6	4	Juan Pablo Montoya	Colombia	McLaren	60	1:26:56.696	+ 1:04.769	+ 33.210	212.793	1:22.780	38
+111	8	2006	British Grand Prix	7	16	Nick Heidfeld	Germany	Sauber	60	1:27:03.521	+ 1:11.594	+ 6.825	212.515	1:22.706	43
+111	8	2006	British Grand Prix	8	17	Jacques Villeneuve	Canada	Sauber	60	1:27:10.226	+ 1:18.299	+ 6.705	212.242	1:22.921	46
+111	8	2006	British Grand Prix	9	10	Nico Rosberg	Germany	Williams	60	1:27:10.935	+ 1:19.008	+ 0.709	212.214	1:22.916	47
+111	8	2006	British Grand Prix	10	11	Rubens Barrichello	Brazil	Honda	59	1:26:07.481	1 Lap	1 Lap	211.238	1:23.224	38
+111	8	2006	British Grand Prix	11	8	Jarno Trulli	Italy	Toyota	59	1:26:15.457	1 Lap	+ 7.976	210.912	1:22.744	19
+111	8	2006	British Grand Prix	12	14	David Coulthard	Great Britain	Red Bull	59	1:26:35.684	1 Lap	+ 20.227	210.091	1:23.995	42
+111	8	2006	British Grand Prix	13	20	Vitantonio Liuzzi	Italy	Toro Rosso	59	1:26:46.427	1 Lap	+ 10.743	209.658	1:24.221	25
+111	8	2006	British Grand Prix	14	15	Christian Klien	Austria	Red Bull	59	1:26:51.727	1 Lap	+ 5.300	209.445	1:23.712	30
+111	8	2006	British Grand Prix	15	19	Christijan Albers	Netherlands	MF1 Racing	59	1:27:05.479	1 Lap	+ 13.752	208.893	1:23.977	27
+111	8	2006	British Grand Prix	16	18	Tiago Monteiro	Portugal	MF1 Racing	58	1:26:08.346	2 Laps	1 Lap	207.622	1:24.636	25
+111	8	2006	British Grand Prix	17	22	Takuma Sato	Japan	Super Aguri	57	1:26:37.391	3 Laps	1 Lap	202.900	1:26.520	23
+111	8	2006	British Grand Prix	18	23	Franck Montagny	France	Super Aguri	57	1:27:03.191	3 Laps	+ 25.800	201.898	1:27.167	26
+111	8	2006	British Grand Prix	19	12	Jenson Button	Great Britain	Honda	8	13:43.136			179.414	1:25.207	8
+111	8	2006	British Grand Prix	20	21	Scott Speed	USA	Toro Rosso	1	2:08.623			140.951		
+111	8	2006	British Grand Prix	21	7	Ralf Schumacher	Germany	Toyota							
+111	8	2006	British Grand Prix	22	9	Mark Webber	Australia	Williams							

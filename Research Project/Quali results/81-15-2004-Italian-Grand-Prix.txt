@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+81	15	2004	Italian Grand Prix	1	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:20.089					
+81	15	2004	Italian Grand Prix	2	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team	3	1:20.620	0.531	0.531			
+81	15	2004	Italian Grand Prix	3	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:20.637	0.548	0.017			
+81	15	2004	Italian Grand Prix	4	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:20.645	0.556	0.008			
+81	15	2004	Italian Grand Prix	5	10	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:20.715	0.626	0.070			
+81	15	2004	Italian Grand Prix	6	9	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:20.786	0.697	0.071			
+81	15	2004	Italian Grand Prix	7	6	Kimi Räikkönen	Finland	West McLaren Mercedes	3	1:20.877	0.788	0.091			
+81	15	2004	Italian Grand Prix	8	4	Antonio Pizzonia	Brazil	BMW WilliamsF1 Team	3	1:20.888	0.799	0.011			
+81	15	2004	Italian Grand Prix	9	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team	3	1:21.027	0.938	0.139			
+81	15	2004	Italian Grand Prix	10	5	David Coulthard	Great Britain	West McLaren Mercedes	3	1:21.049	0.960	0.022			
+81	15	2004	Italian Grand Prix	11	16	Ricardo Zonta	Brazil	Panasonic Toyota Racing	3	1:21.520	1.431	0.471			
+81	15	2004	Italian Grand Prix	12	14	Mark Webber	Australia	Jaguar Racing	3	1:21.602	1.513	0.082			
+81	15	2004	Italian Grand Prix	13	17	Olivier Panis	France	Panasonic Toyota Racing	3	1:21.841	1.752	0.239			
+81	15	2004	Italian Grand Prix	14	15	Christian Klien	Austria	Jaguar Racing	3	1:21.989	1.900	0.148			
+81	15	2004	Italian Grand Prix	15	11	Giancarlo Fisichella	Italy	Sauber Petronas	3	1:22.239	2.150	0.250			
+81	15	2004	Italian Grand Prix	16	12	Felipe Massa	Brazil	Sauber Petronas	3	1:22.287	2.198	0.048			
+81	15	2004	Italian Grand Prix	17	18	Nick Heidfeld	Germany	Jordan Ford	3	1:22.301	2.212	0.014			
+81	15	2004	Italian Grand Prix	18	19	Giorgio Pantano	Italy	Jordan Ford	3	1:23.239	3.150	0.938			
+81	15	2004	Italian Grand Prix	19	21	Zsolt Baumgartner	Hungary	Minardi Cosworth	3	1:24.808	4.719	1.569			
+81	15	2004	Italian Grand Prix	20	20	Gianmaria Bruni	Italy	Minardi Cosworth	3	1:24.940	4.851	0.132			

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+73	7	2004	European Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	60	1:32:35.101			200.159	1:29.468	7
+73	7	2004	European Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	60	1:32:53.090	+ 17.989	+ 17.989	199.513	1:30.101	14
+73	7	2004	European Grand Prix	3	9	Jenson Button	Great Britain	BAR	60	1:32:57.634	+ 22.533	+ 4.544	199.350	1:30.457	13
+73	7	2004	European Grand Prix	4	7	Jarno Trulli	Italy	Renault	60	1:33:28.774	+ 53.673	+ 31.140	198.244	1:31.131	30
+73	7	2004	European Grand Prix	5	8	Fernando Alonso	Spain	Renault	60	1:33:36.088	+ 1:00.987	+ 7.314	197.986	1:31.065	29
+73	7	2004	European Grand Prix	6	11	Giancarlo Fisichella	Italy	Sauber	60	1:33:48.549	+ 1:13.448	+ 12.461	197.547	1:31.413	23
+73	7	2004	European Grand Prix	7	14	Mark Webber	Australia	Jaguar	60	1:33:51.307	+ 1:16.206	+ 2.758	197.450	1:31.893	37
+73	7	2004	European Grand Prix	8	3	Juan Pablo Montoya	Colombia	Williams	59	1:32:46.774	1 Lap	1 Lap	196.410	1:31.424	43
+73	7	2004	European Grand Prix	9	12	Felipe Massa	Brazil	Sauber	59	1:33:16.843	1 Lap	+ 30.069	195.355	1:32.729	37
+73	7	2004	European Grand Prix	10	18	Nick Heidfeld	Germany	Jordan	59	1:33:17.176	1 Lap	+ 0.333	195.343	1:32.121	55
+73	7	2004	European Grand Prix	11	17	Olivier Panis	France	Toyota	59	1:33:43.733	1 Lap	+ 26.557	194.421	1:32.506	12
+73	7	2004	European Grand Prix	12	15	Christian Klien	Austria	Jaguar	59	1:34:16.086	1 Lap	+ 32.353	193.309	1:32.804	14
+73	7	2004	European Grand Prix	13	19	Giorgio Pantano	Italy	Jordan	58	1:33:06.003	2 Laps	1 Lap	192.416	1:32.772	27
+73	7	2004	European Grand Prix	14	20	Gianmaria Bruni	Italy	Minardi	57	1:33:28.380	3 Laps	1 Lap	188.344	1:35.555	7
+73	7	2004	European Grand Prix	15	21	Zsolt Baumgartner	Hungary	Minardi	57	1:33:50.760	3 Laps	+ 22.380	187.596	1:34.666	46
+73	7	2004	European Grand Prix	16	10	Takuma Sato	Japan	BAR	47	1:13:27.792			197.600	1:30.004	11
+73	7	2004	European Grand Prix	17	5	David Coulthard	Great Britain	McLaren	25	39:26.125			195.787	1:32.337	14
+73	7	2004	European Grand Prix	18	6	Kimi Räikkönen	Finland	McLaren	9	13:57.943			198.980	1:31.670	2
+73	7	2004	European Grand Prix	19	4	Ralf Schumacher	Germany	Williams							
+73	7	2004	European Grand Prix	20	16	Cristiano da Matta	Brazil	Toyota							

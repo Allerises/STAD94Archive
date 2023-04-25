@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+187	14	2010	Italian Grand Prix	1	8	Fernando Alonso	Spain	Ferrari	53	1:16:24.572			240.849	1:24.139	52
+187	14	2010	Italian Grand Prix	2	1	Jenson Button	Great Britain	McLaren	53	1:16:27.510	+ 2.938	+ 2.938	240.695	1:24.598	46
+187	14	2010	Italian Grand Prix	3	7	Felipe Massa	Brazil	Ferrari	53	1:16:28.795	+ 4.223	+ 1.285	240.627	1:24.575	51
+187	14	2010	Italian Grand Prix	4	5	Sebastian Vettel	Germany	Red Bull	53	1:16:52.768	+ 28.196	+ 23.973	239.377	1:24.493	50
+187	14	2010	Italian Grand Prix	5	4	Nico Rosberg	Germany	Mercedes	53	1:16:54.514	+ 29.942	+ 1.746	239.286	1:24.491	52
+187	14	2010	Italian Grand Prix	6	6	Mark Webber	Australia	Red Bull	53	1:16:55.848	+ 31.276	+ 1.334	239.217	1:24.278	52
+187	14	2010	Italian Grand Prix	7	10	Nico Hülkenberg	Germany	Williams	53	1:16:57.384	+ 32.812	+ 1.536	239.138	1:24.576	52
+187	14	2010	Italian Grand Prix	8	11	Robert Kubica	Poland	Renault	53	1:16:58.600	+ 34.028	+ 1.216	239.075	1:24.560	48
+187	14	2010	Italian Grand Prix	9	3	Michael Schumacher	Germany	Mercedes	53	1:17:09.520	+ 44.948	+ 10.920	238.511	1:24.947	49
+187	14	2010	Italian Grand Prix	10	9	Rubens Barrichello	Brazil	Williams	53	1:17:28.785	+ 1:04.213	+ 19.265	237.522	1:25.239	48
+187	14	2010	Italian Grand Prix	11	16	Sébastien Buemi	Switzerland	Toro Rosso	53	1:17:29.628	+ 1:05.056	+ 0.843	237.479	1:25.224	51
+187	14	2010	Italian Grand Prix	12	15	Vitantonio Liuzzi	Italy	Force India	53	1:17:30.678	+ 1:06.106	+ 1.050	237.426	1:25.102	51
+187	14	2010	Italian Grand Prix	13	12	Vitaly Petrov	Russia	Renault	53	1:17:43.491	+ 1:18.919	+ 12.813	236.773	1:24.644	53
+187	14	2010	Italian Grand Prix	14	22	Pedro de la Rosa	Spain	Sauber	52	1:16:34.616	1 Lap	1 Lap	235.784	1:26.325	47
+187	14	2010	Italian Grand Prix	15	17	Jaime Alguersuari	Spain	Toro Rosso	52	1:16:41.580	1 Lap	+ 6.964	235.427	1:25.472	51
+187	14	2010	Italian Grand Prix	16	14	Adrian Sutil	Germany	Force India	52	1:16:41.994	1 Lap	+ 0.414	235.406	1:24.937	51
+187	14	2010	Italian Grand Prix	17	24	Timo Glock	Germany	Virgin	51	1:16:48.751	2 Laps	1 Lap	230.535	1:27.765	50
+187	14	2010	Italian Grand Prix	18	19	Heikki Kovalainen	Finland	Lotus	51	1:16:51.146	2 Laps	+ 2.395	230.416	1:27.822	50
+187	14	2010	Italian Grand Prix	19	20	Sakon Yamamoto	Japan	HRT	51	1:17:46.321	2 Laps	+ 55.175	227.691	1:28.875	45
+187	14	2010	Italian Grand Prix	20	25	Lucas di Grassi	Brazil	Virgin	50	1:16:22.383	3 Laps	1 Lap	227.311	1:28.171	46
+187	14	2010	Italian Grand Prix	21	18	Jarno Trulli	Italy	Lotus	46	1:10:03.145			227.974	1:29.017	30
+187	14	2010	Italian Grand Prix	22	21	Bruno Senna	Brazil	HRT	11	16:58.222			224.204	1:30.880	10
+187	14	2010	Italian Grand Prix	23	2	Lewis Hamilton	Great Britain	McLaren							
+187	14	2010	Italian Grand Prix	24	23	Kamui Kobayashi	Japan	Sauber							

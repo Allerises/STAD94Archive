@@ -1,0 +1,453 @@
+ID	Driver	RelativePos	Relative_CP
+2000-Arrows	Jos Verstappen	4	3.0
+2000-Arrows	Pedro de la Rosa	-4	-3.0
+2000-BAR	Jacques Villeneuve	7	14.0
+2000-BAR	Ricardo Zonta	-7	-14.0
+2000-Benneton	Giancarlo Fisichella	9	16.0
+2000-Benneton	Alexander Wurz	-9	-16.0
+2000-Ferrari	Michael Schumacher	3	46.0
+2000-Ferrari	Rubens Barrichello	-3	-46.0
+2000-Jaguar	Eddie Irvine	4	4.0
+2000-Jaguar	Johnny Herbert	-4	-4.0
+2000-Jordan	Heinz-Harald Frentzen	1	5.0
+2000-Jordan	Jarno Trulli	-1	-5.0
+2000-McLaren	Mika Hakkinen	1	16.0
+2000-McLaren	David Coulthard	-1	-16.0
+2000-Minardi	Marc Gene	2	0.0
+2000-Minardi	Gaston Mazzacane	-2	0.0
+2000-Prost	Nick Heidfeld	2	0.0
+2000-Prost	Jean Alesi	-2	0.0
+2000-Sauber	Mika Salo	7	6.0
+2000-Sauber	Pedro Diniz	-7	-6.0
+2000-Williams	Ralf Schumacher	3	12.0
+2000-Williams	Jenson Button	-3	-12.0
+2001-Arrows	Jos Verstappen	3	1.0
+2001-Arrows	Enrique Bernoldi	-3	-1.0
+2001-BAR	Jacques Villeneuve	7	7.0
+2001-BAR	Olivier Panis	-7	-7.0
+2001-Benneton	Giancarlo Fisichella	6	6.0
+2001-Benneton	Jenson Button	-6	-6.0
+2001-Ferrari	Michael Schumacher	2	67.0
+2001-Ferrari	Rubens Barrichello	-2	-67.0
+2001-Jaguar	Eddie Irvine	4	3.0
+2001-Jaguar	Pedro de la Rosa	-4	-3.0
+2001-Jordan	Jarno Trulli	4	6.0
+2001-Jordan	Heinz-Harald Frentzen	-4	-6.0
+2001-McLaren	David Coulthard	3	28.0
+2001-McLaren	Mika Hakkinen	-3	-28.0
+2001-Minardi	Tarso Marques	1	0.0
+2001-Minardi	Fernando Alonso	-1	0.0
+2001-Prost	Jean Alesi	10	5.0
+2001-Prost	Gaston Mazzacane	-10	-5.0
+2001-Sauber	Nick Heidfeld	2	3.0
+2001-Sauber	Kimi R<e4>ikk<f6>nen	-2	-3.0
+2001-Williams	Ralf Schumacher	2	18.0
+2001-Williams	Juan Pablo Montoya	-2	-18.0
+2002-Arrows	Heinz-Harald Frentzen	4	2.0
+2002-Arrows	Enrique Bernoldi	-4	-2.0
+2002-BAR	Jacques Villeneuve	2	1.0
+2002-BAR	Olivier Panis	-2	-1.0
+2002-Ferrari	Michael Schumacher	1	67.0
+2002-Ferrari	Rubens Barrichello	-1	-67.0
+2002-Jaguar	Eddie Irvine	12	8.0
+2002-Jaguar	Pedro de la Rosa	-12	-8.0
+2002-Jordan	Giancarlo Fisichella	4	5.0
+2002-Jordan	Takuma Sato	-4	-5.0
+2002-McLaren	David Coulthard	1	17.0
+2002-McLaren	Kimi R<e4>ikk<f6>nen	-1	-17.0
+2002-Minardi	Mark Webber	4	2.0
+2002-Minardi	Alex Yoong	-4	-2.0
+2002-Renault	Jenson Button	1	5.0
+2002-Renault	Jarno Trulli	-1	-5.0
+2002-Sauber	Nick Heidfeld	3	3.0
+2002-Sauber	Felipe Massa	-3	-3.0
+2002-Toyota	Mika Salo	2	2.0
+2002-Toyota	Allan McNish	-2	-2.0
+2002-Williams	Juan Pablo Montoya	1	8.0
+2002-Williams	Ralf Schumacher	-1	-8.0
+2003-BAR	Jenson Button	7	11.0
+2003-BAR	Jacques Villeneuve	-7	-11.0
+2003-Ferrari	Michael Schumacher	3	28.0
+2003-Ferrari	Rubens Barrichello	-3	-28.0
+2003-Jaguar	Mark Webber	10	16.0
+2003-Jaguar	Justin Wilson	-10	-16.0
+2003-Jordan	Giancarlo Fisichella	7	11.0
+2003-Jordan	Ralph Firman	-7	-11.0
+2003-McLaren	Kimi R<e4>ikk<f6>nen	5	40.0
+2003-McLaren	David Coulthard	-5	-40.0
+2003-Minardi	Justin Wilson	2	1.0
+2003-Minardi	Jos Verstappen	-2	-1.0
+2003-Renault	Fernando Alonso	2	22.0
+2003-Renault	Jarno Trulli	-2	-22.0
+2003-Sauber	Heinz-Harald Frentzen	3	7.0
+2003-Sauber	Nick Heidfeld	-3	-7.0
+2003-Toyota	Cristiano da Matta	2	4.0
+2003-Toyota	Olivier Panis	-2	-4.0
+2003-Williams	Juan Pablo Montoya	2	24.0
+2003-Williams	Ralf Schumacher	-2	-24.0
+2004-BAR	Jenson Button	5	51.0
+2004-BAR	Takuma Sato	-5	-51.0
+2004-Ferrari	Michael Schumacher	1	34.0
+2004-Ferrari	Rubens Barrichello	-1	-34.0
+2004-Jaguar	Mark Webber	3	4.0
+2004-Jaguar	Christian Klien	-3	-4.0
+2004-Jordan	Nick Heidfeld	1	1.0
+2004-Jordan	Timo Glock	-1	-1.0
+2004-McLaren	Kimi R<e4>ikk<f6>nen	3	21.0
+2004-McLaren	David Coulthard	-3	-21.0
+2004-Minardi	Zsolt Baumgartner	5	1.0
+2004-Minardi	Gianmaria Bruni	-5	-1.0
+2004-Renault	Fernando Alonso	2	13.0
+2004-Renault	Jarno Trulli	-2	-13.0
+2004-Sauber	Giancarlo Fisichella	1	10.0
+2004-Sauber	Felipe Massa	-1	-10.0
+2004-Toyota	Olivier Panis	3	3.0
+2004-Toyota	Cristiano da Matta	-3	-3.0
+2004-Williams	Juan Pablo Montoya	4	34.0
+2004-Williams	Ralf Schumacher	-4	-34.0
+2005-BAR	Jenson Button	14	36.0
+2005-BAR	Takuma Sato	-14	-36.0
+2005-Ferrari	Michael Schumacher	5	24.0
+2005-Ferrari	Rubens Barrichello	-5	-24.0
+2005-Jordan	Tiago Monteiro	2	2.0
+2005-Jordan	Narain Karthikeyan	-2	-2.0
+2005-McLaren	Kimi R<e4>ikk<f6>nen	2	52.0
+2005-McLaren	Juan Pablo Montoya	-2	-52.0
+2005-Minardi	Christijan Albers	2	1.0
+2005-Minardi	Patrick Friesacher	-2	-1.0
+2005-Red Bull	David Coulthard	3	15.0
+2005-Red Bull	Christian Klien	-3	-15.0
+2005-Renault	Fernando Alonso	4	75.0
+2005-Renault	Giancarlo Fisichella	-4	-75.0
+2005-Sauber	Felipe Massa	1	2.0
+2005-Sauber	Jacques Villeneuve	-1	-2.0
+2005-Toyota	Ralf Schumacher	1	2.0
+2005-Toyota	Jarno Trulli	-1	-2.0
+2005-Williams	Mark Webber	1	8.0
+2005-Williams	Nick Heidfeld	-1	-8.0
+2006-Ferrari	Michael Schumacher	1	41.0
+2006-Ferrari	Felipe Massa	-1	-41.0
+2006-Honda	Jenson Button	1	26.0
+2006-Honda	Rubens Barrichello	-1	-26.0
+2006-McLaren	Kimi R<e4>ikk<f6>nen	3	39.0
+2006-McLaren	Juan Pablo Montoya	-3	-39.0
+2006-MF1 Racing	Tiago Monteiro	1	0.0
+2006-MF1 Racing	Christijan Albers	-1	0.0
+2006-Red Bull	David Coulthard	5	12.0
+2006-Red Bull	Christian Klien	-5	-12.0
+2006-Renault	Fernando Alonso	3	62.0
+2006-Renault	Giancarlo Fisichella	-3	-62.0
+2006-Sauber	Nick Heidfeld	6	16.0
+2006-Sauber	Jacques Villeneuve	-6	-16.0
+2006-Spyker	Tiago Monteiro	1	0.0
+2006-Spyker	Christijan Albers	-1	0.0
+2006-Super Aguri	Takuma Sato	2	0.0
+2006-Super Aguri	Yuji Ide	-2	0.0
+2006-Toro Rosso	Vitantonio Liuzzi	1	1.0
+2006-Toro Rosso	Scott Speed	-1	-1.0
+2006-Toyota	Ralf Schumacher	2	5.0
+2006-Toyota	Jarno Trulli	-2	-5.0
+2006-Williams	Mark Webber	3	3.0
+2006-Williams	Nico Rosberg	-3	-3.0
+2007-Ferrari	Kimi R<e4>ikk<f6>nen	3	16.0
+2007-Ferrari	Felipe Massa	-3	-16.0
+2007-Honda	Jenson Button	5	6.0
+2007-Honda	Rubens Barrichello	-5	-6.0
+2007-McLaren	Lewis Hamilton	1	0.0
+2007-McLaren	Fernando Alonso	-1	0.0
+2007-Red Bull	David Coulthard	2	4.0
+2007-Red Bull	Mark Webber	-2	-4.0
+2007-Renault	Heikki Kovalainen	1	9.0
+2007-Renault	Giancarlo Fisichella	-1	-9.0
+2007-Sauber	Nick Heidfeld	1	22.0
+2007-Sauber	Robert Kubica	-1	-22.0
+2007-Spyker	Adrian Sutil	6	1.0
+2007-Spyker	Christijan Albers	-6	-1.0
+2007-Super Aguri	Takuma Sato	6	4.0
+2007-Super Aguri	Anthony Davidson	-6	-4.0
+2007-Toro Rosso	Vitantonio Liuzzi	3	3.0
+2007-Toro Rosso	Scott Speed	-3	-3.0
+2007-Toyota	Jarno Trulli	3	3.0
+2007-Toyota	Ralf Schumacher	-3	-3.0
+2007-Williams	Nico Rosberg	2	7.0
+2007-Williams	Alexander Wurz	-2	-7.0
+2008-Ferrari	Felipe Massa	1	22.0
+2008-Ferrari	Kimi R<e4>ikk<f6>nen	-1	-22.0
+2008-Force India	Giancarlo Fisichella	1	0.0
+2008-Force India	Adrian Sutil	-1	0.0
+2008-Honda	Rubens Barrichello	4	8.0
+2008-Honda	Jenson Button	-4	-8.0
+2008-McLaren	Lewis Hamilton	6	45.0
+2008-McLaren	Heikki Kovalainen	-6	-45.0
+2008-Red Bull	Mark Webber	5	13.0
+2008-Red Bull	David Coulthard	-5	-13.0
+2008-Renault	Fernando Alonso	7	42.0
+2008-Renault	Nelson Piquet Jr.	-7	-42.0
+2008-Sauber	Robert Kubica	2	15.0
+2008-Sauber	Nick Heidfeld	-2	-15.0
+2008-Super Aguri	Takuma Sato	1	0.0
+2008-Super Aguri	Anthony Davidson	-1	0.0
+2008-Toro Rosso	Sebastian Vettel	9	31.0
+2008-Toro Rosso	Sebastien Bourdais	-9	-31.0
+2008-Toyota	Jarno Trulli	1	6.0
+2008-Toyota	Timo Glock	-1	-6.0
+2008-Williams	Nico Rosberg	2	8.0
+2008-Williams	Kazuki Nakajima	-2	-8.0
+2009-Brawn	Jenson Button	2	18.0
+2009-Brawn	Rubens Barrichello	-2	-18.0
+2009-Ferrari	Kimi R<e4>ikk<f6>nen	5	26.0
+2009-Ferrari	Felipe Massa	-5	-26.0
+2009-Force India	Giancarlo Fisichella	2	3.0
+2009-Force India	Adrian Sutil	-2	-3.0
+2009-McLaren	Lewis Hamilton	7	27.0
+2009-McLaren	Heikki Kovalainen	-7	-27.0
+2009-Red Bull	Sebastian Vettel	2	14.5
+2009-Red Bull	Mark Webber	-2	-14.5
+2009-Renault	Fernando Alonso	12	26.0
+2009-Renault	Nelson Piquet Jr.	-12	-26.0
+2009-Sauber	Nick Heidfeld	1	2.0
+2009-Sauber	Robert Kubica	-1	-2.0
+2009-Toro Rosso	S<e9>bastien Buemi	3	4.0
+2009-Toro Rosso	Sebastien Bourdais	-3	-4.0
+2009-Toyota	Jarno Trulli	2	8.5
+2009-Toyota	Timo Glock	-2	-8.5
+2009-Williams	Nico Rosberg	13	34.5
+2009-Williams	Kazuki Nakajima	-13	-34.5
+2010-Ferrari	Fernando Alonso	4	108.0
+2010-Ferrari	Felipe Massa	-4	-108.0
+2010-Force India	Adrian Sutil	4	26.0
+2010-Force India	Vitantonio Liuzzi	-4	-26.0
+2010-HRT	Karun Chandhok	1	0.0
+2010-HRT	Bruno Senna	-1	0.0
+2010-Lotus	Heikki Kovalainen	1	0.0
+2010-Lotus	Jarno Trulli	-1	0.0
+2010-McLaren	Lewis Hamilton	1	26.0
+2010-McLaren	Jenson Button	-1	-26.0
+2010-Mercedes	Nico Rosberg	2	70.0
+2010-Mercedes	Michael Schumacher	-2	-70.0
+2010-Red Bull	Sebastian Vettel	2	14.0
+2010-Red Bull	Mark Webber	-2	-14.0
+2010-Renault	Robert Kubica	5	109.0
+2010-Renault	Vitaly Petrov	-5	-109.0
+2010-Sauber	Kamui Kobayashi	5	26.0
+2010-Sauber	Pedro de la Rosa	-5	-26.0
+2010-Toro Rosso	S<e9>bastien Buemi	3	3.0
+2010-Toro Rosso	Jaime Alguersuari	-3	-3.0
+2010-Virgin	Lucas di Grassi	1	0.0
+2010-Virgin	Timo Glock	-1	0.0
+2010-Williams	Rubens Barrichello	4	25.0
+2010-Williams	Nico H<fc>lkenberg	-4	-25.0
+2011-Ferrari	Fernando Alonso	2	139.0
+2011-Ferrari	Felipe Massa	-2	-139.0
+2011-Force India	Adrian Sutil	4	15.0
+2011-Force India	Paul di Resta	-4	-15.0
+2011-HRT	Vitantonio Liuzzi	3	0.0
+2011-HRT	Narain Karthikeyan	-3	0.0
+2011-Lotus	Jarno Trulli	1	0.0
+2011-Lotus	Heikki Kovalainen	-1	0.0
+2011-McLaren	Jenson Button	3	43.0
+2011-McLaren	Lewis Hamilton	-3	-43.0
+2011-Mercedes	Nico Rosberg	1	13.0
+2011-Mercedes	Michael Schumacher	-1	-13.0
+2011-Red Bull	Sebastian Vettel	2	134.0
+2011-Red Bull	Mark Webber	-2	-134.0
+2011-Renault	Vitaly Petrov	1	3.0
+2011-Renault	Nick Heidfeld	-1	-3.0
+2011-Sauber	Kamui Kobayashi	4	16.0
+2011-Sauber	Sergio P<e9>rez	-4	-16.0
+2011-Toro Rosso	Jaime Alguersuari	1	11.0
+2011-Toro Rosso	S<e9>bastien Buemi	-1	-11.0
+2011-Virgin	Jerome d'Ambrosio	1	0.0
+2011-Virgin	Timo Glock	-1	0.0
+2011-Williams	Rubens Barrichello	2	3.0
+2011-Williams	Pastor Maldonado	-2	-3.0
+2012-Caterham	Vitaly Petrov	3	0.0
+2012-Caterham	Heikki Kovalainen	-3	0.0
+2012-Ferrari	Fernando Alonso	5	156.0
+2012-Ferrari	Felipe Massa	-5	-156.0
+2012-Force India	Nico H<fc>lkenberg	3	17.0
+2012-Force India	Paul di Resta	-3	-17.0
+2012-HRT	Narain Karthikeyan	1	0.0
+2012-HRT	Pedro de la Rosa	-1	0.0
+2012-Lotus	Kimi R<e4>ikk<f6>nen	5	111.0
+2012-Lotus	Romain Grosjean	-5	-111.0
+2012-Marussia	Timo Glock	1	0.0
+2012-Marussia	Charles Pic	-1	0.0
+2012-McLaren	Lewis Hamilton	1	2.0
+2012-McLaren	Jenson Button	-1	-2.0
+2012-Mercedes	Nico Rosberg	4	44.0
+2012-Mercedes	Michael Schumacher	-4	-44.0
+2012-Red Bull	Sebastian Vettel	5	102.0
+2012-Red Bull	Mark Webber	-5	-102.0
+2012-Sauber	Sergio P<e9>rez	2	6.0
+2012-Sauber	Kamui Kobayashi	-2	-6.0
+2012-Toro Rosso	Jean-Eric Vergne	1	6.0
+2012-Toro Rosso	Daniel Ricciardo	-1	-6.0
+2012-Williams	Pastor Maldonado	1	14.0
+2012-Williams	Bruno Senna	-1	-14.0
+2013-Caterham	Charles Pic	2	0.0
+2013-Caterham	Giedo van der Garde	-2	0.0
+2013-Ferrari	Fernando Alonso	6	130.0
+2013-Ferrari	Felipe Massa	-6	-130.0
+2013-Force India	Paul di Resta	1	19.0
+2013-Force India	Adrian Sutil	-1	-19.0
+2013-Lotus	Kimi R<e4>ikk<f6>nen	2	51.0
+2013-Lotus	Romain Grosjean	-2	-51.0
+2013-Marussia	Jules Bianchi	4	0.0
+2013-Marussia	Max Chilton	-4	0.0
+2013-McLaren	Jenson Button	2	24.0
+2013-McLaren	Sergio P<e9>rez	-2	-24.0
+2013-Mercedes	Lewis Hamilton	2	18.0
+2013-Mercedes	Nico Rosberg	-2	-18.0
+2013-Red Bull	Sebastian Vettel	2	198.0
+2013-Red Bull	Mark Webber	-2	-198.0
+2013-Sauber	Nico H<fc>lkenberg	6	45.0
+2013-Sauber	Esteban Guti<e9>rrez	-6	-45.0
+2013-Toro Rosso	Daniel Ricciardo	1	7.0
+2013-Toro Rosso	Jean-Eric Vergne	-1	-7.0
+2013-Williams	Valtteri Bottas	1	3.0
+2013-Williams	Pastor Maldonado	-1	-3.0
+2014-Caterham	Marcus Ericsson	3	0.0
+2014-Caterham	Kamui Kobayashi	-3	0.0
+2014-Ferrari	Fernando Alonso	6	106.0
+2014-Ferrari	Kimi R<e4>ikk<f6>nen	-6	-106.0
+2014-Force India	Nico H<fc>lkenberg	1	37.0
+2014-Force India	Sergio P<e9>rez	-1	-37.0
+2014-Lotus	Romain Grosjean	2	6.0
+2014-Lotus	Pastor Maldonado	-2	-6.0
+2014-Marussia	Jules Bianchi	4	2.0
+2014-Marussia	Max Chilton	-4	-2.0
+2014-McLaren	Jenson Button	3	71.0
+2014-McLaren	Kevin Magnussen	-3	-71.0
+2014-Mercedes	Lewis Hamilton	1	67.0
+2014-Mercedes	Nico Rosberg	-1	-67.0
+2014-Red Bull	Daniel Ricciardo	2	71.0
+2014-Red Bull	Sebastian Vettel	-2	-71.0
+2014-Sauber	Adrian Sutil	2	0.0
+2014-Sauber	Esteban Guti<e9>rrez	-2	0.0
+2014-Toro Rosso	Jean-Eric Vergne	2	14.0
+2014-Toro Rosso	Daniil Kvyat	-2	-14.0
+2014-Williams	Valtteri Bottas	3	52.0
+2014-Williams	Felipe Massa	-3	-52.0
+2015-Ferrari	Sebastian Vettel	1	128.0
+2015-Ferrari	Kimi R<e4>ikk<f6>nen	-1	-128.0
+2015-Force India	Sergio P<e9>rez	1	20.0
+2015-Force India	Nico H<fc>lkenberg	-1	-20.0
+2015-Lotus	Romain Grosjean	3	24.0
+2015-Lotus	Pastor Maldonado	-3	-24.0
+2015-Manor	Roberto Merhi	1	0.0
+2015-Manor	Alexander Rossi	-1	0.0
+2015-McLaren	Jenson Button	1	5.0
+2015-McLaren	Fernando Alonso	-1	-5.0
+2015-Mercedes	Lewis Hamilton	1	59.0
+2015-Mercedes	Nico Rosberg	-1	-59.0
+2015-Red Bull	Daniil Kvyat	1	3.0
+2015-Red Bull	Daniel Ricciardo	-1	-3.0
+2015-Sauber	Felipe Nasr	5	18.0
+2015-Sauber	Marcus Ericsson	-5	-18.0
+2015-Toro Rosso	Max Verstappen	3	31.0
+2015-Toro Rosso	Carlos Sainz	-3	-31.0
+2015-Williams	Valtteri Bottas	1	15.0
+2015-Williams	Felipe Massa	-1	-15.0
+2016-Ferrari	Sebastian Vettel	2	26.0
+2016-Ferrari	Kimi R<e4>ikk<f6>nen	-2	-26.0
+2016-Force India	Sergio P<e9>rez	2	29.0
+2016-Force India	Nico H<fc>lkenberg	-2	-29.0
+2016-Haas	Romain Grosjean	8	29.0
+2016-Haas	Esteban Guti<e9>rrez	-8	-29.0
+2016-Manor	Pascal Wehrlein	5	1.0
+2016-Manor	Rio Haryanto	-5	-1.0
+2016-McLaren	Fernando Alonso	5	33.0
+2016-McLaren	Jenson Button	-5	-33.0
+2016-Mercedes	Nico Rosberg	1	5.0
+2016-Mercedes	Lewis Hamilton	-1	-5.0
+2016-Red Bull	Daniel Ricciardo	11	231.0
+2016-Red Bull	Daniil Kvyat	-11	-231.0
+2016-Renault	Kevin Magnussen	2	6.0
+2016-Renault	Jolyon Palmer	-2	-6.0
+2016-Sauber	Felipe Nasr	5	2.0
+2016-Sauber	Marcus Ericsson	-5	-2.0
+2016-Toro Rosso	Max Verstappen	7	158.0
+2016-Toro Rosso	Carlos Sainz	-7	-158.0
+2016-Williams	Valtteri Bottas	3	32.0
+2016-Williams	Felipe Massa	-3	-32.0
+2017-Ferrari	Sebastian Vettel	2	112.0
+2017-Ferrari	Kimi R<e4>ikk<f6>nen	-2	-112.0
+2017-Force India	Sergio P<e9>rez	1	13.0
+2017-Force India	Esteban Ocon	-1	-13.0
+2017-Haas	Romain Grosjean	1	9.0
+2017-Haas	Kevin Magnussen	-1	-9.0
+2017-McLaren	Fernando Alonso	1	4.0
+2017-McLaren	Stoffel Vandoorne	-1	-4.0
+2017-Mercedes	Lewis Hamilton	2	58.0
+2017-Mercedes	Valtteri Bottas	-2	-58.0
+2017-Red Bull	Daniel Ricciardo	1	32.0
+2017-Red Bull	Max Verstappen	-1	-32.0
+2017-Renault	Nico H<fc>lkenberg	7	35.0
+2017-Renault	Jolyon Palmer	-7	-35.0
+2017-Sauber	Pascal Wehrlein	2	5.0
+2017-Sauber	Marcus Ericsson	-2	-5.0
+2017-Toro Rosso	Carlos Sainz	10	49.0
+2017-Toro Rosso	Daniil Kvyat	-10	-49.0
+2017-Williams	Felipe Massa	1	3.0
+2017-Williams	Lance Stroll	-1	-3.0
+2018-Ferrari	Sebastian Vettel	1	69.0
+2018-Ferrari	Kimi R<e4>ikk<f6>nen	-1	-69.0
+2018-Force India	Sergio P<e9>rez	4	13.0
+2018-Force India	Esteban Ocon	-4	-13.0
+2018-Haas	Kevin Magnussen	5	19.0
+2018-Haas	Romain Grosjean	-5	-19.0
+2018-McLaren	Fernando Alonso	5	38.0
+2018-McLaren	Stoffel Vandoorne	-5	-38.0
+2018-Mercedes	Lewis Hamilton	4	161.0
+2018-Mercedes	Valtteri Bottas	-4	-161.0
+2018-Red Bull	Max Verstappen	2	79.0
+2018-Red Bull	Daniel Ricciardo	-2	-79.0
+2018-Renault	Nico H<fc>lkenberg	3	16.0
+2018-Renault	Carlos Sainz	-3	-16.0
+2018-Sauber	Charles Leclerc	4	30.0
+2018-Sauber	Marcus Ericsson	-4	-30.0
+2018-Toro Rosso	Pierre Gasly	4	25.0
+2018-Toro Rosso	Brendon Hartley	-4	-25.0
+2018-Williams	Lance Stroll	2	5.0
+2018-Williams	Sergey Sirotkin	-2	-5.0
+2019-Aston Martin	Sergio P<e9>rez	5	31.0
+2019-Aston Martin	Lance Stroll	-5	-31.0
+2019-Ferrari	Charles Leclerc	1	24.0
+2019-Ferrari	Sebastian Vettel	-1	-24.0
+2019-Haas	Kevin Magnussen	2	12.0
+2019-Haas	Romain Grosjean	-2	-12.0
+2019-McLaren	Carlos Sainz	5	47.0
+2019-McLaren	Lando Norris	-5	-47.0
+2019-Mercedes	Lewis Hamilton	1	87.0
+2019-Mercedes	Valtteri Bottas	-1	-87.0
+2019-Red Bull	Max Verstappen	4	183.0
+2019-Red Bull	Pierre Gasly	-4	-183.0
+2019-Renault	Daniel Ricciardo	5	17.0
+2019-Renault	Nico H<fc>lkenberg	-5	-17.0
+2019-Sauber	Kimi R<e4>ikk<f6>nen	5	29.0
+2019-Sauber	Antonio Giovinazzi	-5	-29.0
+2019-Toro Rosso	Alexander Albon	5	55.0
+2019-Toro Rosso	Daniil Kvyat	-5	-55.0
+2019-Williams	Robert Kubica	1	1.0
+2019-Williams	George Russell	-1	-1.0
+2020-Aston Martin	Sergio P<e9>rez	6	51.0
+2020-Aston Martin	Lance Stroll	-6	-51.0
+2020-Ferrari	Charles Leclerc	7	65.0
+2020-Ferrari	Sebastian Vettel	-7	-65.0
+2020-Haas	Romain Grosjean	1	1.0
+2020-Haas	Kevin Magnussen	-1	-1.0
+2020-McLaren	Carlos Sainz	2	10.0
+2020-McLaren	Lando Norris	-2	-10.0
+2020-Mercedes	Lewis Hamilton	1	127.0
+2020-Mercedes	Valtteri Bottas	-1	-127.0
+2020-Red Bull	Max Verstappen	5	96.0
+2020-Red Bull	Alexander Albon	-5	-96.0
+2020-Renault	Daniel Ricciardo	7	52.0
+2020-Renault	Esteban Ocon	-7	-52.0
+2020-Sauber	Kimi R<e4>ikk<f6>nen	1	0.0
+2020-Sauber	Antonio Giovinazzi	-1	0.0
+2020-Toro Rosso	Pierre Gasly	3	39.0
+2020-Toro Rosso	Daniil Kvyat	-3	-39.0
+2020-Williams	George Russell	3	3.0
+2020-Williams	Nicholas Latifi	-3	-3.0

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+308	20	2016	Brazilian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:10.736			219.299		
+308	20	2016	Brazilian Grand Prix	2	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:10.838	0.102	0.102	218.984		
+308	20	2016	Brazilian Grand Prix	3	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:11.404	0.668	0.566	217.248		
+308	20	2016	Brazilian Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull Racing		1:11.485	0.749	0.081	217.002		
+308	20	2016	Brazilian Grand Prix	5	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:11.495	0.759	0.010	216.971		
+308	20	2016	Brazilian Grand Prix	6	3	Daniel Ricciardo	Australia	Red Bull Racing		1:11.540	0.804	0.045	216.835		
+308	20	2016	Brazilian Grand Prix	7	8	Romain Grosjean	France	Haas F1 Team		1:11.937	1.201	0.397	215.638		
+308	20	2016	Brazilian Grand Prix	8	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:12.104	1.368	0.167	215.139		
+308	20	2016	Brazilian Grand Prix	9	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:12.165	1.429	0.061	214.957		
+308	20	2016	Brazilian Grand Prix	10	14	Fernando Alonso	Spain	McLaren Honda		1:12.266	1.530	0.101	214.656		
+308	20	2016	Brazilian Grand Prix	11	77	Valtteri Bottas	Finland	Williams Martini Racing		1:12.420	1.684	0.154	214.200		
+308	20	2016	Brazilian Grand Prix	12	21	Esteban Gutiérrez	Mexico	Haas F1 Team		1:12.431	1.695	0.011	214.167		
+308	20	2016	Brazilian Grand Prix	13	19	Felipe Massa	Brazil	Williams Martini Racing		1:12.521	1.785	0.090	213.902		
+308	20	2016	Brazilian Grand Prix	14	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:12.726	1.990	0.205	213.299		
+308	20	2016	Brazilian Grand Prix	15	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:12.920	2.184	0.194	212.731		
+308	20	2016	Brazilian Grand Prix	16	30	Jolyon Palmer	Great Britain	Renault Sport F1 Team		1:13.258	2.522	0.338	211.750		
+308	20	2016	Brazilian Grand Prix	17	22	Jenson Button	Great Britain	McLaren Honda		1:13.276	2.540	0.018	211.698		
+308	20	2016	Brazilian Grand Prix	18	20	Kevin Magnussen	Denmark	Renault Sport F1 Team		1:13.410	2.674	0.134	211.311		
+308	20	2016	Brazilian Grand Prix	19	94	Pascal Wehrlein	Germany	Manor Racing MRT		1:13.427	2.691	0.017	211.262		
+308	20	2016	Brazilian Grand Prix	20	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:13.623	2.887	0.196	210.700		
+308	20	2016	Brazilian Grand Prix	21	12	Felipe Nasr	Brazil	Sauber F1 Team		1:13.681	2.945	0.058	210.534		
+308	20	2016	Brazilian Grand Prix	22	31	Esteban Ocon	France	Manor Racing MRT		1:13.432	2.696		211.248		

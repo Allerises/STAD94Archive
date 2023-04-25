@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+198	6	2011	Monaco Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull Racing	18	1:13.556					
+198	6	2011	Monaco Grand Prix	2	4	Jenson Button	Great Britain	Vodafone McLaren Mercedes	18	1:13.997	0.441	0.441			
+198	6	2011	Monaco Grand Prix	3	2	Mark Webber	Australia	Red Bull Racing	24	1:14.019	0.463	0.022			
+198	6	2011	Monaco Grand Prix	4	5	Fernando Alonso	Spain	Scuderia Ferrari	22	1:14.830	1.274	0.811			
+198	6	2011	Monaco Grand Prix	5	7	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	29	1:14.682	1.126	0.663			
+198	6	2011	Monaco Grand Prix	6	6	Felipe Massa	Brazil	Scuderia Ferrari	25	1:14.877	1.321	0.195			
+198	6	2011	Monaco Grand Prix	7	8	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	26		2.210	0.486			
+198	6	2011	Monaco Grand Prix	8	12	Pastor Maldonado	Venezuela	AT&T Williams	23		2.972	0.228			
+198	6	2011	Monaco Grand Prix	9	3	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	15	1:15.280	1.724	0.403			
+198	6	2011	Monaco Grand Prix	10	17	Sergio Pérez	Mexico	Sauber F1 Team	23						
+198	6	2011	Monaco Grand Prix	11	10	Vitaly Petrov	Russia	Lotus Renault GP	21	1:15.815	2.259	0.049			
+198	6	2011	Monaco Grand Prix	12	11	Rubens Barrichello	Brazil	AT&T Williams	20	1:15.826	2.270	0.011			
+198	6	2011	Monaco Grand Prix	13	16	Kamui Kobayashi	Japan	Sauber F1 Team	20	1:15.973	2.417	0.147			
+198	6	2011	Monaco Grand Prix	14	15	Paul di Resta	Great Britain	Force India F1 Team	22	1:16.118	2.562	0.145			
+198	6	2011	Monaco Grand Prix	15	14	Adrian Sutil	Germany	Force India F1 Team	19	1:16.121	2.565	0.003			
+198	6	2011	Monaco Grand Prix	16	9	Nick Heidfeld	Germany	Lotus Renault GP	22	1:16.214	2.658	0.093			
+198	6	2011	Monaco Grand Prix	17	18	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	17	1:16.300	2.744	0.086			
+198	6	2011	Monaco Grand Prix	18	20	Heikki Kovalainen	Finland	Team Lotus	10	1:17.343	3.787	1.043			
+198	6	2011	Monaco Grand Prix	19	21	Jarno Trulli	Italy	Team Lotus	9	1:17.381	3.825	0.038			
+198	6	2011	Monaco Grand Prix	20	19	Jaime Alguersuari	Spain	Scuderia Toro Rosso	9	1:17.820	4.264	0.439			
+198	6	2011	Monaco Grand Prix	21	24	Timo Glock	Germany	Marussia Virgin Racing	12	1:17.914	4.358	0.094			
+198	6	2011	Monaco Grand Prix	22	25	Jerome d'Ambrosio	Belgium	Marussia Virgin Racing	11	1:18.736	5.180	0.822			
+198	6	2011	Monaco Grand Prix	23	22	Narain Karthikeyan	India	HRT F1 Team							
+198	6	2011	Monaco Grand Prix	24	23	Vitantonio Liuzzi	Italy	HRT F1 Team							

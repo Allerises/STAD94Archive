@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+226	15	2012	Japanese Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	53	1:28:56.242				1:35.774	
+226	15	2012	Japanese Grand Prix	2	6	Felipe Massa	Brazil	Ferrari	53	1:29:16.874	+ 20.632	+ 20.632			
+226	15	2012	Japanese Grand Prix	3	14	Kamui Kobayashi	Japan	Sauber	53	1:29:20.780	+ 24.538	+ 3.906			
+226	15	2012	Japanese Grand Prix	4	3	Jenson Button	Great Britain	McLaren	53	1:29:21.340	+ 25.098	+ 0.560			
+226	15	2012	Japanese Grand Prix	5	4	Lewis Hamilton	Great Britain	McLaren	53	1:29:42.732	+ 46.490	+ 21.392			
+226	15	2012	Japanese Grand Prix	6	9	Kimi Räikkönen	Finland	Lotus	53	1:29:46.666	+ 50.424	+ 3.934			
+226	15	2012	Japanese Grand Prix	7	12	Nico Hülkenberg	Germany	Force India	53	1:29:47.401	+ 51.159	+ 0.735			
+226	15	2012	Japanese Grand Prix	8	18	Pastor Maldonado	Venezuela	Williams	53	1:29:48.606	+ 52.364	+ 1.205			
+226	15	2012	Japanese Grand Prix	9	2	Mark Webber	Australia	Red Bull	53	1:29:50.917	+ 54.675	+ 2.311			
+226	15	2012	Japanese Grand Prix	10	16	Daniel Ricciardo	Australia	Toro Rosso	53	1:30:03.161	+ 1:06.919	+ 12.244			
+226	15	2012	Japanese Grand Prix	11	7	Michael Schumacher	Germany	Mercedes	53	1:30:04.011	+ 1:07.769	+ 0.850			
+226	15	2012	Japanese Grand Prix	12	11	Paul di Resta	Great Britain	Force India	53	1:30:19.702	+ 1:23.460	+ 15.691			
+226	15	2012	Japanese Grand Prix	13	17	Jean-Eric Vergne	France	Toro Rosso	53	1:30:24.887	+ 1:28.645	+ 5.185			
+226	15	2012	Japanese Grand Prix	14	19	Bruno Senna	Brazil	Williams	53	1:30:24.951	+ 1:28.709	+ 0.064			
+226	15	2012	Japanese Grand Prix	15	20	Heikki Kovalainen	Finland	Caterham	52		1 Lap	1 Lap			
+226	15	2012	Japanese Grand Prix	16	24	Timo Glock	Germany	Marussia	52		1 Lap				
+226	15	2012	Japanese Grand Prix	17	21	Vitaly Petrov	Russia	Caterham	52		1 Lap				
+226	15	2012	Japanese Grand Prix	18	22	Pedro de la Rosa	Spain	HRT	52		1 Lap				
+226	15	2012	Japanese Grand Prix	19	10	Romain Grosjean	France	Lotus	51		2 Laps	1 Lap			
+226	15	2012	Japanese Grand Prix	20	25	Charles Pic	France	Marussia	36						
+226	15	2012	Japanese Grand Prix	21	23	Narain Karthikeyan	India	HRT	32						
+226	15	2012	Japanese Grand Prix	22	15	Sergio Pérez	Mexico	Sauber	19						
+226	15	2012	Japanese Grand Prix	23	5	Fernando Alonso	Spain	Ferrari							
+226	15	2012	Japanese Grand Prix	24	8	Nico Rosberg	Germany	Mercedes							

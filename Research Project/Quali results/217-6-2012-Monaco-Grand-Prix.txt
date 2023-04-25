@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+217	6	2012	Monaco Grand Prix	1	7	Michael Schumacher	Germany	Mercedes AMG Petronas F1 Team	22	1:14.301					
+217	6	2012	Monaco Grand Prix	2	2	Mark Webber	Australia	Red Bull Racing	19	1:14.381	0.080	0.080			
+217	6	2012	Monaco Grand Prix	3	8	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	21	1:14.448	0.147	0.067			
+217	6	2012	Monaco Grand Prix	4	4	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	20	1:14.583	0.282	0.135			
+217	6	2012	Monaco Grand Prix	5	10	Romain Grosjean	France	Lotus F1 Team	27	1:14.639	0.338	0.056			
+217	6	2012	Monaco Grand Prix	6	5	Fernando Alonso	Spain	Scuderia Ferrari	22	1:14.948	0.647	0.309			
+217	6	2012	Monaco Grand Prix	7	6	Felipe Massa	Brazil	Scuderia Ferrari	19	1:15.049	0.748	0.101			
+217	6	2012	Monaco Grand Prix	8	9	Kimi Räikkönen	Finland	Lotus F1 Team	28	1:15.199	0.898	0.150			
+217	6	2012	Monaco Grand Prix	9	18	Pastor Maldonado	Venezuela	Williams F1 Team	22	1:15.245	0.944	0.046			
+217	6	2012	Monaco Grand Prix	10	1	Sebastian Vettel	Germany	Red Bull Racing	24						
+217	6	2012	Monaco Grand Prix	11	12	Nico Hülkenberg	Germany	Sahara Force India F1 Team	17	1:15.421	1.120	0.176			
+217	6	2012	Monaco Grand Prix	12	14	Kamui Kobayashi	Japan	Sauber F1 Team	19	1:15.508	1.207	0.087			
+217	6	2012	Monaco Grand Prix	13	3	Jenson Button	Great Britain	Vodafone McLaren Mercedes	18	1:15.536	1.235	0.028			
+217	6	2012	Monaco Grand Prix	14	19	Bruno Senna	Brazil	Williams F1 Team	20	1:15.709	1.408	0.173			
+217	6	2012	Monaco Grand Prix	15	11	Paul di Resta	Great Britain	Sahara Force India F1 Team	14	1:15.718	1.417	0.009			
+217	6	2012	Monaco Grand Prix	16	16	Daniel Ricciardo	Australia	Scuderia Toro Rosso	19	1:15.878	1.577	0.160			
+217	6	2012	Monaco Grand Prix	17	17	Jean-Eric Vergne	France	Scuderia Toro Rosso	14	1:16.885	2.584	1.007			
+217	6	2012	Monaco Grand Prix	18	20	Heikki Kovalainen	Finland	Caterham F1 Team	13	1:16.538	2.237	0.660			
+217	6	2012	Monaco Grand Prix	19	21	Vitaly Petrov	Russia	Caterham F1 Team	13	1:17.404	3.103	0.866			
+217	6	2012	Monaco Grand Prix	20	24	Timo Glock	Germany	Marussia F1 Team	11	1:17.947	3.646	0.543			
+217	6	2012	Monaco Grand Prix	21	22	Pedro de la Rosa	Spain	HRT F1 Team	11	1:18.096	3.795	0.149			
+217	6	2012	Monaco Grand Prix	22	25	Charles Pic	France	Marussia F1 Team	12	1:18.476	4.175	0.380			
+217	6	2012	Monaco Grand Prix	23	23	Narain Karthikeyan	India	HRT F1 Team	8	1:19.310	5.009	0.834			
+217	6	2012	Monaco Grand Prix	24	15	Sergio Pérez	Mexico	Sauber F1 Team	2						

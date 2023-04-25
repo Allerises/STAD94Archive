@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+239	8	2013	British Grand Prix	1	9	Nico Rosberg	Germany	Mercedes	52	1:32:59.456			197.566	1:33.531	50
+239	8	2013	British Grand Prix	2	2	Mark Webber	Australia	Red Bull	52	1:33:00.221	+ 0.765	+ 0.765	197.539	1:33.401	52
+239	8	2013	British Grand Prix	3	3	Fernando Alonso	Spain	Ferrari	52	1:33:06.580	+ 7.124	+ 6.359	197.314	1:34.090	50
+239	8	2013	British Grand Prix	4	10	Lewis Hamilton	Great Britain	Mercedes	52	1:33:07.212	+ 7.756	+ 0.632	197.292	1:34.159	51
+239	8	2013	British Grand Prix	5	7	Kimi Räikkönen	Finland	Lotus	52	1:33:10.713	+ 11.257	+ 3.501	197.168	1:35.384	49
+239	8	2013	British Grand Prix	6	4	Felipe Massa	Brazil	Ferrari	52	1:33:14.029	+ 14.573	+ 3.316	197.051	1:35.273	51
+239	8	2013	British Grand Prix	7	15	Adrian Sutil	Germany	Force India	52	1:33:15.791	+ 16.335	+ 1.762	196.989	1:35.961	35
+239	8	2013	British Grand Prix	8	19	Daniel Ricciardo	Australia	Toro Rosso	52	1:33:15.999	+ 16.543	+ 0.208	196.982	1:35.927	37
+239	8	2013	British Grand Prix	9	14	Paul di Resta	Great Britain	Force India	52	1:33:17.399	+ 17.943	+ 1.400	196.933	1:35.330	52
+239	8	2013	British Grand Prix	10	11	Nico Hülkenberg	Germany	Sauber	52	1:33:19.165	+ 19.709	+ 1.766	196.870	1:36.013	48
+239	8	2013	British Grand Prix	11	16	Pastor Maldonado	Venezuela	Williams	52	1:33:20.591	+ 21.135	+ 1.426	196.820	1:35.907	52
+239	8	2013	British Grand Prix	12	17	Valtteri Bottas	Finland	Williams	52	1:33:24.550	+ 25.094	+ 3.959	196.681	1:36.312	52
+239	8	2013	British Grand Prix	13	5	Jenson Button	Great Britain	McLaren	52	1:33:25.425	+ 25.969	+ 0.875	196.651	1:36.356	39
+239	8	2013	British Grand Prix	14	12	Esteban Gutiérrez	Mexico	Sauber	52	1:33:25.741	+ 26.285	+ 0.316	196.639	1:36.439	32
+239	8	2013	British Grand Prix	15	20	Charles Pic	France	Caterham	52	1:33:31.069	+ 31.613	+ 5.328	196.453	1:37.091	52
+239	8	2013	British Grand Prix	16	22	Jules Bianchi	France	Marussia	52	1:33:35.553	+ 36.097	+ 4.484	196.296	1:37.978	51
+239	8	2013	British Grand Prix	17	23	Max Chilton	Great Britain	Marussia	52	1:34:07.116	+ 1:07.660	+ 31.563	195.199	1:39.156	50
+239	8	2013	British Grand Prix	18	21	Giedo van der Garde	Netherlands	Caterham	52	1:34:07.215	+ 1:07.759	+ 0.099	195.195	1:38.722	50
+239	8	2013	British Grand Prix	19	8	Romain Grosjean	France	Lotus	51	1:31:46.670	1 Lap	1 Lap	196.326	1:35.614	48
+239	8	2013	British Grand Prix	20	6	Sergio Pérez	Mexico	McLaren	46	1:23:51.096	6 Laps	5 Laps	193.808	1:36.131	37
+239	8	2013	British Grand Prix	21	1	Sebastian Vettel	Germany	Red Bull	41	1:12:42.004			199.227	1:35.018	37
+239	8	2013	British Grand Prix	22	18	Jean-Eric Vergne	France	Toro Rosso	35	1:03:33.077			194.536	1:38.370	30

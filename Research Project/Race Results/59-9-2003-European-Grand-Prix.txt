@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+59	9	2003	European Grand Prix	1	4	Ralf Schumacher	Germany	Williams	60	1:34:43.622			195.633	1:32.826	34
+59	9	2003	European Grand Prix	2	3	Juan Pablo Montoya	Colombia	Williams	60	1:35:00.443	+ 16.821	+ 16.821	195.056	1:33.094	59
+59	9	2003	European Grand Prix	3	2	Rubens Barrichello	Brazil	Ferrari	60	1:35:23.295	+ 39.673	+ 22.852	194.277	1:33.200	15
+59	9	2003	European Grand Prix	4	8	Fernando Alonso	Spain	Renault	60	1:35:49.353	+ 1:05.731	+ 26.058	193.396	1:33.307	17
+59	9	2003	European Grand Prix	5	1	Michael Schumacher	Germany	Ferrari	60	1:35:49.784	+ 1:06.162	+ 0.431	193.382	1:32.904	34
+59	9	2003	European Grand Prix	6	14	Mark Webber	Australia	Jaguar	59	1:34:54.232	1 Lap	1 Lap	192.014	1:34.191	37
+59	9	2003	European Grand Prix	7	17	Jenson Button	Great Britain	BAR	59	1:35:09.235	1 Lap	+ 15.003	191.509	1:34.208	14
+59	9	2003	European Grand Prix	8	9	Nick Heidfeld	Germany	Sauber	59	1:35:31.084	1 Lap	+ 21.849	190.779	1:34.541	23
+59	9	2003	European Grand Prix	9	10	Heinz-Harald Frentzen	Germany	Sauber	59	1:35:50.134	1 Lap	+ 19.050	190.147	1:33.994	33
+59	9	2003	European Grand Prix	10	15	Antonio Pizzonia	Brazil	Jaguar	59	1:35:50.844	1 Lap	+ 0.710	190.124	1:34.915	47
+59	9	2003	European Grand Prix	11	12	Ralph Firman	Ireland	Jordan	58	1:35:03.384	2 Laps	1 Lap	188.456	1:35.328	29
+59	9	2003	European Grand Prix	12	11	Giancarlo Fisichella	Italy	Jordan	58	1:35:27.655	2 Laps	+ 24.271	187.658	1:34.656	29
+59	9	2003	European Grand Prix	13	18	Justin Wilson	Great Britain	Minardi	58	1:35:52.926	2 Laps	+ 25.271	186.833	1:36.709	19
+59	9	2003	European Grand Prix	14	19	Jos Verstappen	Netherlands	Minardi	57	1:35:08.512	3 Laps	1 Lap	185.040	1:37.365	3
+59	9	2003	European Grand Prix	15	5	David Coulthard	Great Britain	McLaren	56	1:29:24.488	4 Laps	1 Lap	193.452	1:33.236	12
+59	9	2003	European Grand Prix	16	21	Cristiano da Matta	Brazil	Toyota	53	1:26:09.847			189.981	1:33.398	15
+59	9	2003	European Grand Prix	17	16	Jacques Villeneuve	Canada	BAR	51	1:23:47.858			187.974	1:35.100	45
+59	9	2003	European Grand Prix	18	7	Jarno Trulli	Italy	Renault	37	58:47.403			194.378	1:33.348	13
+59	9	2003	European Grand Prix	19	20	Olivier Panis	France	Toyota	37	59:54.199			190.766	1:33.583	8
+59	9	2003	European Grand Prix	20	6	Kimi Räikkönen	Finland	McLaren	25	39:28.590			195.584	1:32.621	14

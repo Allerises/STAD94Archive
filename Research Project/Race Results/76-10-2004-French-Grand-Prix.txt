@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+76	10	2004	French Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	70	1:30:18.133			205.035	1:15.377	32
+76	10	2004	French Grand Prix	2	8	Fernando Alonso	Spain	Renault	70	1:30:26.462	+ 8.329	+ 8.329	204.720	1:15.551	34
+76	10	2004	French Grand Prix	3	2	Rubens Barrichello	Brazil	Ferrari	70	1:30:49.755	+ 31.622	+ 23.293	203.845	1:16.035	50
+76	10	2004	French Grand Prix	4	7	Jarno Trulli	Italy	Renault	70	1:30:50.215	+ 32.082	+ 0.460	203.828	1:16.248	15
+76	10	2004	French Grand Prix	5	9	Jenson Button	Great Britain	BAR	70	1:30:50.617	+ 32.484	+ 0.402	203.813	1:15.971	50
+76	10	2004	French Grand Prix	6	5	David Coulthard	Great Britain	McLaren	70	1:30:53.653	+ 35.520	+ 3.036	203.700	1:16.303	11
+76	10	2004	French Grand Prix	7	6	Kimi Räikkönen	Finland	McLaren	70	1:30:54.363	+ 36.230	+ 0.710	203.673	1:15.791	30
+76	10	2004	French Grand Prix	8	3	Juan Pablo Montoya	Colombia	Williams	70	1:31:01.552	+ 43.419	+ 7.189	203.405	1:16.140	48
+76	10	2004	French Grand Prix	9	14	Mark Webber	Australia	Jaguar	70	1:31:10.527	+ 52.394	+ 8.975	203.071	1:15.956	53
+76	10	2004	French Grand Prix	10	4	Marc Gene	Spain	Williams	70	1:31:16.299	+ 58.166	+ 5.772	202.857	1:16.070	56
+76	10	2004	French Grand Prix	11	15	Christian Klien	Austria	Jaguar	69	1:30:28.235	1 Lap	1 Lap	201.728	1:16.852	37
+76	10	2004	French Grand Prix	12	11	Giancarlo Fisichella	Italy	Sauber	69	1:30:56.314	1 Lap	+ 28.079	200.690	1:16.699	22
+76	10	2004	French Grand Prix	13	12	Felipe Massa	Brazil	Sauber	69	1:31:10.148	1 Lap	+ 13.834	200.182	1:17.388	23
+76	10	2004	French Grand Prix	14	16	Cristiano da Matta	Brazil	Toyota	69	1:31:19.703	1 Lap	+ 9.555	199.833	1:16.937	49
+76	10	2004	French Grand Prix	15	17	Olivier Panis	France	Toyota	68	1:30:38.616	2 Laps	1 Lap	198.423	1:17.069	53
+76	10	2004	French Grand Prix	16	18	Nick Heidfeld	Germany	Jordan	68	1:31:22.115	2 Laps	+ 43.499	196.849	1:18.627	26
+76	10	2004	French Grand Prix	17	19	Giorgio Pantano	Italy	Jordan	67	1:30:37.898	3 Laps	1 Lap	195.529	1:17.641	15
+76	10	2004	French Grand Prix	18	20	Gianmaria Bruni	Italy	Minardi	65	1:29:16.569	5 Laps	2 Laps	192.569	1:18.932	52
+76	10	2004	French Grand Prix	19	21	Zsolt Baumgartner	Hungary	Minardi	31	42:51.084			191.205	1:19.659	13
+76	10	2004	French Grand Prix	20	10	Takuma Sato	Japan	BAR	15	19:27.033			203.534	1:16.809	14

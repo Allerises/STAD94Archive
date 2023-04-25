@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+129	8	2007	French Grand Prix	1	6	Kimi Räikkönen	Finland	Ferrari	70	1:30:54.200			203.679	1:16.207	20
+129	8	2007	French Grand Prix	2	5	Felipe Massa	Brazil	Ferrari	70	1:30:56.614	+ 2.414	+ 2.414	203.589	1:16.099	42
+129	8	2007	French Grand Prix	3	2	Lewis Hamilton	Great Britain	McLaren	70	1:31:26.353	+ 32.153	+ 29.739	202.485	1:16.587	39
+129	8	2007	French Grand Prix	4	10	Robert Kubica	Poland	Sauber	70	1:31:35.927	+ 41.727	+ 9.574	202.133	1:17.153	44
+129	8	2007	French Grand Prix	5	9	Nick Heidfeld	Germany	Sauber	70	1:31:43.001	+ 48.801	+ 7.074	201.873	1:16.875	70
+129	8	2007	French Grand Prix	6	3	Giancarlo Fisichella	Italy	Renault	70	1:31:46.410	+ 52.210	+ 3.409	201.748	1:16.703	70
+129	8	2007	French Grand Prix	7	1	Fernando Alonso	Spain	McLaren	70	1:31:50.716	+ 56.516	+ 4.306	201.590	1:16.495	36
+129	8	2007	French Grand Prix	8	7	Jenson Button	Great Britain	Honda	70	1:31:53.085	+ 58.885	+ 2.369	201.504	1:16.770	70
+129	8	2007	French Grand Prix	9	16	Nico Rosberg	Germany	Williams	70	1:32:02.705	+ 1:08.505	+ 9.620	201.153	1:17.011	69
+129	8	2007	French Grand Prix	10	11	Ralf Schumacher	Germany	Toyota	69	1:30:59.199	1 Lap	1 Lap	200.584	1:16.966	68
+129	8	2007	French Grand Prix	11	8	Rubens Barrichello	Brazil	Honda	69	1:31:21.223	1 Lap	+ 22.024	199.778	1:17.220	68
+129	8	2007	French Grand Prix	12	15	Mark Webber	Australia	Red Bull	69	1:31:23.346	1 Lap	+ 2.123	199.701	1:17.249	69
+129	8	2007	French Grand Prix	13	14	David Coulthard	Great Britain	Red Bull	69	1:31:27.577	1 Lap	+ 4.231	199.547	1:17.447	68
+129	8	2007	French Grand Prix	14	17	Alexander Wurz	Austria	Williams	69	1:31:32.392	1 Lap	+ 4.815	199.372	1:17.240	69
+129	8	2007	French Grand Prix	15	4	Heikki Kovalainen	Finland	Renault	69	1:31:55.762	1 Lap	+ 23.370	198.527	1:17.206	69
+129	8	2007	French Grand Prix	16	22	Takuma Sato	Japan	Super Aguri	68	1:31:07.775	2 Laps	1 Lap	197.365	1:17.796	39
+129	8	2007	French Grand Prix	17	20	Adrian Sutil	Germany	Spyker	68	1:31:34.551	2 Laps	+ 26.776	196.403	1:18.091	27
+129	8	2007	French Grand Prix	18	19	Scott Speed	USA	Toro Rosso	55	1:13:22.701			198.222	1:17.934	51
+129	8	2007	French Grand Prix	19	21	Christijan Albers	Netherlands	Spyker	28	37:37.327			196.677	1:18.955	27
+129	8	2007	French Grand Prix	20	23	Anthony Davidson	Great Britain	Super Aguri	1	1:44.767			145.248		
+129	8	2007	French Grand Prix	21	12	Jarno Trulli	Italy	Toyota	1	2:19.632			108.980		
+129	8	2007	French Grand Prix	22	18	Vitantonio Liuzzi	Italy	Toro Rosso							

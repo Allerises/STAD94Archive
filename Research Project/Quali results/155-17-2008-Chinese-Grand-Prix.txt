@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+155	17	2008	Chinese Grand Prix	1	22	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	15	1:36.303	0.581	0.093			
+155	17	2008	Chinese Grand Prix	2	1	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	15	1:36.645	0.342	0.342			
+155	17	2008	Chinese Grand Prix	3	2	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	16	1:36.889	0.586	0.244			
+155	17	2008	Chinese Grand Prix	4	5	Fernando Alonso	Spain	ING Renault F1 Team	18	1:36.927	0.624	0.038			
+155	17	2008	Chinese Grand Prix	5	23	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	16	1:36.930	0.627	0.003			
+155	17	2008	Chinese Grand Prix	6	10	Mark Webber	Australia	Red Bull Racing	19	1:37.083	0.780	0.153			
+155	17	2008	Chinese Grand Prix	7	3	Nick Heidfeld	Germany	BMW Sauber F1 Team	17	1:37.201	0.898	0.118			
+155	17	2008	Chinese Grand Prix	8	15	Sebastian Vettel	Germany	Scuderia Toro Rosso	16	1:37.685	1.382	0.484			
+155	17	2008	Chinese Grand Prix	9	11	Jarno Trulli	Italy	Panasonic Toyota Racing	19	1:37.934	1.631	0.249			
+155	17	2008	Chinese Grand Prix	10	14	Sebastien Bourdais	France	Scuderia Toro Rosso	18	1:38.885	2.582	0.951			
+155	17	2008	Chinese Grand Prix	11	6	Nelson Piquet Jr.	Brazil	Renault	12	1:35.722					
+155	17	2008	Chinese Grand Prix	12	4	Robert Kubica	Poland	BMW Sauber F1 Team	14	1:35.814	0.092	0.092			
+155	17	2008	Chinese Grand Prix	13	12	Timo Glock	Germany	Panasonic Toyota Racing	16	1:35.937	0.215	0.123			
+155	17	2008	Chinese Grand Prix	14	17	Rubens Barrichello	Brazil	Honda Racing F1 Team	15	1:36.079	0.357	0.142			
+155	17	2008	Chinese Grand Prix	15	7	Nico Rosberg	Germany	AT&T Williams	15	1:36.210	0.488	0.131			
+155	17	2008	Chinese Grand Prix	16	9	David Coulthard	Great Britain	Red Bull Racing	7	1:36.731	0.428	0.521			
+155	17	2008	Chinese Grand Prix	17	8	Kazuki Nakajima	Japan	AT&T Williams	9	1:36.863	0.560	0.132			
+155	17	2008	Chinese Grand Prix	18	16	Jenson Button	Great Britain	Honda Racing F1 Team	9	1:37.053	0.750	0.190			
+155	17	2008	Chinese Grand Prix	19	20	Adrian Sutil	Germany	Force India F1 Team	9	1:37.730	1.427	0.677			
+155	17	2008	Chinese Grand Prix	20	21	Giancarlo Fisichella	Italy	Force India F1 Team	9	1:37.739	1.436	0.009			

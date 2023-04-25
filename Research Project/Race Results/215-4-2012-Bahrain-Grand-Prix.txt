@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+215	4	2012	Bahrain Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	57	1:35:10.990				1:36.379	
+215	4	2012	Bahrain Grand Prix	2	9	Kimi Räikkönen	Finland	Lotus	57	1:35:14.323	+ 3.333	+ 3.333			
+215	4	2012	Bahrain Grand Prix	3	10	Romain Grosjean	France	Lotus	57	1:35:21.184	+ 10.194	+ 6.861			
+215	4	2012	Bahrain Grand Prix	4	2	Mark Webber	Australia	Red Bull	57	1:35:49.778	+ 38.788	+ 28.594			
+215	4	2012	Bahrain Grand Prix	5	8	Nico Rosberg	Germany	Mercedes	57	1:36:06.450	+ 55.460	+ 16.672			
+215	4	2012	Bahrain Grand Prix	6	11	Paul di Resta	Great Britain	Force India	57	1:36:08.533	+ 57.543	+ 2.083			
+215	4	2012	Bahrain Grand Prix	7	5	Fernando Alonso	Spain	Ferrari	57	1:36:08.793	+ 57.803	+ 0.260			
+215	4	2012	Bahrain Grand Prix	8	4	Lewis Hamilton	Great Britain	McLaren	57	1:36:09.974	+ 58.984	+ 1.181			
+215	4	2012	Bahrain Grand Prix	9	6	Felipe Massa	Brazil	Ferrari	57	1:36:15.989	+ 1:04.999	+ 6.015			
+215	4	2012	Bahrain Grand Prix	10	7	Michael Schumacher	Germany	Mercedes	57	1:36:22.480	+ 1:11.490	+ 6.491			
+215	4	2012	Bahrain Grand Prix	11	15	Sergio Pérez	Mexico	Sauber	57	1:36:23.692	+ 1:12.702	+ 1.212			
+215	4	2012	Bahrain Grand Prix	12	12	Nico Hülkenberg	Germany	Force India	57	1:36:27.529	+ 1:16.539	+ 3.837			
+215	4	2012	Bahrain Grand Prix	13	14	Kamui Kobayashi	Japan	Sauber	57	1:36:41.324	+ 1:30.334	+ 13.795			
+215	4	2012	Bahrain Grand Prix	14	17	Jean-Eric Vergne	France	Toro Rosso	57	1:36:44.713	+ 1:33.723	+ 3.389			
+215	4	2012	Bahrain Grand Prix	15	16	Daniel Ricciardo	Australia	Toro Rosso	56		1 Lap	1 Lap			
+215	4	2012	Bahrain Grand Prix	16	21	Vitaly Petrov	Russia	Caterham	56		1 Lap				
+215	4	2012	Bahrain Grand Prix	17	20	Heikki Kovalainen	Finland	Caterham	56		1 Lap				
+215	4	2012	Bahrain Grand Prix	18	3	Jenson Button	Great Britain	McLaren	55		2 Laps	1 Lap			
+215	4	2012	Bahrain Grand Prix	19	24	Timo Glock	Germany	Marussia	55		2 Laps				
+215	4	2012	Bahrain Grand Prix	20	22	Pedro de la Rosa	Spain	HRT	55		2 Laps				
+215	4	2012	Bahrain Grand Prix	21	23	Narain Karthikeyan	India	HRT	55		2 Laps				
+215	4	2012	Bahrain Grand Prix	22	19	Bruno Senna	Brazil	Williams	54		3 Laps	1 Lap			
+215	4	2012	Bahrain Grand Prix	23	18	Pastor Maldonado	Venezuela	Williams	25						
+215	4	2012	Bahrain Grand Prix	24	25	Charles Pic	France	Marussia	24						

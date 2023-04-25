@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+96	12	2005	German Grand Prix	1	9	Kimi Räikkönen	Finland	Team McLaren Mercedes	3	1:14.320					
+96	12	2005	German Grand Prix	2	3	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:14.759	0.439	0.439			
+96	12	2005	German Grand Prix	3	5	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:14.904	0.584	0.145			
+96	12	2005	German Grand Prix	4	6	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	3	1:14.927	0.607	0.023			
+96	12	2005	German Grand Prix	5	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:15.006	0.686	0.079			
+96	12	2005	German Grand Prix	6	7	Mark Webber	Australia	BMW WilliamsF1 Team	3	1:15.070	0.750	0.064			
+96	12	2005	German Grand Prix	7	8	Nick Heidfeld	Germany	BMW WilliamsF1 Team	3	1:15.403	1.083	0.333			
+96	12	2005	German Grand Prix	8	4	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:15.501	1.181	0.098			
+96	12	2005	German Grand Prix	9	16	Jarno Trulli	Italy	Panasonic Toyota Racing	3	1:15.532	1.212	0.031			
+96	12	2005	German Grand Prix	10	15	Christian Klien	Austria	Red Bull Racing	3	1:15.635	1.315	0.103			
+96	12	2005	German Grand Prix	11	14	David Coulthard	Great Britain	Red Bull Racing	3	1:15.679	1.359	0.044			
+96	12	2005	German Grand Prix	12	17	Ralf Schumacher	Germany	Panasonic Toyota Racing	3	1:15.689	1.369	0.010			
+96	12	2005	German Grand Prix	13	12	Felipe Massa	Brazil	Sauber Petronas	3	1:16.009	1.689	0.320			
+96	12	2005	German Grand Prix	14	11	Jacques Villeneuve	Canada	Sauber Petronas	3	1:16.012	1.692	0.003			
+96	12	2005	German Grand Prix	15	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:16.230	1.910	0.218			
+96	12	2005	German Grand Prix	16	21	Christijan Albers	Netherlands	Minardi Cosworth	3	1:17.519	3.199	1.289			
+96	12	2005	German Grand Prix	17	20	Robert Doornbos	Netherlands	Minardi Cosworth	3	1:18.313	3.993	0.794			
+96	12	2005	German Grand Prix	18	18	Tiago Monteiro	Portugal	Jordan Grand Prix	3	1:18.599	4.279	0.286			
+96	12	2005	German Grand Prix	19	19	Narain Karthikeyan	India	Jordan Grand Prix	2						
+96	12	2005	German Grand Prix	20	10	Juan Pablo Montoya	Colombia	Team McLaren Mercedes	2						

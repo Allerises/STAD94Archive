@@ -1,0 +1,26 @@
+Year	Pos	Driver	Points
+2009	1	Jenson Button	95
+2009	2	Sebastian Vettel	84
+2009	3	Rubens Barrichello	77
+2009	4	Mark Webber	69.5
+2009	5	Lewis Hamilton	49
+2009	6	Kimi Räikkönen	48
+2009	7	Nico Rosberg	34.5
+2009	8	Jarno Trulli	32.5
+2009	9	Fernando Alonso	26
+2009	10	Timo Glock	24
+2009	11	Felipe Massa	22
+2009	12	Heikki Kovalainen	22
+2009	13	Nick Heidfeld	19
+2009	14	Robert Kubica	17
+2009	15	Giancarlo Fisichella	8
+2009	16	Sébastien Buemi	6
+2009	17	Adrian Sutil	5
+2009	18	Kamui Kobayashi	3
+2009	19	Sebastien Bourdais	2
+2009	20	Kazuki Nakajima	
+2009	21	Nelson Piquet Jr.	
+2009	22	Vitantonio Liuzzi	
+2009	23	Romain Grosjean	
+2009	24	Jaime Alguersuari	
+2009	25	Luca Badoer	

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+92	8	2005	Canadian Grand Prix	1	3	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:15.217					
+92	8	2005	Canadian Grand Prix	2	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:15.475	0.258	0.258			
+92	8	2005	Canadian Grand Prix	3	5	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:15.561	0.344	0.086			
+92	8	2005	Canadian Grand Prix	4	6	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	3	1:15.577	0.360	0.016			
+92	8	2005	Canadian Grand Prix	5	10	Juan Pablo Montoya	Colombia	Team McLaren Mercedes	3	1:15.669	0.452	0.092			
+92	8	2005	Canadian Grand Prix	6	4	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:15.729	0.512	0.060			
+92	8	2005	Canadian Grand Prix	7	9	Kimi Räikkönen	Finland	Team McLaren Mercedes	3	1:15.923	0.706	0.194			
+92	8	2005	Canadian Grand Prix	8	11	Jacques Villeneuve	Canada	Sauber Petronas	3	1:16.116	0.899	0.193			
+92	8	2005	Canadian Grand Prix	9	16	Jarno Trulli	Italy	Panasonic Toyota Racing	3	1:16.201	0.984	0.085			
+92	8	2005	Canadian Grand Prix	10	17	Ralf Schumacher	Germany	Panasonic Toyota Racing	3	1:16.362	1.145	0.161			
+92	8	2005	Canadian Grand Prix	11	12	Felipe Massa	Brazil	Sauber Petronas	3	1:16.661	1.444	0.299			
+92	8	2005	Canadian Grand Prix	12	14	David Coulthard	Great Britain	Red Bull Racing	3	1:16.890	1.673	0.229			
+92	8	2005	Canadian Grand Prix	13	8	Nick Heidfeld	Germany	BMW WilliamsF1 Team	3	1:17.081	1.864	0.191			
+92	8	2005	Canadian Grand Prix	14	7	Mark Webber	Australia	BMW WilliamsF1 Team	3	1:17.749	2.532	0.668			
+92	8	2005	Canadian Grand Prix	15	21	Christijan Albers	Netherlands	Minardi Cosworth	3	1:18.214	2.997	0.465			
+92	8	2005	Canadian Grand Prix	16	15	Christian Klien	Austria	Red Bull Racing	3	1:18.249	3.032	0.035			
+92	8	2005	Canadian Grand Prix	17	19	Narain Karthikeyan	India	Jordan Grand Prix	3	1:18.664	3.447	0.415			
+92	8	2005	Canadian Grand Prix	18	18	Tiago Monteiro	Portugal	Jordan Grand Prix	3	1:19.034	3.817	0.370			
+92	8	2005	Canadian Grand Prix	19	20	Patrick Friesacher	Austria	Minardi Cosworth	3	1:19.574	4.357	0.540			
+92	8	2005	Canadian Grand Prix	20	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	1						

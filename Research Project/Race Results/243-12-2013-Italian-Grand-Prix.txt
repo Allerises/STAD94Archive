@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+243	12	2013	Italian Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	53	1:18:33.352			234.268	1:27.190	52
+243	12	2013	Italian Grand Prix	2	3	Fernando Alonso	Spain	Ferrari	53	1:18:38.819	+ 5.467	+ 5.467	233.997	1:26.797	52
+243	12	2013	Italian Grand Prix	3	2	Mark Webber	Australia	Red Bull	53	1:18:39.702	+ 6.350	+ 0.883	233.953	1:26.690	53
+243	12	2013	Italian Grand Prix	4	4	Felipe Massa	Brazil	Ferrari	53	1:18:42.713	+ 9.361	+ 3.011	233.804	1:27.095	48
+243	12	2013	Italian Grand Prix	5	11	Nico Hülkenberg	Germany	Sauber	53	1:18:43.707	+ 10.355	+ 0.994	233.755	1:26.716	48
+243	12	2013	Italian Grand Prix	6	9	Nico Rosberg	Germany	Mercedes	53	1:18:44.351	+ 10.999	+ 0.644	233.723	1:26.500	50
+243	12	2013	Italian Grand Prix	7	19	Daniel Ricciardo	Australia	Toro Rosso	53	1:19:05.681	+ 32.329	+ 21.330	232.673	1:27.294	52
+243	12	2013	Italian Grand Prix	8	8	Romain Grosjean	France	Lotus	53	1:19:06.482	+ 33.130	+ 0.801	232.633	1:27.043	52
+243	12	2013	Italian Grand Prix	9	10	Lewis Hamilton	Great Britain	Mercedes	53	1:19:06.879	+ 33.527	+ 0.397	232.614	1:25.849	51
+243	12	2013	Italian Grand Prix	10	5	Jenson Button	Great Britain	McLaren	53	1:19:11.679	+ 38.327	+ 4.800	232.379	1:27.830	46
+243	12	2013	Italian Grand Prix	11	7	Kimi Räikkönen	Finland	Lotus	53	1:19:12.047	+ 38.695	+ 0.368	232.361	1:26.948	45
+243	12	2013	Italian Grand Prix	12	6	Sergio Pérez	Mexico	McLaren	53	1:19:13.117	+ 39.765	+ 1.070	232.309	1:27.607	44
+243	12	2013	Italian Grand Prix	13	12	Esteban Gutiérrez	Mexico	Sauber	53	1:19:14.232	+ 40.880	+ 1.115	232.254	1:27.092	53
+243	12	2013	Italian Grand Prix	14	16	Pastor Maldonado	Venezuela	Williams	53	1:19:22.437	+ 49.085	+ 8.205	231.854	1:26.981	51
+243	12	2013	Italian Grand Prix	15	17	Valtteri Bottas	Finland	Williams	53	1:19:30.179	+ 56.827	+ 7.742	231.478	1:27.166	53
+243	12	2013	Italian Grand Prix	16	15	Adrian Sutil	Germany	Force India	52	1:17:55.494	1 Lap	1 Lap	231.705	1:27.418	38
+243	12	2013	Italian Grand Prix	17	20	Charles Pic	France	Caterham	52	1:19:17.871	1 Lap	+ 1:22.377	227.693	1:28.620	52
+243	12	2013	Italian Grand Prix	18	21	Giedo van der Garde	Netherlands	Caterham	52	1:19:32.969	1 Lap	+ 15.098	226.973	1:28.663	52
+243	12	2013	Italian Grand Prix	19	22	Jules Bianchi	France	Marussia	52	1:19:40.301	1 Lap	+ 7.332	226.625	1:29.595	47
+243	12	2013	Italian Grand Prix	20	23	Max Chilton	Great Britain	Marussia	52	1:19:52.527	1 Lap	+ 12.226	226.047	1:29.491	48
+243	12	2013	Italian Grand Prix	21	18	Jean-Eric Vergne	France	Toro Rosso	14	21:11.108			228.819	1:29.710	14
+243	12	2013	Italian Grand Prix	22	14	Paul di Resta	Great Britain	Force India							

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+316	7	2017	Canadian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	70	1:33:05.154			196.766	1:14.551	64
+316	7	2017	Canadian Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	70	1:33:24.937	+ 19.783	+ 19.783	196.072	1:15.894	65
+316	7	2017	Canadian Grand Prix	3	3	Daniel Ricciardo	Australia	Red Bull	70	1:33:40.451	+ 35.297	+ 15.514	195.530	1:16.165	67
+316	7	2017	Canadian Grand Prix	4	5	Sebastian Vettel	Germany	Ferrari	70	1:33:41.061	+ 35.907	+ 0.610	195.509	1:14.719	70
+316	7	2017	Canadian Grand Prix	5	11	Sergio Pérez	Mexico	Force India	70	1:33:45.630	+ 40.476	+ 4.569	195.350	1:16.367	62
+316	7	2017	Canadian Grand Prix	6	31	Esteban Ocon	France	Force India	70	1:33:45.870	+ 40.716	+ 0.240	195.342	1:16.247	68
+316	7	2017	Canadian Grand Prix	7	7	Kimi Räikkönen	Finland	Ferrari	70	1:34:03.786	+ 58.632	+ 17.916	194.722	1:15.388	59
+316	7	2017	Canadian Grand Prix	8	27	Nico Hülkenberg	Germany	Renault	70	1:34:05.528	+ 1:00.374	+ 1.742	194.662	1:16.136	64
+316	7	2017	Canadian Grand Prix	9	18	Lance Stroll	Canada	Williams	69	1:33:14.501	+ 9.347	1 Lap	193.631	1:15.979	64
+316	7	2017	Canadian Grand Prix	10	8	Romain Grosjean	France	Haas	69	1:33:32.729	+ 27.575	+ 18.228	193.002	1:16.949	58
+316	7	2017	Canadian Grand Prix	11	30	Jolyon Palmer	Great Britain	Renault	69	1:33:33.803	+ 28.649	+ 1.074	192.965	1:16.704	64
+316	7	2017	Canadian Grand Prix	12	20	Kevin Magnussen	Denmark	Haas	69	1:33:34.219	+ 29.065	+ 0.416	192.951	1:16.341	65
+316	7	2017	Canadian Grand Prix	13	9	Marcus Ericsson	Sweden	Sauber	69	1:33:51.920	+ 46.766	+ 17.701	192.345	1:16.995	50
+316	7	2017	Canadian Grand Prix	14	2	Stoffel Vandoorne	Belgium	McLaren	69	1:33:54.493	+ 49.339	+ 2.573	192.257	1:16.774	69
+316	7	2017	Canadian Grand Prix	15	94	Pascal Wehrlein	Germany	Sauber	68	1:33:18.373	+ 13.219	1 Lap	190.693	1:17.091	66
+316	7	2017	Canadian Grand Prix	16	14	Fernando Alonso	Spain	McLaren	66	1:29:26.150	4 Laps	2 Laps	193.094	1:15.853	63
+316	7	2017	Canadian Grand Prix	17	26	Daniil Kvyat	Russia	Toro Rosso	54	1:15:34.577			186.958	1:16.713	33
+316	7	2017	Canadian Grand Prix	18	33	Max Verstappen	Netherlands	Red Bull	10	15:07.101			173.074	1:17.187	9
+316	7	2017	Canadian Grand Prix	19	55	Carlos Sainz	Spain	Toro Rosso							
+316	7	2017	Canadian Grand Prix	20	19	Felipe Massa	Brazil	Williams							

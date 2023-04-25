@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+254	4	2014	Chinese Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team	6	1:53.860					
+254	4	2014	Chinese Grand Prix	2	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing	7	1:54.455	0.595	0.595			
+254	4	2014	Chinese Grand Prix	3	1	Sebastian Vettel	Germany	Infiniti Red Bull Racing	7	1:54.960	1.100	0.505			
+254	4	2014	Chinese Grand Prix	4	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	7	1:55.143	1.283	0.183			
+254	4	2014	Chinese Grand Prix	5	14	Fernando Alonso	Spain	Scuderia Ferrari	7	1:55.637	1.777	0.494			
+254	4	2014	Chinese Grand Prix	6	19	Felipe Massa	Brazil	Williams Martini Racing	7	1:56.147	2.287	0.510			
+254	4	2014	Chinese Grand Prix	7	77	Valtteri Bottas	Finland	Williams Martini Racing	7	1:56.282	2.422	0.135			
+254	4	2014	Chinese Grand Prix	8	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team	7	1:56.366	2.506	0.084			
+254	4	2014	Chinese Grand Prix	9	25	Jean-Eric Vergne	France	Scuderia Toro Rosso	7	1:56.773	2.913	0.407			
+254	4	2014	Chinese Grand Prix	10	8	Romain Grosjean	France	Lotus F1 Team	6	1:57.079	3.219	0.306			
+254	4	2014	Chinese Grand Prix	11	7	Kimi Räikkönen	Finland	Scuderia Ferrari	8	1:56.860	3.000	0.087			
+254	4	2014	Chinese Grand Prix	12	22	Jenson Button	Great Britain	McLaren Mercedes	8	1:56.963	3.103	0.103			
+254	4	2014	Chinese Grand Prix	13	26	Daniil Kvyat	Russia	Scuderia Toro Rosso	8	1:57.289	3.429	0.326			
+254	4	2014	Chinese Grand Prix	14	99	Adrian Sutil	Germany	Sauber F1 Team	8	1:57.393	3.533	0.104			
+254	4	2014	Chinese Grand Prix	15	20	Kevin Magnussen	Denmark	McLaren Mercedes	8	1:57.675	3.815	0.282			
+254	4	2014	Chinese Grand Prix	16	11	Sergio Pérez	Mexico	Sahara Force India F1 Team	7	1:58.264	4.404	0.589			
+254	4	2014	Chinese Grand Prix	17	21	Esteban Gutiérrez	Mexico	Sauber F1 Team	10	1:58.988	5.128	0.724			
+254	4	2014	Chinese Grand Prix	18	10	Kamui Kobayashi	Japan	Caterham F1 Team	10	1:59.260	5.400	0.272			
+254	4	2014	Chinese Grand Prix	19	17	Jules Bianchi	France	Marussia F1 Team	10	1:59.326	5.466	0.066			
+254	4	2014	Chinese Grand Prix	20	9	Marcus Ericsson	Sweden	Caterham F1 Team	10	2:00.646	6.786	1.320			
+254	4	2014	Chinese Grand Prix	21	4	Max Chilton	Great Britain	Marussia F1 Team	10	2:00.865	7.005	0.219			
+254	4	2014	Chinese Grand Prix	22	13	Pastor Maldonado	Venezuela	Lotus F1 Team	3						

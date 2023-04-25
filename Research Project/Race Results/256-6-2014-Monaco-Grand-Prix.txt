@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+256	6	2014	Monaco Grand Prix	1	6	Nico Rosberg	Germany	Mercedes	78	1:49:27.661			142.801	1:19.425	33
+256	6	2014	Monaco Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes	78	1:49:36.871	+ 9.210	+ 9.210	142.601	1:19.361	34
+256	6	2014	Monaco Grand Prix	3	3	Daniel Ricciardo	Australia	Red Bull	78	1:49:37.275	+ 9.614	+ 0.404	142.592	1:19.252	70
+256	6	2014	Monaco Grand Prix	4	14	Fernando Alonso	Spain	Ferrari	78	1:50:00.113	+ 32.452	+ 22.838	142.099	1:19.727	54
+256	6	2014	Monaco Grand Prix	5	27	Nico Hülkenberg	Germany	Force India	77	1:49:48.580	1 Lap	1 Lap	140.523	1:20.767	38
+256	6	2014	Monaco Grand Prix	6	22	Jenson Button	Great Britain	McLaren	77	1:49:48.772	1 Lap	+ 0.192	140.519	1:21.047	42
+256	6	2014	Monaco Grand Prix	7	19	Felipe Massa	Brazil	Williams	77	1:49:49.482	1 Lap	+ 0.710	140.503	1:20.314	48
+256	6	2014	Monaco Grand Prix	8	8	Romain Grosjean	France	Lotus	77	1:50:06.594	1 Lap	+ 17.112	140.139	1:20.979	53
+256	6	2014	Monaco Grand Prix	9	17	Jules Bianchi	France	Marussia	77	1:50:10.135	1 Lap	+ 3.541	140.064	1:21.254	42
+256	6	2014	Monaco Grand Prix	10	20	Kevin Magnussen	Denmark	McLaren	77	1:50:15.783	1 Lap	+ 5.648	139.945	1:20.657	75
+256	6	2014	Monaco Grand Prix	11	9	Marcus Ericsson	Sweden	Caterham	77	1:50:26.405	1 Lap	+ 10.622	139.721	1:20.911	53
+256	6	2014	Monaco Grand Prix	12	7	Kimi Räikkönen	Finland	Ferrari	77	1:50:27.015	1 Lap	+ 0.610	139.708	1:18.479	75
+256	6	2014	Monaco Grand Prix	13	10	Kamui Kobayashi	Japan	Caterham	75	1:49:46.283	3 Laps	2 Laps	136.920	1:22.425	16
+256	6	2014	Monaco Grand Prix	14	4	Max Chilton	Great Britain	Marussia	75	1:50:35.832	3 Laps	+ 49.549	135.898	1:20.579	69
+256	6	2014	Monaco Grand Prix	15	21	Esteban Gutiérrez	Mexico	Sauber	59	1:25:11.761			138.781	1:21.146	41
+256	6	2014	Monaco Grand Prix	16	77	Valtteri Bottas	Finland	Williams	55	1:19:38.327			138.399	1:21.105	50
+256	6	2014	Monaco Grand Prix	17	25	Jean-Eric Vergne	France	Toro Rosso	50	1:12:57.113			137.350	1:21.083	35
+256	6	2014	Monaco Grand Prix	18	99	Adrian Sutil	Germany	Sauber	23	33:47.324			136.412	1:21.761	23
+256	6	2014	Monaco Grand Prix	19	26	Daniil Kvyat	Russia	Toro Rosso	10	15:41.144			127.759	1:22.011	8
+256	6	2014	Monaco Grand Prix	20	1	Sebastian Vettel	Germany	Red Bull	5	10:02.212			99.831	1:59.505	3
+256	6	2014	Monaco Grand Prix	21	11	Sergio Pérez	Mexico	Force India							
+256	6	2014	Monaco Grand Prix	22	13	Pastor Maldonado	Venezuela	Lotus							

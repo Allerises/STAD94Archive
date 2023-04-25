@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+327	18	2017	Mexican Grand Prix	1	33	Max Verstappen	Netherlands	Red Bull	71	1:36:26.552			189.970	1:18.892	65
+327	18	2017	Mexican Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	71	1:36:46.230	+ 19.678	+ 19.678	189.326	1:19.374	70
+327	18	2017	Mexican Grand Prix	3	7	Kimi Räikkönen	Finland	Ferrari	71	1:37:20.559	+ 54.007	+ 34.329	188.213	1:20.054	59
+327	18	2017	Mexican Grand Prix	4	5	Sebastian Vettel	Germany	Ferrari	71	1:37:36.630	+ 1:10.078	+ 16.071	187.697	1:18.785	68
+327	18	2017	Mexican Grand Prix	5	31	Esteban Ocon	France	Force India	70	1:36:37.375	1 Lap	1 Lap	186.943	1:20.946	67
+327	18	2017	Mexican Grand Prix	6	18	Lance Stroll	Canada	Williams	70	1:36:38.802	1 Lap	+ 1.427	186.897	1:21.062	53
+327	18	2017	Mexican Grand Prix	7	11	Sergio Pérez	Mexico	Force India	70	1:36:41.739	1 Lap	+ 2.937	186.802	1:19.929	54
+327	18	2017	Mexican Grand Prix	8	20	Kevin Magnussen	Denmark	Haas	70	1:37:14.863	1 Lap	+ 33.124	185.742	1:21.214	68
+327	18	2017	Mexican Grand Prix	9	44	Lewis Hamilton	Great Britain	Mercedes	70	1:37:15.476	1 Lap	+ 0.613	185.722	1:19.945	69
+327	18	2017	Mexican Grand Prix	10	14	Fernando Alonso	Spain	McLaren	70	1:37:18.358	1 Lap	+ 2.882	185.630	1:21.014	50
+327	18	2017	Mexican Grand Prix	11	19	Felipe Massa	Brazil	Williams	70	1:37:22.845	1 Lap	+ 4.487	185.488	1:21.136	55
+327	18	2017	Mexican Grand Prix	12	2	Stoffel Vandoorne	Belgium	McLaren	70	1:37:23.430	1 Lap	+ 0.585	185.469	1:20.972	66
+327	18	2017	Mexican Grand Prix	13	10	Pierre Gasly	France	Toro Rosso	70	1:37:41.491	1 Lap	+ 18.061	184.898	1:20.859	70
+327	18	2017	Mexican Grand Prix	14	94	Pascal Wehrlein	Germany	Sauber	69	1:36:40.751	2 Laps	1 Lap	184.163	1:21.638	56
+327	18	2017	Mexican Grand Prix	15	8	Romain Grosjean	France	Haas	69	1:36:54.068	2 Laps	+ 13.317	183.741	1:20.345	64
+327	18	2017	Mexican Grand Prix	16	55	Carlos Sainz	Spain	Renault	59	1:23:11.582			182.976	1:21.360	34
+327	18	2017	Mexican Grand Prix	17	9	Marcus Ericsson	Sweden	Sauber	55	1:17:26.281			183.235	1:21.686	54
+327	18	2017	Mexican Grand Prix	18	28	Brendon Hartley	New Zealand	Toro Rosso	30	41:58.500			184.238	1:22.572	28
+327	18	2017	Mexican Grand Prix	19	27	Nico Hülkenberg	Germany	Renault	24	33:28.737			184.711	1:21.691	18
+327	18	2017	Mexican Grand Prix	20	3	Daniel Ricciardo	Australia	Red Bull	5	7:27.208			171.383	1:22.789	4

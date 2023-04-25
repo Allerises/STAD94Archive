@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+228	17	2012	Indian Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	60	1:31:10.744					
+228	17	2012	Indian Grand Prix	2	5	Fernando Alonso	Spain	Ferrari	60	1:31:20.181	+ 9.437	+ 9.437			
+228	17	2012	Indian Grand Prix	3	2	Mark Webber	Australia	Red Bull	60	1:31:23.961	+ 13.217	+ 3.780			
+228	17	2012	Indian Grand Prix	4	4	Lewis Hamilton	Great Britain	McLaren	60	1:31:24.653	+ 13.909	+ 0.692			
+228	17	2012	Indian Grand Prix	5	3	Jenson Button	Great Britain	McLaren	60	1:31:37.010	+ 26.266	+ 12.357		1:28.203	
+228	17	2012	Indian Grand Prix	6	6	Felipe Massa	Brazil	Ferrari	60	1:31:55.418	+ 44.674	+ 18.408			
+228	17	2012	Indian Grand Prix	7	9	Kimi Räikkönen	Finland	Lotus	60	1:31:55.971	+ 45.227	+ 0.553			
+228	17	2012	Indian Grand Prix	8	12	Nico Hülkenberg	Germany	Force India	60	1:32:05.742	+ 54.998	+ 9.771			
+228	17	2012	Indian Grand Prix	9	10	Romain Grosjean	France	Lotus	60	1:32:06.847	+ 56.103	+ 1.105			
+228	17	2012	Indian Grand Prix	10	19	Bruno Senna	Brazil	Williams	60	1:32:25.719	+ 1:14.975	+ 18.872			
+228	17	2012	Indian Grand Prix	11	8	Nico Rosberg	Germany	Mercedes	60	1:32:32.438	+ 1:21.694	+ 6.719			
+228	17	2012	Indian Grand Prix	12	11	Paul di Resta	Great Britain	Force India	60	1:32:33.559	+ 1:22.815	+ 1.121			
+228	17	2012	Indian Grand Prix	13	16	Daniel Ricciardo	Australia	Toro Rosso	60	1:32:36.808	+ 1:26.064	+ 3.249			
+228	17	2012	Indian Grand Prix	14	14	Kamui Kobayashi	Japan	Sauber	60	1:32:37.239	+ 1:26.495	+ 0.431			
+228	17	2012	Indian Grand Prix	15	17	Jean-Eric Vergne	France	Toro Rosso	59		1 Lap	1 Lap			
+228	17	2012	Indian Grand Prix	16	18	Pastor Maldonado	Venezuela	Williams	59		1 Lap				
+228	17	2012	Indian Grand Prix	17	21	Vitaly Petrov	Russia	Caterham	59		1 Lap				
+228	17	2012	Indian Grand Prix	18	20	Heikki Kovalainen	Finland	Caterham	59		1 Lap				
+228	17	2012	Indian Grand Prix	19	25	Charles Pic	France	Marussia	59		1 Lap				
+228	17	2012	Indian Grand Prix	20	24	Timo Glock	Germany	Marussia	58		2 Laps	1 Lap			
+228	17	2012	Indian Grand Prix	21	23	Narain Karthikeyan	India	HRT	58		2 Laps				
+228	17	2012	Indian Grand Prix	22	7	Michael Schumacher	Germany	Mercedes	55		5 Laps	3 Laps			
+228	17	2012	Indian Grand Prix	23	22	Pedro de la Rosa	Spain	HRT	43						
+228	17	2012	Indian Grand Prix	24	15	Sergio Pérez	Mexico	Sauber	21						

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+16	17	2000	Malaysian Grand Prix	1	3	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:37.397					
+16	17	2000	Malaysian Grand Prix	2	1	Mika Hakkinen	Finland	West McLaren Mercedes		1:37.860	0.463	0.463			
+16	17	2000	Malaysian Grand Prix	3	2	David Coulthard	Great Britain	West McLaren Mercedes		1:37.889	0.492	0.029			
+16	17	2000	Malaysian Grand Prix	4	4	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:37.896	0.499	0.007			
+16	17	2000	Malaysian Grand Prix	5	12	Alexander Wurz	Austria	Mild Seven Benetton Playlife		1:38.644	1.247	0.748			
+16	17	2000	Malaysian Grand Prix	6	22	Jacques Villeneuve	Canada	Lucky Strike Reynard BAR Honda		1:38.653	1.256	0.009			
+16	17	2000	Malaysian Grand Prix	7	7	Eddie Irvine	Great Britain	Jaguar Racing		1:38.696	1.299	0.043			
+16	17	2000	Malaysian Grand Prix	8	9	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:38.739	1.342	0.043			
+16	17	2000	Malaysian Grand Prix	9	6	Jarno Trulli	Italy	Benson and Hedges Jordan		1:38.909	1.512	0.170			
+16	17	2000	Malaysian Grand Prix	10	5	Heinz-Harald Frentzen	Germany	Benson and Hedges Jordan		1:38.988	1.591	0.079			
+16	17	2000	Malaysian Grand Prix	11	23	Ricardo Zonta	Brazil	Lucky Strike Reynard BAR Honda		1:39.158	1.761	0.170			
+16	17	2000	Malaysian Grand Prix	12	8	Johnny Herbert	Great Britain	Jaguar Racing		1:39.331	1.934	0.173			
+16	17	2000	Malaysian Grand Prix	13	11	Giancarlo Fisichella	Italy	Mild Seven Benetton Playlife		1:39.387	1.990	0.056			
+16	17	2000	Malaysian Grand Prix	14	18	Pedro de la Rosa	Spain	Arrows F1 Team		1:39.443	2.046	0.056			
+16	17	2000	Malaysian Grand Prix	15	19	Jos Verstappen	Netherlands	Arrows F1 Team		1:39.489	2.092	0.046			
+16	17	2000	Malaysian Grand Prix	16	10	Jenson Button	Great Britain	BMW WilliamsF1 Team		1:39.563	2.166	0.074			
+16	17	2000	Malaysian Grand Prix	17	17	Mika Salo	Finland	Red Bull Sauber Petronas		1:39.591	2.194	0.028			
+16	17	2000	Malaysian Grand Prix	18	14	Jean Alesi	France	Gauloises Prost Peugeot		1:40.065	2.668	0.474			
+16	17	2000	Malaysian Grand Prix	19	15	Nick Heidfeld	Germany	Gauloises Prost Peugeot		1:40.148	2.751	0.083			
+16	17	2000	Malaysian Grand Prix	20	16	Pedro Diniz	Brazil	Red Bull Sauber Petronas		1:40.521	3.124	0.373			
+16	17	2000	Malaysian Grand Prix	21	20	Marc Gene	Spain	Telefonica Minardi Fondmetal		1:40.662	3.265	0.141			
+16	17	2000	Malaysian Grand Prix	22	21	Gaston Mazzacane	Argentina	Telefonica Minardi Fondmetal		1:42.078	4.681	1.416			

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+12	13	2000	Belgian Grand Prix	1	1	Mika Hakkinen	Finland	West McLaren Mercedes		1:50.646					
+12	13	2000	Belgian Grand Prix	2	6	Jarno Trulli	Italy	Benson and Hedges Jordan		1:51.419	0.773	0.773			
+12	13	2000	Belgian Grand Prix	3	10	Jenson Button	Great Britain	BMW WilliamsF1 Team		1:51.444	0.798	0.025			
+12	13	2000	Belgian Grand Prix	4	3	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:51.552	0.906	0.108			
+12	13	2000	Belgian Grand Prix	5	2	David Coulthard	Great Britain	West McLaren Mercedes		1:51.587	0.941	0.035			
+12	13	2000	Belgian Grand Prix	6	9	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:51.743	1.097	0.156			
+12	13	2000	Belgian Grand Prix	7	22	Jacques Villeneuve	Canada	Lucky Strike Reynard BAR Honda		1:51.799	1.153	0.056			
+12	13	2000	Belgian Grand Prix	8	5	Heinz-Harald Frentzen	Germany	Benson and Hedges Jordan		1:51.926	1.280	0.127			
+12	13	2000	Belgian Grand Prix	9	8	Johnny Herbert	Great Britain	Jaguar Racing		1:52.242	1.596	0.316			
+12	13	2000	Belgian Grand Prix	10	4	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:52.444	1.798	0.202			
+12	13	2000	Belgian Grand Prix	11	11	Giancarlo Fisichella	Italy	Mild Seven Benetton Playlife		1:52.756	2.110	0.312			
+12	13	2000	Belgian Grand Prix	12	7	Eddie Irvine	Great Britain	Jaguar Racing		1:52.885	2.239	0.129			
+12	13	2000	Belgian Grand Prix	13	23	Ricardo Zonta	Brazil	Lucky Strike Reynard BAR Honda		1:53.002	2.356	0.117			
+12	13	2000	Belgian Grand Prix	14	15	Nick Heidfeld	Germany	Gauloises Prost Peugeot		1:53.193	2.547	0.191			
+12	13	2000	Belgian Grand Prix	15	16	Pedro Diniz	Brazil	Red Bull Sauber Petronas		1:53.211	2.565	0.018			
+12	13	2000	Belgian Grand Prix	16	18	Pedro de la Rosa	Spain	Arrows F1 Team		1:53.237	2.591	0.026			
+12	13	2000	Belgian Grand Prix	17	14	Jean Alesi	France	Gauloises Prost Peugeot		1:53.309	2.663	0.072			
+12	13	2000	Belgian Grand Prix	18	17	Mika Salo	Finland	Red Bull Sauber Petronas		1:53.357	2.711	0.048			
+12	13	2000	Belgian Grand Prix	19	12	Alexander Wurz	Austria	Mild Seven Benetton Playlife		1:53.403	2.757	0.046			
+12	13	2000	Belgian Grand Prix	20	19	Jos Verstappen	Netherlands	Arrows F1 Team		1:53.912	3.266	0.509			
+12	13	2000	Belgian Grand Prix	21	20	Marc Gene	Spain	Telefonica Minardi Fondmetal		1:54.680	4.034	0.768			
+12	13	2000	Belgian Grand Prix	22	21	Gaston Mazzacane	Argentina	Telefonica Minardi Fondmetal		1:54.784	4.138	0.104			

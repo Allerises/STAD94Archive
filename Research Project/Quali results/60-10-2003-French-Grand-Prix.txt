@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+60	10	2003	French Grand Prix	1	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:15.019					
+60	10	2003	French Grand Prix	2	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:15.136	0.117	0.117			
+60	10	2003	French Grand Prix	3	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:15.480	0.461	0.344			
+60	10	2003	French Grand Prix	4	6	Kimi Räikkönen	Finland	West McLaren Mercedes		1:15.533	0.514	0.053			
+60	10	2003	French Grand Prix	5	5	David Coulthard	Great Britain	West McLaren Mercedes		1:15.628	0.609	0.095			
+60	10	2003	French Grand Prix	6	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:15.967	0.948	0.339			
+60	10	2003	French Grand Prix	7	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team		1:16.087	1.068	0.120			
+60	10	2003	French Grand Prix	8	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:16.166	1.147	0.079			
+60	10	2003	French Grand Prix	9	14	Mark Webber	Australia	Jaguar Racing		1:16.308	1.289	0.142			
+60	10	2003	French Grand Prix	10	20	Olivier Panis	France	Panasonic Toyota Racing		1:16.345	1.326	0.037			
+60	10	2003	French Grand Prix	11	15	Antonio Pizzonia	Brazil	Jaguar Racing		1:16.965	1.946	0.620			
+60	10	2003	French Grand Prix	12	16	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:16.990	1.971	0.025			
+60	10	2003	French Grand Prix	13	21	Cristiano da Matta	Brazil	Panasonic Toyota Racing		1:17.068	2.049	0.078			
+60	10	2003	French Grand Prix	14	17	Jenson Button	Great Britain	Lucky Strike BAR Honda		1:17.077	2.058	0.009			
+60	10	2003	French Grand Prix	15	9	Nick Heidfeld	Germany	Sauber Petronas		1:17.445	2.426	0.368			
+60	10	2003	French Grand Prix	16	10	Heinz-Harald Frentzen	Germany	Sauber Petronas		1:17.562	2.543	0.117			
+60	10	2003	French Grand Prix	17	11	Giancarlo Fisichella	Italy	Jordan Ford		1:18.431	3.412	0.869			
+60	10	2003	French Grand Prix	18	12	Ralph Firman	Ireland	Jordan Ford		1:18.514	3.495	0.083			
+60	10	2003	French Grand Prix	19	19	Jos Verstappen	Netherlands	European Minardi Cosworth		1:18.709	3.690	0.195			
+60	10	2003	French Grand Prix	20	18	Justin Wilson	Great Britain	European Minardi Cosworth		1:19.619	4.600	0.910			

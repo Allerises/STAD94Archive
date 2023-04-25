@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+373	14	2020	Turkish Grand Prix	1	18	Lance Stroll	Canada	BWT Racing Point F1 Team	22	1:47.765			178.321		
+373	14	2020	Turkish Grand Prix	2	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	26	1:48.055	0.290	0.290	177.842		
+373	14	2020	Turkish Grand Prix	3	11	Sergio Pérez	Mexico	BWT Racing Point F1 Team	21	1:49.321	1.556	1.266	175.783		
+373	14	2020	Turkish Grand Prix	4	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	26	1:50.448	2.683	1.127	173.989		
+373	14	2020	Turkish Grand Prix	5	3	Daniel Ricciardo	Australia	Renault DP World F1 Team	26	1:51.595	3.830	1.147	172.201		
+373	14	2020	Turkish Grand Prix	6	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Formula One Team	23	1:52.560	4.795	0.965	170.724		
+373	14	2020	Turkish Grand Prix	7	31	Esteban Ocon	France	Renault DP World F1 Team	26	1:52.622	4.857	0.062	170.630		
+373	14	2020	Turkish Grand Prix	8	7	Kimi Räikkönen	Finland	Alfa Romeo Racing ORLEN	27	1:52.745	4.980	0.123	170.444		
+373	14	2020	Turkish Grand Prix	9	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Formula One Team	23	1:53.258	5.493	0.513	169.672		
+373	14	2020	Turkish Grand Prix	10	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing ORLEN	26	1:57.226	9.461	3.968	163.929		
+373	14	2020	Turkish Grand Prix	11	4	Lando Norris	Great Britain	McLaren F1 Team	18	1:54.945	7.180		167.182		
+373	14	2020	Turkish Grand Prix	12	5	Sebastian Vettel	Germany	Scuderia Ferrari	18	1:55.169	7.404	0.224	166.857		
+373	14	2020	Turkish Grand Prix	13	55	Carlos Sainz	Spain	McLaren F1 Team	18	1:55.410	7.645	0.241	166.508		
+373	14	2020	Turkish Grand Prix	14	16	Charles Leclerc	Monaco	Scuderia Ferrari	18	1:56.696	8.931	1.286	164.674		
+373	14	2020	Turkish Grand Prix	15	10	Pierre Gasly	France	Scuderia AlphaTauri Honda	17	1:58.556	10.791	1.860	162.090		
+373	14	2020	Turkish Grand Prix	16	20	Kevin Magnussen	Denmark	Haas F1 Team	10	2:08.007	20.242	9.451	150.123		
+373	14	2020	Turkish Grand Prix	17	26	Daniil Kvyat	Russia	Scuderia AlphaTauri Honda	8	2:09.070	21.305	1.063	148.886		
+373	14	2020	Turkish Grand Prix	18	63	George Russell	Great Britain	Williams Racing	9	2:10.017	22.252	0.947	147.802		
+373	14	2020	Turkish Grand Prix	19	8	Romain Grosjean	France	Haas F1 Team	7	2:12.909	25.144	2.892	144.586		
+373	14	2020	Turkish Grand Prix	20	6	Nicholas Latifi	Canada	Williams Racing	9	2:21.611	33.846	8.702	135.701		

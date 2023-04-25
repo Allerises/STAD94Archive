@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+300	12	2016	German Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	67	1:30:44.200			202.646	1:18.746	52
+300	12	2016	German Grand Prix	2	3	Daniel Ricciardo	Australia	Red Bull	67	1:30:51.196	+ 6.996	+ 6.996	202.386	1:18.442	48
+300	12	2016	German Grand Prix	3	33	Max Verstappen	Netherlands	Red Bull	67	1:30:57.613	+ 13.413	+ 6.417	202.148	1:18.910	47
+300	12	2016	German Grand Prix	4	6	Nico Rosberg	Germany	Mercedes	67	1:31:00.045	+ 15.845	+ 2.432	202.058	1:19.122	51
+300	12	2016	German Grand Prix	5	5	Sebastian Vettel	Germany	Ferrari	67	1:31:16.770	+ 32.570	+ 16.725	201.441	1:18.710	48
+300	12	2016	German Grand Prix	6	7	Kimi Räikkönen	Finland	Ferrari	67	1:31:21.223	+ 37.023	+ 4.453	201.277	1:19.572	36
+300	12	2016	German Grand Prix	7	27	Nico Hülkenberg	Germany	Force India	67	1:31:54.249	+ 1:10.049	+ 33.026	200.072	1:20.056	46
+300	12	2016	German Grand Prix	8	22	Jenson Button	Great Britain	McLaren	66	1:30:52.170	1 Lap	1 Lap	199.330	1:19.781	48
+300	12	2016	German Grand Prix	9	77	Valtteri Bottas	Finland	Williams	66	1:30:56.921	1 Lap	+ 4.751	199.156	1:20.442	36
+300	12	2016	German Grand Prix	10	11	Sergio Pérez	Mexico	Force India	66	1:30:58.498	1 Lap	+ 1.577	199.099	1:19.606	46
+300	12	2016	German Grand Prix	11	21	Esteban Gutiérrez	Mexico	Haas	66	1:31:05.195	1 Lap	+ 6.697	198.855	1:19.883	56
+300	12	2016	German Grand Prix	12	14	Fernando Alonso	Spain	McLaren	66	1:31:09.605	1 Lap	+ 4.410	198.694	1:20.132	50
+300	12	2016	German Grand Prix	13	8	Romain Grosjean	France	Haas	66	1:31:13.025	1 Lap	+ 3.420	198.570	1:20.250	58
+300	12	2016	German Grand Prix	14	55	Carlos Sainz	Spain	Toro Rosso	66	1:31:15.868	1 Lap	+ 2.843	198.467	1:19.957	54
+300	12	2016	German Grand Prix	15	26	Daniil Kvyat	Russia	Toro Rosso	66	1:31:18.366	1 Lap	+ 2.498	198.377	1:19.585	51
+300	12	2016	German Grand Prix	16	20	Kevin Magnussen	Denmark	Renault	66	1:31:34.607	1 Lap	+ 16.241	197.790	1:21.649	42
+300	12	2016	German Grand Prix	17	94	Pascal Wehrlein	Germany	Manor	65	1:30:48.953	2 Laps	1 Lap	196.425	1:20.710	49
+300	12	2016	German Grand Prix	18	9	Marcus Ericsson	Sweden	Sauber	65	1:30:57.841	2 Laps	+ 8.888	196.106	1:21.212	35
+300	12	2016	German Grand Prix	19	30	Jolyon Palmer	Great Britain	Renault	65	1:31:10.137	2 Laps	+ 12.296	195.665	1:21.127	55
+300	12	2016	German Grand Prix	20	88	Rio Haryanto	Indonesia	Manor	65	1:31:37.542	2 Laps	+ 27.405	194.689	1:21.845	56
+300	12	2016	German Grand Prix	21	12	Felipe Nasr	Brazil	Sauber	57	1:20:14.877			194.934	1:21.420	45
+300	12	2016	German Grand Prix	22	19	Felipe Massa	Brazil	Williams	36	50:46.693			194.568	1:21.476	31

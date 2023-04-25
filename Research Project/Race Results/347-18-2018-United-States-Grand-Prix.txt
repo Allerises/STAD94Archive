@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+347	18	2018	United States Grand Prix	1	7	Kimi Räikkönen	Finland	Ferrari	56	1:34:18.643			196.205	1:38.482	45
+347	18	2018	United States Grand Prix	2	33	Max Verstappen	Netherlands	Red Bull	56	1:34:19.924	+ 1.281	+ 1.281	196.161	1:38.246	45
+347	18	2018	United States Grand Prix	3	44	Lewis Hamilton	Great Britain	Mercedes	56	1:34:20.985	+ 2.342	+ 1.061	196.124	1:37.392	40
+347	18	2018	United States Grand Prix	4	5	Sebastian Vettel	Germany	Ferrari	56	1:34:36.865	+ 18.222	+ 15.880	195.575	1:38.280	41
+347	18	2018	United States Grand Prix	5	77	Valtteri Bottas	Finland	Mercedes	56	1:34:43.387	+ 24.744	+ 6.522	195.351	1:38.470	46
+347	18	2018	United States Grand Prix	6	27	Nico Hülkenberg	Germany	Renault	56	1:35:45.853	+ 1:27.210	+ 1:02.466	193.227	1:39.548	51
+347	18	2018	United States Grand Prix	7	55	Carlos Sainz	Spain	Renault	56	1:35:53.637	+ 1:34.994	+ 7.784	192.966	1:39.858	45
+347	18	2018	United States Grand Prix	8	11	Sergio Pérez	Mexico	Force India	56	1:35:59.723	+ 1:41.080	+ 6.086	192.762	1:39.569	36
+347	18	2018	United States Grand Prix	9	28	Brendon Hartley	New Zealand	Toro Rosso	55	1:34:49.995	1 Lap	1 Lap	191.636	1:39.915	52
+347	18	2018	United States Grand Prix	10	9	Marcus Ericsson	Sweden	Sauber	55	1:34:51.284	1 Lap	+ 1.289	191.593	1:40.098	33
+347	18	2018	United States Grand Prix	11	2	Stoffel Vandoorne	Belgium	McLaren	55	1:34:52.667	1 Lap	+ 1.383	191.546	1:39.240	42
+347	18	2018	United States Grand Prix	12	10	Pierre Gasly	France	Toro Rosso	55	1:35:15.821	1 Lap	+ 23.154	190.770	1:39.646	38
+347	18	2018	United States Grand Prix	13	35	Sergey Sirotkin	Russia	Williams	55	1:35:28.139	1 Lap	+ 12.318	190.360	1:40.522	12
+347	18	2018	United States Grand Prix	14	18	Lance Stroll	Canada	Williams	54	1:34:40.494	2 Laps	1 Lap	188.463	1:40.433	49
+347	18	2018	United States Grand Prix	15	31	Esteban Ocon	France	Force India	56	1:35:57.931			192.822	1:39.992	45
+347	18	2018	United States Grand Prix	16	20	Kevin Magnussen	Denmark	Haas	56	1:35:59.300			192.776	1:38.963	32
+347	18	2018	United States Grand Prix	17	16	Charles Leclerc	Monaco	Sauber	31	54:52.714			186.499	1:41.982	12
+347	18	2018	United States Grand Prix	18	3	Daniel Ricciardo	Australia	Red Bull	8	13:32.870			193.895	1:40.933	5
+347	18	2018	United States Grand Prix	19	8	Romain Grosjean	France	Haas	2	4:39.025			138.090		
+347	18	2018	United States Grand Prix	20	14	Fernando Alonso	Spain	McLaren	1	2:13.811			139.629		

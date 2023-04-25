@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+115	12	2006	German Grand Prix	1	5	Michael Schumacher	Germany	Ferrari	67	1:27:51.693			209.277	1:16.357	17
+115	12	2006	German Grand Prix	2	6	Felipe Massa	Brazil	Ferrari	67	1:27:52.413	+ 0.720	+ 0.720	209.249	1:16.392	18
+115	12	2006	German Grand Prix	3	3	Kimi Räikkönen	Finland	McLaren	67	1:28:04.899	+ 13.206	+ 12.486	208.754	1:16.475	4
+115	12	2006	German Grand Prix	4	12	Jenson Button	Great Britain	Honda	67	1:28:10.591	+ 18.898	+ 5.692	208.530	1:16.818	14
+115	12	2006	German Grand Prix	5	1	Fernando Alonso	Spain	Renault	67	1:28:15.400	+ 23.707	+ 4.809	208.340	1:17.256	66
+115	12	2006	German Grand Prix	6	2	Giancarlo Fisichella	Italy	Renault	67	1:28:16.507	+ 24.814	+ 1.107	208.297	1:16.981	18
+115	12	2006	German Grand Prix	7	8	Jarno Trulli	Italy	Toyota	67	1:28:18.237	+ 26.544	+ 1.730	208.229	1:16.807	48
+115	12	2006	German Grand Prix	8	15	Christian Klien	Austria	Red Bull	67	1:28:39.824	+ 48.131	+ 21.587	207.384	1:17.719	49
+115	12	2006	German Grand Prix	9	7	Ralf Schumacher	Germany	Toyota	67	1:28:52.044	+ 1:00.351	+ 12.220	206.909	1:16.763	64
+115	12	2006	German Grand Prix	10	20	Vitantonio Liuzzi	Italy	Toro Rosso	66	1:27:54.567	1 Lap	1 Lap	206.042	1:17.407	51
+115	12	2006	German Grand Prix	11	14	David Coulthard	Great Britain	Red Bull	66	1:27:59.119	1 Lap	+ 4.552	205.864	1:17.811	24
+115	12	2006	German Grand Prix	12	21	Scott Speed	USA	Toro Rosso	66	1:28:14.038	1 Lap	+ 14.919	205.284	1:17.450	50
+115	12	2006	German Grand Prix	13	19	Christijan Albers	Netherlands	MF1 Racing	66	1:28:25.609			204.836	1:18.247	35
+115	12	2006	German Grand Prix	14	18	Tiago Monteiro	Portugal	MF1 Racing	65	1:27:58.453			202.770	1:18.718	46
+115	12	2006	German Grand Prix	15	9	Mark Webber	Australia	Williams	59	1:19:07.740			204.627	1:16.812	43
+115	12	2006	German Grand Prix	16	22	Takuma Sato	Japan	Super Aguri	38	51:27.436			202.667	1:19.413	26
+115	12	2006	German Grand Prix	17	17	Jacques Villeneuve	Canada	Sauber	30	40:42.794			202.224	1:18.904	29
+115	12	2006	German Grand Prix	18	11	Rubens Barrichello	Brazil	Honda	18	23:48.922			207.425	1:18.029	16
+115	12	2006	German Grand Prix	19	16	Nick Heidfeld	Germany	Sauber	9	13:24.338			184.247	1:19.264	3
+115	12	2006	German Grand Prix	20	4	Pedro de la Rosa	Spain	McLaren	2	2:48.160			195.842	1:19.649	2
+115	12	2006	German Grand Prix	21	23	Sakon Yamamoto	Japan	Super Aguri	1	4:57.225			55.400		
+115	12	2006	German Grand Prix	22	10	Nico Rosberg	Germany	Williams							

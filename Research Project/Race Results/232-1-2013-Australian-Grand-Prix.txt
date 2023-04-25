@@ -1,0 +1,22 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+232	1	2013	Australian Grand Prix	1	7	Kimi Räikkönen	Finland	Lotus	58	1:30:03.225			204.926	1:29.274	56
+232	1	2013	Australian Grand Prix	2	3	Fernando Alonso	Spain	Ferrari	58	1:30:15.676	+ 12.451	+ 12.451	204.455	1:29.560	53
+232	1	2013	Australian Grand Prix	3	1	Sebastian Vettel	Germany	Red Bull	58	1:30:25.571	+ 22.346	+ 9.895	204.082	1:30.409	42
+232	1	2013	Australian Grand Prix	4	4	Felipe Massa	Brazil	Ferrari	58	1:30:36.802	+ 33.577	+ 11.231	203.661	1:30.239	38
+232	1	2013	Australian Grand Prix	5	10	Lewis Hamilton	Great Britain	Mercedes	58	1:30:48.786	+ 45.561	+ 11.984	203.213	1:29.759	45
+232	1	2013	Australian Grand Prix	6	2	Mark Webber	Australia	Red Bull	58	1:30:50.025	+ 46.800	+ 1.239	203.167	1:29.732	45
+232	1	2013	Australian Grand Prix	7	15	Adrian Sutil	Germany	Force India	58	1:31:08.293	+ 1:05.068	+ 18.268	202.488	1:30.710	49
+232	1	2013	Australian Grand Prix	8	14	Paul di Resta	Great Britain	Force India	58	1:31:11.674	+ 1:08.449	+ 3.381	202.363	1:30.894	56
+232	1	2013	Australian Grand Prix	9	5	Jenson Button	Great Britain	McLaren	58	1:31:24.855	+ 1:21.630	+ 13.181	201.877	1:30.198	41
+232	1	2013	Australian Grand Prix	10	8	Romain Grosjean	France	Lotus	58	1:31:25.984	+ 1:22.759	+ 1.129	201.835	1:30.395	41
+232	1	2013	Australian Grand Prix	11	6	Sergio Pérez	Mexico	McLaren	58	1:31:26.592	+ 1:23.367	+ 0.608	201.813	1:29.926	46
+232	1	2013	Australian Grand Prix	12	18	Jean-Eric Vergne	France	Toro Rosso	58	1:31:27.082	+ 1:23.857	+ 0.490	201.795	1:29.498	50
+232	1	2013	Australian Grand Prix	13	12	Esteban Gutiérrez	Mexico	Sauber	57	1:30:32.317	+ 29.092	1 Lap	200.315	1:31.415	32
+232	1	2013	Australian Grand Prix	14	17	Valtteri Bottas	Finland	Williams	57	1:30:39.768	+ 36.543	+ 7.451	200.040	1:30.652	42
+232	1	2013	Australian Grand Prix	15	22	Jules Bianchi	France	Marussia	57	1:31:41.295	+ 1:38.070	+ 1:01.527	197.803	1:30.454	52
+232	1	2013	Australian Grand Prix	16	20	Charles Pic	France	Caterham	56	1:30:18.894	+ 15.669	1 Lap	197.288	1:32.261	55
+232	1	2013	Australian Grand Prix	17	23	Max Chilton	Great Britain	Marussia	56	1:30:53.253	+ 50.028	+ 34.359	196.045	1:32.210	49
+232	1	2013	Australian Grand Prix	18	21	Giedo van der Garde	Netherlands	Caterham	56	1:31:19.879	+ 1:16.654	+ 26.626	195.092	1:32.636	39
+232	1	2013	Australian Grand Prix	19	19	Daniel Ricciardo	Australia	Toro Rosso	39	1:02:22.411			198.946	1:30.881	33
+232	1	2013	Australian Grand Prix	20	9	Nico Rosberg	Germany	Mercedes	26	41:13.999			200.630	1:32.259	18
+232	1	2013	Australian Grand Prix	21	16	Pastor Maldonado	Venezuela	Williams	24	38:48.024			196.810	1:32.915	12

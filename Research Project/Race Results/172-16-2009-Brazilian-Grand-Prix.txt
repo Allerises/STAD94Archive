@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+172	16	2009	Brazilian Grand Prix	1	14	Mark Webber	Australia	Red Bull	71	1:32:23.081			198.675	1:13.733	25
+172	16	2009	Brazilian Grand Prix	2	5	Robert Kubica	Poland	Sauber	71	1:32:30.707	+ 7.626	+ 7.626	198.402	1:14.155	38
+172	16	2009	Brazilian Grand Prix	3	1	Lewis Hamilton	Great Britain	McLaren	71	1:32:42.025	+ 18.944	+ 11.318	197.998	1:14.345	59
+172	16	2009	Brazilian Grand Prix	4	15	Sebastian Vettel	Germany	Red Bull	71	1:32:42.733	+ 19.652	+ 0.708	197.973	1:13.890	59
+172	16	2009	Brazilian Grand Prix	5	22	Jenson Button	Great Britain	Brawn	71	1:32:52.086	+ 29.005	+ 9.353	197.640	1:14.353	46
+172	16	2009	Brazilian Grand Prix	6	4	Kimi Räikkönen	Finland	Ferrari	71	1:32:56.421	+ 33.340	+ 4.335	197.487	1:14.558	47
+172	16	2009	Brazilian Grand Prix	7	12	Sébastien Buemi	Switzerland	Toro Rosso	71	1:32:59.072	+ 35.991	+ 2.651	197.393	1:14.563	58
+172	16	2009	Brazilian Grand Prix	8	23	Rubens Barrichello	Brazil	Brawn	71	1:33:08.535	+ 45.454	+ 9.463	197.059	1:13.950	20
+172	16	2009	Brazilian Grand Prix	9	10	Kamui Kobayashi	Japan	Toyota	71	1:33:26.405	+ 1:03.324	+ 17.870	196.431	1:14.676	71
+172	16	2009	Brazilian Grand Prix	10	3	Giancarlo Fisichella	Italy	Ferrari	71	1:33:33.746	+ 1:10.665	+ 7.341	196.174	1:14.931	55
+172	16	2009	Brazilian Grand Prix	11	21	Vitantonio Liuzzi	Italy	Force India	71	1:33:34.469	+ 1:11.388	+ 0.723	196.148	1:14.990	43
+172	16	2009	Brazilian Grand Prix	12	2	Heikki Kovalainen	Finland	McLaren	71	1:33:36.580	+ 1:13.499	+ 2.111	196.075	1:14.303	68
+172	16	2009	Brazilian Grand Prix	13	8	Romain Grosjean	France	Renault	70	1:32:24.926	1 Lap	1 Lap	195.811	1:14.789	54
+172	16	2009	Brazilian Grand Prix	14	11	Jaime Alguersuari	Spain	Toro Rosso	70	1:32:31.633	1 Lap	+ 6.707	195.574	1:14.861	59
+172	16	2009	Brazilian Grand Prix	15	17	Kazuki Nakajima	Japan	Williams	30	41:25.793			187.169	1:15.073	21
+172	16	2009	Brazilian Grand Prix	16	16	Nico Rosberg	Germany	Williams	27	37:47.514			184.663	1:14.370	16
+172	16	2009	Brazilian Grand Prix	17	6	Nick Heidfeld	Germany	Sauber	21	30:05.966			180.320	1:14.988	19
+172	16	2009	Brazilian Grand Prix	18	20	Adrian Sutil	Germany	Force India							
+172	16	2009	Brazilian Grand Prix	19	9	Jarno Trulli	Italy	Toyota							
+172	16	2009	Brazilian Grand Prix	20	7	Fernando Alonso	Spain	Renault							

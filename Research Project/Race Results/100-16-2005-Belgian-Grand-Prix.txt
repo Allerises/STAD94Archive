@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+100	16	2005	Belgian Grand Prix	1	9	Kimi Räikkönen	Finland	McLaren	44	1:30:01.295			204.568	1:53.810	34
+100	16	2005	Belgian Grand Prix	2	5	Fernando Alonso	Spain	Renault	44	1:30:29.689	+ 28.394	+ 28.394	203.499	1:56.131	31
+100	16	2005	Belgian Grand Prix	3	3	Jenson Button	Great Britain	BAR	44	1:30:33.372	+ 32.077	+ 3.683	203.361	1:53.323	44
+100	16	2005	Belgian Grand Prix	4	7	Mark Webber	Australia	Williams	44	1:31:10.462	+ 1:09.167	+ 37.090	201.982	1:52.287	44
+100	16	2005	Belgian Grand Prix	5	2	Rubens Barrichello	Brazil	Ferrari	44	1:31:19.431	+ 1:18.136	+ 8.969	201.651	1:52.590	44
+100	16	2005	Belgian Grand Prix	6	11	Jacques Villeneuve	Canada	Sauber	44	1:31:28.730	+ 1:27.435	+ 9.299	201.310	1:54.251	44
+100	16	2005	Belgian Grand Prix	7	17	Ralf Schumacher	Germany	Toyota	44	1:31:28.869	+ 1:27.574	+ 0.139	201.305	1:51.453	43
+100	16	2005	Belgian Grand Prix	8	18	Tiago Monteiro	Portugal	Jordan	43	1:30:02.004	1 Lap	1 Lap	199.893	1:57.886	41
+100	16	2005	Belgian Grand Prix	9	15	Christian Klien	Austria	Red Bull	43	1:30:15.290	1 Lap	+ 13.286	199.402	1:52.582	43
+100	16	2005	Belgian Grand Prix	10	12	Felipe Massa	Brazil	Sauber	43	1:30:52.661	1 Lap	+ 37.371	198.036	1:57.748	28
+100	16	2005	Belgian Grand Prix	11	19	Narain Karthikeyan	India	Jordan	43	1:30:53.970	1 Lap	+ 1.309	197.988	1:55.885	43
+100	16	2005	Belgian Grand Prix	12	21	Christijan Albers	Netherlands	Minardi	42	1:31:36.029	2 Laps	1 Lap	191.904	2:01.627	6
+100	16	2005	Belgian Grand Prix	13	20	Robert Doornbos	Netherlands	Minardi	41	1:30:26.656	3 Laps	1 Lap	189.729	2:01.148	38
+100	16	2005	Belgian Grand Prix	14	10	Juan Pablo Montoya	Colombia	McLaren	40	1:22:21.834	4 Laps	1 Lap	203.261	1:55.988	14
+100	16	2005	Belgian Grand Prix	15	8	Antonio Pizzonia	Brazil	Williams	39	1:22:09.425	5 Laps	1 Lap	198.678	1:57.541	32
+100	16	2005	Belgian Grand Prix	16	16	Jarno Trulli	Italy	Toyota	34	1:11:57.801			197.739	1:56.953	3
+100	16	2005	Belgian Grand Prix	17	14	David Coulthard	Great Britain	Red Bull	18	39:17.601			191.713	1:58.451	8
+100	16	2005	Belgian Grand Prix	18	1	Michael Schumacher	Germany	Ferrari	13	29:10.948			186.422	1:57.444	10
+100	16	2005	Belgian Grand Prix	19	4	Takuma Sato	Japan	BAR	13	29:11.055			186.410	1:57.534	10
+100	16	2005	Belgian Grand Prix	20	6	Giancarlo Fisichella	Italy	Renault	10	20:00.697			209.107	1:57.117	9

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+75	9	2004	United States Grand Prix	1	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:10.223					
+75	9	2004	United States Grand Prix	2	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:10.400	0.177	0.177			
+75	9	2004	United States Grand Prix	3	10	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:10.601	0.378	0.201			
+75	9	2004	United States Grand Prix	4	9	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:10.820	0.597	0.219			
+75	9	2004	United States Grand Prix	5	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team	3	1:11.062	0.839	0.242			
+75	9	2004	United States Grand Prix	6	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team	3	1:11.106	0.883	0.044			
+75	9	2004	United States Grand Prix	7	6	Kimi Räikkönen	Finland	West McLaren Mercedes	3	1:11.137	0.914	0.031			
+75	9	2004	United States Grand Prix	8	17	Olivier Panis	France	Panasonic Toyota Racing	3	1:11.167	0.944	0.030			
+75	9	2004	United States Grand Prix	9	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:11.185	0.962	0.018			
+75	9	2004	United States Grand Prix	10	14	Mark Webber	Australia	Jaguar Racing	3	1:11.286	1.063	0.101			
+75	9	2004	United States Grand Prix	11	16	Cristiano da Matta	Brazil	Panasonic Toyota Racing	3	1:11.691	1.468	0.405			
+75	9	2004	United States Grand Prix	12	5	David Coulthard	Great Britain	West McLaren Mercedes	3	1:12.026	1.803	0.335			
+75	9	2004	United States Grand Prix	13	15	Christian Klien	Austria	Jaguar Racing	3	1:12.170	1.947	0.144			
+75	9	2004	United States Grand Prix	14	11	Giancarlo Fisichella	Italy	Sauber Petronas	3	1:12.470	2.247	0.300			
+75	9	2004	United States Grand Prix	15	12	Felipe Massa	Brazil	Sauber Petronas	3	1:12.721	2.498	0.251			
+75	9	2004	United States Grand Prix	16	18	Nick Heidfeld	Germany	Jordan Ford	3	1:13.147	2.924	0.426			
+75	9	2004	United States Grand Prix	17	19	Giorgio Pantano	Italy	Jordan Ford	3	1:13.375	3.152	0.228			
+75	9	2004	United States Grand Prix	18	20	Gianmaria Bruni	Italy	Minardi Cosworth	3	1:14.010	3.787	0.635			
+75	9	2004	United States Grand Prix	19	21	Zsolt Baumgartner	Hungary	Minardi Cosworth	3	1:14.812	4.589	0.802			
+75	9	2004	United States Grand Prix	20	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team	2						

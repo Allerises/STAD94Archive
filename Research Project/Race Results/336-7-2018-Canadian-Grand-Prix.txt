@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+336	7	2018	Canadian Grand Prix	1	5	Sebastian Vettel	Germany	Ferrari	68	1:28:31.377			200.997	1:13.964	57
+336	7	2018	Canadian Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	68	1:28:38.753	+ 7.376	+ 7.376	200.718	1:13.992	51
+336	7	2018	Canadian Grand Prix	3	33	Max Verstappen	Netherlands	Red Bull	68	1:28:39.737	+ 8.360	+ 0.984	200.681	1:13.864	65
+336	7	2018	Canadian Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull	68	1:28:52.269	+ 20.892	+ 12.532	200.209	1:14.159	59
+336	7	2018	Canadian Grand Prix	5	44	Lewis Hamilton	Great Britain	Mercedes	68	1:28:52.936	+ 21.559	+ 0.667	200.184	1:14.183	66
+336	7	2018	Canadian Grand Prix	6	7	Kimi Räikkönen	Finland	Ferrari	68	1:28:58.561	+ 27.184	+ 5.625	199.973	1:14.075	59
+336	7	2018	Canadian Grand Prix	7	27	Nico Hülkenberg	Germany	Renault	67	1:28:55.353	1 Lap	1 Lap	197.151	1:15.588	64
+336	7	2018	Canadian Grand Prix	8	55	Carlos Sainz	Spain	Renault	67	1:28:57.115	1 Lap	+ 1.762	197.086	1:15.666	61
+336	7	2018	Canadian Grand Prix	9	31	Esteban Ocon	France	Force India	67	1:29:00.910	1 Lap	+ 3.795	196.946	1:15.610	61
+336	7	2018	Canadian Grand Prix	10	16	Charles Leclerc	Monaco	Sauber	67	1:29:10.898	1 Lap	+ 9.988	196.578	1:15.480	65
+336	7	2018	Canadian Grand Prix	11	10	Pierre Gasly	France	Toro Rosso	67	1:29:15.278	1 Lap	+ 4.380	196.418	1:15.699	67
+336	7	2018	Canadian Grand Prix	12	8	Romain Grosjean	France	Haas	67	1:29:15.806	1 Lap	+ 0.528	196.398	1:15.470	56
+336	7	2018	Canadian Grand Prix	13	20	Kevin Magnussen	Denmark	Haas	67	1:29:18.756	1 Lap	+ 2.950	196.290	1:15.401	65
+336	7	2018	Canadian Grand Prix	14	11	Sergio Pérez	Mexico	Force India	67	1:29:18.774	1 Lap	+ 0.018	196.289	1:15.100	64
+336	7	2018	Canadian Grand Prix	15	9	Marcus Ericsson	Sweden	Sauber	66	1:28:41.105	2 Laps	1 Lap	194.729	1:16.403	62
+336	7	2018	Canadian Grand Prix	16	2	Stoffel Vandoorne	Belgium	McLaren	66	1:28:43.242	2 Laps	+ 2.137	194.650	1:15.765	55
+336	7	2018	Canadian Grand Prix	17	35	Sergey Sirotkin	Russia	Williams	66	1:28:58.502	2 Laps	+ 15.260	194.094	1:15.924	53
+336	7	2018	Canadian Grand Prix	18	14	Fernando Alonso	Spain	McLaren	40	54:44.787			191.179	1:16.180	33
+336	7	2018	Canadian Grand Prix	19	28	Brendon Hartley	New Zealand	Toro Rosso							
+336	7	2018	Canadian Grand Prix	20	18	Lance Stroll	Canada	Williams							

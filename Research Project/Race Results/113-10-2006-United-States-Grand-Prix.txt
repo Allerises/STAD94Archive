@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+113	10	2006	United States Grand Prix	1	5	Michael Schumacher	Germany	Ferrari	73	1:34:35.199			194.117	1:12.719	56
+113	10	2006	United States Grand Prix	2	6	Felipe Massa	Brazil	Ferrari	73	1:34:43.183	+ 7.984	+ 7.984	193.845	1:12.954	29
+113	10	2006	United States Grand Prix	3	2	Giancarlo Fisichella	Italy	Renault	73	1:34:51.794	+ 16.595	+ 8.611	193.551	1:13.131	28
+113	10	2006	United States Grand Prix	4	8	Jarno Trulli	Italy	Toyota	73	1:34:58.803	+ 23.604	+ 7.009	193.313	1:13.269	37
+113	10	2006	United States Grand Prix	5	1	Fernando Alonso	Spain	Renault	73	1:35:03.609	+ 28.410	+ 4.806	193.150	1:13.316	72
+113	10	2006	United States Grand Prix	6	11	Rubens Barrichello	Brazil	Honda	73	1:35:11.715	+ 36.516	+ 8.106	192.876	1:13.611	47
+113	10	2006	United States Grand Prix	7	14	David Coulthard	Great Britain	Red Bull	72	1:34:59.009	1 Lap	1 Lap	190.658	1:14.730	33
+113	10	2006	United States Grand Prix	8	20	Vitantonio Liuzzi	Italy	Toro Rosso	72	1:35:05.359	1 Lap	+ 6.350	190.446	1:14.286	41
+113	10	2006	United States Grand Prix	9	10	Nico Rosberg	Germany	Williams	72	1:35:09.147	1 Lap	+ 3.788	190.320	1:14.707	42
+113	10	2006	United States Grand Prix	10	7	Ralf Schumacher	Germany	Toyota	62	1:21:28.119			191.413	1:13.225	29
+113	10	2006	United States Grand Prix	11	19	Christijan Albers	Netherlands	MF1 Racing	37	51:48.864			179.607	1:14.731	34
+113	10	2006	United States Grand Prix	12	17	Jacques Villeneuve	Canada	Sauber	23	32:38.561			177.220	1:13.934	19
+113	10	2006	United States Grand Prix	13	18	Tiago Monteiro	Portugal	MF1 Racing	9	16:12.747			139.626	1:22.036	9
+113	10	2006	United States Grand Prix	14	22	Takuma Sato	Japan	Super Aguri	6	11:33.779			130.513	1:43.802	6
+113	10	2006	United States Grand Prix	15	12	Jenson Button	Great Britain	Honda	3	6:14.872			120.770	2:04.692	2
+113	10	2006	United States Grand Prix	16	3	Kimi Räikkönen	Finland	McLaren							
+113	10	2006	United States Grand Prix	17	16	Nick Heidfeld	Germany	Sauber							
+113	10	2006	United States Grand Prix	18	4	Juan Pablo Montoya	Colombia	McLaren							
+113	10	2006	United States Grand Prix	19	9	Mark Webber	Australia	Williams							
+113	10	2006	United States Grand Prix	20	21	Scott Speed	USA	Toro Rosso							
+113	10	2006	United States Grand Prix	21	15	Christian Klien	Austria	Red Bull							
+113	10	2006	United States Grand Prix	22	23	Franck Montagny	France	Super Aguri							

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+287	18	2015	Brazilian Grand Prix	1	6	Nico Rosberg	Germany	Mercedes	71	1:31:09.090			201.362	1:14.957	57
+287	18	2015	Brazilian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes	71	1:31:16.846	+ 7.756	+ 7.756	201.077	1:14.832	51
+287	18	2015	Brazilian Grand Prix	3	5	Sebastian Vettel	Germany	Ferrari	71	1:31:23.334	+ 14.244	+ 6.488	200.839	1:15.046	57
+287	18	2015	Brazilian Grand Prix	4	7	Kimi Räikkönen	Finland	Ferrari	71	1:31:56.633	+ 47.543	+ 33.299	199.627	1:15.416	48
+287	18	2015	Brazilian Grand Prix	5	77	Valtteri Bottas	Finland	Williams	70	1:31:11.130	1 Lap	1 Lap	198.452	1:16.039	61
+287	18	2015	Brazilian Grand Prix	6	27	Nico Hülkenberg	Germany	Force India	70	1:31:27.419	1 Lap	+ 16.289	197.863	1:16.774	66
+287	18	2015	Brazilian Grand Prix	7	26	Daniil Kvyat	Russia	Red Bull	70	1:31:30.526	1 Lap	+ 3.107	197.751	1:16.500	41
+287	18	2015	Brazilian Grand Prix	8	8	Romain Grosjean	France	Lotus	70	1:31:47.513	1 Lap	+ 16.987	197.141	1:15.739	57
+287	18	2015	Brazilian Grand Prix	9	33	Max Verstappen	Netherlands	Toro Rosso	70	1:31:58.287	1 Lap	+ 10.774	196.756	1:15.972	56
+287	18	2015	Brazilian Grand Prix	10	13	Pastor Maldonado	Venezuela	Lotus	70	1:32:00.039	1 Lap	+ 1.752	196.694	1:16.354	63
+287	18	2015	Brazilian Grand Prix	11	3	Daniel Ricciardo	Australia	Red Bull	70	1:32:01.580	1 Lap	+ 1.541	196.639	1:16.313	56
+287	18	2015	Brazilian Grand Prix	12	11	Sergio Pérez	Mexico	Force India	70	1:32:09.531	1 Lap	+ 7.951	196.356	1:15.970	53
+287	18	2015	Brazilian Grand Prix	13	12	Felipe Nasr	Brazil	Sauber	70	1:32:11.007	1 Lap	+ 1.476	196.304	1:16.794	41
+287	18	2015	Brazilian Grand Prix	14	22	Jenson Button	Great Britain	McLaren	70	1:32:11.570	1 Lap	+ 0.563	196.284	1:16.321	53
+287	18	2015	Brazilian Grand Prix	15	14	Fernando Alonso	Spain	McLaren	70	1:32:20.881	1 Lap	+ 9.311	195.954	1:16.519	54
+287	18	2015	Brazilian Grand Prix	16	9	Marcus Ericsson	Sweden	Sauber	69	1:31:20.380	2 Laps	1 Lap	195.287	1:15.789	57
+287	18	2015	Brazilian Grand Prix	17	28	Will Stevens	Great Britain	Manor	67	1:31:23.184	4 Laps	2 Laps	189.529	1:19.098	42
+287	18	2015	Brazilian Grand Prix	18	53	Alexander Rossi	USA	Manor	67	1:31:33.724	4 Laps	+ 10.540	189.165	1:18.617	43
+287	18	2015	Brazilian Grand Prix	19	19	Felipe Massa	Brazil	Williams	70	1:31:35.634			197.567	1:15.743	57
+287	18	2015	Brazilian Grand Prix	20	55	Carlos Sainz	Spain	Toro Rosso							

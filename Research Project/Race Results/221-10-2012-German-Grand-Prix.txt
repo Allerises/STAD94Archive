@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+221	10	2012	German Grand Prix	1	5	Fernando Alonso	Spain	Ferrari	67	1:31:05.862					
+221	10	2012	German Grand Prix	2	3	Jenson Button	Great Britain	McLaren	67	1:31:12.793	+ 6.931	+ 6.931			
+221	10	2012	German Grand Prix	3	9	Kimi Räikkönen	Finland	Lotus	67	1:31:22.271	+ 16.409	+ 9.478			
+221	10	2012	German Grand Prix	4	14	Kamui Kobayashi	Japan	Sauber	67	1:31:27.787	+ 21.925	+ 5.516			
+221	10	2012	German Grand Prix	5	1	Sebastian Vettel	Germany	Red Bull	67	1:31:29.594	+ 23.732	+ 1.807			
+221	10	2012	German Grand Prix	6	15	Sergio Pérez	Mexico	Sauber	67	1:31:33.758	+ 27.896	+ 4.164			
+221	10	2012	German Grand Prix	7	7	Michael Schumacher	Germany	Mercedes	67	1:31:34.832	+ 28.970	+ 1.074		1:18.725	
+221	10	2012	German Grand Prix	8	2	Mark Webber	Australia	Red Bull	67	1:31:52.803	+ 46.941	+ 17.971			
+221	10	2012	German Grand Prix	9	12	Nico Hülkenberg	Germany	Force India	67	1:31:54.024	+ 48.162	+ 1.221			
+221	10	2012	German Grand Prix	10	8	Nico Rosberg	Germany	Mercedes	67	1:31:54.751	+ 48.889	+ 0.727			
+221	10	2012	German Grand Prix	11	11	Paul di Resta	Great Britain	Force India	67	1:32:05.089	+ 59.227	+ 10.338			
+221	10	2012	German Grand Prix	12	6	Felipe Massa	Brazil	Ferrari	67	1:32:17.290	+ 1:11.428	+ 12.201			
+221	10	2012	German Grand Prix	13	16	Daniel Ricciardo	Australia	Toro Rosso	67	1:32:22.691	+ 1:16.829	+ 5.401			
+221	10	2012	German Grand Prix	14	17	Jean-Eric Vergne	France	Toro Rosso	67	1:32:22.827	+ 1:16.965	+ 0.136			
+221	10	2012	German Grand Prix	15	18	Pastor Maldonado	Venezuela	Williams	66		1 Lap	1 Lap			
+221	10	2012	German Grand Prix	16	21	Vitaly Petrov	Russia	Caterham	66		1 Lap				
+221	10	2012	German Grand Prix	17	19	Bruno Senna	Brazil	Williams	66		1 Lap				
+221	10	2012	German Grand Prix	18	10	Romain Grosjean	France	Lotus	66		1 Lap				
+221	10	2012	German Grand Prix	19	20	Heikki Kovalainen	Finland	Caterham	65		2 Laps	1 Lap			
+221	10	2012	German Grand Prix	20	25	Charles Pic	France	Marussia	65		2 Laps				
+221	10	2012	German Grand Prix	21	22	Pedro de la Rosa	Spain	HRT	64		3 Laps	1 Lap			
+221	10	2012	German Grand Prix	22	24	Timo Glock	Germany	Marussia	64		3 Laps				
+221	10	2012	German Grand Prix	23	23	Narain Karthikeyan	India	HRT	64		3 Laps				
+221	10	2012	German Grand Prix	24	4	Lewis Hamilton	Great Britain	McLaren	56						

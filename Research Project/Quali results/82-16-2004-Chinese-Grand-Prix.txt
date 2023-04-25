@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+82	16	2004	Chinese Grand Prix	1	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:34.012					
+82	16	2004	Chinese Grand Prix	2	6	Kimi Räikkönen	Finland	West McLaren Mercedes	3	1:34.178	0.166	0.166			
+82	16	2004	Chinese Grand Prix	3	9	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:34.295	0.283	0.117			
+82	16	2004	Chinese Grand Prix	4	12	Felipe Massa	Brazil	Sauber Petronas	3	1:34.759	0.747	0.464			
+82	16	2004	Chinese Grand Prix	5	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team	3	1:34.891	0.879	0.132			
+82	16	2004	Chinese Grand Prix	6	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:34.917	0.905	0.026			
+82	16	2004	Chinese Grand Prix	7	11	Giancarlo Fisichella	Italy	Sauber Petronas	3	1:34.951	0.939	0.034			
+82	16	2004	Chinese Grand Prix	8	17	Olivier Panis	France	Panasonic Toyota Racing	3	1:34.975	0.963	0.024			
+82	16	2004	Chinese Grand Prix	9	10	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:34.993	0.981	0.018			
+82	16	2004	Chinese Grand Prix	10	5	David Coulthard	Great Britain	West McLaren Mercedes	3	1:35.021	1.009	0.028			
+82	16	2004	Chinese Grand Prix	11	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team	3	1:35.245	1.233	0.224			
+82	16	2004	Chinese Grand Prix	12	14	Mark Webber	Australia	Jaguar Racing	3	1:35.286	1.274	0.041			
+82	16	2004	Chinese Grand Prix	13	7	Jacques Villeneuve	Canada	Mild Seven Renault F1 Team	3	1:35.384	1.372	0.098			
+82	16	2004	Chinese Grand Prix	14	16	Ricardo Zonta	Brazil	Panasonic Toyota Racing	3	1:35.410	1.398	0.026			
+82	16	2004	Chinese Grand Prix	15	18	Nick Heidfeld	Germany	Jordan Ford	3	1:36.507	2.495	1.097			
+82	16	2004	Chinese Grand Prix	16	15	Christian Klien	Austria	Jaguar Racing	3	1:36.535	2.523	0.028			
+82	16	2004	Chinese Grand Prix	17	19	Timo Glock	Germany	Jordan Ford	3	1:37.140	3.128	0.605			
+82	16	2004	Chinese Grand Prix	18	21	Zsolt Baumgartner	Hungary	Minardi Cosworth	3	1:40.240	6.228	3.100			
+82	16	2004	Chinese Grand Prix	19	20	Gianmaria Bruni	Italy	Minardi Cosworth	2						
+82	16	2004	Chinese Grand Prix	20	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	2						

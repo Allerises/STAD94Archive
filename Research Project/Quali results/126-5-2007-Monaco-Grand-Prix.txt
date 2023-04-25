@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+126	5	2007	Monaco Grand Prix	1	1	Fernando Alonso	Spain	Vodafone McLaren Mercedes	22	1:15.726					
+126	5	2007	Monaco Grand Prix	2	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	22	1:15.905	0.179	0.179			
+126	5	2007	Monaco Grand Prix	3	5	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	27	1:15.967	0.241	0.062			
+126	5	2007	Monaco Grand Prix	4	3	Giancarlo Fisichella	Italy	ING Renault F1 Team	24	1:16.285	0.559	0.318			
+126	5	2007	Monaco Grand Prix	5	16	Nico Rosberg	Germany	AT&T Williams	24	1:16.439	0.713	0.154			
+126	5	2007	Monaco Grand Prix	6	15	Mark Webber	Australia	Red Bull Racing	25	1:16.784	1.058	0.345			
+126	5	2007	Monaco Grand Prix	7	9	Nick Heidfeld	Germany	BMW Sauber F1 Team	24	1:16.832	1.106	0.048			
+126	5	2007	Monaco Grand Prix	8	10	Robert Kubica	Poland	BMW Sauber F1 Team	24	1:16.955	1.229	0.123			
+126	5	2007	Monaco Grand Prix	9	8	Rubens Barrichello	Brazil	Honda Racing F1 Team	27	1:17.498	1.772	0.543			
+126	5	2007	Monaco Grand Prix	10	7	Jenson Button	Great Britain	Honda Racing F1 Team	28	1:17.939	2.213	0.441			
+126	5	2007	Monaco Grand Prix	11	14	David Coulthard	Great Britain	Red Bull Racing	16	1:16.319	0.593	0.034			
+126	5	2007	Monaco Grand Prix	12	17	Alexander Wurz	Austria	AT&T Williams	16	1:16.662	0.936	0.343			
+126	5	2007	Monaco Grand Prix	13	18	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	17	1:16.703	0.977	0.041			
+126	5	2007	Monaco Grand Prix	14	12	Jarno Trulli	Italy	Panasonic Toyota Racing	14	1:16.988	1.262	0.285			
+126	5	2007	Monaco Grand Prix	15	4	Heikki Kovalainen	Finland	ING Renault F1 Team	16	1:17.125	1.399	0.137			
+126	5	2007	Monaco Grand Prix	16	6	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	11						
+126	5	2007	Monaco Grand Prix	17	23	Anthony Davidson	Great Britain	Super Aguri F1 Team	7	1:18.250	2.524	0.311			
+126	5	2007	Monaco Grand Prix	18	19	Scott Speed	USA	Scuderia Toro Rosso	7	1:18.390	2.664	0.140			
+126	5	2007	Monaco Grand Prix	19	20	Adrian Sutil	Germany	Etihad Aldar Spyker F1 Team	8	1:18.418	2.692	0.028			
+126	5	2007	Monaco Grand Prix	20	11	Ralf Schumacher	Germany	Panasonic Toyota Racing	8	1:18.539	2.813	0.121			
+126	5	2007	Monaco Grand Prix	21	22	Takuma Sato	Japan	Super Aguri F1 Team	10	1:18.554	2.828	0.015			
+126	5	2007	Monaco Grand Prix	22	21	Christijan Albers	Netherlands	Etihad Aldar Spyker F1 Team	3						

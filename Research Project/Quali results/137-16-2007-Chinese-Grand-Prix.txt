@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+137	16	2007	Chinese Grand Prix	1	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	16	1:35.908					
+137	16	2007	Chinese Grand Prix	2	6	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	17	1:36.044	0.136	0.136			
+137	16	2007	Chinese Grand Prix	3	5	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	16	1:36.221	0.313	0.177			
+137	16	2007	Chinese Grand Prix	4	1	Fernando Alonso	Spain	Vodafone McLaren Mercedes	16	1:36.576	0.668	0.355			
+137	16	2007	Chinese Grand Prix	5	14	David Coulthard	Great Britain	Red Bull Racing	22	1:37.619	1.711	1.043			
+137	16	2007	Chinese Grand Prix	6	11	Ralf Schumacher	Germany	Panasonic Toyota Racing	23	1:38.013	2.105	0.394			
+137	16	2007	Chinese Grand Prix	7	15	Mark Webber	Australia	Red Bull Racing	22	1:38.153	2.245	0.140			
+137	16	2007	Chinese Grand Prix	8	9	Nick Heidfeld	Germany	BMW Sauber F1 Team	21	1:38.455	2.547	0.302			
+137	16	2007	Chinese Grand Prix	9	10	Robert Kubica	Poland	BMW Sauber F1 Team	20	1:38.472	2.564	0.017			
+137	16	2007	Chinese Grand Prix	10	7	Jenson Button	Great Britain	Honda Racing F1 Team	22	1:39.285	3.377	0.813			
+137	16	2007	Chinese Grand Prix	11	18	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	12	1:36.862	0.954	0.286			
+137	16	2007	Chinese Grand Prix	12	19	Sebastian Vettel	Germany	Scuderia Toro Rosso	12	1:36.891	0.983	0.029			
+137	16	2007	Chinese Grand Prix	13	12	Jarno Trulli	Italy	Panasonic Toyota Racing	13	1:36.959	1.051	0.068			
+137	16	2007	Chinese Grand Prix	14	4	Heikki Kovalainen	Finland	ING Renault F1 Team	12	1:36.991	1.083	0.032			
+137	16	2007	Chinese Grand Prix	15	23	Anthony Davidson	Great Britain	Super Aguri F1 Team	12	1:37.247	1.339	0.256			
+137	16	2007	Chinese Grand Prix	16	16	Nico Rosberg	Germany	AT&T Williams	13	1:37.483	1.575	0.236			
+137	16	2007	Chinese Grand Prix	17	8	Rubens Barrichello	Brazil	Honda Racing F1 Team	6	1:37.251	1.343	0.004			
+137	16	2007	Chinese Grand Prix	18	3	Giancarlo Fisichella	Italy	ING Renault F1 Team	7	1:37.290	1.382	0.039			
+137	16	2007	Chinese Grand Prix	19	17	Alexander Wurz	Austria	AT&T Williams	6	1:37.456	1.548	0.166			
+137	16	2007	Chinese Grand Prix	20	22	Takuma Sato	Japan	Super Aguri F1 Team	6	1:38.218	2.310	0.762			
+137	16	2007	Chinese Grand Prix	21	20	Adrian Sutil	Germany	Etihad Aldar Spyker F1 Team	8	1:38.668	2.760	0.450			
+137	16	2007	Chinese Grand Prix	22	21	Sakon Yamamoto	Japan	Etihad Aldar Spyker F1 Team	7	1:39.336	3.428	0.668			

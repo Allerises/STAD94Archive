@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+356	6	2019	Monaco Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	78	1:43:28.437			150.928	1:16.167	9
+356	6	2019	Monaco Grand Prix	2	5	Sebastian Vettel	Germany	Ferrari	78	1:43:31.039	+ 2.602	+ 2.602	150.865	1:16.277	9
+356	6	2019	Monaco Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes	78	1:43:31.599	+ 3.162	+ 0.560	150.851	1:15.163	65
+356	6	2019	Monaco Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull	78	1:43:33.974	+ 5.537	+ 2.375	150.793	1:16.229	9
+356	6	2019	Monaco Grand Prix	5	10	Pierre Gasly	France	Red Bull	78	1:43:38.383	+ 9.946	+ 4.409	150.687	1:14.279	72
+356	6	2019	Monaco Grand Prix	6	55	Carlos Sainz	Spain	McLaren	78	1:44:21.891	+ 53.454	+ 43.508	149.640	1:15.891	32
+356	6	2019	Monaco Grand Prix	7	26	Daniil Kvyat	Russia	Toro Rosso	78	1:44:23.011	+ 54.574	+ 1.120	149.613	1:16.288	31
+356	6	2019	Monaco Grand Prix	8	23	Alexander Albon	Thailand	Toro Rosso	78	1:44:23.637	+ 55.200	+ 0.626	149.598	1:15.607	43
+356	6	2019	Monaco Grand Prix	9	3	Daniel Ricciardo	Australia	Renault	78	1:44:29.331	+ 1:00.894	+ 5.694	149.462	1:15.697	78
+356	6	2019	Monaco Grand Prix	10	8	Romain Grosjean	France	Haas	78	1:44:29.471	+ 1:01.034	+ 0.140	149.459	1:16.746	41
+356	6	2019	Monaco Grand Prix	11	4	Lando Norris	Great Britain	McLaren	78	1:44:35.238	+ 1:06.801	+ 5.767	149.321	1:16.413	61
+356	6	2019	Monaco Grand Prix	12	11	Sergio Pérez	Mexico	Aston Martin	77	1:43:36.895	1 Lap	1 Lap	148.790	1:16.613	67
+356	6	2019	Monaco Grand Prix	13	27	Nico Hülkenberg	Germany	Renault	77	1:43:39.847	1 Lap	+ 2.952	148.720	1:16.276	65
+356	6	2019	Monaco Grand Prix	14	20	Kevin Magnussen	Denmark	Haas	77	1:43:40.954	1 Lap	+ 1.107	148.693	1:16.992	61
+356	6	2019	Monaco Grand Prix	15	63	George Russell	Great Britain	Williams	77	1:43:54.771	1 Lap	+ 13.817	148.364	1:17.038	76
+356	6	2019	Monaco Grand Prix	16	18	Lance Stroll	Canada	Aston Martin	77	1:44:06.696	1 Lap	+ 11.925	148.080	1:16.379	45
+356	6	2019	Monaco Grand Prix	17	7	Kimi Räikkönen	Finland	Sauber	77	1:44:17.079	1 Lap	+ 10.383	147.835	1:16.436	50
+356	6	2019	Monaco Grand Prix	18	88	Robert Kubica	Poland	Williams	77	1:44:47.505	1 Lap	+ 30.426	147.119	1:17.388	32
+356	6	2019	Monaco Grand Prix	19	99	Antonio Giovinazzi	Italy	Sauber	76	1:43:34.397	2 Laps	1 Lap	146.917	1:16.299	46
+356	6	2019	Monaco Grand Prix	20	16	Charles Leclerc	Monaco	Ferrari	16	24:10.404			132.522	1:19.151	6

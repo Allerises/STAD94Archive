@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+191	18	2010	Brazilian Grand Prix	1	10	Nico Hülkenberg	Germany	AT&T Williams	35	1:14.470					
+191	18	2010	Brazilian Grand Prix	2	5	Sebastian Vettel	Germany	Red Bull Racing	27	1:15.519	1.049	1.049			
+191	18	2010	Brazilian Grand Prix	3	6	Mark Webber	Australia	Red Bull Racing	28	1:15.637	1.167	0.118			
+191	18	2010	Brazilian Grand Prix	4	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	32	1:15.747	1.277	0.110			
+191	18	2010	Brazilian Grand Prix	5	8	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	34	1:15.989	1.519	0.242			
+191	18	2010	Brazilian Grand Prix	6	9	Rubens Barrichello	Brazil	AT&T Williams	32	1:16.203	1.733	0.214			
+191	18	2010	Brazilian Grand Prix	7	11	Robert Kubica	Poland	Renault F1 Team	31	1:16.552	2.082	0.349			
+191	18	2010	Brazilian Grand Prix	8	3	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	30	1:16.925	2.455	0.373			
+191	18	2010	Brazilian Grand Prix	9	7	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	31	1:17.101	2.631	0.176			
+191	18	2010	Brazilian Grand Prix	10	12	Vitaly Petrov	Russia	Renault F1 Team	33	1:17.656	3.186	0.555			
+191	18	2010	Brazilian Grand Prix	11	1	Jenson Button	Great Britain	Vodafone McLaren Mercedes	25	1:19.288	4.818	1.632			
+191	18	2010	Brazilian Grand Prix	12	23	Kamui Kobayashi	Japan	BMW Sauber F1 Team	26	1:19.385	4.915	0.097			
+191	18	2010	Brazilian Grand Prix	13	4	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	23	1:19.486	5.016	0.101			
+191	18	2010	Brazilian Grand Prix	14	17	Jaime Alguersuari	Spain	Scuderia Toro Rosso	24	1:19.581	5.111	0.095			
+191	18	2010	Brazilian Grand Prix	15	16	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	24	1:19.847	5.377	0.266			
+191	18	2010	Brazilian Grand Prix	16	22	Nick Heidfeld	Germany	BMW Sauber F1 Team	26	1:19.899	5.429	0.052			
+191	18	2010	Brazilian Grand Prix	17	15	Vitantonio Liuzzi	Italy	Force India F1 Team	23	1:20.357	5.887	0.458			
+191	18	2010	Brazilian Grand Prix	18	14	Adrian Sutil	Germany	Force India F1 Team	13	1:20.830	6.360	0.473			
+191	18	2010	Brazilian Grand Prix	19	24	Timo Glock	Germany	Virgin Racing	13	1:22.130	7.660	1.300			
+191	18	2010	Brazilian Grand Prix	20	18	Jarno Trulli	Italy	Lotus Racing	14	1:22.250	7.780	0.120			
+191	18	2010	Brazilian Grand Prix	21	19	Heikki Kovalainen	Finland	Lotus Racing	14	1:22.378	7.908	0.128			
+191	18	2010	Brazilian Grand Prix	22	25	Lucas di Grassi	Brazil	Virgin Racing	13	1:22.810	8.340	0.432			
+191	18	2010	Brazilian Grand Prix	23	20	Christian Klien	Austria	HRT F1 Team	15	1:23.083	8.613	0.273			
+191	18	2010	Brazilian Grand Prix	24	21	Bruno Senna	Brazil	HRT F1 Team	15	1:23.796	9.326	0.713			

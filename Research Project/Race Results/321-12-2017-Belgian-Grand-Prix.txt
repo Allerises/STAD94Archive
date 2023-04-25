@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+321	12	2017	Belgian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	44	1:24:42.820			218.183	1:46.603	35
+321	12	2017	Belgian Grand Prix	2	5	Sebastian Vettel	Germany	Ferrari	44	1:24:45.178	+ 2.358	+ 2.358	218.082	1:46.577	41
+321	12	2017	Belgian Grand Prix	3	3	Daniel Ricciardo	Australia	Red Bull	44	1:24:53.611	+ 10.791	+ 8.433	217.721	1:47.549	44
+321	12	2017	Belgian Grand Prix	4	7	Kimi Räikkönen	Finland	Ferrari	44	1:24:57.291	+ 14.471	+ 3.680	217.564	1:47.730	36
+321	12	2017	Belgian Grand Prix	5	77	Valtteri Bottas	Finland	Mercedes	44	1:24:59.276	+ 16.456	+ 1.985	217.479	1:47.721	37
+321	12	2017	Belgian Grand Prix	6	27	Nico Hülkenberg	Germany	Renault	44	1:25:10.907	+ 28.087	+ 11.631	216.984	1:48.922	39
+321	12	2017	Belgian Grand Prix	7	8	Romain Grosjean	France	Haas	44	1:25:14.373	+ 31.553	+ 3.466	216.837	1:49.087	37
+321	12	2017	Belgian Grand Prix	8	19	Felipe Massa	Brazil	Williams	44	1:25:19.469	+ 36.649	+ 5.096	216.621	1:49.637	37
+321	12	2017	Belgian Grand Prix	9	31	Esteban Ocon	France	Force India	44	1:25:20.974	+ 38.154	+ 1.505	216.557	1:49.721	37
+321	12	2017	Belgian Grand Prix	10	55	Carlos Sainz	Spain	Toro Rosso	44	1:25:22.267	+ 39.447	+ 1.293	216.503	1:49.709	39
+321	12	2017	Belgian Grand Prix	11	18	Lance Stroll	Canada	Williams	44	1:25:31.819	+ 48.999	+ 9.552	216.100	1:50.543	41
+321	12	2017	Belgian Grand Prix	12	26	Daniil Kvyat	Russia	Toro Rosso	44	1:25:32.760	+ 49.940	+ 0.941	216.060	1:49.708	39
+321	12	2017	Belgian Grand Prix	13	30	Jolyon Palmer	Great Britain	Renault	44	1:25:36.059	+ 53.239	+ 3.299	215.921	1:49.283	44
+321	12	2017	Belgian Grand Prix	14	2	Stoffel Vandoorne	Belgium	McLaren	44	1:25:39.898	+ 57.078	+ 3.839	215.760	1:49.907	44
+321	12	2017	Belgian Grand Prix	15	20	Kevin Magnussen	Denmark	Haas	44	1:25:50.082	+ 1:07.262	+ 10.184	215.333	1:49.126	36
+321	12	2017	Belgian Grand Prix	16	9	Marcus Ericsson	Sweden	Sauber	44	1:25:52.531	+ 1:09.711	+ 2.449	215.231	1:50.775	25
+321	12	2017	Belgian Grand Prix	17	11	Sergio Pérez	Mexico	Force India	42	1:22:16.804	2 Laps	2 Laps	214.421	1:48.300	27
+321	12	2017	Belgian Grand Prix	18	14	Fernando Alonso	Spain	McLaren	25	47:50.744			219.425	1:51.720	12
+321	12	2017	Belgian Grand Prix	19	33	Max Verstappen	Netherlands	Red Bull	7	13:03.332			224.750	1:51.022	5
+321	12	2017	Belgian Grand Prix	20	94	Pascal Wehrlein	Germany	Sauber	2	4:22.309			190.547		

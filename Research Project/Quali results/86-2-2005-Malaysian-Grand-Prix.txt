@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+86	2	2005	Malaysian Grand Prix	1	5	Fernando Alonso	Spain	Mild Seven Renault F1 Team	6	3:07.672			106.328		
+86	2	2005	Malaysian Grand Prix	2	16	Jarno Trulli	Italy	Panasonic Toyota Racing	6	3:07.925	0.253	0.253	106.184		
+86	2	2005	Malaysian Grand Prix	3	6	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	6	3:08.448	0.776	0.523	105.890		
+86	2	2005	Malaysian Grand Prix	4	7	Mark Webber	Australia	BMW WilliamsF1 Team	6	3:08.904	1.232	0.456	105.634		
+86	2	2005	Malaysian Grand Prix	5	17	Ralf Schumacher	Germany	Panasonic Toyota Racing	6	3:09.007	1.335	0.103	105.577		
+86	2	2005	Malaysian Grand Prix	6	9	Kimi Räikkönen	Finland	West McLaren Mercedes	6	3:09.483	1.811	0.476	105.311		
+86	2	2005	Malaysian Grand Prix	7	15	Christian Klien	Austria	Red Bull Racing	6	3:09.589	1.917	0.106	105.252		
+86	2	2005	Malaysian Grand Prix	8	14	David Coulthard	Great Britain	Red Bull Racing	6	3:09.700	2.028	0.111	105.191		
+86	2	2005	Malaysian Grand Prix	9	3	Jenson Button	Great Britain	Lucky Strike BAR Honda	6	3:09.832	2.160	0.132	105.118		
+86	2	2005	Malaysian Grand Prix	10	8	Nick Heidfeld	Germany	BMW WilliamsF1 Team	6	3:09.917	2.245	0.085	105.071		
+86	2	2005	Malaysian Grand Prix	11	10	Juan Pablo Montoya	Colombia	West McLaren Mercedes	6	3:10.090	2.418	0.173	104.975		
+86	2	2005	Malaysian Grand Prix	12	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	6	3:11.502	3.830	1.412	104.201		
+86	2	2005	Malaysian Grand Prix	13	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	6	3:11.633	3.961	0.131	104.130		
+86	2	2005	Malaysian Grand Prix	14	12	Felipe Massa	Brazil	Sauber Petronas	6	3:11.884	4.212	0.251	103.994		
+86	2	2005	Malaysian Grand Prix	15	4	Anthony Davidson	Great Britain	Lucky Strike BAR Honda	6	3:11.890	4.218	0.006	103.990		
+86	2	2005	Malaysian Grand Prix	16	11	Jacques Villeneuve	Canada	Sauber Petronas	6	3:12.995	5.323	1.105	103.395		
+86	2	2005	Malaysian Grand Prix	17	19	Narain Karthikeyan	India	Jordan Grand Prix	6	3:17.656	9.984	4.661	100.957		
+86	2	2005	Malaysian Grand Prix	18	18	Tiago Monteiro	Portugal	Jordan Grand Prix	6	3:17.962	10.290	0.306	100.801		
+86	2	2005	Malaysian Grand Prix	19	20	Patrick Friesacher	Austria	Minardi Cosworth	6	3:21.186	13.514	3.224	99.185		
+86	2	2005	Malaysian Grand Prix	20	21	Christijan Albers	Netherlands	Minardi Cosworth	6	3:23.001	15.329	1.815	98.299		

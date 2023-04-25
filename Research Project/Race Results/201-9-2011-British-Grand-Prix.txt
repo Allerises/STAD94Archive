@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+201	9	2011	British Grand Prix	1	5	Fernando Alonso	Spain	Ferrari	52	1:28:41.194		2 Laps		1:34.908	41
+201	9	2011	British Grand Prix	2	1	Sebastian Vettel	Germany	Red Bull	52	1:28:57.705	+ 16.511	+ 16.511		1:35.565	38
+201	9	2011	British Grand Prix	3	2	Mark Webber	Australia	Red Bull	52	1:28:58.141	+ 16.947	+ 0.436		1:35.665	49
+201	9	2011	British Grand Prix	4	3	Lewis Hamilton	Great Britain	McLaren	52	1:29:10.180	+ 28.986	+ 12.039		1:36.180	39
+201	9	2011	British Grand Prix	5	6	Felipe Massa	Brazil	Ferrari	52	1:29:10.204	+ 29.010	+ 0.024		1:35.474	49
+201	9	2011	British Grand Prix	6	8	Nico Rosberg	Germany	Mercedes	52	1:29:41.849	+ 1:00.655	+ 31.645		1:37.073	32
+201	9	2011	British Grand Prix	7	17	Sergio Pérez	Mexico	Sauber	52	1:29:46.784	+ 1:05.590	+ 4.935		1:36.656	35
+201	9	2011	British Grand Prix	8	9	Nick Heidfeld	Germany	Renault	52	1:29:56.736	+ 1:15.542	+ 9.952		1:37.117	37
+201	9	2011	British Grand Prix	9	7	Michael Schumacher	Germany	Mercedes	52	1:29:59.106	+ 1:17.912	+ 2.370		1:37.034	34
+201	9	2011	British Grand Prix	10	19	Jaime Alguersuari	Spain	Toro Rosso	52	1:30:00.302	+ 1:19.108	+ 1.196		1:37.160	38
+201	9	2011	British Grand Prix	11	14	Adrian Sutil	Germany	Force India	52	1:30:00.906	+ 1:19.712	+ 0.604		1:36.744	42
+201	9	2011	British Grand Prix	12	10	Vitaly Petrov	Russia	Renault	52	1:30:01.875	+ 1:20.681	+ 0.969		1:36.308	40
+201	9	2011	British Grand Prix	13	11	Rubens Barrichello	Brazil	Williams	51		1 Lap	1 Lap		1:36.733	38
+201	9	2011	British Grand Prix	14	12	Pastor Maldonado	Venezuela	Williams	51		1 Lap			1:37.036	41
+201	9	2011	British Grand Prix	15	15	Paul di Resta	Great Britain	Force India	51		1 Lap			1:37.936	48
+201	9	2011	British Grand Prix	16	24	Timo Glock	Germany	Virgin	50		2 Laps	1 Lap		1:39.811	49
+201	9	2011	British Grand Prix	17	25	Jerome d'Ambrosio	Belgium	Virgin	50		2 Laps			1:40.560	30
+201	9	2011	British Grand Prix	18	23	Vitantonio Liuzzi	Italy	HRT	50		2 Laps			1:40.524	40
+201	9	2011	British Grand Prix	19	22	Daniel Ricciardo	Australia	HRT	49		3 Laps	1 Lap		1:40.910	30
+201	9	2011	British Grand Prix	20	4	Jenson Button	Great Britain	McLaren	39					1:36.982	31
+201	9	2011	British Grand Prix	21	18	Sébastien Buemi	Switzerland	Toro Rosso	25					1:40.224	24
+201	9	2011	British Grand Prix	22	16	Kamui Kobayashi	Japan	Sauber	23					1:40.703	23
+201	9	2011	British Grand Prix	23	21	Jarno Trulli	Italy	Lotus	10					1:55.491	9
+201	9	2011	British Grand Prix	24	20	Heikki Kovalainen	Finland	Lotus	2					2:10.404	2

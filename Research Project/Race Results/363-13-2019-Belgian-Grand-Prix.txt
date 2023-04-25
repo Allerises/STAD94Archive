@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+363	13	2019	Belgian Grand Prix	1	16	Charles Leclerc	Monaco	Ferrari	44	1:23:45.710			220.662	1:46.664	23
+363	13	2019	Belgian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes	44	1:23:46.691	+ 0.981	+ 0.981	220.619	1:46.580	24
+363	13	2019	Belgian Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes	44	1:23:58.295	+ 12.585	+ 11.604	220.111	1:46.465	27
+363	13	2019	Belgian Grand Prix	4	5	Sebastian Vettel	Germany	Ferrari	44	1:24:12.132	+ 26.422	+ 13.837	219.508	1:46.409	36
+363	13	2019	Belgian Grand Prix	5	23	Alexander Albon	Thailand	Red Bull	44	1:25:07.035	+ 1:21.325	+ 54.903	217.148	1:47.507	41
+363	13	2019	Belgian Grand Prix	6	11	Sergio Pérez	Mexico	Aston Martin	44	1:25:10.158	+ 1:24.448	+ 3.123	217.016	1:48.781	29
+363	13	2019	Belgian Grand Prix	7	26	Daniil Kvyat	Russia	Toro Rosso	44	1:25:15.367	+ 1:29.657	+ 5.209	216.795	1:48.143	26
+363	13	2019	Belgian Grand Prix	8	27	Nico Hülkenberg	Germany	Renault	44	1:25:32.349	+ 1:46.639	+ 16.982	216.077	1:48.349	34
+363	13	2019	Belgian Grand Prix	9	10	Pierre Gasly	France	Toro Rosso	44	1:25:34.878	+ 1:49.168	+ 2.529	215.971	1:49.700	21
+363	13	2019	Belgian Grand Prix	10	18	Lance Stroll	Canada	Aston Martin	44	1:25:35.548	+ 1:49.838	+ 0.670	215.943	1:48.357	34
+363	13	2019	Belgian Grand Prix	11	4	Lando Norris	Great Britain	McLaren	43	1:23:00.748	1 Lap	1 Lap	217.592	1:48.321	21
+363	13	2019	Belgian Grand Prix	12	20	Kevin Magnussen	Denmark	Haas	43	1:23:52.410	1 Lap	+ 51.662	215.358	1:48.677	33
+363	13	2019	Belgian Grand Prix	13	8	Romain Grosjean	France	Haas	43	1:23:59.388	1 Lap	+ 6.978	215.060	1:49.274	18
+363	13	2019	Belgian Grand Prix	14	3	Daniel Ricciardo	Australia	Renault	43	1:24:08.466	1 Lap	+ 9.078	214.673	1:50.451	21
+363	13	2019	Belgian Grand Prix	15	63	George Russell	Great Britain	Williams	43	1:24:17.253	1 Lap	+ 8.787	214.300	1:48.860	34
+363	13	2019	Belgian Grand Prix	16	7	Kimi Räikkönen	Finland	Sauber	43	1:24:29.427	1 Lap	+ 12.174	213.786	1:48.753	37
+363	13	2019	Belgian Grand Prix	17	88	Robert Kubica	Poland	Williams	43	1:24:33.961	1 Lap	+ 4.534	213.595	1:49.220	33
+363	13	2019	Belgian Grand Prix	18	99	Antonio Giovinazzi	Italy	Sauber	42	1:21:42.797	2 Laps	1 Lap	215.909	1:47.560	31
+363	13	2019	Belgian Grand Prix	19	55	Carlos Sainz	Spain	McLaren	1	3:14.682			127.222		
+363	13	2019	Belgian Grand Prix	20	33	Max Verstappen	Netherlands	Red Bull							

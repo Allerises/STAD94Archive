@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+324	15	2017	Malaysian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:30.076			221.532		
+324	15	2017	Malaysian Grand Prix	2	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:30.121	0.045	0.045	221.422		
+324	15	2017	Malaysian Grand Prix	3	33	Max Verstappen	Netherlands	Red Bull Racing		1:30.541	0.465	0.420	220.395		
+324	15	2017	Malaysian Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull Racing		1:30.595	0.519	0.054	220.263		
+324	15	2017	Malaysian Grand Prix	5	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:30.758	0.682	0.163	219.868		
+324	15	2017	Malaysian Grand Prix	6	31	Esteban Ocon	France	Sahara Force India F1 Team		1:31.478	1.402	0.720	218.137		
+324	15	2017	Malaysian Grand Prix	7	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team		1:31.582	1.506	0.104	217.889		
+324	15	2017	Malaysian Grand Prix	8	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:31.607	1.531	0.025	217.830		
+324	15	2017	Malaysian Grand Prix	9	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:31.658	1.582	0.051	217.709		
+324	15	2017	Malaysian Grand Prix	10	14	Fernando Alonso	Spain	McLaren Honda Formula 1 Team		1:31.704	1.628	0.046	217.600		
+324	15	2017	Malaysian Grand Prix	11	19	Felipe Massa	Brazil	Williams Martini Racing		1:32.034	1.958	0.330	216.819		
+324	15	2017	Malaysian Grand Prix	12	30	Jolyon Palmer	Great Britain	Renault Sport Formula One Team		1:32.100	2.024	0.066	216.664		
+324	15	2017	Malaysian Grand Prix	13	18	Lance Stroll	Canada	Williams Martini Racing		1:32.307	2.231	0.207	216.178		
+324	15	2017	Malaysian Grand Prix	14	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:32.402	2.326	0.095	215.956		
+324	15	2017	Malaysian Grand Prix	15	10	Pierre Gasly	France	Scuderia Toro Rosso		1:32.558	2.482	0.156	215.592		
+324	15	2017	Malaysian Grand Prix	16	8	Romain Grosjean	France	Haas F1 Team		1:33.308	3.232	0.750	213.859		
+324	15	2017	Malaysian Grand Prix	17	20	Kevin Magnussen	Denmark	Haas F1 Team		1:33.434	3.358	0.126	213.571		
+324	15	2017	Malaysian Grand Prix	18	94	Pascal Wehrlein	Germany	Sauber F1 Team		1:33.483	3.407	0.049	213.459		
+324	15	2017	Malaysian Grand Prix	19	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:33.970	3.894	0.487	212.352		
+324	15	2017	Malaysian Grand Prix	20	5	Sebastian Vettel	Germany	Scuderia Ferrari							

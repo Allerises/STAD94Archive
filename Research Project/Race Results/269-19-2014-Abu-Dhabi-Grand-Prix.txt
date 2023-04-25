@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+269	19	2014	Abu Dhabi Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	55	1:39:02.619			184.982	1:45.599	49
+269	19	2014	Abu Dhabi Grand Prix	2	19	Felipe Massa	Brazil	Williams	55	1:39:05.195	+ 2.576	+ 2.576	184.901	1:44.826	47
+269	19	2014	Abu Dhabi Grand Prix	3	77	Valtteri Bottas	Finland	Williams	55	1:39:31.499	+ 28.880	+ 26.304	184.087	1:45.727	54
+269	19	2014	Abu Dhabi Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull	55	1:39:39.856	+ 37.237	+ 8.357	183.830	1:44.496	50
+269	19	2014	Abu Dhabi Grand Prix	5	22	Jenson Button	Great Britain	McLaren	55	1:40:02.953	+ 1:00.334	+ 23.097	183.122	1:46.739	47
+269	19	2014	Abu Dhabi Grand Prix	6	27	Nico Hülkenberg	Germany	Force India	55	1:40:04.767	+ 1:02.148	+ 1.814	183.067	1:45.777	47
+269	19	2014	Abu Dhabi Grand Prix	7	11	Sergio Pérez	Mexico	Force India	55	1:40:13.679	+ 1:11.060	+ 8.912	182.796	1:45.808	49
+269	19	2014	Abu Dhabi Grand Prix	8	1	Sebastian Vettel	Germany	Red Bull	55	1:40:14.664	+ 1:12.045	+ 0.985	182.766	1:45.552	51
+269	19	2014	Abu Dhabi Grand Prix	9	14	Fernando Alonso	Spain	Ferrari	55	1:40:28.432	+ 1:25.813	+ 13.768	182.348	1:47.424	45
+269	19	2014	Abu Dhabi Grand Prix	10	7	Kimi Räikkönen	Finland	Ferrari	55	1:40:30.439	+ 1:27.820	+ 2.007	182.288	1:47.736	46
+269	19	2014	Abu Dhabi Grand Prix	11	20	Kevin Magnussen	Denmark	McLaren	55	1:40:32.995	+ 1:30.376	+ 2.556	182.210	1:46.824	37
+269	19	2014	Abu Dhabi Grand Prix	12	25	Jean-Eric Vergne	France	Toro Rosso	55	1:40:34.566	+ 1:31.947	+ 1.571	182.163	1:45.686	50
+269	19	2014	Abu Dhabi Grand Prix	13	8	Romain Grosjean	France	Lotus	54	1:39:12.427	1 Lap	1 Lap	181.318	1:47.897	35
+269	19	2014	Abu Dhabi Grand Prix	14	6	Nico Rosberg	Germany	Mercedes	54	1:39:14.344	1 Lap	+ 1.917	181.259	1:46.869	17
+269	19	2014	Abu Dhabi Grand Prix	15	21	Esteban Gutiérrez	Mexico	Sauber	54	1:39:15.948	1 Lap	+ 1.604	181.211	1:47.698	43
+269	19	2014	Abu Dhabi Grand Prix	16	99	Adrian Sutil	Germany	Sauber	54	1:39:32.663	1 Lap	+ 16.715	180.703	1:47.508	44
+269	19	2014	Abu Dhabi Grand Prix	17	46	Will Stevens	Great Britain	Caterham	54	1:40:49.632	1 Lap	+ 1:16.969	178.404	1:48.398	47
+269	19	2014	Abu Dhabi Grand Prix	18	10	Kamui Kobayashi	Japan	Caterham	42	1:18:22.416			178.493	1:47.431	38
+269	19	2014	Abu Dhabi Grand Prix	19	13	Pastor Maldonado	Venezuela	Lotus	26	48:05.520			180.016	1:48.933	9
+269	19	2014	Abu Dhabi Grand Prix	20	26	Daniil Kvyat	Russia	Toro Rosso	14	25:56.952			179.522	1:48.748	10

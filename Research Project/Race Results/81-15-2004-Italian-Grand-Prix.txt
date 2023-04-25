@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+81	15	2004	Italian Grand Prix	1	2	Rubens Barrichello	Brazil	Ferrari	53	1:15:18.448			244.374	1:21.046	41
+81	15	2004	Italian Grand Prix	2	1	Michael Schumacher	Germany	Ferrari	53	1:15:19.795	+ 1.347	+ 1.347	244.301	1:21.361	35
+81	15	2004	Italian Grand Prix	3	9	Jenson Button	Great Britain	BAR	53	1:15:28.645	+ 10.197	+ 8.850	243.823	1:22.671	13
+81	15	2004	Italian Grand Prix	4	10	Takuma Sato	Japan	BAR	53	1:15:33.818	+ 15.370	+ 5.173	243.545	1:22.660	32
+81	15	2004	Italian Grand Prix	5	3	Juan Pablo Montoya	Colombia	Williams	53	1:15:50.800	+ 32.352	+ 16.982	242.636	1:22.929	32
+81	15	2004	Italian Grand Prix	6	5	David Coulthard	Great Britain	McLaren	53	1:15:51.887	+ 33.439	+ 1.087	242.578	1:22.889	24
+81	15	2004	Italian Grand Prix	7	4	Antonio Pizzonia	Brazil	Williams	53	1:15:52.200	+ 33.752	+ 0.313	242.562	1:22.246	32
+81	15	2004	Italian Grand Prix	8	11	Giancarlo Fisichella	Italy	Sauber	53	1:15:53.879	+ 35.431	+ 1.679	242.472	1:22.615	51
+81	15	2004	Italian Grand Prix	9	14	Mark Webber	Australia	Jaguar	53	1:16:15.209	+ 56.761	+ 21.330	241.342	1:23.090	53
+81	15	2004	Italian Grand Prix	10	7	Jarno Trulli	Italy	Renault	53	1:16:24.764	+ 1:06.316	+ 9.555	240.839	1:22.855	52
+81	15	2004	Italian Grand Prix	11	16	Ricardo Zonta	Brazil	Toyota	53	1:16:40.979	+ 1:22.531	+ 16.215	239.990	1:23.410	52
+81	15	2004	Italian Grand Prix	12	12	Felipe Massa	Brazil	Sauber	52	1:15:22.268	1 Lap	1 Lap	239.556	1:22.941	50
+81	15	2004	Italian Grand Prix	13	15	Christian Klien	Austria	Jaguar	52	1:15:40.224	1 Lap	+ 17.956	238.608	1:23.432	29
+81	15	2004	Italian Grand Prix	14	18	Nick Heidfeld	Germany	Jordan	52	1:16:06.392	1 Lap	+ 26.168	237.241	1:24.166	23
+81	15	2004	Italian Grand Prix	15	21	Zsolt Baumgartner	Hungary	Minardi	50	1:15:23.973	3 Laps	2 Laps	230.246	1:26.356	31
+81	15	2004	Italian Grand Prix	16	8	Fernando Alonso	Spain	Renault	40	57:19.912			242.180	1:22.881	31
+81	15	2004	Italian Grand Prix	17	19	Giorgio Pantano	Italy	Jordan	33	48:34.204			235.774	1:24.061	13
+81	15	2004	Italian Grand Prix	18	20	Gianmaria Bruni	Italy	Minardi	29	44:08.303			227.948	1:26.371	24
+81	15	2004	Italian Grand Prix	19	6	Kimi Räikkönen	Finland	McLaren	13	19:02.606			236.301	1:23.365	11
+81	15	2004	Italian Grand Prix	20	17	Olivier Panis	France	Toyota							

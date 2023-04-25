@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+186	13	2010	Belgian Grand Prix	1	6	Mark Webber	Australia	Red Bull Racing	21	1:45.778					
+186	13	2010	Belgian Grand Prix	2	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	18	1:45.863	0.085	0.085			
+186	13	2010	Belgian Grand Prix	3	11	Robert Kubica	Poland	Renault F1 Team	19	1:46.100	0.322	0.237			
+186	13	2010	Belgian Grand Prix	4	5	Sebastian Vettel	Germany	Red Bull Racing	23	1:46.127	0.349	0.027			
+186	13	2010	Belgian Grand Prix	5	1	Jenson Button	Great Britain	Vodafone McLaren Mercedes	18	1:46.206	0.428	0.079			
+186	13	2010	Belgian Grand Prix	6	7	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	20	1:46.314	0.536	0.108			
+186	13	2010	Belgian Grand Prix	7	9	Rubens Barrichello	Brazil	AT&T Williams	19	1:46.602	0.824	0.288			
+186	13	2010	Belgian Grand Prix	8	14	Adrian Sutil	Germany	Force India F1 Team	18	1:46.659	0.881	0.057			
+186	13	2010	Belgian Grand Prix	9	10	Nico Hülkenberg	Germany	AT&T Williams	20	1:47.053	1.275	0.394			
+186	13	2010	Belgian Grand Prix	10	8	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	21	1:47.441	1.663	0.388			
+186	13	2010	Belgian Grand Prix	11	3	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	16	1:47.874	2.096	0.433			
+186	13	2010	Belgian Grand Prix	12	4	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	16	1:47.885	2.107	0.011			
+186	13	2010	Belgian Grand Prix	13	17	Jaime Alguersuari	Spain	Scuderia Toro Rosso	17	1:48.267	2.489	0.382			
+186	13	2010	Belgian Grand Prix	14	15	Vitantonio Liuzzi	Italy	Force India F1 Team	14	1:48.680	2.902	0.413			
+186	13	2010	Belgian Grand Prix	15	16	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	16	1:49.209	3.431	0.529			
+186	13	2010	Belgian Grand Prix	16	19	Heikki Kovalainen	Finland	Lotus Racing	12	1:50.980	5.202	1.771			
+186	13	2010	Belgian Grand Prix	17	24	Timo Glock	Germany	Virgin Racing	16	1:52.049	6.271	1.069			
+186	13	2010	Belgian Grand Prix	18	18	Jarno Trulli	Italy	Lotus Racing	9	2:01.491	15.713	9.442			
+186	13	2010	Belgian Grand Prix	19	23	Kamui Kobayashi	Japan	BMW Sauber F1 Team	6	2:02.284	16.506	0.793			
+186	13	2010	Belgian Grand Prix	20	21	Bruno Senna	Brazil	HRT F1 Team	7	2:03.612	17.834	1.328			
+186	13	2010	Belgian Grand Prix	21	20	Sakon Yamamoto	Japan	HRT F1 Team	8	2:03.941	18.163	0.329			
+186	13	2010	Belgian Grand Prix	22	22	Pedro de la Rosa	Spain	BMW Sauber F1 Team	6	2:05.294	19.516	1.353			
+186	13	2010	Belgian Grand Prix	23	25	Lucas di Grassi	Brazil	Virgin Racing	5	2:18.754	32.976	13.460			
+186	13	2010	Belgian Grand Prix	24	12	Vitaly Petrov	Russia	Renault F1 Team	1						

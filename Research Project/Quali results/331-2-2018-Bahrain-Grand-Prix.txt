@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+331	2	2018	Bahrain Grand Prix	1	5	Sebastian Vettel	Germany	Scuderia Ferrari	12	1:27.958			221.505		
+331	2	2018	Bahrain Grand Prix	2	7	Kimi Räikkönen	Finland	Scuderia Ferrari	12	1:28.101	0.143	0.143	221.146		
+331	2	2018	Bahrain Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes AMG Petronas Motorsport	15	1:28.124	0.166	0.023	221.088		
+331	2	2018	Bahrain Grand Prix	4	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas Motorsport	16	1:28.220	0.262	0.096	220.847		
+331	2	2018	Bahrain Grand Prix	5	3	Daniel Ricciardo	Australia	Aston Martin Red Bull Racing	12	1:28.398	0.440	0.178	220.403		
+331	2	2018	Bahrain Grand Prix	6	10	Pierre Gasly	France	Red Bull Toro Rosso Honda	18	1:29.329	1.371	0.931	218.106		
+331	2	2018	Bahrain Grand Prix	7	20	Kevin Magnussen	Denmark	Haas F1 Team	16	1:29.358	1.400	0.029	218.035		
+331	2	2018	Bahrain Grand Prix	8	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team	15	1:29.570	1.612	0.212	217.519		
+331	2	2018	Bahrain Grand Prix	9	31	Esteban Ocon	France	Sahara Force India F1 Team	16	1:29.874	1.916	0.304	216.783		
+331	2	2018	Bahrain Grand Prix	10	55	Carlos Sainz	Spain	Renault Sport Formula One Team	18	1:29.986	2.028	0.112	216.513		
+331	2	2018	Bahrain Grand Prix	11	28	Brendon Hartley	New Zealand	Red Bull Toro Rosso Honda	15	1:30.105	2.147	0.119	216.227		
+331	2	2018	Bahrain Grand Prix	12	11	Sergio Pérez	Mexico	Sahara Force India F1 Team	11	1:30.156	2.198	0.051	216.105		
+331	2	2018	Bahrain Grand Prix	13	14	Fernando Alonso	Spain	McLaren F1 Team	12	1:30.212	2.254	0.056	215.971		
+331	2	2018	Bahrain Grand Prix	14	2	Stoffel Vandoorne	Belgium	McLaren F1 Team	12	1:30.525	2.567	0.313	215.224		
+331	2	2018	Bahrain Grand Prix	15	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	4						
+331	2	2018	Bahrain Grand Prix	16	8	Romain Grosjean	France	Haas F1 Team	7	1:30.530	2.572		215.212		
+331	2	2018	Bahrain Grand Prix	17	9	Marcus Ericsson	Sweden	Alfa Romeo Sauber F1 Team	9	1:31.063	3.105	0.533	213.952		
+331	2	2018	Bahrain Grand Prix	18	35	Sergey Sirotkin	Russia	Williams Martini Racing	8	1:31.414	3.456	0.351	213.131		
+331	2	2018	Bahrain Grand Prix	19	16	Charles Leclerc	Monaco	Alfa Romeo Sauber F1 Team	8	1:31.420	3.462	0.006	213.117		
+331	2	2018	Bahrain Grand Prix	20	18	Lance Stroll	Canada	Williams Martini Racing	8	1:31.503	3.545	0.083	212.924		

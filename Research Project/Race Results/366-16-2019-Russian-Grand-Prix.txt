@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+366	16	2019	Russian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	53	1:33:38.992			198.448	1:35.761	51
+366	16	2019	Russian Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	53	1:33:42.821	+ 3.829	+ 3.829	198.313	1:36.316	50
+366	16	2019	Russian Grand Prix	3	16	Charles Leclerc	Monaco	Ferrari	53	1:33:44.204	+ 5.212	+ 1.383	198.264	1:36.193	52
+366	16	2019	Russian Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull	53	1:33:53.202	+ 14.210	+ 8.998	197.948	1:36.937	47
+366	16	2019	Russian Grand Prix	5	23	Alexander Albon	Thailand	Red Bull	53	1:34:17.340	+ 38.348	+ 24.138	197.103	1:36.762	50
+366	16	2019	Russian Grand Prix	6	55	Carlos Sainz	Spain	McLaren	53	1:34:24.881	+ 45.889	+ 7.541	196.841	1:38.020	53
+366	16	2019	Russian Grand Prix	7	11	Sergio Pérez	Mexico	Aston Martin	53	1:34:27.720	+ 48.728	+ 2.839	196.742	1:38.043	49
+366	16	2019	Russian Grand Prix	8	4	Lando Norris	Great Britain	McLaren	53	1:34:36.741	+ 57.749	+ 9.021	196.429	1:38.301	52
+366	16	2019	Russian Grand Prix	9	20	Kevin Magnussen	Denmark	Haas	53	1:34:37.771	+ 58.779	+ 1.030	196.394	1:38.130	53
+366	16	2019	Russian Grand Prix	10	27	Nico Hülkenberg	Germany	Renault	53	1:34:38.833	+ 59.841	+ 1.062	196.357	1:38.519	53
+366	16	2019	Russian Grand Prix	11	18	Lance Stroll	Canada	Aston Martin	53	1:34:39.813	+ 1:00.821	+ 0.980	196.323	1:38.611	53
+366	16	2019	Russian Grand Prix	12	26	Daniil Kvyat	Russia	Toro Rosso	53	1:34:41.488	+ 1:02.496	+ 1.675	196.265	1:38.228	52
+366	16	2019	Russian Grand Prix	13	7	Kimi Räikkönen	Finland	Sauber	53	1:34:47.902	+ 1:08.910	+ 6.414	196.044	1:38.589	51
+366	16	2019	Russian Grand Prix	14	10	Pierre Gasly	France	Toro Rosso	53	1:34:49.068	+ 1:10.076	+ 1.166	196.004	1:38.606	51
+366	16	2019	Russian Grand Prix	15	99	Antonio Giovinazzi	Italy	Sauber	53	1:34:52.338	+ 1:13.346	+ 3.270	195.891	1:38.696	51
+366	16	2019	Russian Grand Prix	16	88	Robert Kubica	Poland	Williams	28	51:42.308			189.781	1:42.327	24
+366	16	2019	Russian Grand Prix	17	63	George Russell	Great Britain	Williams	27	48:58.002			193.229	1:41.705	18
+366	16	2019	Russian Grand Prix	18	5	Sebastian Vettel	Germany	Ferrari	26	45:29.330			200.289	1:38.245	16
+366	16	2019	Russian Grand Prix	19	3	Daniel Ricciardo	Australia	Renault	24	43:41.568			192.461	1:41.284	22
+366	16	2019	Russian Grand Prix	20	8	Romain Grosjean	France	Haas							

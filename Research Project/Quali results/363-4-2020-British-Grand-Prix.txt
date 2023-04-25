@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+363	4	2020	British Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Formula One Team	22	1:24.303			251.564		
+363	4	2020	British Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Formula One Team	17	1:24.616	0.313	0.313	250.633		
+363	4	2020	British Grand Prix	3	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	15	1:25.325	1.022	0.709	248.550		
+363	4	2020	British Grand Prix	4	16	Charles Leclerc	Monaco	Scuderia Ferrari	16	1:25.427	1.124	0.102	248.254		
+363	4	2020	British Grand Prix	5	4	Lando Norris	Great Britain	McLaren F1 Team	20	1:25.782	1.479	0.355	247.226		
+363	4	2020	British Grand Prix	6	18	Lance Stroll	Canada	BWT Racing Point F1 Team	20	1:25.839	1.536	0.057	247.062		
+363	4	2020	British Grand Prix	7	55	Carlos Sainz	Spain	McLaren F1 Team	20	1:25.965	1.662	0.126	246.700		
+363	4	2020	British Grand Prix	8	3	Daniel Ricciardo	Australia	Renault DP World F1 Team	19	1:26.009	1.706	0.044	246.574		
+363	4	2020	British Grand Prix	9	31	Esteban Ocon	France	Renault DP World F1 Team	20	1:26.209	1.906	0.200	246.002		
+363	4	2020	British Grand Prix	10	5	Sebastian Vettel	Germany	Scuderia Ferrari	20	1:26.339	2.036	0.130	245.631		
+363	4	2020	British Grand Prix	11	10	Pierre Gasly	France	Scuderia AlphaTauri Honda	12	1:26.501	2.198	0.162	245.171		
+363	4	2020	British Grand Prix	12	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	11	1:26.545	2.242	0.044	245.047		
+363	4	2020	British Grand Prix	13	27	Nico Hülkenberg	Germany	BWT Racing Point F1 Team	14	1:26.566	2.263	0.021	244.987		
+363	4	2020	British Grand Prix	14	26	Daniil Kvyat	Russia	Scuderia AlphaTauri Honda	12	1:26.744	2.441	0.178	244.484		
+363	4	2020	British Grand Prix	15	63	George Russell	Great Britain	Williams Racing	14	1:27.092	2.789	0.348	243.508		
+363	4	2020	British Grand Prix	16	20	Kevin Magnussen	Denmark	Haas F1 Team	9	1:27.158	2.855	0.066	243.323		
+363	4	2020	British Grand Prix	17	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing ORLEN	9	1:27.164	2.861	0.006	243.306		
+363	4	2020	British Grand Prix	18	7	Kimi Räikkönen	Finland	Alfa Romeo Racing ORLEN	9	1:27.366	3.063	0.202	242.744		
+363	4	2020	British Grand Prix	19	8	Romain Grosjean	France	Haas F1 Team	9	1:27.643	3.340	0.277	241.977		
+363	4	2020	British Grand Prix	20	6	Nicholas Latifi	Canada	Williams Racing	7	1:27.705	3.402	0.062	241.806		

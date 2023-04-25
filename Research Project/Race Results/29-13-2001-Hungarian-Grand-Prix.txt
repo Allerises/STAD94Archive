@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+29	13	2001	Hungarian Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	77	1:41:49.675			180.348	1:17.436	23
+29	13	2001	Hungarian Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	77	1:41:53.038	+ 3.363	+ 3.363	180.249	1:17.274	51
+29	13	2001	Hungarian Grand Prix	3	4	David Coulthard	Great Britain	McLaren	77	1:41:53.615	+ 3.940	+ 0.577	180.232	1:17.054	53
+29	13	2001	Hungarian Grand Prix	4	5	Ralf Schumacher	Germany	Williams	77	1:42:39.362	+ 49.687	+ 45.747	178.893	1:17.233	54
+29	13	2001	Hungarian Grand Prix	5	3	Mika Hakkinen	Finland	McLaren	77	1:42:59.968	+ 1:10.293	+ 20.606	178.297	1:16.723	51
+29	13	2001	Hungarian Grand Prix	6	16	Nick Heidfeld	Germany	Sauber	76	1:42:11.325	1 Lap	1 Lap	177.377	1:18.165	50
+29	13	2001	Hungarian Grand Prix	7	17	Kimi Räikkönen	Finland	Sauber	76	1:42:16.366	1 Lap	+ 5.041	177.231	1:18.216	28
+29	13	2001	Hungarian Grand Prix	8	6	Juan Pablo Montoya	Colombia	Williams	76	1:42:50.529	1 Lap	+ 34.163	176.250	1:18.030	34
+29	13	2001	Hungarian Grand Prix	9	10	Jacques Villeneuve	Canada	BAR	75	1:41:58.208	2 Laps	1 Lap	175.419	1:19.494	75
+29	13	2001	Hungarian Grand Prix	10	12	Jean Alesi	France	Jordan	75	1:42:02.061	2 Laps	+ 3.853	175.308	1:19.134	32
+29	13	2001	Hungarian Grand Prix	11	19	Pedro de la Rosa	Spain	Jaguar	75	1:42:04.530	2 Laps	+ 2.469	175.237	1:18.186	51
+29	13	2001	Hungarian Grand Prix	12	14	Jos Verstappen	Netherlands	Arrows	74	1:42:15.527	3 Laps	1 Lap	172.591	1:20.401	51
+29	13	2001	Hungarian Grand Prix	13	7	Giancarlo Fisichella	Italy	Benneton	67	1:32:09.186			173.401	1:19.471	24
+29	13	2001	Hungarian Grand Prix	14	22	Heinz-Harald Frentzen	Germany	Prost	63	1:27:14.342			172.233	1:20.046	50
+29	13	2001	Hungarian Grand Prix	15	20	Tarso Marques	Brazil	Minardi	63	1:29:55.352			167.093	1:21.379	51
+29	13	2001	Hungarian Grand Prix	16	9	Olivier Panis	France	BAR	58	1:37:28.611			141.910	1:19.222	29
+29	13	2001	Hungarian Grand Prix	17	11	Jarno Trulli	Italy	Jordan	53	1:12:12.563			175.053	1:18.536	50
+29	13	2001	Hungarian Grand Prix	18	21	Fernando Alonso	Spain	Minardi	37	52:01.196			169.636	1:21.533	18
+29	13	2001	Hungarian Grand Prix	19	8	Jenson Button	Great Britain	Benneton	34	47:44.062			169.877	1:19.475	29
+29	13	2001	Hungarian Grand Prix	20	15	Enrique Bernoldi	Brazil	Arrows	11	15:25.994			169.990	1:22.045	7
+29	13	2001	Hungarian Grand Prix	21	23	Luciano Burti	Brazil	Prost	8	11:17.693			168.926	1:21.912	8
+29	13	2001	Hungarian Grand Prix	22	18	Eddie Irvine	Great Britain	Jaguar							

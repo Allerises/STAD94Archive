@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+19	3	2001	Brazilian Grand Prix	1	4	David Coulthard	Great Britain	McLaren	71	1:39:00.834			185.373	1:16.498	44
+19	3	2001	Brazilian Grand Prix	2	1	Michael Schumacher	Germany	Ferrari	71	1:39:16.998	+ 16.164	+ 16.164	184.870	1:16.545	44
+19	3	2001	Brazilian Grand Prix	3	16	Nick Heidfeld	Germany	Sauber	70	1:39:11.257	1 Lap	1 Lap	182.442	1:18.064	42
+19	3	2001	Brazilian Grand Prix	4	9	Olivier Panis	France	BAR	70	1:39:50.736	1 Lap	+ 39.479	181.239	1:16.732	44
+19	3	2001	Brazilian Grand Prix	5	12	Jarno Trulli	Italy	Jordan	70	1:39:53.429	1 Lap	+ 2.693	181.158	1:17.632	41
+19	3	2001	Brazilian Grand Prix	6	7	Giancarlo Fisichella	Italy	Benneton	70	1:40:05.963	1 Lap	+ 12.534	180.780	1:17.830	41
+19	3	2001	Brazilian Grand Prix	7	10	Jacques Villeneuve	Canada	BAR	70	1:40:10.973	1 Lap	+ 5.010	180.629	1:17.106	41
+19	3	2001	Brazilian Grand Prix	8	22	Jean Alesi	France	Prost	70	1:40:14.126	1 Lap	+ 3.153	180.534	1:17.609	43
+19	3	2001	Brazilian Grand Prix	9	20	Tarso Marques	Brazil	Minardi	68	1:39:44.538	3 Laps	2 Laps	176.243	1:19.734	34
+19	3	2001	Brazilian Grand Prix	10	8	Jenson Button	Great Britain	Benneton	64	1:40:01.018	7 Laps	4 Laps	165.419	1:19.846	38
+19	3	2001	Brazilian Grand Prix	11	11	Heinz-Harald Frentzen	Germany	Jordan	63	1:28:46.325	8 Laps	1 Lap	183.461	1:17.522	41
+19	3	2001	Brazilian Grand Prix	12	17	Kimi Räikkönen	Finland	Sauber	55	1:17:34.458			183.281	1:17.816	33
+19	3	2001	Brazilian Grand Prix	13	23	Gaston Mazzacane	Argentina	Prost	54	1:16:31.469			182.416	1:18.176	23
+19	3	2001	Brazilian Grand Prix	14	5	Ralf Schumacher	Germany	Williams	54	1:21:36.364			171.057	1:15.693	38
+19	3	2001	Brazilian Grand Prix	15	18	Eddie Irvine	Great Britain	Jaguar	52	1:12:43.706			184.828	1:17.132	43
+19	3	2001	Brazilian Grand Prix	16	6	Juan Pablo Montoya	Colombia	Williams	38	50:04.631			196.151	1:16.593	31
+19	3	2001	Brazilian Grand Prix	17	14	Jos Verstappen	Netherlands	Arrows	37	50:03.784			191.042	1:18.875	26
+19	3	2001	Brazilian Grand Prix	18	19	Luciano Burti	Brazil	Jaguar	30	40:55.408			189.485	1:18.759	29
+19	3	2001	Brazilian Grand Prix	19	21	Fernando Alonso	Spain	Minardi	25	35:12.693			183.510	1:19.765	16
+19	3	2001	Brazilian Grand Prix	20	15	Enrique Bernoldi	Brazil	Arrows	15	21:15.455			182.349	1:19.449	12
+19	3	2001	Brazilian Grand Prix	21	2	Rubens Barrichello	Brazil	Ferrari	2	3:39.991			140.536	1:58.705	2
+19	3	2001	Brazilian Grand Prix	22	3	Mika Hakkinen	Finland	McLaren							

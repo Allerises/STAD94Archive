@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+216	5	2012	Spanish Grand Prix	1	18	Pastor Maldonado	Venezuela	Williams	66	1:39:09.145					
+216	5	2012	Spanish Grand Prix	2	5	Fernando Alonso	Spain	Ferrari	66	1:39:12.340	+ 3.195	+ 3.195			
+216	5	2012	Spanish Grand Prix	3	9	Kimi Räikkönen	Finland	Lotus	66	1:39:13.029	+ 3.884	+ 0.689			
+216	5	2012	Spanish Grand Prix	4	10	Romain Grosjean	France	Lotus	66	1:39:23.944	+ 14.799	+ 10.915		1:26.250	
+216	5	2012	Spanish Grand Prix	5	14	Kamui Kobayashi	Japan	Sauber	66	1:40:13.786	+ 1:04.641	+ 49.842			
+216	5	2012	Spanish Grand Prix	6	1	Sebastian Vettel	Germany	Red Bull	66	1:40:16.721	+ 1:07.576	+ 2.935			
+216	5	2012	Spanish Grand Prix	7	8	Nico Rosberg	Germany	Mercedes	66	1:40:27.064	+ 1:17.919	+ 10.343			
+216	5	2012	Spanish Grand Prix	8	4	Lewis Hamilton	Great Britain	McLaren	66	1:40:27.285	+ 1:18.140	+ 0.221			
+216	5	2012	Spanish Grand Prix	9	3	Jenson Button	Great Britain	McLaren	66	1:40:34.391	+ 1:25.246	+ 7.106			
+216	5	2012	Spanish Grand Prix	10	12	Nico Hülkenberg	Germany	Force India	65		1 Lap	1 Lap			
+216	5	2012	Spanish Grand Prix	11	2	Mark Webber	Australia	Red Bull	65		1 Lap				
+216	5	2012	Spanish Grand Prix	12	17	Jean-Eric Vergne	France	Toro Rosso	65		1 Lap				
+216	5	2012	Spanish Grand Prix	13	16	Daniel Ricciardo	Australia	Toro Rosso	65		1 Lap				
+216	5	2012	Spanish Grand Prix	14	11	Paul di Resta	Great Britain	Force India	65		1 Lap				
+216	5	2012	Spanish Grand Prix	15	6	Felipe Massa	Brazil	Ferrari	65		1 Lap				
+216	5	2012	Spanish Grand Prix	16	20	Heikki Kovalainen	Finland	Caterham	65		1 Lap				
+216	5	2012	Spanish Grand Prix	17	21	Vitaly Petrov	Russia	Caterham	65		1 Lap				
+216	5	2012	Spanish Grand Prix	18	24	Timo Glock	Germany	Marussia	64		2 Laps	1 Lap			
+216	5	2012	Spanish Grand Prix	19	22	Pedro de la Rosa	Spain	HRT	63		3 Laps	1 Lap			
+216	5	2012	Spanish Grand Prix	20	15	Sergio Pérez	Mexico	Sauber	37						
+216	5	2012	Spanish Grand Prix	21	25	Charles Pic	France	Marussia	35						
+216	5	2012	Spanish Grand Prix	22	23	Narain Karthikeyan	India	HRT	22						
+216	5	2012	Spanish Grand Prix	23	19	Bruno Senna	Brazil	Williams	12						
+216	5	2012	Spanish Grand Prix	24	7	Michael Schumacher	Germany	Mercedes	12						

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+95	11	2005	British Grand Prix	1	10	Juan Pablo Montoya	Colombia	McLaren	60	1:24:29.588			218.968	1:20.700	41
+95	11	2005	British Grand Prix	2	5	Fernando Alonso	Spain	Renault	60	1:24:32.327	+ 2.739	+ 2.739	218.849	1:21.228	40
+95	11	2005	British Grand Prix	3	9	Kimi Räikkönen	Finland	McLaren	60	1:24:44.024	+ 14.436	+ 11.697	218.346	1:20.502	60
+95	11	2005	British Grand Prix	4	6	Giancarlo Fisichella	Italy	Renault	60	1:24:47.502	+ 17.914	+ 3.478	218.197	1:21.159	43
+95	11	2005	British Grand Prix	5	3	Jenson Button	Great Britain	BAR	60	1:25:09.852	+ 40.264	+ 22.350	217.242	1:21.993	42
+95	11	2005	British Grand Prix	6	1	Michael Schumacher	Germany	Ferrari	60	1:25:44.910	+ 1:15.322	+ 35.058	215.762	1:21.675	23
+95	11	2005	British Grand Prix	7	2	Rubens Barrichello	Brazil	Ferrari	60	1:25:46.155	+ 1:16.567	+ 1.245	215.710	1:22.302	41
+95	11	2005	British Grand Prix	8	17	Ralf Schumacher	Germany	Toyota	60	1:25:48.800	+ 1:19.212	+ 2.645	215.599	1:21.960	46
+95	11	2005	British Grand Prix	9	16	Jarno Trulli	Italy	Toyota	60	1:25:50.439	+ 1:20.851	+ 1.639	215.530	1:22.112	56
+95	11	2005	British Grand Prix	10	12	Felipe Massa	Brazil	Sauber	59	1:24:51.371	1 Lap	1 Lap	214.396	1:22.466	45
+95	11	2005	British Grand Prix	11	7	Mark Webber	Australia	Williams	59	1:25:26.369	1 Lap	+ 34.998	212.932	1:23.291	16
+95	11	2005	British Grand Prix	12	8	Nick Heidfeld	Germany	Williams	59	1:25:32.661	1 Lap	+ 6.292	212.671	1:23.360	58
+95	11	2005	British Grand Prix	13	14	David Coulthard	Great Britain	Red Bull	59	1:25:33.495	1 Lap	+ 0.834	212.636	1:23.089	44
+95	11	2005	British Grand Prix	14	11	Jacques Villeneuve	Canada	Sauber	59	1:25:36.545	1 Lap	+ 3.050	212.510	1:23.210	16
+95	11	2005	British Grand Prix	15	15	Christian Klien	Austria	Red Bull	59	1:25:37.219	1 Lap	+ 0.674	212.482	1:23.147	58
+95	11	2005	British Grand Prix	16	4	Takuma Sato	Japan	BAR	58	1:25:22.151	2 Laps	1 Lap	209.494	1:22.551	54
+95	11	2005	British Grand Prix	17	18	Tiago Monteiro	Portugal	Jordan	58	1:25:52.094	2 Laps	+ 29.943	208.277	1:24.247	38
+95	11	2005	British Grand Prix	18	21	Christijan Albers	Netherlands	Minardi	57	1:25:19.249	3 Laps	1 Lap	205.998	1:26.182	53
+95	11	2005	British Grand Prix	19	20	Patrick Friesacher	Austria	Minardi	56	1:24:41.329	4 Laps	1 Lap	203.893	1:26.489	37
+95	11	2005	British Grand Prix	20	19	Narain Karthikeyan	India	Jordan	10	15:39.619			196.566	1:25.257	8

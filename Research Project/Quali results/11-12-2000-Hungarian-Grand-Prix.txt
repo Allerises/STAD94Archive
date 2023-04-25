@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+11	12	2000	Hungarian Grand Prix	1	3	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:17.514					
+11	12	2000	Hungarian Grand Prix	2	2	David Coulthard	Great Britain	West McLaren Mercedes		1:17.886	0.372	0.372			
+11	12	2000	Hungarian Grand Prix	3	1	Mika Hakkinen	Finland	West McLaren Mercedes		1:17.922	0.408	0.036			
+11	12	2000	Hungarian Grand Prix	4	9	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:18.321	0.807	0.399			
+11	12	2000	Hungarian Grand Prix	5	4	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:18.330	0.816	0.009			
+11	12	2000	Hungarian Grand Prix	6	5	Heinz-Harald Frentzen	Germany	Benson and Hedges Jordan		1:18.523	1.009	0.193			
+11	12	2000	Hungarian Grand Prix	7	11	Giancarlo Fisichella	Italy	Mild Seven Benetton Playlife		1:18.607	1.093	0.084			
+11	12	2000	Hungarian Grand Prix	8	10	Jenson Button	Great Britain	BMW WilliamsF1 Team		1:18.699	1.185	0.092			
+11	12	2000	Hungarian Grand Prix	9	17	Mika Salo	Finland	Red Bull Sauber Petronas		1:18.748	1.234	0.049			
+11	12	2000	Hungarian Grand Prix	10	7	Eddie Irvine	Great Britain	Jaguar Racing		1:19.008	1.494	0.260			
+11	12	2000	Hungarian Grand Prix	11	12	Alexander Wurz	Austria	Mild Seven Benetton Playlife		1:19.259	1.745	0.251			
+11	12	2000	Hungarian Grand Prix	12	6	Jarno Trulli	Italy	Benson and Hedges Jordan		1:19.266	1.752	0.007			
+11	12	2000	Hungarian Grand Prix	13	16	Pedro Diniz	Brazil	Red Bull Sauber Petronas		1:19.451	1.937	0.185			
+11	12	2000	Hungarian Grand Prix	14	14	Jean Alesi	France	Gauloises Prost Peugeot		1:19.626	2.112	0.175			
+11	12	2000	Hungarian Grand Prix	15	18	Pedro de la Rosa	Spain	Arrows F1 Team		1:19.987	2.473	0.361			
+11	12	2000	Hungarian Grand Prix	16	22	Jacques Villeneuve	Canada	Lucky Strike Reynard BAR Honda		1:19.937	2.423	0.311			
+11	12	2000	Hungarian Grand Prix	17	8	Johnny Herbert	Great Britain	Jaguar Racing		1:19.956	2.442	0.019			
+11	12	2000	Hungarian Grand Prix	18	23	Ricardo Zonta	Brazil	Lucky Strike Reynard BAR Honda		1:20.272	2.758	0.316			
+11	12	2000	Hungarian Grand Prix	19	15	Nick Heidfeld	Germany	Gauloises Prost Peugeot		1:20.481	2.967	0.209			
+11	12	2000	Hungarian Grand Prix	20	19	Jos Verstappen	Netherlands	Arrows F1 Team		1:20.609	3.095	0.128			
+11	12	2000	Hungarian Grand Prix	21	20	Marc Gene	Spain	Telefonica Minardi Fondmetal		1:20.654	3.140	0.045			
+11	12	2000	Hungarian Grand Prix	22	21	Gaston Mazzacane	Argentina	Telefonica Minardi Fondmetal		1:20.905	3.391	0.251			

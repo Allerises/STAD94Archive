@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+121	18	2006	Brazilian Grand Prix	1	6	Felipe Massa	Brazil	Ferrari	71	1:31:53.751			199.731	1:12.877	23
+121	18	2006	Brazilian Grand Prix	2	1	Fernando Alonso	Spain	Renault	71	1:32:12.409	+ 18.658	+ 18.658	199.058	1:12.961	70
+121	18	2006	Brazilian Grand Prix	3	12	Jenson Button	Great Britain	Honda	71	1:32:13.145	+ 19.394	+ 0.736	199.031	1:13.053	71
+121	18	2006	Brazilian Grand Prix	4	5	Michael Schumacher	Germany	Ferrari	71	1:32:17.845	+ 24.094	+ 4.700	198.862	1:12.162	70
+121	18	2006	Brazilian Grand Prix	5	3	Kimi Räikkönen	Finland	McLaren	71	1:32:22.254	+ 28.503	+ 4.409	198.704	1:13.281	58
+121	18	2006	Brazilian Grand Prix	6	2	Giancarlo Fisichella	Italy	Renault	71	1:32:24.038	+ 30.287	+ 1.784	198.640	1:13.121	70
+121	18	2006	Brazilian Grand Prix	7	11	Rubens Barrichello	Brazil	Honda	71	1:32:34.045	+ 40.294	+ 10.007	198.282	1:13.391	48
+121	18	2006	Brazilian Grand Prix	8	4	Pedro de la Rosa	Spain	McLaren	71	1:32:45.819	+ 52.068	+ 11.774	197.863	1:13.817	63
+121	18	2006	Brazilian Grand Prix	9	17	Robert Kubica	Poland	Sauber	71	1:33:01.393	+ 1:07.642	+ 15.574	197.311	1:14.117	25
+121	18	2006	Brazilian Grand Prix	10	22	Takuma Sato	Japan	Super Aguri	70	1:31:54.723	1 Lap	1 Lap	196.883	1:13.401	47
+121	18	2006	Brazilian Grand Prix	11	21	Scott Speed	USA	Toro Rosso	70	1:32:17.656	1 Lap	+ 22.933	196.068	1:13.862	69
+121	18	2006	Brazilian Grand Prix	12	15	Robert Doornbos	Netherlands	Red Bull	70	1:32:20.086	1 Lap	+ 2.430	195.982	1:13.700	62
+121	18	2006	Brazilian Grand Prix	13	20	Vitantonio Liuzzi	Italy	Toro Rosso	70	1:32:31.287	1 Lap	+ 11.201	195.587	1:13.687	69
+121	18	2006	Brazilian Grand Prix	14	19	Christijan Albers	Netherlands	Spyker	70	1:32:47.855	1 Lap	+ 16.568	195.005	1:14.591	61
+121	18	2006	Brazilian Grand Prix	15	18	Tiago Monteiro	Portugal	Spyker	69	1:31:56.646	2 Laps	1 Lap	194.003	1:14.410	38
+121	18	2006	Brazilian Grand Prix	16	23	Sakon Yamamoto	Japan	Super Aguri	69	1:32:02.861	2 Laps	+ 6.215	193.784	1:13.379	67
+121	18	2006	Brazilian Grand Prix	17	16	Nick Heidfeld	Germany	Sauber	63	1:23:26.093	8 Laps	6 Laps	195.196	1:14.163	18
+121	18	2006	Brazilian Grand Prix	18	14	David Coulthard	Great Britain	Red Bull	14	22:10.331			163.166	1:16.045	12
+121	18	2006	Brazilian Grand Prix	19	8	Jarno Trulli	Italy	Toyota	10	16:57.071			152.414	1:14.882	9
+121	18	2006	Brazilian Grand Prix	20	7	Ralf Schumacher	Germany	Toyota	9	15:15.635			152.357	1:16.835	8
+121	18	2006	Brazilian Grand Prix	21	9	Mark Webber	Australia	Williams	1	1:43.205			149.260		
+121	18	2006	Brazilian Grand Prix	22	10	Nico Rosberg	Germany	Williams							

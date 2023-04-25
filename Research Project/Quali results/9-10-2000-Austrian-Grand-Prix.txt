@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+9	10	2000	Austrian Grand Prix	1	1	Mika Hakkinen	Finland	West McLaren Mercedes		1:10.410					
+9	10	2000	Austrian Grand Prix	2	2	David Coulthard	Great Britain	West McLaren Mercedes		1:10.795	0.385	0.385			
+9	10	2000	Austrian Grand Prix	3	4	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:10.844	0.434	0.049			
+9	10	2000	Austrian Grand Prix	4	3	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:11.046	0.636	0.202			
+9	10	2000	Austrian Grand Prix	5	6	Jarno Trulli	Italy	Jordan		1:11.640	1.230	0.594			
+9	10	2000	Austrian Grand Prix	6	23	Ricardo Zonta	Brazil	Lucky Strike Reynard BAR Honda		1:11.647	1.237	0.007			
+9	10	2000	Austrian Grand Prix	7	22	Jacques Villeneuve	Canada	Lucky Strike Reynard BAR Honda		1:11.649	1.239	0.002			
+9	10	2000	Austrian Grand Prix	8	11	Giancarlo Fisichella	Italy	Mild Seven Benetton Playlife		1:11.658	1.248	0.009			
+9	10	2000	Austrian Grand Prix	9	17	Mika Salo	Finland	Red Bull Sauber Petronas		1:11.761	1.351	0.103			
+9	10	2000	Austrian Grand Prix	10	19	Jos Verstappen	Netherlands	Arrows F1 Team		1:11.905	1.495	0.144			
+9	10	2000	Austrian Grand Prix	11	16	Pedro Diniz	Brazil	Red Bull Sauber Petronas		1:11.931	1.521	0.026			
+9	10	2000	Austrian Grand Prix	12	18	Pedro de la Rosa	Spain	Arrows F1 Team		1:11.978	1.568	0.047			
+9	10	2000	Austrian Grand Prix	13	15	Nick Heidfeld	Germany	Gauloises Prost Peugeot		1:12.037	1.627	0.059			
+9	10	2000	Austrian Grand Prix	14	12	Alexander Wurz	Austria	Mild Seven Benetton Playlife		1:12.038	1.628	0.001			
+9	10	2000	Austrian Grand Prix	15	5	Heinz-Harald Frentzen	Germany	Jordan		1:12.043	1.633	0.005			
+9	10	2000	Austrian Grand Prix	16	8	Johnny Herbert	Great Britain	Jaguar Racing		1:12.238	1.828	0.195			
+9	10	2000	Austrian Grand Prix	17	14	Jean Alesi	France	Gauloises Prost Peugeot		1:12.304	1.894	0.066			
+9	10	2000	Austrian Grand Prix	18	10	Jenson Button	Great Britain	BMW WilliamsF1 Team		1:12.337	1.927	0.033			
+9	10	2000	Austrian Grand Prix	19	9	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:12.347	1.937	0.010			
+9	10	2000	Austrian Grand Prix	20	20	Marc Gene	Spain	Telefonica Minardi Fondmetal		1:12.722	2.312	0.375			
+9	10	2000	Austrian Grand Prix	21	7	Luciano Burti	Brazil	Jaguar Racing		1:12.822	2.412	0.100			
+9	10	2000	Austrian Grand Prix	22	21	Gaston Mazzacane	Argentina	Telefonica Minardi Fondmetal		1:13.419	3.009	0.597			

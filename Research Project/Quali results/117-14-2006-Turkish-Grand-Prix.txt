@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+117	14	2006	Turkish Grand Prix	1	6	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	17	1:26.907					
+117	14	2006	Turkish Grand Prix	2	5	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	17	1:27.284	0.377	0.377			
+117	14	2006	Turkish Grand Prix	3	1	Fernando Alonso	Spain	Mild Seven Renault F1 Team	20	1:27.321	0.414	0.037			
+117	14	2006	Turkish Grand Prix	4	2	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	19	1:27.564	0.657	0.243			
+117	14	2006	Turkish Grand Prix	5	7	Ralf Schumacher	Germany	Panasonic Toyota Racing	20	1:27.569	0.662	0.005			
+117	14	2006	Turkish Grand Prix	6	16	Nick Heidfeld	Germany	BMW Sauber F1 Team	20	1:27.785	0.878	0.216			
+117	14	2006	Turkish Grand Prix	7	12	Jenson Button	Great Britain	Lucky Strike Honda Racing F1 Team	23	1:27.790	0.883	0.005			
+117	14	2006	Turkish Grand Prix	8	3	Kimi Räikkönen	Finland	Team McLaren Mercedes	19	1:27.866	0.959	0.076			
+117	14	2006	Turkish Grand Prix	9	17	Robert Kubica	Poland	BMW Sauber F1 Team	20	1:28.167	1.260	0.301			
+117	14	2006	Turkish Grand Prix	10	9	Mark Webber	Australia	WilliamsF1 Team	22	1:29.436	2.529	1.269			
+117	14	2006	Turkish Grand Prix	11	15	Christian Klien	Austria	Red Bull Racing	12	1:27.852	0.945	0.062			
+117	14	2006	Turkish Grand Prix	12	4	Pedro de la Rosa	Spain	Team McLaren Mercedes	11	1:27.897	0.990	0.045			
+117	14	2006	Turkish Grand Prix	13	8	Jarno Trulli	Italy	Panasonic Toyota Racing	12	1:27.973	1.066	0.076			
+117	14	2006	Turkish Grand Prix	14	11	Rubens Barrichello	Brazil	Lucky Strike Honda Racing F1 Team	12	1:28.257	1.350	0.284			
+117	14	2006	Turkish Grand Prix	15	10	Nico Rosberg	Germany	WilliamsF1 Team	12	1:28.386	1.479	0.129			
+117	14	2006	Turkish Grand Prix	16	19	Christijan Albers	Netherlands	MF1 Racing	12	1:28.639	1.732	0.253			
+117	14	2006	Turkish Grand Prix	17	14	David Coulthard	Great Britain	Red Bull Racing	7	1:29.136	2.229	0.497			
+117	14	2006	Turkish Grand Prix	18	21	Scott Speed	USA	Scuderia Toro Rosso	9	1:29.158	2.251	0.022			
+117	14	2006	Turkish Grand Prix	19	20	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	8	1:29.250	2.343	0.092			
+117	14	2006	Turkish Grand Prix	20	18	Tiago Monteiro	Portugal	MF1 Racing	8	1:29.901	2.994	0.651			
+117	14	2006	Turkish Grand Prix	21	23	Sakon Yamamoto	Japan	Super Aguri F1	7	1:30.607	3.700	0.706			
+117	14	2006	Turkish Grand Prix	22	22	Takuma Sato	Japan	Super Aguri F1	5	1:30.850	3.943	0.243			

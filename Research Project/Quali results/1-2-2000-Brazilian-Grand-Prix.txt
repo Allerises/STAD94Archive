@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+1	2	2000	Brazilian Grand Prix	1	1	Mika Hakkinen	Finland	West McLaren Mercedes		1:14.111					
+1	2	2000	Brazilian Grand Prix	2	2	David Coulthard	Great Britain	West McLaren Mercedes		1:14.285	0.174	0.174			
+1	2	2000	Brazilian Grand Prix	3	3	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:14.508	0.397	0.223			
+1	2	2000	Brazilian Grand Prix	4	4	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:14.636	0.525	0.128			
+1	2	2000	Brazilian Grand Prix	5	11	Giancarlo Fisichella	Italy	Mild Seven Benetton Playlife		1:15.375	1.264	0.739			
+1	2	2000	Brazilian Grand Prix	6	7	Eddie Irvine	Great Britain	Jaguar Racing		1:15.425	1.314	0.050			
+1	2	2000	Brazilian Grand Prix	7	5	Heinz-Harald Frentzen	Germany	Jordan		1:15.455	1.344	0.030			
+1	2	2000	Brazilian Grand Prix	8	23	Ricardo Zonta	Brazil	Lucky Strike Reynard BAR Honda		1:15.484	1.373	0.029			
+1	2	2000	Brazilian Grand Prix	9	10	Jenson Button	Great Britain	BMW WilliamsF1 Team		1:15.490	1.379	0.006			
+1	2	2000	Brazilian Grand Prix	10	22	Jacques Villeneuve	Canada	Lucky Strike Reynard BAR Honda		1:15.515	1.404	0.025			
+1	2	2000	Brazilian Grand Prix	11	9	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:15.561	1.450	0.046			
+1	2	2000	Brazilian Grand Prix	12	6	Jarno Trulli	Italy	Jordan		1:15.627	1.516	0.066			
+1	2	2000	Brazilian Grand Prix	13	12	Alexander Wurz	Austria	Mild Seven Benetton Playlife		1:15.664	1.553	0.037			
+1	2	2000	Brazilian Grand Prix	14	19	Jos Verstappen	Netherlands	Arrows F1 Team		1:15.704	1.593	0.040			
+1	2	2000	Brazilian Grand Prix	15	14	Jean Alesi	France	Gauloises Prost Peugeot		1:15.715	1.604	0.011			
+1	2	2000	Brazilian Grand Prix	16	18	Pedro de la Rosa	Spain	Arrows F1 Team		1:16.002	1.891	0.287			
+1	2	2000	Brazilian Grand Prix	17	8	Johnny Herbert	Great Britain	Jaguar Racing		1:16.250	2.139	0.248			
+1	2	2000	Brazilian Grand Prix	18	20	Marc Gene	Spain	Telefonica Minardi Fondmetal		1:16.380	2.269	0.130			
+1	2	2000	Brazilian Grand Prix	19	15	Nick Heidfeld	Germany	Gauloises Prost Peugeot		1:17.112	3.001	0.732			
+1	2	2000	Brazilian Grand Prix	20	16	Pedro Diniz	Brazil	Red Bull Sauber Petronas		1:17.178	3.067	0.066			
+1	2	2000	Brazilian Grand Prix	21	21	Gaston Mazzacane	Argentina	Telefonica Minardi Fondmetal		1:17.512	3.401	0.334			
+1	2	2000	Brazilian Grand Prix	22	17	Mika Salo	Finland	Red Bull Sauber Petronas		1:18.703	4.592	1.191			

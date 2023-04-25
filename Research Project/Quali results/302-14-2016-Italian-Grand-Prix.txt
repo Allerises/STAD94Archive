@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+302	14	2016	Italian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:21.135			257.038		
+302	14	2016	Italian Grand Prix	2	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:21.613	0.478	0.478	255.532		
+302	14	2016	Italian Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:21.972	0.837	0.359	254.413		
+302	14	2016	Italian Grand Prix	4	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:22.065	0.930	0.093	254.125		
+302	14	2016	Italian Grand Prix	5	77	Valtteri Bottas	Finland	Williams Martini Racing		1:22.388	1.253	0.323	253.129		
+302	14	2016	Italian Grand Prix	6	3	Daniel Ricciardo	Australia	Red Bull Racing		1:22.389	1.254	0.001	253.126		
+302	14	2016	Italian Grand Prix	7	33	Max Verstappen	Netherlands	Red Bull Racing		1:22.411	1.276	0.022	253.058		
+302	14	2016	Italian Grand Prix	8	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:22.814	1.679	0.403	251.826		
+302	14	2016	Italian Grand Prix	9	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:22.836	1.701	0.022	251.760		
+302	14	2016	Italian Grand Prix	10	21	Esteban Gutiérrez	Mexico	Haas F1 Team		1:23.184	2.049	0.348	250.706		
+302	14	2016	Italian Grand Prix	11	19	Felipe Massa	Brazil	Williams Martini Racing		1:22.967	1.832		251.362		
+302	14	2016	Italian Grand Prix	12	14	Fernando Alonso	Spain	McLaren Honda		1:23.273	2.138	0.306	250.438		
+302	14	2016	Italian Grand Prix	13	94	Pascal Wehrlein	Germany	Manor Racing MRT		1:23.315	2.180	0.042	250.312		
+302	14	2016	Italian Grand Prix	14	22	Jenson Button	Great Britain	McLaren Honda		1:23.399	2.264	0.084	250.060		
+302	14	2016	Italian Grand Prix	15	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:23.496	2.361	0.097	249.770		
+302	14	2016	Italian Grand Prix	16	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:23.825	2.690	0.329	248.789		
+302	14	2016	Italian Grand Prix	17	8	Romain Grosjean	France	Haas F1 Team		1:23.092	1.957		250.984		
+302	14	2016	Italian Grand Prix	18	12	Felipe Nasr	Brazil	Sauber F1 Team		1:23.956	2.821	0.864	248.401		
+302	14	2016	Italian Grand Prix	19	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:24.087	2.952	0.131	248.014		
+302	14	2016	Italian Grand Prix	20	30	Jolyon Palmer	Great Britain	Renault Sport F1 Team		1:24.230	3.095	0.143	247.593		
+302	14	2016	Italian Grand Prix	21	20	Kevin Magnussen	Denmark	Renault Sport F1 Team		1:24.436	3.301	0.206	246.989		
+302	14	2016	Italian Grand Prix	22	31	Esteban Ocon	France	Manor Racing MRT							

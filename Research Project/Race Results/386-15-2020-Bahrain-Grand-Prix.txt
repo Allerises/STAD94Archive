@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+386	15	2020	Bahrain Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	57	2:59:47.515			102.864	1:32.864	38
+386	15	2020	Bahrain Grand Prix	2	33	Max Verstappen	Netherlands	Red Bull	57	2:59:48.769	+ 1.254	+ 1.254	102.852	1:32.014	48
+386	15	2020	Bahrain Grand Prix	3	23	Alexander Albon	Thailand	Red Bull	57	2:59:55.520	+ 8.005	+ 6.751	102.788	1:33.684	41
+386	15	2020	Bahrain Grand Prix	4	4	Lando Norris	Great Britain	McLaren	57	2:59:58.852	+ 11.337	+ 3.332	102.756	1:33.588	53
+386	15	2020	Bahrain Grand Prix	5	55	Carlos Sainz	Spain	McLaren	57	2:59:59.302	+ 11.787	+ 0.450	102.752	1:33.411	46
+386	15	2020	Bahrain Grand Prix	6	10	Pierre Gasly	France	Toro Rosso	57	2:59:59.457	+ 11.942	+ 0.155	102.751	1:34.817	48
+386	15	2020	Bahrain Grand Prix	7	3	Daniel Ricciardo	Australia	Renault	57	3:00:06.883	+ 19.368	+ 7.426	102.680	1:32.827	38
+386	15	2020	Bahrain Grand Prix	8	77	Valtteri Bottas	Finland	Mercedes	57	3:00:07.195	+ 19.680	+ 0.312	102.677	1:33.352	28
+386	15	2020	Bahrain Grand Prix	9	31	Esteban Ocon	France	Renault	57	3:00:10.318	+ 22.803	+ 3.123	102.647	1:34.354	37
+386	15	2020	Bahrain Grand Prix	10	16	Charles Leclerc	Monaco	Ferrari	56	2:59:48.335	1 Lap	1 Lap	101.051	1:33.625	44
+386	15	2020	Bahrain Grand Prix	11	26	Daniil Kvyat	Russia	Toro Rosso	56	2:59:49.415	1 Lap	+ 1.080	101.041	1:34.141	35
+386	15	2020	Bahrain Grand Prix	12	63	George Russell	Great Britain	Williams	56	2:59:49.926	1 Lap	+ 0.511	101.036	1:35.042	47
+386	15	2020	Bahrain Grand Prix	13	5	Sebastian Vettel	Germany	Ferrari	56	2:59:52.774	1 Lap	+ 2.848	101.009	1:33.861	41
+386	15	2020	Bahrain Grand Prix	14	6	Nicholas Latifi	Canada	Williams	56	2:59:53.116	1 Lap	+ 0.342	101.006	1:34.591	39
+386	15	2020	Bahrain Grand Prix	15	7	Kimi Räikkönen	Finland	Sauber	56	2:59:56.693	1 Lap	+ 3.577	100.972	1:33.573	43
+386	15	2020	Bahrain Grand Prix	16	99	Antonio Giovinazzi	Italy	Sauber	56	2:59:57.689	1 Lap	+ 0.996	100.963	1:34.536	22
+386	15	2020	Bahrain Grand Prix	17	20	Kevin Magnussen	Denmark	Haas	56	3:00:09.772	1 Lap	+ 12.083	100.850	1:35.241	29
+386	15	2020	Bahrain Grand Prix	18	11	Sergio Pérez	Mexico	Aston Martin	53	2:51:46.894	4 Laps	3 Laps	100.100	1:33.629	40
+386	15	2020	Bahrain Grand Prix	19	18	Lance Stroll	Canada	Aston Martin	2	1:25:06.986			7.456		
+386	15	2020	Bahrain Grand Prix	20	8	Romain Grosjean	France	Haas							

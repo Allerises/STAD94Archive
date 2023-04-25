@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+233	2	2013	Malaysian Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	56	1:38:56.681			188.231	1:40.446	45
+233	2	2013	Malaysian Grand Prix	2	2	Mark Webber	Australia	Red Bull	56	1:39:00.979	+ 4.298	+ 4.298	188.095	1:40.685	45
+233	2	2013	Malaysian Grand Prix	3	10	Lewis Hamilton	Great Britain	Mercedes	56	1:39:08.862	+ 12.181	+ 7.883	187.845	1:41.001	32
+233	2	2013	Malaysian Grand Prix	4	9	Nico Rosberg	Germany	Mercedes	56	1:39:09.321	+ 12.640	+ 0.459	187.831	1:40.755	44
+233	2	2013	Malaysian Grand Prix	5	4	Felipe Massa	Brazil	Ferrari	56	1:39:22.329	+ 25.648	+ 13.008	187.421	1:39.805	50
+233	2	2013	Malaysian Grand Prix	6	8	Romain Grosjean	France	Lotus	56	1:39:32.245	+ 35.564	+ 9.916	187.110	1:41.226	37
+233	2	2013	Malaysian Grand Prix	7	7	Kimi Räikkönen	Finland	Lotus	56	1:39:45.160	+ 48.479	+ 12.915	186.706	1:41.769	37
+233	2	2013	Malaysian Grand Prix	8	11	Nico Hülkenberg	Germany	Sauber	56	1:39:49.725	+ 53.044	+ 4.565	186.564	1:40.727	46
+233	2	2013	Malaysian Grand Prix	9	6	Sergio Pérez	Mexico	McLaren	56	1:40:09.038	+ 1:12.357	+ 19.313	185.964	1:39.199	56
+233	2	2013	Malaysian Grand Prix	10	18	Jean-Eric Vergne	France	Toro Rosso	56	1:40:23.805	+ 1:27.124	+ 14.767	185.508	1:40.492	45
+233	2	2013	Malaysian Grand Prix	11	17	Valtteri Bottas	Finland	Williams	56	1:40:25.291	+ 1:28.610	+ 1.486	185.463	1:41.373	54
+233	2	2013	Malaysian Grand Prix	12	12	Esteban Gutiérrez	Mexico	Sauber	55	1:39:01.194	1 Lap	1 Lap	184.729	1:40.929	54
+233	2	2013	Malaysian Grand Prix	13	22	Jules Bianchi	France	Marussia	55	1:39:55.128	1 Lap	+ 53.934	183.067	1:42.423	47
+233	2	2013	Malaysian Grand Prix	14	20	Charles Pic	France	Caterham	55	1:40:29.370	1 Lap	+ 34.242	182.027	1:42.942	51
+233	2	2013	Malaysian Grand Prix	15	21	Giedo van der Garde	Netherlands	Caterham	55	1:40:38.354	1 Lap	+ 8.984	181.757	1:43.157	44
+233	2	2013	Malaysian Grand Prix	16	23	Max Chilton	Great Britain	Marussia	54	1:39:14.486	2 Laps	1 Lap	180.965	1:43.150	44
+233	2	2013	Malaysian Grand Prix	17	5	Jenson Button	Great Britain	McLaren	53	1:35:35.060	3 Laps	1 Lap	184.410	1:40.556	43
+233	2	2013	Malaysian Grand Prix	18	19	Daniel Ricciardo	Australia	Toro Rosso	51	1:32:16.617	5 Laps	2 Laps	183.811	1:42.581	35
+233	2	2013	Malaysian Grand Prix	19	16	Pastor Maldonado	Venezuela	Williams	45	1:22:26.897			181.521	1:43.465	34
+233	2	2013	Malaysian Grand Prix	20	15	Adrian Sutil	Germany	Force India	27	51:12.835			175.336	1:42.791	24
+233	2	2013	Malaysian Grand Prix	21	14	Paul di Resta	Great Britain	Force India	22	43:02.696			169.979	1:43.094	19
+233	2	2013	Malaysian Grand Prix	22	3	Fernando Alonso	Spain	Ferrari	1	2:05.239			159.333		

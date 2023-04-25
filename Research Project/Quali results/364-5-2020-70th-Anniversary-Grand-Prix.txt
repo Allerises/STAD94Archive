@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+364	5	2020	70th Anniversary Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Formula One Team	20	1:25.154			249.049		
+364	5	2020	70th Anniversary Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Formula One Team	20	1:25.217	0.063	0.063	248.865		
+364	5	2020	70th Anniversary Grand Prix	3	27	Nico Hülkenberg	Germany	BWT Racing Point F1 Team	18	1:26.082	0.928	0.865	246.365		
+364	5	2020	70th Anniversary Grand Prix	4	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	12	1:26.176	1.022	0.094	246.096		
+364	5	2020	70th Anniversary Grand Prix	5	3	Daniel Ricciardo	Australia	Renault DP World F1 Team	14	1:26.297	1.143	0.121	245.751		
+364	5	2020	70th Anniversary Grand Prix	6	18	Lance Stroll	Canada	BWT Racing Point F1 Team	18	1:26.428	1.274	0.131	245.378		
+364	5	2020	70th Anniversary Grand Prix	7	10	Pierre Gasly	France	Scuderia AlphaTauri Honda	18	1:26.534	1.380	0.106	245.078		
+364	5	2020	70th Anniversary Grand Prix	8	16	Charles Leclerc	Monaco	Scuderia Ferrari	16	1:26.614	1.460	0.080	244.851		
+364	5	2020	70th Anniversary Grand Prix	9	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	18	1:26.669	1.515	0.055	244.696		
+364	5	2020	70th Anniversary Grand Prix	10	4	Lando Norris	Great Britain	McLaren F1 Team	18	1:26.778	1.624	0.109	244.389		
+364	5	2020	70th Anniversary Grand Prix	11	31	Esteban Ocon	France	Renault DP World F1 Team	12	1:27.011	1.857	0.233	243.734		
+364	5	2020	70th Anniversary Grand Prix	12	5	Sebastian Vettel	Germany	Scuderia Ferrari	14	1:27.078	1.924	0.067	243.547		
+364	5	2020	70th Anniversary Grand Prix	13	55	Carlos Sainz	Spain	McLaren F1 Team	12	1:27.083	1.929	0.005	243.533		
+364	5	2020	70th Anniversary Grand Prix	14	8	Romain Grosjean	France	Haas F1 Team	16	1:27.254	2.100	0.171	243.055		
+364	5	2020	70th Anniversary Grand Prix	15	63	George Russell	Great Britain	Williams Racing	11	1:27.455	2.301	0.201	242.497		
+364	5	2020	70th Anniversary Grand Prix	16	26	Daniil Kvyat	Russia	Scuderia AlphaTauri Honda	6	1:27.882	2.728	0.427	241.319		
+364	5	2020	70th Anniversary Grand Prix	17	20	Kevin Magnussen	Denmark	Haas F1 Team	9	1:28.236	3.082	0.354	240.350		
+364	5	2020	70th Anniversary Grand Prix	18	6	Nicholas Latifi	Canada	Williams Racing	6	1:28.430	3.276	0.194	239.823		
+364	5	2020	70th Anniversary Grand Prix	19	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing ORLEN	6	1:28.433	3.279	0.003	239.815		
+364	5	2020	70th Anniversary Grand Prix	20	7	Kimi Räikkönen	Finland	Alfa Romeo Racing ORLEN	6	1:28.493	3.339	0.060	239.652		

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+295	7	2016	Canadian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	70	1:31:05.296			201.081	1:15.981	68
+295	7	2016	Canadian Grand Prix	2	5	Sebastian Vettel	Germany	Ferrari	70	1:31:10.307	+ 5.011	+ 5.011	200.897	1:16.297	70
+295	7	2016	Canadian Grand Prix	3	77	Valtteri Bottas	Finland	Williams	70	1:31:51.718	+ 46.422	+ 41.411	199.388	1:16.938	68
+295	7	2016	Canadian Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull	70	1:31:58.316	+ 53.020	+ 6.598	199.149	1:16.319	49
+295	7	2016	Canadian Grand Prix	5	6	Nico Rosberg	Germany	Mercedes	70	1:32:07.389	+ 1:02.093	+ 9.073	198.822	1:15.599	60
+295	7	2016	Canadian Grand Prix	6	7	Kimi Räikkönen	Finland	Ferrari	70	1:32:08.313	+ 1:03.017	+ 0.924	198.789	1:16.919	44
+295	7	2016	Canadian Grand Prix	7	3	Daniel Ricciardo	Australia	Red Bull	70	1:32:08.930	+ 1:03.634	+ 0.617	198.767	1:16.506	51
+295	7	2016	Canadian Grand Prix	8	27	Nico Hülkenberg	Germany	Force India	69	1:31:19.096	1 Lap	1 Lap	197.710	1:16.604	68
+295	7	2016	Canadian Grand Prix	9	55	Carlos Sainz	Spain	Toro Rosso	69	1:31:24.787	1 Lap	+ 5.691	197.504	1:16.578	54
+295	7	2016	Canadian Grand Prix	10	11	Sergio Pérez	Mexico	Force India	69	1:31:27.387	1 Lap	+ 2.600	197.411	1:16.559	54
+295	7	2016	Canadian Grand Prix	11	14	Fernando Alonso	Spain	McLaren	69	1:31:54.889	1 Lap	+ 27.502	196.426	1:17.307	67
+295	7	2016	Canadian Grand Prix	12	26	Daniil Kvyat	Russia	Toro Rosso	69	1:32:00.761	1 Lap	+ 5.872	196.217	1:16.942	50
+295	7	2016	Canadian Grand Prix	13	21	Esteban Gutiérrez	Mexico	Haas	68	1:31:05.784	2 Laps	1 Lap	195.319	1:17.728	48
+295	7	2016	Canadian Grand Prix	14	8	Romain Grosjean	France	Haas	68	1:31:06.356	2 Laps	+ 0.572	195.298	1:17.281	50
+295	7	2016	Canadian Grand Prix	15	9	Marcus Ericsson	Sweden	Sauber	68	1:31:14.346	2 Laps	+ 7.990	195.013	1:18.100	63
+295	7	2016	Canadian Grand Prix	16	20	Kevin Magnussen	Denmark	Renault	68	1:31:28.002	2 Laps	+ 13.656	194.528	1:18.224	42
+295	7	2016	Canadian Grand Prix	17	94	Pascal Wehrlein	Germany	Manor	68	1:31:35.776	2 Laps	+ 7.774	194.253	1:18.282	48
+295	7	2016	Canadian Grand Prix	18	12	Felipe Nasr	Brazil	Sauber	68	1:31:48.091	2 Laps	+ 12.315	193.819	1:17.883	66
+295	7	2016	Canadian Grand Prix	19	88	Rio Haryanto	Indonesia	Manor	68	1:32:19.873	2 Laps	+ 31.782	192.707	1:18.658	57
+295	7	2016	Canadian Grand Prix	20	19	Felipe Massa	Brazil	Williams	35	46:48.682			195.638	1:17.424	32
+295	7	2016	Canadian Grand Prix	21	30	Jolyon Palmer	Great Britain	Renault	16	22:05.323			189.533	1:19.879	6
+295	7	2016	Canadian Grand Prix	22	22	Jenson Button	Great Britain	McLaren	9	12:12.950			192.777	1:19.456	5

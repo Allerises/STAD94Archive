@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+97	13	2005	Hungarian Grand Prix	1	9	Kimi Räikkönen	Finland	McLaren	70	1:37:25.552			188.859	1:21.219	40
+97	13	2005	Hungarian Grand Prix	2	1	Michael Schumacher	Germany	Ferrari	70	1:38:01.133	+ 35.581	+ 35.581	187.716	1:21.476	13
+97	13	2005	Hungarian Grand Prix	3	17	Ralf Schumacher	Germany	Toyota	70	1:38:01.681	+ 36.129	+ 0.548	187.699	1:21.873	13
+97	13	2005	Hungarian Grand Prix	4	16	Jarno Trulli	Italy	Toyota	70	1:38:19.773	+ 54.221	+ 18.092	187.123	1:21.842	32
+97	13	2005	Hungarian Grand Prix	5	3	Jenson Button	Great Britain	BAR	70	1:38:24.384	+ 58.832	+ 4.611	186.977	1:22.406	70
+97	13	2005	Hungarian Grand Prix	6	8	Nick Heidfeld	Germany	Williams	70	1:38:33.927	+ 1:08.375	+ 9.543	186.675	1:22.053	53
+97	13	2005	Hungarian Grand Prix	7	7	Mark Webber	Australia	Williams	69	1:37:33.302	1 Lap	1 Lap	185.914	1:22.453	47
+97	13	2005	Hungarian Grand Prix	8	4	Takuma Sato	Japan	BAR	69	1:37:46.472	1 Lap	+ 13.170	185.497	1:22.399	45
+97	13	2005	Hungarian Grand Prix	9	6	Giancarlo Fisichella	Italy	Renault	69	1:38:07.300	1 Lap	+ 20.828	184.841	1:22.506	19
+97	13	2005	Hungarian Grand Prix	10	2	Rubens Barrichello	Brazil	Ferrari	69	1:38:14.241	1 Lap	+ 6.941	184.623	1:22.768	20
+97	13	2005	Hungarian Grand Prix	11	5	Fernando Alonso	Spain	Renault	69	1:38:15.467	1 Lap	+ 1.226	184.585	1:22.884	51
+97	13	2005	Hungarian Grand Prix	12	19	Narain Karthikeyan	India	Jordan	67	1:38:10.414	3 Laps	2 Laps	179.388	1:24.446	17
+97	13	2005	Hungarian Grand Prix	13	18	Tiago Monteiro	Portugal	Jordan	66	1:38:06.357	4 Laps	1 Lap	176.832	1:24.774	15
+97	13	2005	Hungarian Grand Prix	14	12	Felipe Massa	Brazil	Sauber	63	1:38:38.861	7 Laps	3 Laps	167.867	1:23.048	22
+97	13	2005	Hungarian Grand Prix	15	21	Christijan Albers	Netherlands	Minardi	59	1:38:35.142			157.308	1:25.956	8
+97	13	2005	Hungarian Grand Prix	16	11	Jacques Villeneuve	Canada	Sauber	56	1:21:11.605			181.292	1:23.118	23
+97	13	2005	Hungarian Grand Prix	17	10	Juan Pablo Montoya	Colombia	McLaren	41	57:28.592			187.499	1:21.237	20
+97	13	2005	Hungarian Grand Prix	18	20	Robert Doornbos	Netherlands	Minardi	26	38:22.411			178.090	1:25.646	16
+97	13	2005	Hungarian Grand Prix	19	15	Christian Klien	Austria	Red Bull							
+97	13	2005	Hungarian Grand Prix	20	14	David Coulthard	Great Britain	Red Bull							

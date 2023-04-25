@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+297	9	2016	Austrian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	71	1:27:38.107			210.203	1:08.411	67
+297	9	2016	Austrian Grand Prix	2	33	Max Verstappen	Netherlands	Red Bull	71	1:27:43.826	+ 5.719	+ 5.719	209.975	1:09.618	69
+297	9	2016	Austrian Grand Prix	3	7	Kimi Räikkönen	Finland	Ferrari	71	1:27:44.131	+ 6.024	+ 0.305	209.962	1:08.876	66
+297	9	2016	Austrian Grand Prix	4	6	Nico Rosberg	Germany	Mercedes	71	1:28:04.817	+ 26.710	+ 20.686	209.141	1:08.491	66
+297	9	2016	Austrian Grand Prix	5	3	Daniel Ricciardo	Australia	Red Bull	71	1:28:09.088	+ 30.981	+ 4.271	208.972	1:08.770	66
+297	9	2016	Austrian Grand Prix	6	22	Jenson Button	Great Britain	McLaren	71	1:28:15.813	+ 37.706	+ 6.725	208.706	1:10.001	70
+297	9	2016	Austrian Grand Prix	7	8	Romain Grosjean	France	Haas	71	1:28:22.775	+ 44.668	+ 6.962	208.432	1:09.925	67
+297	9	2016	Austrian Grand Prix	8	55	Carlos Sainz	Spain	Toro Rosso	71	1:28:25.507	+ 47.400	+ 2.732	208.325	1:10.138	68
+297	9	2016	Austrian Grand Prix	9	77	Valtteri Bottas	Finland	Williams	70	1:27:39.967	1 Lap	1 Lap	207.168	1:10.210	55
+297	9	2016	Austrian Grand Prix	10	94	Pascal Wehrlein	Germany	Manor	70	1:27:41.038	1 Lap	+ 1.071	207.126	1:10.859	67
+297	9	2016	Austrian Grand Prix	11	21	Esteban Gutiérrez	Mexico	Haas	70	1:27:41.659	1 Lap	+ 0.621	207.101	1:09.694	55
+297	9	2016	Austrian Grand Prix	12	30	Jolyon Palmer	Great Britain	Renault	70	1:27:56.637	1 Lap	+ 14.978	206.513	1:10.228	53
+297	9	2016	Austrian Grand Prix	13	12	Felipe Nasr	Brazil	Sauber	70	1:27:58.515	1 Lap	+ 1.878	206.440	1:10.415	46
+297	9	2016	Austrian Grand Prix	14	20	Kevin Magnussen	Denmark	Renault	70	1:28:01.504	1 Lap	+ 2.989	206.323	1:10.450	56
+297	9	2016	Austrian Grand Prix	15	9	Marcus Ericsson	Sweden	Sauber	70	1:28:05.382	1 Lap	+ 3.878	206.172	1:10.704	58
+297	9	2016	Austrian Grand Prix	16	88	Rio Haryanto	Indonesia	Manor	70	1:28:06.829	1 Lap	+ 1.447	206.115	1:10.342	66
+297	9	2016	Austrian Grand Prix	17	11	Sergio Pérez	Mexico	Force India	69	1:26:01.719	2 Laps	1 Lap	208.094	1:10.120	66
+297	9	2016	Austrian Grand Prix	18	14	Fernando Alonso	Spain	McLaren	64	1:20:46.242	7 Laps	5 Laps	205.573	1:11.020	44
+297	9	2016	Austrian Grand Prix	19	27	Nico Hülkenberg	Germany	Force India	64	1:21:04.491	7 Laps	+ 18.249	204.801	1:10.309	53
+297	9	2016	Austrian Grand Prix	20	19	Felipe Massa	Brazil	Williams	63	1:19:29.976	8 Laps	1 Lap	205.594	1:09.899	59
+297	9	2016	Austrian Grand Prix	21	5	Sebastian Vettel	Germany	Ferrari	26	31:16.139			215.581	1:11.441	10
+297	9	2016	Austrian Grand Prix	22	26	Daniil Kvyat	Russia	Toro Rosso	2	2:44.633			186.436	1:18.302	2

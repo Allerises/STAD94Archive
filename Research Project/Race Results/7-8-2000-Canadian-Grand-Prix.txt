@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+7	8	2000	Canadian Grand Prix	1	3	Michael Schumacher	Germany	Ferrari	69	1:41:12.313			180.849	1:19.812	30
+7	8	2000	Canadian Grand Prix	2	4	Rubens Barrichello	Brazil	Ferrari	69	1:41:12.487	+ 0.174	+ 0.174	180.844	1:19.235	38
+7	8	2000	Canadian Grand Prix	3	11	Giancarlo Fisichella	Italy	Benneton	69	1:41:27.678	+ 15.365	+ 15.191	180.393	1:20.399	37
+7	8	2000	Canadian Grand Prix	4	1	Mika Hakkinen	Finland	McLaren	69	1:41:30.874	+ 18.561	+ 3.196	180.298	1:19.049	37
+7	8	2000	Canadian Grand Prix	5	19	Jos Verstappen	Netherlands	Arrows	69	1:42:04.521	+ 52.208	+ 33.647	179.308	1:20.693	34
+7	8	2000	Canadian Grand Prix	6	6	Jarno Trulli	Italy	Jordan	69	1:42:14.000	+ 1:01.687	+ 9.479	179.031	1:20.479	31
+7	8	2000	Canadian Grand Prix	7	2	David Coulthard	Great Britain	McLaren	69	1:42:14.529	+ 1:02.216	+ 0.529	179.015	1:19.947	38
+7	8	2000	Canadian Grand Prix	8	23	Ricardo Zonta	Brazil	BAR	69	1:42:22.768	+ 1:10.455	+ 8.239	178.775	1:20.686	38
+7	8	2000	Canadian Grand Prix	9	12	Alexander Wurz	Austria	Benneton	69	1:42:32.212	+ 1:19.899	+ 9.444	178.501	1:20.625	39
+7	8	2000	Canadian Grand Prix	10	16	Pedro Diniz	Brazil	Sauber	69	1:43:06.857	+ 1:54.544	+ 34.645	177.501	1:20.494	36
+7	8	2000	Canadian Grand Prix	11	10	Jenson Button	Great Britain	Williams	68	1:41:13.543	1 Lap	1 Lap	178.192	1:20.781	37
+7	8	2000	Canadian Grand Prix	12	21	Gaston Mazzacane	Argentina	Minardi	68	1:42:44.455	1 Lap	+ 1:30.912	175.564	1:21.196	37
+7	8	2000	Canadian Grand Prix	13	7	Eddie Irvine	Great Britain	Jaguar	66	1:42:49.536	3 Laps	2 Laps	170.260	1:20.693	34
+7	8	2000	Canadian Grand Prix	14	9	Ralf Schumacher	Germany	Williams	64	1:34:01.045	5 Laps	2 Laps	180.569	1:20.520	38
+7	8	2000	Canadian Grand Prix	15	22	Jacques Villeneuve	Canada	BAR	64	1:34:27.808	5 Laps	+ 26.763	179.716	1:20.533	39
+7	8	2000	Canadian Grand Prix	16	20	Marc Gene	Spain	Minardi	64	1:34:45.471	5 Laps	+ 17.663	179.158	1:20.547	38
+7	8	2000	Canadian Grand Prix	17	18	Pedro de la Rosa	Spain	Arrows	48	1:08:24.074			186.144	1:20.842	35
+7	8	2000	Canadian Grand Prix	18	17	Mika Salo	Finland	Sauber	42	58:10.203			191.523	1:20.696	37
+7	8	2000	Canadian Grand Prix	19	14	Jean Alesi	France	Prost	38	52:55.940			190.429	1:20.889	20
+7	8	2000	Canadian Grand Prix	20	15	Nick Heidfeld	Germany	Prost	34	47:26.397			190.110	1:21.096	31
+7	8	2000	Canadian Grand Prix	21	5	Heinz-Harald Frentzen	Germany	Jordan	32	44:00.877			192.852	1:21.110	21
+7	8	2000	Canadian Grand Prix	22	8	Johnny Herbert	Great Britain	Jaguar	14	19:35.685			189.522	1:22.369	10

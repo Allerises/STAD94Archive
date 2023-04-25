@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+28	12	2001	German Grand Prix	1	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:38.117					
+28	12	2001	German Grand Prix	2	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:38.136	0.019	0.019			
+28	12	2001	German Grand Prix	3	3	Mika Hakkinen	Finland	West McLaren Mercedes		1:38.811	0.694	0.675			
+28	12	2001	German Grand Prix	4	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:38.941	0.824	0.130			
+28	12	2001	German Grand Prix	5	4	David Coulthard	Great Britain	West McLaren Mercedes		1:39.574	1.457	0.633			
+28	12	2001	German Grand Prix	6	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:39.682	1.565	0.108			
+28	12	2001	German Grand Prix	7	16	Nick Heidfeld	Germany	Red Bull Sauber Petronas		1:39.921	1.804	0.239			
+28	12	2001	German Grand Prix	8	17	Kimi Räikkönen	Finland	Red Bull Sauber Petronas		1:40.072	1.955	0.151			
+28	12	2001	German Grand Prix	9	19	Pedro de la Rosa	Spain	Jaguar Racing		1:40.265	2.148	0.193			
+28	12	2001	German Grand Prix	10	12	Jarno Trulli	Italy	B&H Jordan Honda		1:40.322	2.205	0.057			
+28	12	2001	German Grand Prix	11	18	Eddie Irvine	Great Britain	Jaguar Racing		1:40.371	2.254	0.049			
+28	12	2001	German Grand Prix	12	10	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:40.437	2.320	0.066			
+28	12	2001	German Grand Prix	13	9	Olivier Panis	France	Lucky Strike BAR Honda		1:40.610	2.493	0.173			
+28	12	2001	German Grand Prix	14	22	Jean Alesi	France	Prost Acer		1:40.724	2.607	0.114			
+28	12	2001	German Grand Prix	15	11	Ricardo Zonta	Brazil	B&H Jordan Honda		1:41.174	3.057	0.450			
+28	12	2001	German Grand Prix	16	23	Luciano Burti	Brazil	Prost Acer		1:41.213	3.096	0.039			
+28	12	2001	German Grand Prix	17	7	Giancarlo Fisichella	Italy	Mild Seven Benetton Renault		1:41.299	3.182	0.086			
+28	12	2001	German Grand Prix	18	8	Jenson Button	Great Britain	Mild Seven Benetton Renault		1:41.438	3.321	0.139			
+28	12	2001	German Grand Prix	19	15	Enrique Bernoldi	Brazil	Orange Arrows Asiatech		1:41.668	3.551	0.230			
+28	12	2001	German Grand Prix	20	14	Jos Verstappen	Netherlands	Orange Arrows Asiatech		1:41.870	3.753	0.202			
+28	12	2001	German Grand Prix	21	21	Fernando Alonso	Spain	European Minardi F1		1:41.913	3.796	0.043			
+28	12	2001	German Grand Prix	22	20	Tarso Marques	Brazil	European Minardi F1		1:42.716	4.599	0.803			

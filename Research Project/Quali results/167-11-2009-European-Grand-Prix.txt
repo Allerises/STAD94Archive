@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+167	11	2009	European Grand Prix	1	1	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	15	1:39.498	0.672	0.458			
+167	11	2009	European Grand Prix	2	2	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	26	1:39.532	0.034	0.034			
+167	11	2009	European Grand Prix	3	23	Rubens Barrichello	Brazil	Brawn GP Formula 1 Team	21	1:39.563	0.065	0.031			
+167	11	2009	European Grand Prix	4	15	Sebastian Vettel	Germany	Red Bull Racing	21	1:39.789	0.291	0.226			
+167	11	2009	European Grand Prix	5	22	Jenson Button	Great Britain	Brawn GP Formula 1 Team	22	1:39.821	0.323	0.032			
+167	11	2009	European Grand Prix	6	4	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	25	1:40.144	0.646	0.323			
+167	11	2009	European Grand Prix	7	16	Nico Rosberg	Germany	AT&T Williams	25	1:40.185	0.687	0.041			
+167	11	2009	European Grand Prix	8	7	Fernando Alonso	Spain	ING Renault F1 Team	21	1:40.236	0.738	0.051			
+167	11	2009	European Grand Prix	9	14	Mark Webber	Australia	Red Bull Racing	21	1:40.239	0.741	0.003			
+167	11	2009	European Grand Prix	10	5	Robert Kubica	Poland	BMW Sauber F1 Team	23	1:40.512	1.014	0.273			
+167	11	2009	European Grand Prix	11	6	Nick Heidfeld	Germany	BMW Sauber F1 Team	17	1:38.826					
+167	11	2009	European Grand Prix	12	20	Adrian Sutil	Germany	Force India F1 Team	18	1:38.846	0.020	0.020			
+167	11	2009	European Grand Prix	13	10	Timo Glock	Germany	Panasonic Toyota Racing	15	1:38.991	0.165	0.145			
+167	11	2009	European Grand Prix	14	8	Romain Grosjean	France	ING Renault F1 Team	16	1:39.040	0.214	0.049			
+167	11	2009	European Grand Prix	15	12	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	17	1:39.514	0.016	0.474			
+167	11	2009	European Grand Prix	16	21	Giancarlo Fisichella	Italy	Force India F1 Team	11	1:39.531	0.033	0.017			
+167	11	2009	European Grand Prix	17	17	Kazuki Nakajima	Japan	AT&T Williams	8	1:39.795	0.297	0.264			
+167	11	2009	European Grand Prix	18	9	Jarno Trulli	Italy	Panasonic Toyota Racing	10	1:39.807	0.309	0.012			
+167	11	2009	European Grand Prix	19	11	Jaime Alguersuari	Spain	Scuderia Toro Rosso	10	1:39.925	0.427	0.118			
+167	11	2009	European Grand Prix	20	3	Luca Badoer	Italy	Scuderia Ferrari Marlboro	13	1:41.413	1.915	1.488			

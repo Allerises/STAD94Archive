@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+142	4	2008	Spanish Grand Prix	1	1	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	17	1:21.813	0.764	0.003			
+142	4	2008	Spanish Grand Prix	2	5	Fernando Alonso	Spain	ING Renault F1 Team	18	1:21.904	0.091	0.091			
+142	4	2008	Spanish Grand Prix	3	2	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	16	1:22.058	0.245	0.154			
+142	4	2008	Spanish Grand Prix	4	4	Robert Kubica	Poland	BMW Sauber F1 Team	13	1:22.065	0.252	0.007			
+142	4	2008	Spanish Grand Prix	5	22	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	14	1:22.096	0.283	0.031			
+142	4	2008	Spanish Grand Prix	6	23	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	15	1:22.231	0.418	0.135			
+142	4	2008	Spanish Grand Prix	7	10	Mark Webber	Australia	Red Bull Racing	19	1:22.429	0.616	0.198			
+142	4	2008	Spanish Grand Prix	8	11	Jarno Trulli	Italy	Panasonic Toyota Racing	19	1:22.529	0.716	0.100			
+142	4	2008	Spanish Grand Prix	9	3	Nick Heidfeld	Germany	BMW Sauber F1 Team	20	1:22.542	0.729	0.013			
+142	4	2008	Spanish Grand Prix	10	6	Nelson Piquet Jr.	Brazil	Renault	18	1:22.699	0.886	0.157			
+142	4	2008	Spanish Grand Prix	11	17	Rubens Barrichello	Brazil	Honda Racing F1 Team	12	1:21.049					
+142	4	2008	Spanish Grand Prix	12	8	Kazuki Nakajima	Japan	AT&T Williams	15	1:21.117	0.068	0.068			
+142	4	2008	Spanish Grand Prix	13	16	Jenson Button	Great Britain	Honda Racing F1 Team	12	1:21.211	0.162	0.094			
+142	4	2008	Spanish Grand Prix	14	12	Timo Glock	Germany	Panasonic Toyota Racing	16	1:21.230	0.181	0.019			
+142	4	2008	Spanish Grand Prix	15	7	Nico Rosberg	Germany	AT&T Williams	15	1:21.349	0.300	0.119			
+142	4	2008	Spanish Grand Prix	16	14	Sebastien Bourdais	France	Scuderia Toro Rosso	15	1:21.724	0.675	0.375			
+142	4	2008	Spanish Grand Prix	17	9	David Coulthard	Great Britain	Red Bull Racing	6	1:21.810	0.761	0.086			
+142	4	2008	Spanish Grand Prix	18	15	Sebastian Vettel	Germany	Scuderia Toro Rosso	10	1:22.108	0.295	0.298			
+142	4	2008	Spanish Grand Prix	19	21	Giancarlo Fisichella	Italy	Force India F1 Team	11	1:22.516	0.703	0.408			
+142	4	2008	Spanish Grand Prix	20	20	Adrian Sutil	Germany	Force India F1 Team	8	1:23.224	1.411	0.708			
+142	4	2008	Spanish Grand Prix	21	19	Anthony Davidson	Great Britain	Super Aguri F1 Team	9	1:23.318	1.505	0.094			
+142	4	2008	Spanish Grand Prix	22	18	Takuma Sato	Japan	Super Aguri F1 Team	9	1:23.496	1.683	0.178			

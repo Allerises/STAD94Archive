@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+60	10	2003	French Grand Prix	1	4	Ralf Schumacher	Germany	Williams	70	1:30:49.213			203.866	1:15.698	37
+60	10	2003	French Grand Prix	2	3	Juan Pablo Montoya	Colombia	Williams	70	1:31:03.026	+ 13.813	+ 13.813	203.350	1:15.512	36
+60	10	2003	French Grand Prix	3	1	Michael Schumacher	Germany	Ferrari	70	1:31:08.781	+ 19.568	+ 5.755	203.136	1:16.303	19
+60	10	2003	French Grand Prix	4	6	Kimi Räikkönen	Finland	McLaren	70	1:31:27.260	+ 38.047	+ 18.479	202.452	1:16.609	19
+60	10	2003	French Grand Prix	5	5	David Coulthard	Great Britain	McLaren	70	1:31:29.502	+ 40.289	+ 2.242	202.369	1:15.981	17
+60	10	2003	French Grand Prix	6	14	Mark Webber	Australia	Jaguar	70	1:31:55.593	+ 1:06.380	+ 26.091	201.412	1:17.068	47
+60	10	2003	French Grand Prix	7	2	Rubens Barrichello	Brazil	Ferrari	69	1:30:50.156	1 Lap	1 Lap	200.917	1:17.104	47
+60	10	2003	French Grand Prix	8	20	Olivier Panis	France	Toyota	69	1:31:07.144	1 Lap	+ 16.988	200.292	1:17.398	36
+60	10	2003	French Grand Prix	9	16	Jacques Villeneuve	Canada	BAR	69	1:31:32.508	1 Lap	+ 25.364	199.367	1:17.786	49
+60	10	2003	French Grand Prix	10	15	Antonio Pizzonia	Brazil	Jaguar	69	1:31:33.401	1 Lap	+ 0.893	199.335	1:17.416	67
+60	10	2003	French Grand Prix	11	21	Cristiano da Matta	Brazil	Toyota	69	1:31:41.234	1 Lap	+ 7.833	199.051	1:17.870	63
+60	10	2003	French Grand Prix	12	10	Heinz-Harald Frentzen	Germany	Sauber	68	1:31:00.155	2 Laps	1 Lap	197.640	1:18.099	18
+60	10	2003	French Grand Prix	13	9	Nick Heidfeld	Germany	Sauber	68	1:31:23.765	2 Laps	+ 23.610	196.790	1:18.994	21
+60	10	2003	French Grand Prix	14	18	Justin Wilson	Great Britain	Minardi	67	1:30:59.279	3 Laps	1 Lap	194.763	1:19.588	25
+60	10	2003	French Grand Prix	15	12	Ralph Firman	Ireland	Jordan	67	1:31:31.286	3 Laps	+ 32.007	193.628	1:19.345	13
+60	10	2003	French Grand Prix	16	19	Jos Verstappen	Netherlands	Minardi	66	1:31:36.188	4 Laps	1 Lap	190.566	1:18.754	66
+60	10	2003	French Grand Prix	17	7	Jarno Trulli	Italy	Renault	45	59:43.004			199.251	1:17.025	33
+60	10	2003	French Grand Prix	18	8	Fernando Alonso	Spain	Renault	43	56:22.508			201.672	1:17.029	11
+60	10	2003	French Grand Prix	19	11	Giancarlo Fisichella	Italy	Jordan	42	56:34.296			196.294	1:19.093	23
+60	10	2003	French Grand Prix	20	17	Jenson Button	Great Britain	BAR	21	28:03.507			197.688	1:17.149	19

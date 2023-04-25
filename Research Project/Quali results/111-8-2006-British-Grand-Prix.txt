@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+111	8	2006	British Grand Prix	1	1	Fernando Alonso	Spain	Mild Seven Renault F1 Team	24	1:20.253					
+111	8	2006	British Grand Prix	2	3	Kimi Räikkönen	Finland	Team McLaren Mercedes	24	1:20.397	0.144	0.144			
+111	8	2006	British Grand Prix	3	5	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	22	1:20.574	0.321	0.177			
+111	8	2006	British Grand Prix	4	6	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	21	1:20.764	0.511	0.190			
+111	8	2006	British Grand Prix	5	2	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	21	1:20.919	0.666	0.155			
+111	8	2006	British Grand Prix	6	11	Rubens Barrichello	Brazil	Lucky Strike Honda Racing F1 Team	24	1:20.943	0.690	0.024			
+111	8	2006	British Grand Prix	7	7	Ralf Schumacher	Germany	Panasonic Toyota Racing	28	1:21.073	0.820	0.130			
+111	8	2006	British Grand Prix	8	4	Juan Pablo Montoya	Colombia	Team McLaren Mercedes	23	1:21.107	0.854	0.034			
+111	8	2006	British Grand Prix	9	16	Nick Heidfeld	Germany	BMW Sauber F1 Team	28	1:21.329	1.076	0.222			
+111	8	2006	British Grand Prix	10	17	Jacques Villeneuve	Canada	BMW Sauber F1 Team	21	1:21.599	1.346	0.270			
+111	8	2006	British Grand Prix	11	14	David Coulthard	Great Britain	Red Bull Racing	12	1:21.442	1.189	0.113			
+111	8	2006	British Grand Prix	12	10	Nico Rosberg	Germany	WilliamsF1 Team	9	1:21.567	1.314	0.125			
+111	8	2006	British Grand Prix	13	20	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	13	1:21.699	1.446	0.132			
+111	8	2006	British Grand Prix	14	15	Christian Klien	Austria	Red Bull Racing	12	1:21.990	1.737	0.291			
+111	8	2006	British Grand Prix	15	21	Scott Speed	USA	Scuderia Toro Rosso	11	1:22.076	1.823	0.086			
+111	8	2006	British Grand Prix	16	18	Tiago Monteiro	Portugal	MF1 Racing	10	1:22.207	1.954	0.131			
+111	8	2006	British Grand Prix	17	9	Mark Webber	Australia	WilliamsF1 Team	3	1:23.129	2.876	0.922			
+111	8	2006	British Grand Prix	18	19	Christijan Albers	Netherlands	MF1 Racing	7	1:23.210	2.957	0.081			
+111	8	2006	British Grand Prix	19	12	Jenson Button	Great Britain	Lucky Strike Honda Racing F1 Team	3	1:23.247	2.994	0.037			
+111	8	2006	British Grand Prix	20	22	Takuma Sato	Japan	Super Aguri F1	6	1:26.158	5.905	2.911			
+111	8	2006	British Grand Prix	21	23	Franck Montagny	France	Super Aguri F1	6	1:26.316	6.063	0.158			
+111	8	2006	British Grand Prix	22	8	Jarno Trulli	Italy	Panasonic Toyota Racing	2						

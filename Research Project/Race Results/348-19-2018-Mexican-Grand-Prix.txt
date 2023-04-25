@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+348	19	2018	Mexican Grand Prix	1	33	Max Verstappen	Netherlands	Red Bull	71	1:38:28.851			186.038	1:19.186	66
+348	19	2018	Mexican Grand Prix	2	5	Sebastian Vettel	Germany	Ferrari	71	1:38:46.167	+ 17.316	+ 17.316	185.495	1:19.522	49
+348	19	2018	Mexican Grand Prix	3	7	Kimi Räikkönen	Finland	Ferrari	71	1:39:18.765	+ 49.914	+ 32.598	184.480	1:20.334	19
+348	19	2018	Mexican Grand Prix	4	44	Lewis Hamilton	Great Britain	Mercedes	71	1:39:47.589	+ 1:18.738	+ 28.824	183.592	1:20.728	49
+348	19	2018	Mexican Grand Prix	5	77	Valtteri Bottas	Finland	Mercedes	70	1:38:41.450	1 Lap	1 Lap	183.026	1:18.741	65
+348	19	2018	Mexican Grand Prix	6	27	Nico Hülkenberg	Germany	Renault	69	1:38:48.778	2 Laps	1 Lap	180.186	1:20.637	67
+348	19	2018	Mexican Grand Prix	7	16	Charles Leclerc	Monaco	Sauber	69	1:39:00.342	2 Laps	+ 11.564	179.835	1:20.537	67
+348	19	2018	Mexican Grand Prix	8	2	Stoffel Vandoorne	Belgium	McLaren	69	1:39:21.165	2 Laps	+ 20.823	179.207	1:21.921	14
+348	19	2018	Mexican Grand Prix	9	9	Marcus Ericsson	Sweden	Sauber	69	1:39:31.895	2 Laps	+ 10.730	178.885	1:22.440	18
+348	19	2018	Mexican Grand Prix	10	10	Pierre Gasly	France	Toro Rosso	69	1:39:33.082	2 Laps	+ 1.187	178.849	1:22.755	69
+348	19	2018	Mexican Grand Prix	11	31	Esteban Ocon	France	Force India	69	1:39:37.622	2 Laps	+ 4.540	178.714	1:22.629	6
+348	19	2018	Mexican Grand Prix	12	18	Lance Stroll	Canada	Williams	69	1:39:40.821	2 Laps	+ 3.199	178.618	1:22.983	27
+348	19	2018	Mexican Grand Prix	13	35	Sergey Sirotkin	Russia	Williams	69	1:39:41.642	2 Laps	+ 0.821	178.594	1:22.640	66
+348	19	2018	Mexican Grand Prix	14	28	Brendon Hartley	New Zealand	Toro Rosso	69	1:39:44.396	2 Laps	+ 2.754	178.511	1:22.438	26
+348	19	2018	Mexican Grand Prix	15	20	Kevin Magnussen	Denmark	Haas	69	1:39:51.723	2 Laps	+ 7.327	178.293	1:21.874	45
+348	19	2018	Mexican Grand Prix	16	8	Romain Grosjean	France	Haas	68	1:38:31.062	3 Laps	1 Lap	178.105	1:21.370	46
+348	19	2018	Mexican Grand Prix	17	3	Daniel Ricciardo	Australia	Red Bull	61	1:24:32.789			186.156	1:19.462	57
+348	19	2018	Mexican Grand Prix	18	11	Sergio Pérez	Mexico	Force India	38	55:29.073			176.613	1:23.545	6
+348	19	2018	Mexican Grand Prix	19	55	Carlos Sainz	Spain	Renault	28	39:59.239			180.480	1:22.386	6
+348	19	2018	Mexican Grand Prix	20	14	Fernando Alonso	Spain	McLaren	3	4:23.956			172.965	1:24.197	3

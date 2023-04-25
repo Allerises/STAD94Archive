@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+135	14	2007	Belgian Grand Prix	1	6	Kimi Räikkönen	Finland	Ferrari	44	1:20:39.066			229.174	1:48.095	12
+135	14	2007	Belgian Grand Prix	2	5	Felipe Massa	Brazil	Ferrari	44	1:20:43.761	+ 4.695	+ 4.695	228.952	1:48.036	34
+135	14	2007	Belgian Grand Prix	3	1	Fernando Alonso	Spain	McLaren	44	1:20:53.409	+ 14.343	+ 9.648	228.497	1:48.182	44
+135	14	2007	Belgian Grand Prix	4	2	Lewis Hamilton	Great Britain	McLaren	44	1:21:02.681	+ 23.615	+ 9.272	228.061	1:48.215	41
+135	14	2007	Belgian Grand Prix	5	9	Nick Heidfeld	Germany	Sauber	44	1:21:30.945	+ 51.879	+ 28.264	226.743	1:48.663	33
+135	14	2007	Belgian Grand Prix	6	16	Nico Rosberg	Germany	Williams	44	1:21:55.942	+ 1:16.876	+ 24.997	225.590	1:49.769	29
+135	14	2007	Belgian Grand Prix	7	15	Mark Webber	Australia	Red Bull	44	1:21:59.705	+ 1:20.639	+ 3.763	225.418	1:50.049	12
+135	14	2007	Belgian Grand Prix	8	4	Heikki Kovalainen	Finland	Renault	44	1:22:04.172	+ 1:25.106	+ 4.467	225.213	1:49.600	21
+135	14	2007	Belgian Grand Prix	9	10	Robert Kubica	Poland	Sauber	44	1:22:04.727	+ 1:25.661	+ 0.555	225.188	1:48.894	32
+135	14	2007	Belgian Grand Prix	10	11	Ralf Schumacher	Germany	Toyota	44	1:22:07.640	+ 1:28.574	+ 2.913	225.055	1:50.022	43
+135	14	2007	Belgian Grand Prix	11	12	Jarno Trulli	Italy	Toyota	44	1:22:22.719	+ 1:43.653	+ 15.079	224.368	1:48.990	43
+135	14	2007	Belgian Grand Prix	12	18	Vitantonio Liuzzi	Italy	Toro Rosso	43	1:21:01.646	1 Lap	1 Lap	222.923	1:50.730	40
+135	14	2007	Belgian Grand Prix	13	8	Rubens Barrichello	Brazil	Honda	43	1:21:12.817	1 Lap	+ 11.171	222.412	1:50.678	43
+135	14	2007	Belgian Grand Prix	14	20	Adrian Sutil	Germany	Spyker	43	1:21:15.180	1 Lap	+ 2.363	222.304	1:50.902	29
+135	14	2007	Belgian Grand Prix	15	22	Takuma Sato	Japan	Super Aguri	43	1:21:15.825	1 Lap	+ 0.645	222.275	1:50.886	32
+135	14	2007	Belgian Grand Prix	16	23	Anthony Davidson	Great Britain	Super Aguri	43	1:21:43.683	1 Lap	+ 27.858	221.012	1:51.391	43
+135	14	2007	Belgian Grand Prix	17	21	Sakon Yamamoto	Japan	Spyker	43	1:21:58.817	1 Lap	+ 15.134	220.332	1:51.648	30
+135	14	2007	Belgian Grand Prix	18	7	Jenson Button	Great Britain	Honda	36	1:08:26.659			220.927	1:51.141	22
+135	14	2007	Belgian Grand Prix	19	17	Alexander Wurz	Austria	Williams	34	1:05:23.791			218.372	1:51.270	18
+135	14	2007	Belgian Grand Prix	20	14	David Coulthard	Great Britain	Red Bull	29	54:43.859			222.535	1:51.156	24
+135	14	2007	Belgian Grand Prix	21	19	Sebastian Vettel	Germany	Toro Rosso	8	15:56.795			210.361	1:52.724	4
+135	14	2007	Belgian Grand Prix	22	3	Giancarlo Fisichella	Italy	Renault	1	2:37.259			157.521		

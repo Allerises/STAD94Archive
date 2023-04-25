@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+344	6	2019	Monaco Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Motorsport	28	1:10.166			171.211		
+344	6	2019	Monaco Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Motorsport	27	1:10.252	0.086	0.086	171.001		
+344	6	2019	Monaco Grand Prix	3	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	19	1:10.641	0.475	0.389	170.059		
+344	6	2019	Monaco Grand Prix	4	5	Sebastian Vettel	Germany	Scuderia Ferrari Mission Winnow	27	1:10.947	0.781	0.306	169.326		
+344	6	2019	Monaco Grand Prix	5	10	Pierre Gasly	France	Aston Martin Red Bull Racing	24	1:11.041	0.875	0.094	169.102		
+344	6	2019	Monaco Grand Prix	6	20	Kevin Magnussen	Denmark	Rich Energy Haas F1 Team	24	1:11.109	0.943	0.068	168.940		
+344	6	2019	Monaco Grand Prix	7	3	Daniel Ricciardo	Australia	Renault F1 Team	25	1:11.218	1.052	0.109	168.682		
+344	6	2019	Monaco Grand Prix	8	26	Daniil Kvyat	Russia	Red Bull Toro Rosso Honda	30	1:11.271	1.105	0.053	168.556		
+344	6	2019	Monaco Grand Prix	9	55	Carlos Sainz	Spain	McLaren F1 Team	30	1:11.417	1.251	0.146	168.212		
+344	6	2019	Monaco Grand Prix	10	23	Alexander Albon	Thailand	Red Bull Toro Rosso Honda	31	1:11.653	1.487	0.236	167.658		
+344	6	2019	Monaco Grand Prix	11	27	Nico Hülkenberg	Germany	Renault F1 Team	20	1:11.670	1.504	0.017	167.618		
+344	6	2019	Monaco Grand Prix	12	4	Lando Norris	Great Britain	McLaren F1 Team	22	1:11.724	1.558	0.054	167.492		
+344	6	2019	Monaco Grand Prix	13	8	Romain Grosjean	France	Rich Energy Haas F1 Team	21	1:12.027	1.861	0.303	166.787		
+344	6	2019	Monaco Grand Prix	14	7	Kimi Räikkönen	Finland	Alfa Romeo Racing	21	1:12.115	1.949	0.088	166.583		
+344	6	2019	Monaco Grand Prix	15	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing	22	1:12.185	2.019	0.070	166.422		
+344	6	2019	Monaco Grand Prix	16	16	Charles Leclerc	Monaco	Scuderia Ferrari Mission Winnow	8	1:12.149	1.983		166.505		
+344	6	2019	Monaco Grand Prix	17	11	Sergio Pérez	Mexico	SportPesa Racing Point F1 Team	11	1:12.233	2.067	0.084	166.311		
+344	6	2019	Monaco Grand Prix	18	18	Lance Stroll	Canada	SportPesa Racing Point F1 Team	11	1:12.846	2.680	0.613	164.912		
+344	6	2019	Monaco Grand Prix	19	63	George Russell	Great Britain	ROKiT Williams Racing	13	1:13.477	3.311	0.631	163.496		
+344	6	2019	Monaco Grand Prix	20	88	Robert Kubica	Poland	ROKiT Williams Racing	13	1:13.751	3.585	0.274	162.888		

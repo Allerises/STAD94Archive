@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+337	8	2018	French Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas Motorsport	19	1:30.029			233.604		
+337	8	2018	French Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes AMG Petronas Motorsport	17	1:30.147	0.118	0.118	233.298		
+337	8	2018	French Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari	22	1:30.400	0.371	0.253	232.646		
+337	8	2018	French Grand Prix	4	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	19	1:30.705	0.676	0.305	231.863		
+337	8	2018	French Grand Prix	5	3	Daniel Ricciardo	Australia	Aston Martin Red Bull Racing	19	1:30.895	0.866	0.190	231.379		
+337	8	2018	French Grand Prix	6	7	Kimi Räikkönen	Finland	Scuderia Ferrari	22	1:31.057	1.028	0.162	230.967		
+337	8	2018	French Grand Prix	7	55	Carlos Sainz	Spain	Renault Sport Formula One Team	22	1:32.126	2.097	1.069	228.287		
+337	8	2018	French Grand Prix	8	16	Charles Leclerc	Monaco	Alfa Romeo Sauber F1 Team	21	1:32.635	2.606	0.509	227.032		
+337	8	2018	French Grand Prix	9	20	Kevin Magnussen	Denmark	Haas F1 Team	23	1:32.930	2.901	0.295	226.312		
+337	8	2018	French Grand Prix	10	8	Romain Grosjean	France	Haas F1 Team	20						
+337	8	2018	French Grand Prix	11	31	Esteban Ocon	France	Sahara Force India F1 Team	14	1:32.075	2.046		228.413		
+337	8	2018	French Grand Prix	12	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team	15	1:32.115	2.086	0.040	228.314		
+337	8	2018	French Grand Prix	13	11	Sergio Pérez	Mexico	Sahara Force India F1 Team	15	1:32.454	2.425	0.339	227.477		
+337	8	2018	French Grand Prix	14	10	Pierre Gasly	France	Red Bull Toro Rosso Honda	17	1:32.460	2.431	0.006	227.462		
+337	8	2018	French Grand Prix	15	9	Marcus Ericsson	Sweden	Alfa Romeo Sauber F1 Team	18	1:32.820	2.791	0.360	226.580		
+337	8	2018	French Grand Prix	16	14	Fernando Alonso	Spain	McLaren F1 Team	10	1:32.976	2.947	0.156	226.200		
+337	8	2018	French Grand Prix	17	28	Brendon Hartley	New Zealand	Red Bull Toro Rosso Honda	10	1:33.025	2.996	0.049	226.081		
+337	8	2018	French Grand Prix	18	2	Stoffel Vandoorne	Belgium	McLaren F1 Team	10	1:33.162	3.133	0.137	225.748		
+337	8	2018	French Grand Prix	19	35	Sergey Sirotkin	Russia	Williams Martini Racing	9	1:33.636	3.607	0.474	224.605		
+337	8	2018	French Grand Prix	20	18	Lance Stroll	Canada	Williams Martini Racing	10	1:33.729	3.700	0.093	224.383		

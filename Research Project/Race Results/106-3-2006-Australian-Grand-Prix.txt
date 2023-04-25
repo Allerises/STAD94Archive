@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+106	3	2006	Australian Grand Prix	1	1	Fernando Alonso	Spain	Renault	57	1:34:27.870			191.990	1:26.189	49
+106	3	2006	Australian Grand Prix	2	3	Kimi Räikkönen	Finland	McLaren	57	1:34:29.699	+ 1.829	+ 1.829	191.928	1:26.045	57
+106	3	2006	Australian Grand Prix	3	7	Ralf Schumacher	Germany	Toyota	57	1:34:52.694	+ 24.824	+ 22.995	191.153	1:27.810	45
+106	3	2006	Australian Grand Prix	4	16	Nick Heidfeld	Germany	Sauber	57	1:34:58.902	+ 31.032	+ 6.208	190.944	1:27.700	49
+106	3	2006	Australian Grand Prix	5	2	Giancarlo Fisichella	Italy	Renault	57	1:35:06.291	+ 38.421	+ 7.389	190.697	1:27.561	53
+106	3	2006	Australian Grand Prix	6	17	Jacques Villeneuve	Canada	Sauber	57	1:35:17.424	+ 49.554	+ 11.133	190.326	1:28.321	56
+106	3	2006	Australian Grand Prix	7	11	Rubens Barrichello	Brazil	Honda	57	1:35:19.774	+ 51.904	+ 2.350	190.248	1:27.690	32
+106	3	2006	Australian Grand Prix	8	14	David Coulthard	Great Britain	Red Bull	57	1:35:21.853	+ 53.983	+ 2.079	190.178	1:28.250	32
+106	3	2006	Australian Grand Prix	9	21	Scott Speed	USA	Toro Rosso	57	1:35:46.687	+ 1:18.817	+ 24.834	189.357	1:28.367	26
+106	3	2006	Australian Grand Prix	10	12	Jenson Button	Great Britain	Honda	56	1:33:35.538	1 Lap	1 Lap	190.379	1:27.799	17
+106	3	2006	Australian Grand Prix	11	19	Christijan Albers	Netherlands	MF1 Racing	56	1:35:40.604	1 Lap	+ 2:05.066	186.232	1:29.238	53
+106	3	2006	Australian Grand Prix	12	22	Takuma Sato	Japan	Super Aguri	55	1:35:46.666	2 Laps	1 Lap	182.713	1:30.574	54
+106	3	2006	Australian Grand Prix	13	23	Yuji Ide	Japan	Super Aguri	54	1:35:38.433	3 Laps	1 Lap	179.648	1:33.737	49
+106	3	2006	Australian Grand Prix	14	4	Juan Pablo Montoya	Colombia	McLaren	45	1:17:09.337			185.574	1:27.464	45
+106	3	2006	Australian Grand Prix	15	18	Tiago Monteiro	Portugal	MF1 Racing	39	1:09:43.669			177.963	1:29.687	31
+106	3	2006	Australian Grand Prix	16	20	Vitantonio Liuzzi	Italy	Toro Rosso	37	1:03:07.270			186.508	1:27.988	25
+106	3	2006	Australian Grand Prix	17	5	Michael Schumacher	Germany	Ferrari	32	52:37.726			193.463	1:27.180	27
+106	3	2006	Australian Grand Prix	18	9	Mark Webber	Australia	Williams	22	37:17.203			187.733	1:27.800	19
+106	3	2006	Australian Grand Prix	19	15	Christian Klien	Austria	Red Bull	4	8:45.675			145.266	1:41.351	4
+106	3	2006	Australian Grand Prix	20	8	Jarno Trulli	Italy	Toyota							
+106	3	2006	Australian Grand Prix	21	10	Nico Rosberg	Germany	Williams							
+106	3	2006	Australian Grand Prix	22	6	Felipe Massa	Brazil	Ferrari							

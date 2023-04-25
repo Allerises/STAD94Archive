@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+37	4	2002	San Marino Grand Prix	1	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:21.091					
+37	4	2002	San Marino Grand Prix	2	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:21.155	0.064	0.064			
+37	4	2002	San Marino Grand Prix	3	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:21.473	0.382	0.318			
+37	4	2002	San Marino Grand Prix	4	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:21.605	0.514	0.132			
+37	4	2002	San Marino Grand Prix	5	4	Kimi Räikkönen	Finland	West McLaren Mercedes		1:22.104	1.013	0.499			
+37	4	2002	San Marino Grand Prix	6	3	David Coulthard	Great Britain	West McLaren Mercedes		1:22.490	1.399	0.386			
+37	4	2002	San Marino Grand Prix	7	7	Nick Heidfeld	Germany	Sauber Petronas		1:22.767	1.676	0.277			
+37	4	2002	San Marino Grand Prix	8	14	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:22.833	1.742	0.066			
+37	4	2002	San Marino Grand Prix	9	15	Jenson Button	Great Britain	Mild Seven Renault F1 Team		1:22.857	1.766	0.024			
+37	4	2002	San Marino Grand Prix	10	11	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:23.116	2.025	0.259			
+37	4	2002	San Marino Grand Prix	11	8	Felipe Massa	Brazil	Sauber Petronas		1:23.681	2.590	0.565			
+37	4	2002	San Marino Grand Prix	12	12	Olivier Panis	France	Lucky Strike BAR Honda		1:23.821	2.730	0.140			
+37	4	2002	San Marino Grand Prix	13	20	Heinz-Harald Frentzen	Germany	Orange Arrows		1:23.862	2.771	0.041			
+37	4	2002	San Marino Grand Prix	14	10	Takuma Sato	Japan	DHL Jordan Honda		1:24.050	2.959	0.188			
+37	4	2002	San Marino Grand Prix	15	9	Giancarlo Fisichella	Italy	DHL Jordan Honda		1:24.253	3.162	0.203			
+37	4	2002	San Marino Grand Prix	16	24	Mika Salo	Finland	Panasonic Toyota Racing		1:24.328	3.237	0.075			
+37	4	2002	San Marino Grand Prix	17	25	Allan McNish	Great Britain	Panasonic Toyota Racing		1:24.331	3.240	0.003			
+37	4	2002	San Marino Grand Prix	18	16	Eddie Irvine	Great Britain	Jaguar Racing		1:24.579	3.488	0.248			
+37	4	2002	San Marino Grand Prix	19	23	Mark Webber	Australia	KL Minardi Asiatech		1:24.790	3.699	0.211			
+37	4	2002	San Marino Grand Prix	20	21	Enrique Bernoldi	Brazil	Orange Arrows		1:24.808	3.717	0.018			
+37	4	2002	San Marino Grand Prix	21	17	Pedro de la Rosa	Spain	Jaguar Racing		1:24.852	3.761	0.044			
+37	4	2002	San Marino Grand Prix	22	22	Alex Yoong	Malaysia	KL Minardi Asiatech		1:27.241	6.150	2.389			

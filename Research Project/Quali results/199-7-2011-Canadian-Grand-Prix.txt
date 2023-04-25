@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+199	7	2011	Canadian Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull Racing	17	1:13.014					
+199	7	2011	Canadian Grand Prix	2	5	Fernando Alonso	Spain	Scuderia Ferrari	19	1:13.199	0.185	0.185			
+199	7	2011	Canadian Grand Prix	3	6	Felipe Massa	Brazil	Scuderia Ferrari	20	1:13.217	0.203	0.018			
+199	7	2011	Canadian Grand Prix	4	2	Mark Webber	Australia	Red Bull Racing	22	1:13.429	0.415	0.212			
+199	7	2011	Canadian Grand Prix	5	3	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	18	1:13.565	0.551	0.136			
+199	7	2011	Canadian Grand Prix	6	8	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	14	1:13.814	0.800	0.249			
+199	7	2011	Canadian Grand Prix	7	4	Jenson Button	Great Britain	Vodafone McLaren Mercedes	20	1:13.838	0.824	0.024			
+199	7	2011	Canadian Grand Prix	8	7	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	14	1:13.864	0.850	0.026			
+199	7	2011	Canadian Grand Prix	9	9	Nick Heidfeld	Germany	Lotus Renault GP	27	1:14.062	1.048	0.198			
+199	7	2011	Canadian Grand Prix	10	10	Vitaly Petrov	Russia	Lotus Renault GP	25	1:14.085	1.071	0.023			
+199	7	2011	Canadian Grand Prix	11	15	Paul di Resta	Great Britain	Force India F1 Team	19	1:14.752	1.738	0.667			
+199	7	2011	Canadian Grand Prix	12	12	Pastor Maldonado	Venezuela	AT&T Williams	20	1:15.043	2.029	0.291			
+199	7	2011	Canadian Grand Prix	13	16	Kamui Kobayashi	Japan	Sauber F1 Team	21	1:15.285	2.271	0.242			
+199	7	2011	Canadian Grand Prix	14	14	Adrian Sutil	Germany	Force India F1 Team	21	1:15.287	2.273	0.002			
+199	7	2011	Canadian Grand Prix	15	18	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	18	1:15.334	2.320	0.047			
+199	7	2011	Canadian Grand Prix	16	11	Rubens Barrichello	Brazil	AT&T Williams	20	1:15.361	2.347	0.027			
+199	7	2011	Canadian Grand Prix	17	17	Pedro de la Rosa	Spain	Sauber F1 Team	21	1:15.587	2.573	0.226			
+199	7	2011	Canadian Grand Prix	18	19	Jaime Alguersuari	Spain	Scuderia Toro Rosso	10	1:16.294	3.280	0.707			
+199	7	2011	Canadian Grand Prix	19	21	Jarno Trulli	Italy	Team Lotus	12	1:16.745	3.731	0.451			
+199	7	2011	Canadian Grand Prix	20	20	Heikki Kovalainen	Finland	Team Lotus	10	1:16.786	3.772	0.041			
+199	7	2011	Canadian Grand Prix	21	23	Vitantonio Liuzzi	Italy	HRT F1 Team	10	1:18.424	5.410	1.638			
+199	7	2011	Canadian Grand Prix	22	24	Timo Glock	Germany	Marussia Virgin Racing	12	1:18.537	5.523	0.113			
+199	7	2011	Canadian Grand Prix	23	22	Narain Karthikeyan	India	HRT F1 Team	11	1:18.574	5.560	0.037			
+199	7	2011	Canadian Grand Prix	24	25	Jerome d'Ambrosio	Belgium	Marussia Virgin Racing	13	1:19.414	6.400	0.840			

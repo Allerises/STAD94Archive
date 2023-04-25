@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+83	17	2004	Japanese Grand Prix	1	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:33.542					
+83	17	2004	Japanese Grand Prix	2	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team	3	1:34.032	0.490	0.490			
+83	17	2004	Japanese Grand Prix	3	14	Mark Webber	Australia	Jaguar Racing	3	1:34.571	1.029	0.539			
+83	17	2004	Japanese Grand Prix	4	10	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:34.897	1.355	0.326			
+83	17	2004	Japanese Grand Prix	5	9	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:35.157	1.615	0.260			
+83	17	2004	Japanese Grand Prix	6	16	Jarno Trulli	Italy	Panasonic Toyota Racing	3	1:35.213	1.671	0.056			
+83	17	2004	Japanese Grand Prix	7	11	Giancarlo Fisichella	Italy	Sauber Petronas	3	1:36.136	2.594	0.923			
+83	17	2004	Japanese Grand Prix	8	5	David Coulthard	Great Britain	West McLaren Mercedes	3	1:36.156	2.614	0.020			
+83	17	2004	Japanese Grand Prix	9	7	Jacques Villeneuve	Canada	Mild Seven Renault F1 Team	3	1:36.274	2.732	0.118			
+83	17	2004	Japanese Grand Prix	10	17	Olivier Panis	France	Panasonic Toyota Racing	3	1:36.420	2.878	0.146			
+83	17	2004	Japanese Grand Prix	11	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:36.663	3.121	0.243			
+83	17	2004	Japanese Grand Prix	12	6	Kimi Räikkönen	Finland	West McLaren Mercedes	3	1:36.820	3.278	0.157			
+83	17	2004	Japanese Grand Prix	13	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team	3	1:37.653	4.111	0.833			
+83	17	2004	Japanese Grand Prix	14	15	Christian Klien	Austria	Jaguar Racing	3	1:38.258	4.716	0.605			
+83	17	2004	Japanese Grand Prix	15	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:38.637	5.095	0.379			
+83	17	2004	Japanese Grand Prix	16	18	Nick Heidfeld	Germany	Jordan Ford	3	1:41.953	8.411	3.316			
+83	17	2004	Japanese Grand Prix	17	19	Timo Glock	Germany	Jordan Ford	3	1:43.533	9.991	1.580			
+83	17	2004	Japanese Grand Prix	18	20	Gianmaria Bruni	Italy	Minardi Cosworth	3	1:48.069	14.527	4.536			
+83	17	2004	Japanese Grand Prix	19	21	Zsolt Baumgartner	Hungary	Minardi Cosworth							
+83	17	2004	Japanese Grand Prix	20	12	Felipe Massa	Brazil	Sauber Petronas	2						

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+125	4	2007	Spanish Grand Prix	1	5	Felipe Massa	Brazil	Ferrari	65	1:31:36.230			198.102	1:22.680	14
+125	4	2007	Spanish Grand Prix	2	2	Lewis Hamilton	Great Britain	McLaren	65	1:31:43.020	+ 6.790	+ 6.790	197.857	1:22.876	20
+125	4	2007	Spanish Grand Prix	3	1	Fernando Alonso	Spain	McLaren	65	1:31:53.686	+ 17.456	+ 10.666	197.475	1:22.966	17
+125	4	2007	Spanish Grand Prix	4	10	Robert Kubica	Poland	Sauber	65	1:32:07.845	+ 31.615	+ 14.159	196.969	1:23.129	20
+125	4	2007	Spanish Grand Prix	5	14	David Coulthard	Great Britain	Red Bull	65	1:32:34.561	+ 58.331	+ 26.716	196.022	1:23.524	18
+125	4	2007	Spanish Grand Prix	6	16	Nico Rosberg	Germany	Williams	65	1:32:35.768	+ 59.538	+ 1.207	195.979	1:23.693	60
+125	4	2007	Spanish Grand Prix	7	4	Heikki Kovalainen	Finland	Renault	65	1:32:38.358	+ 1:02.128	+ 2.590	195.888	1:22.980	32
+125	4	2007	Spanish Grand Prix	8	22	Takuma Sato	Japan	Super Aguri	64	1:31:50.941	1 Lap	1 Lap	194.532	1:24.110	23
+125	4	2007	Spanish Grand Prix	9	3	Giancarlo Fisichella	Italy	Renault	64	1:31:52.172	1 Lap	+ 1.231	194.489	1:23.560	57
+125	4	2007	Spanish Grand Prix	10	8	Rubens Barrichello	Brazil	Honda	64	1:32:06.861	1 Lap	+ 14.689	193.972	1:24.287	16
+125	4	2007	Spanish Grand Prix	11	23	Anthony Davidson	Great Britain	Super Aguri	64	1:32:17.097	1 Lap	+ 10.236	193.613	1:24.291	59
+125	4	2007	Spanish Grand Prix	12	7	Jenson Button	Great Britain	Honda	64	1:32:44.602	1 Lap	+ 27.505	192.656	1:24.186	64
+125	4	2007	Spanish Grand Prix	13	20	Adrian Sutil	Germany	Spyker	63	1:31:49.413	2 Laps	1 Lap	191.544	1:25.191	57
+125	4	2007	Spanish Grand Prix	14	21	Christijan Albers	Netherlands	Spyker	63	1:32:25.252	2 Laps	+ 35.839	190.307	1:25.260	61
+125	4	2007	Spanish Grand Prix	15	9	Nick Heidfeld	Germany	Sauber	46	1:06:53.507			191.955	1:23.483	22
+125	4	2007	Spanish Grand Prix	16	11	Ralf Schumacher	Germany	Toyota	44	1:03:56.138			192.093	1:24.003	37
+125	4	2007	Spanish Grand Prix	17	18	Vitantonio Liuzzi	Italy	Toro Rosso	19	28:21.884			186.821	1:25.207	18
+125	4	2007	Spanish Grand Prix	18	19	Scott Speed	USA	Toro Rosso	9	13:10.951			190.110	1:26.238	6
+125	4	2007	Spanish Grand Prix	19	6	Kimi Räikkönen	Finland	Ferrari	9	13:33.628			184.812	1:23.475	7
+125	4	2007	Spanish Grand Prix	20	12	Jarno Trulli	Italy	Toyota	8	11:58.148			186.048	1:26.094	6
+125	4	2007	Spanish Grand Prix	21	15	Mark Webber	Australia	Red Bull	7	10:31.842			184.939	1:26.323	4
+125	4	2007	Spanish Grand Prix	22	17	Alexander Wurz	Austria	Williams	1	2:16.740			119.236		

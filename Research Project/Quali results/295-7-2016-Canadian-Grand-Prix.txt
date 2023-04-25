@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+295	7	2016	Canadian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:12.812			215.618		
+295	7	2016	Canadian Grand Prix	2	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:12.874	0.062	0.062	215.434		
+295	7	2016	Canadian Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:12.990	0.178	0.116	215.092		
+295	7	2016	Canadian Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull Racing		1:13.166	0.354	0.176	214.575		
+295	7	2016	Canadian Grand Prix	5	33	Max Verstappen	Netherlands	Red Bull Racing		1:13.414	0.602	0.248	213.850		
+295	7	2016	Canadian Grand Prix	6	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:13.579	0.767	0.165	213.370		
+295	7	2016	Canadian Grand Prix	7	77	Valtteri Bottas	Finland	Williams Martini Racing		1:13.670	0.858	0.091	213.107		
+295	7	2016	Canadian Grand Prix	8	19	Felipe Massa	Brazil	Williams Martini Racing		1:13.769	0.957	0.099	212.821		
+295	7	2016	Canadian Grand Prix	9	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:13.952	1.140	0.183	212.294		
+295	7	2016	Canadian Grand Prix	10	14	Fernando Alonso	Spain	McLaren Honda		1:14.338	1.526	0.386	211.192		
+295	7	2016	Canadian Grand Prix	11	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:14.317	1.505		211.251		
+295	7	2016	Canadian Grand Prix	12	22	Jenson Button	Great Britain	McLaren Honda		1:14.437	1.625	0.120	210.911		
+295	7	2016	Canadian Grand Prix	13	21	Esteban Gutiérrez	Mexico	Haas F1 Team		1:14.571	1.759	0.134	210.532		
+295	7	2016	Canadian Grand Prix	14	8	Romain Grosjean	France	Haas F1 Team		1:14.803	1.991	0.232	209.879		
+295	7	2016	Canadian Grand Prix	15	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:14.457	1.645		210.854		
+295	7	2016	Canadian Grand Prix	16	30	Jolyon Palmer	Great Britain	Renault Sport F1 Team		1:15.459	2.647	1.002	208.054		
+295	7	2016	Canadian Grand Prix	17	94	Pascal Wehrlein	Germany	Manor Racing MRT		1:15.599	2.787	0.140	207.669		
+295	7	2016	Canadian Grand Prix	18	12	Felipe Nasr	Brazil	Sauber F1 Team		1:16.663	3.851	1.064	204.787		
+295	7	2016	Canadian Grand Prix	19	88	Rio Haryanto	Indonesia	Manor Racing MRT		1:17.052	4.240	0.389	203.753		
+295	7	2016	Canadian Grand Prix	20	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:21.956	9.144	4.904	191.561		
+295	7	2016	Canadian Grand Prix	21	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:15.635	2.823		207.570		
+295	7	2016	Canadian Grand Prix	22	20	Kevin Magnussen	Denmark	Renault Sport F1 Team							

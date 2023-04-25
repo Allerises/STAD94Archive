@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+198	6	2011	Monaco Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	78	2:09:38.373				1:16.267	78
+198	6	2011	Monaco Grand Prix	2	5	Fernando Alonso	Spain	Ferrari	78	2:09:39.511	+ 1.138	+ 1.138		1:16.471	77
+198	6	2011	Monaco Grand Prix	3	4	Jenson Button	Great Britain	McLaren	78	2:09:40.751	+ 2.378	+ 1.240		1:16.463	78
+198	6	2011	Monaco Grand Prix	4	2	Mark Webber	Australia	Red Bull	78	2:10:01.474	+ 23.101	+ 20.723		1:16.234	78
+198	6	2011	Monaco Grand Prix	5	16	Kamui Kobayashi	Japan	Sauber	78	2:10:05.289	+ 26.916	+ 3.815		1:18.308	76
+198	6	2011	Monaco Grand Prix	6	3	Lewis Hamilton	Great Britain	McLaren	78	2:10:25.583	+ 47.210	+ 20.294		1:17.847	54
+198	6	2011	Monaco Grand Prix	7	14	Adrian Sutil	Germany	Force India	77		1 Lap	1 Lap		1:18.872	77
+198	6	2011	Monaco Grand Prix	8	9	Nick Heidfeld	Germany	Renault	77		1 Lap			1:17.857	77
+198	6	2011	Monaco Grand Prix	9	11	Rubens Barrichello	Brazil	Williams	77		1 Lap			1:18.584	76
+198	6	2011	Monaco Grand Prix	10	18	Sébastien Buemi	Switzerland	Toro Rosso	77		1 Lap			1:18.832	77
+198	6	2011	Monaco Grand Prix	11	8	Nico Rosberg	Germany	Mercedes	76		2 Laps	1 Lap		1:18.699	56
+198	6	2011	Monaco Grand Prix	12	15	Paul di Resta	Great Britain	Force India	76		2 Laps			1:18.724	75
+198	6	2011	Monaco Grand Prix	13	21	Jarno Trulli	Italy	Lotus	76		2 Laps			1:21.277	66
+198	6	2011	Monaco Grand Prix	14	20	Heikki Kovalainen	Finland	Lotus	76		2 Laps			1:20.678	54
+198	6	2011	Monaco Grand Prix	15	25	Jerome d'Ambrosio	Belgium	Virgin	75		3 Laps	1 Lap		1:21.391	75
+198	6	2011	Monaco Grand Prix	16	23	Vitantonio Liuzzi	Italy	HRT	75		3 Laps			1:21.566	74
+198	6	2011	Monaco Grand Prix	17	22	Narain Karthikeyan	India	HRT	74		4 Laps	1 Lap		1:22.731	74
+198	6	2011	Monaco Grand Prix	18	12	Pastor Maldonado	Venezuela	Williams	73		5 Laps	1 Lap		1:18.904	62
+198	6	2011	Monaco Grand Prix	19	10	Vitaly Petrov	Russia	Renault	67					1:20.058	57
+198	6	2011	Monaco Grand Prix	20	19	Jaime Alguersuari	Spain	Toro Rosso	66					1:18.608	59
+198	6	2011	Monaco Grand Prix	21	6	Felipe Massa	Brazil	Ferrari	32					1:20.202	16
+198	6	2011	Monaco Grand Prix	22	7	Michael Schumacher	Germany	Mercedes	32					1:19.801	30
+198	6	2011	Monaco Grand Prix	23	24	Timo Glock	Germany	Virgin	30					1:22.102	30
+198	6	2011	Monaco Grand Prix	24	17	Sergio Pérez	Mexico	Sauber							

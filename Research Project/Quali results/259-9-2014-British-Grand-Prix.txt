@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+259	9	2014	British Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	6	1:35.766					
+259	9	2014	British Grand Prix	2	1	Sebastian Vettel	Germany	Infiniti Red Bull Racing	5	1:37.386	1.620	1.620			
+259	9	2014	British Grand Prix	3	22	Jenson Button	Great Britain	McLaren Mercedes	6	1:38.200	2.434	0.814			
+259	9	2014	British Grand Prix	4	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team	6	1:38.329	2.563	0.129			
+259	9	2014	British Grand Prix	5	20	Kevin Magnussen	Denmark	McLaren Mercedes	6	1:38.417	2.651	0.088			
+259	9	2014	British Grand Prix	6	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team	5	1:39.232	3.466	0.815			
+259	9	2014	British Grand Prix	7	11	Sergio Pérez	Mexico	Sahara Force India F1 Team	5	1:40.457	4.691	1.225			
+259	9	2014	British Grand Prix	8	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing	3	1:40.606	4.840	0.149			
+259	9	2014	British Grand Prix	9	26	Daniil Kvyat	Russia	Scuderia Toro Rosso	3	1:40.707	4.941	0.101			
+259	9	2014	British Grand Prix	10	25	Jean-Eric Vergne	France	Scuderia Toro Rosso	3	1:40.855	5.089	0.148			
+259	9	2014	British Grand Prix	11	8	Romain Grosjean	France	Lotus F1 Team	9	1:38.496	2.730	0.079			
+259	9	2014	British Grand Prix	12	17	Jules Bianchi	France	Marussia F1 Team	9	1:38.709	2.943	0.213			
+259	9	2014	British Grand Prix	13	4	Max Chilton	Great Britain	Marussia F1 Team	8	1:39.800	4.034	1.091			
+259	9	2014	British Grand Prix	14	21	Esteban Gutiérrez	Mexico	Sauber F1 Team	8	1:40.912	5.146	1.112			
+259	9	2014	British Grand Prix	15	99	Adrian Sutil	Germany	Sauber F1 Team							
+259	9	2014	British Grand Prix	16	77	Valtteri Bottas	Finland	Williams Martini Racing	5	1:45.318	9.552	1.300			
+259	9	2014	British Grand Prix	17	19	Felipe Massa	Brazil	Williams Martini Racing	5	1:45.695	9.929	0.377			
+259	9	2014	British Grand Prix	18	14	Fernando Alonso	Spain	Scuderia Ferrari	6	1:45.935	10.169	0.240			
+259	9	2014	British Grand Prix	19	7	Kimi Räikkönen	Finland	Scuderia Ferrari	7	1:46.684	10.918	0.749			
+259	9	2014	British Grand Prix	20	9	Marcus Ericsson	Sweden	Caterham F1 Team	7	1:49.421	13.655	2.737			
+259	9	2014	British Grand Prix	21	10	Kamui Kobayashi	Japan	Caterham F1 Team	6	1:49.625	13.859	0.204			
+259	9	2014	British Grand Prix	22	13	Pastor Maldonado	Venezuela	Lotus F1 Team	7	1:44.018	8.252	3.106			

@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+231	20	2012	Brazilian Grand Prix	1	4	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	21	1:12.458					
+231	20	2012	Brazilian Grand Prix	2	3	Jenson Button	Great Britain	Vodafone McLaren Mercedes	20	1:12.513	0.055	0.055			
+231	20	2012	Brazilian Grand Prix	3	2	Mark Webber	Australia	Red Bull Racing	22	1:12.581	0.123	0.068			
+231	20	2012	Brazilian Grand Prix	4	1	Sebastian Vettel	Germany	Red Bull Racing	19	1:12.760	0.302	0.179			
+231	20	2012	Brazilian Grand Prix	5	6	Felipe Massa	Brazil	Scuderia Ferrari	25	1:12.987	0.529	0.227			
+231	20	2012	Brazilian Grand Prix	6	18	Pastor Maldonado	Venezuela	Williams F1 Team	24	1:13.174	0.716	0.187			
+231	20	2012	Brazilian Grand Prix	7	12	Nico Hülkenberg	Germany	Sahara Force India F1 Team	23	1:13.206	0.748	0.032			
+231	20	2012	Brazilian Grand Prix	8	5	Fernando Alonso	Spain	Scuderia Ferrari	25	1:13.253	0.795	0.047			
+231	20	2012	Brazilian Grand Prix	9	9	Kimi Räikkönen	Finland	Lotus F1 Team	22	1:13.298	0.840	0.045			
+231	20	2012	Brazilian Grand Prix	10	8	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	26	1:13.489	1.031	0.191			
+231	20	2012	Brazilian Grand Prix	11	11	Paul di Resta	Great Britain	Sahara Force India F1 Team	18	1:14.121	1.663	0.632			
+231	20	2012	Brazilian Grand Prix	12	19	Bruno Senna	Brazil	Williams F1 Team	21	1:14.219	1.761	0.098			
+231	20	2012	Brazilian Grand Prix	13	15	Sergio Pérez	Mexico	Sauber F1 Team	21	1:14.234	1.776	0.015			
+231	20	2012	Brazilian Grand Prix	14	7	Michael Schumacher	Germany	Mercedes AMG Petronas F1 Team	17	1:14.334	1.876	0.100			
+231	20	2012	Brazilian Grand Prix	15	14	Kamui Kobayashi	Japan	Sauber F1 Team	24	1:14.380	1.922	0.046			
+231	20	2012	Brazilian Grand Prix	16	16	Daniel Ricciardo	Australia	Scuderia Toro Rosso	22	1:14.574	2.116	0.194			
+231	20	2012	Brazilian Grand Prix	17	17	Jean-Eric Vergne	France	Scuderia Toro Rosso	23	1:14.619	2.161	0.045			
+231	20	2012	Brazilian Grand Prix	18	10	Romain Grosjean	France	Lotus F1 Team	8	1:16.967	4.509	2.348			
+231	20	2012	Brazilian Grand Prix	19	21	Vitaly Petrov	Russia	Caterham F1 Team	14	1:17.073	4.615	0.106			
+231	20	2012	Brazilian Grand Prix	20	20	Heikki Kovalainen	Finland	Caterham F1 Team	14	1:17.086	4.628	0.013			
+231	20	2012	Brazilian Grand Prix	21	24	Timo Glock	Germany	Marussia F1 Team	13	1:17.508	5.050	0.422			
+231	20	2012	Brazilian Grand Prix	22	25	Charles Pic	France	Marussia F1 Team	14	1:18.104	5.646	0.596			
+231	20	2012	Brazilian Grand Prix	23	23	Narain Karthikeyan	India	HRT F1 Team	13	1:19.576	7.118	1.472			
+231	20	2012	Brazilian Grand Prix	24	22	Pedro de la Rosa	Spain	HRT F1 Team	12	1:19.699	7.241	0.123			

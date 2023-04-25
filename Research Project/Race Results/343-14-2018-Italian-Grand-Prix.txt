@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+343	14	2018	Italian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	53	1:16:54.484			239.288	1:22.497	30
+343	14	2018	Italian Grand Prix	2	7	Kimi Räikkönen	Finland	Ferrari	53	1:17:03.189	+ 8.705	+ 8.705	238.837	1:23.515	28
+343	14	2018	Italian Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes	53	1:17:08.550	+ 14.066	+ 5.361	238.561	1:22.907	39
+343	14	2018	Italian Grand Prix	4	5	Sebastian Vettel	Germany	Ferrari	53	1:17:10.635	+ 16.151	+ 2.085	238.453	1:22.505	51
+343	14	2018	Italian Grand Prix	5	33	Max Verstappen	Netherlands	Red Bull	53	1:17:12.692	+ 18.208	+ 2.057	238.347	1:23.609	41
+343	14	2018	Italian Grand Prix	6	31	Esteban Ocon	France	Force India	53	1:17:52.245	+ 57.761	+ 39.553	236.330	1:24.179	44
+343	14	2018	Italian Grand Prix	7	11	Sergio Pérez	Mexico	Force India	53	1:17:53.162	+ 58.678	+ 0.917	236.283	1:23.529	43
+343	14	2018	Italian Grand Prix	8	55	Carlos Sainz	Spain	Renault	53	1:18:12.624	+ 1:18.140	+ 19.462	235.303	1:24.056	52
+343	14	2018	Italian Grand Prix	9	18	Lance Stroll	Canada	Williams	52	1:16:55.225	1 Lap	1 Lap	234.731	1:24.580	39
+343	14	2018	Italian Grand Prix	10	35	Sergey Sirotkin	Russia	Williams	52	1:17:00.656	1 Lap	+ 5.431	234.455	1:23.768	52
+343	14	2018	Italian Grand Prix	11	16	Charles Leclerc	Monaco	Sauber	52	1:17:06.248	1 Lap	+ 5.592	234.171	1:24.504	52
+343	14	2018	Italian Grand Prix	12	2	Stoffel Vandoorne	Belgium	McLaren	52	1:17:17.195	1 Lap	+ 10.947	233.619	1:24.772	47
+343	14	2018	Italian Grand Prix	13	27	Nico Hülkenberg	Germany	Renault	52	1:17:18.363	1 Lap	+ 1.168	233.560	1:24.059	47
+343	14	2018	Italian Grand Prix	14	10	Pierre Gasly	France	Toro Rosso	52	1:17:21.033	1 Lap	+ 2.670	233.425	1:24.767	46
+343	14	2018	Italian Grand Prix	15	9	Marcus Ericsson	Sweden	Sauber	52	1:17:24.148	1 Lap	+ 3.115	233.269	1:23.768	44
+343	14	2018	Italian Grand Prix	16	20	Kevin Magnussen	Denmark	Haas	52	1:18:18.122	1 Lap	+ 53.974	230.589	1:25.692	46
+343	14	2018	Italian Grand Prix	17	8	Romain Grosjean	France	Haas	53	1:17:50.804			236.402	1:24.243	48
+343	14	2018	Italian Grand Prix	18	3	Daniel Ricciardo	Australia	Red Bull	23	35:09.070			226.900	1:25.229	18
+343	14	2018	Italian Grand Prix	19	14	Fernando Alonso	Spain	McLaren	9	15:22.829			202.183	1:27.009	6
+343	14	2018	Italian Grand Prix	20	28	Brendon Hartley	New Zealand	Toro Rosso							

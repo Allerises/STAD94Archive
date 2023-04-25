@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+9	10	2000	Austrian Grand Prix	1	1	Mika Hakkinen	Finland	McLaren	71	1:28:15.818			208.792	1:11.837	27
+9	10	2000	Austrian Grand Prix	2	2	David Coulthard	Great Britain	McLaren	71	1:28:28.353	+ 12.535	+ 12.535	208.299	1:11.783	67
+9	10	2000	Austrian Grand Prix	3	4	Rubens Barrichello	Brazil	Ferrari	71	1:28:46.613	+ 30.795	+ 18.260	207.585	1:11.887	68
+9	10	2000	Austrian Grand Prix	4	22	Jacques Villeneuve	Canada	BAR	70	1:28:38.479	1 Lap	1 Lap	204.974	1:12.630	44
+9	10	2000	Austrian Grand Prix	5	10	Jenson Button	Great Britain	Williams	70	1:28:41.999	1 Lap	+ 3.520	204.838	1:12.964	46
+9	10	2000	Austrian Grand Prix	6	17	Mika Salo	Finland	Sauber	70	1:28:42.931	1 Lap	+ 0.932	204.802	1:13.674	69
+9	10	2000	Austrian Grand Prix	7	8	Johnny Herbert	Great Britain	Jaguar	70	1:28:43.407	1 Lap	+ 0.476	204.784	1:13.613	70
+9	10	2000	Austrian Grand Prix	8	20	Marc Gene	Spain	Minardi	70	1:28:52.160	1 Lap	+ 8.753	204.448	1:13.626	41
+9	10	2000	Austrian Grand Prix	9	16	Pedro Diniz	Brazil	Sauber	70	1:28:52.796	1 Lap	+ 0.636	204.424	1:12.955	63
+9	10	2000	Austrian Grand Prix	10	12	Alexander Wurz	Austria	Benneton	70	1:28:53.563	1 Lap	+ 0.767	204.394	1:13.317	65
+9	10	2000	Austrian Grand Prix	11	7	Luciano Burti	Brazil	Jaguar	69	1:28:31.556	2 Laps	1 Lap	202.309	1:14.098	39
+9	10	2000	Austrian Grand Prix	12	21	Gaston Mazzacane	Argentina	Minardi	68	1:28:15.865	3 Laps	1 Lap	199.968	1:13.733	67
+9	10	2000	Austrian Grand Prix	13	23	Ricardo Zonta	Brazil	BAR	58	1:14:16.761			202.673	1:12.855	44
+9	10	2000	Austrian Grand Prix	14	9	Ralf Schumacher	Germany	Williams	52	1:17:07.493			175.003	1:12.811	42
+9	10	2000	Austrian Grand Prix	15	15	Nick Heidfeld	Germany	Prost	41	52:52.523			201.264	1:13.593	38
+9	10	2000	Austrian Grand Prix	16	14	Jean Alesi	France	Prost	41	52:52.793			201.247	1:14.039	41
+9	10	2000	Austrian Grand Prix	17	18	Pedro de la Rosa	Spain	Arrows	32	40:44.857			203.838	1:13.490	25
+9	10	2000	Austrian Grand Prix	18	19	Jos Verstappen	Netherlands	Arrows	14	19:10.359			189.532	1:14.227	9
+9	10	2000	Austrian Grand Prix	19	5	Heinz-Harald Frentzen	Germany	Jordan	4	6:05.026			170.657	1:16.588	4
+9	10	2000	Austrian Grand Prix	20	3	Michael Schumacher	Germany	Ferrari							
+9	10	2000	Austrian Grand Prix	21	6	Jarno Trulli	Italy	Jordan							
+9	10	2000	Austrian Grand Prix	22	11	Giancarlo Fisichella	Italy	Benneton							

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+333	4	2018	Azerbaijan Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	51	1:43:44.291			177.012	1:45.412	35
+333	4	2018	Azerbaijan Grand Prix	2	7	Kimi Räikkönen	Finland	Ferrari	51	1:43:46.751	+ 2.460	+ 2.460	176.942	1:46.523	50
+333	4	2018	Azerbaijan Grand Prix	3	11	Sergio Pérez	Mexico	Force India	51	1:43:48.315	+ 4.024	+ 1.564	176.897	1:46.206	51
+333	4	2018	Azerbaijan Grand Prix	4	5	Sebastian Vettel	Germany	Ferrari	51	1:43:49.620	+ 5.329	+ 1.305	176.860	1:45.530	38
+333	4	2018	Azerbaijan Grand Prix	5	55	Carlos Sainz	Spain	Renault	51	1:43:51.806	+ 7.515	+ 2.186	176.798	1:46.856	50
+333	4	2018	Azerbaijan Grand Prix	6	16	Charles Leclerc	Monaco	Sauber	51	1:43:53.449	+ 9.158	+ 1.643	176.752	1:47.403	31
+333	4	2018	Azerbaijan Grand Prix	7	14	Fernando Alonso	Spain	McLaren	51	1:43:55.222	+ 10.931	+ 1.773	176.702	1:47.449	32
+333	4	2018	Azerbaijan Grand Prix	8	18	Lance Stroll	Canada	Williams	51	1:43:56.837	+ 12.546	+ 1.615	176.656	1:46.815	50
+333	4	2018	Azerbaijan Grand Prix	9	2	Stoffel Vandoorne	Belgium	McLaren	51	1:43:58.443	+ 14.152	+ 1.606	176.610	1:47.666	50
+333	4	2018	Azerbaijan Grand Prix	10	28	Brendon Hartley	New Zealand	Toro Rosso	51	1:44:02.321	+ 18.030	+ 3.878	176.501	1:48.288	51
+333	4	2018	Azerbaijan Grand Prix	11	9	Marcus Ericsson	Sweden	Sauber	51	1:44:02.803	+ 18.512	+ 0.482	176.487	1:47.925	51
+333	4	2018	Azerbaijan Grand Prix	12	10	Pierre Gasly	France	Toro Rosso	51	1:44:09.011	+ 24.720	+ 6.208	176.312	1:48.035	38
+333	4	2018	Azerbaijan Grand Prix	13	20	Kevin Magnussen	Denmark	Haas	51	1:44:24.954	+ 40.663	+ 15.943	175.863	1:48.155	35
+333	4	2018	Azerbaijan Grand Prix	14	77	Valtteri Bottas	Finland	Mercedes	48	1:38:22.444	3 Laps	3 Laps	175.680	1:45.149	37
+333	4	2018	Azerbaijan Grand Prix	15	8	Romain Grosjean	France	Haas	42	1:22:44.661			182.747	1:46.880	34
+333	4	2018	Azerbaijan Grand Prix	16	33	Max Verstappen	Netherlands	Red Bull	39	1:15:16.996			186.505	1:45.771	31
+333	4	2018	Azerbaijan Grand Prix	17	3	Daniel Ricciardo	Australia	Red Bull	39	1:15:17.230			186.496	1:45.419	34
+333	4	2018	Azerbaijan Grand Prix	18	27	Nico Hülkenberg	Germany	Renault	10	23:09.045			155.310	1:48.867	10
+333	4	2018	Azerbaijan Grand Prix	19	31	Esteban Ocon	France	Force India							
+333	4	2018	Azerbaijan Grand Prix	20	35	Sergey Sirotkin	Russia	Williams							

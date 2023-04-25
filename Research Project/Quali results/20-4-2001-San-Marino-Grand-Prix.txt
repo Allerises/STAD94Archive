@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+20	4	2001	San Marino Grand Prix	1	4	David Coulthard	Great Britain	West McLaren Mercedes		1:23.054					
+20	4	2001	San Marino Grand Prix	2	3	Mika Hakkinen	Finland	West McLaren Mercedes		1:23.282	0.228	0.228			
+20	4	2001	San Marino Grand Prix	3	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:23.357	0.303	0.075			
+20	4	2001	San Marino Grand Prix	4	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:23.593	0.539	0.236			
+20	4	2001	San Marino Grand Prix	5	12	Jarno Trulli	Italy	B&H Jordan Honda		1:23.658	0.604	0.065			
+20	4	2001	San Marino Grand Prix	6	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:23.786	0.732	0.128			
+20	4	2001	San Marino Grand Prix	7	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:24.141	1.087	0.355			
+20	4	2001	San Marino Grand Prix	8	9	Olivier Panis	France	Lucky Strike BAR Honda		1:24.213	1.159	0.072			
+20	4	2001	San Marino Grand Prix	9	11	Heinz-Harald Frentzen	Germany	B&H Jordan Honda		1:24.436	1.382	0.223			
+20	4	2001	San Marino Grand Prix	10	17	Kimi Räikkönen	Finland	Red Bull Sauber Petronas		1:24.671	1.617	0.235			
+20	4	2001	San Marino Grand Prix	11	10	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:24.769	1.715	0.098			
+20	4	2001	San Marino Grand Prix	12	16	Nick Heidfeld	Germany	Red Bull Sauber Petronas		1:25.007	1.953	0.238			
+20	4	2001	San Marino Grand Prix	13	18	Eddie Irvine	Great Britain	Jaguar Racing		1:25.392	2.338	0.385			
+20	4	2001	San Marino Grand Prix	14	22	Jean Alesi	France	Prost Acer		1:25.411	2.357	0.019			
+20	4	2001	San Marino Grand Prix	15	19	Luciano Burti	Brazil	Jaguar Racing		1:25.572	2.518	0.161			
+20	4	2001	San Marino Grand Prix	16	15	Enrique Bernoldi	Brazil	Orange Arrows Asiatech		1:25.872	2.818	0.300			
+20	4	2001	San Marino Grand Prix	17	14	Jos Verstappen	Netherlands	Orange Arrows Asiatech		1:26.062	3.008	0.190			
+20	4	2001	San Marino Grand Prix	18	21	Fernando Alonso	Spain	European Minardi F1		1:26.855	3.801	0.793			
+20	4	2001	San Marino Grand Prix	19	7	Giancarlo Fisichella	Italy	Mild Seven Benetton Renault		1:26.902	3.848	0.047			
+20	4	2001	San Marino Grand Prix	20	23	Gaston Mazzacane	Argentina	Prost Acer		1:27.750	4.696	0.848			
+20	4	2001	San Marino Grand Prix	21	8	Jenson Button	Great Britain	Mild Seven Benetton Renault		1:27.758	4.704	0.008			
+20	4	2001	San Marino Grand Prix	22	20	Tarso Marques	Brazil	European Minardi F1		1:28.281	5.227	0.523			

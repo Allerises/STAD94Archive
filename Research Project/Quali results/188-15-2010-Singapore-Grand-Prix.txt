@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+188	15	2010	Singapore Grand Prix	1	8	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	21	1:45.390					
+188	15	2010	Singapore Grand Prix	2	5	Sebastian Vettel	Germany	Red Bull Racing	17	1:45.457	0.067	0.067			
+188	15	2010	Singapore Grand Prix	3	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	18	1:45.571	0.181	0.114			
+188	15	2010	Singapore Grand Prix	4	1	Jenson Button	Great Britain	Vodafone McLaren Mercedes	18	1:45.944	0.554	0.373			
+188	15	2010	Singapore Grand Prix	5	6	Mark Webber	Australia	Red Bull Racing	19	1:45.977	0.587	0.033			
+188	15	2010	Singapore Grand Prix	6	9	Rubens Barrichello	Brazil	AT&T Williams	22	1:46.236	0.846	0.259			
+188	15	2010	Singapore Grand Prix	7	4	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	18	1:46.443	1.053	0.207			
+188	15	2010	Singapore Grand Prix	8	11	Robert Kubica	Poland	Renault F1 Team	15	1:46.593	1.203	0.150			
+188	15	2010	Singapore Grand Prix	9	3	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	17	1:46.702	1.312	0.109			
+188	15	2010	Singapore Grand Prix	10	23	Kamui Kobayashi	Japan	BMW Sauber F1 Team	18	1:47.884	2.494	1.182			
+188	15	2010	Singapore Grand Prix	11	17	Jaime Alguersuari	Spain	Scuderia Toro Rosso	16	1:47.666	2.276	0.964			
+188	15	2010	Singapore Grand Prix	12	10	Nico Hülkenberg	Germany	AT&T Williams	13	1:47.674	2.284	0.008			
+188	15	2010	Singapore Grand Prix	13	12	Vitaly Petrov	Russia	Renault F1 Team	13	1:48.165	2.775	0.491			
+188	15	2010	Singapore Grand Prix	14	16	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	16	1:48.502	3.112	0.337			
+188	15	2010	Singapore Grand Prix	15	22	Nick Heidfeld	Germany	BMW Sauber F1 Team	16	1:48.557	3.167	0.055			
+188	15	2010	Singapore Grand Prix	16	14	Adrian Sutil	Germany	Force India F1 Team	14	1:48.899	3.509	0.342			
+188	15	2010	Singapore Grand Prix	17	15	Vitantonio Liuzzi	Italy	Force India F1 Team	11	1:48.961	3.571	0.062			
+188	15	2010	Singapore Grand Prix	18	24	Timo Glock	Germany	Virgin Racing	9	1:50.721	5.331	1.760			
+188	15	2010	Singapore Grand Prix	19	19	Heikki Kovalainen	Finland	Lotus Racing	9	1:50.915	5.525	0.194			
+188	15	2010	Singapore Grand Prix	20	25	Lucas di Grassi	Brazil	Virgin Racing	9	1:51.107	5.717	0.192			
+188	15	2010	Singapore Grand Prix	21	18	Jarno Trulli	Italy	Lotus Racing	10	1:51.641	6.251	0.534			
+188	15	2010	Singapore Grand Prix	22	20	Christian Klien	Austria	HRT F1 Team	7	1:52.946	7.556	1.305			
+188	15	2010	Singapore Grand Prix	23	21	Bruno Senna	Brazil	HRT F1 Team	9	1:54.174	8.784	1.228			
+188	15	2010	Singapore Grand Prix	24	7	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	2						

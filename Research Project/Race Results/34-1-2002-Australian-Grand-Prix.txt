@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+34	1	2002	Australian Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	58	1:35:36.792			193.011	1:28.628	32
+34	1	2002	Australian Grand Prix	2	6	Juan Pablo Montoya	Colombia	Williams	58	1:35:55.419	+ 18.627	+ 18.627	192.386	1:29.143	35
+34	1	2002	Australian Grand Prix	3	4	Kimi Räikkönen	Finland	McLaren	58	1:36:01.858	+ 25.066	+ 6.439	192.171	1:28.541	37
+34	1	2002	Australian Grand Prix	4	16	Eddie Irvine	Great Britain	Jaguar	57	1:37:09.882	1 Lap	1 Lap	186.654	1:32.548	36
+34	1	2002	Australian Grand Prix	5	23	Mark Webber	Australia	Minardi	56	1:37:09.005	2 Laps	1 Lap	183.407	1:33.296	52
+34	1	2002	Australian Grand Prix	6	24	Mika Salo	Finland	Toyota	56	1:37:11.688	2 Laps	+ 2.683	183.323	1:32.225	53
+34	1	2002	Australian Grand Prix	7	22	Alex Yoong	Malaysia	Minardi	55	1:36:14.940	3 Laps	1 Lap	181.819	1:34.653	36
+34	1	2002	Australian Grand Prix	8	17	Pedro de la Rosa	Spain	Jaguar	53	1:36:17.123	5 Laps	2 Laps	175.141	1:31.539	51
+34	1	2002	Australian Grand Prix	9	3	David Coulthard	Great Britain	McLaren	33	1:00:35.654			173.282	1:31.186	21
+34	1	2002	Australian Grand Prix	10	11	Jacques Villeneuve	Canada	BAR	27	49:51.567			172.301	1:33.540	25
+34	1	2002	Australian Grand Prix	11	20	Heinz-Harald Frentzen	Germany	Arrows	16	35:20.285			144.062	1:33.534	16
+34	1	2002	Australian Grand Prix	12	21	Enrique Bernoldi	Brazil	Arrows	15	43:31.762			109.643	1:35.052	8
+34	1	2002	Australian Grand Prix	13	10	Takuma Sato	Japan	Jordan	12	27:10.886			140.469	1:35.197	8
+34	1	2002	Australian Grand Prix	14	14	Jarno Trulli	Italy	Renault	8	17:07.663			148.615	1:34.233	7
+34	1	2002	Australian Grand Prix	15	2	Rubens Barrichello	Brazil	Ferrari							
+34	1	2002	Australian Grand Prix	16	5	Ralf Schumacher	Germany	Williams							
+34	1	2002	Australian Grand Prix	17	9	Giancarlo Fisichella	Italy	Jordan							
+34	1	2002	Australian Grand Prix	18	8	Felipe Massa	Brazil	Sauber							
+34	1	2002	Australian Grand Prix	19	7	Nick Heidfeld	Germany	Sauber							
+34	1	2002	Australian Grand Prix	20	15	Jenson Button	Great Britain	Renault							
+34	1	2002	Australian Grand Prix	21	12	Olivier Panis	France	BAR							
+34	1	2002	Australian Grand Prix	22	25	Allan McNish	Great Britain	Toyota							

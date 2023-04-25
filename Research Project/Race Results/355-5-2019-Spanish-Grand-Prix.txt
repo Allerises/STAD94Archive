@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+355	5	2019	Spanish Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	66	1:35:50.443			192.258	1:18.492	54
+355	5	2019	Spanish Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	66	1:35:54.517	+ 4.074	+ 4.074	192.122	1:18.737	55
+355	5	2019	Spanish Grand Prix	3	33	Max Verstappen	Netherlands	Red Bull	66	1:35:58.122	+ 7.679	+ 3.605	192.002	1:19.769	57
+355	5	2019	Spanish Grand Prix	4	5	Sebastian Vettel	Germany	Ferrari	66	1:35:59.610	+ 9.167	+ 1.488	191.952	1:19.820	64
+355	5	2019	Spanish Grand Prix	5	16	Charles Leclerc	Monaco	Ferrari	66	1:36:03.804	+ 13.361	+ 4.194	191.813	1:20.002	57
+355	5	2019	Spanish Grand Prix	6	10	Pierre Gasly	France	Red Bull	66	1:36:10.019	+ 19.576	+ 6.215	191.606	1:20.536	57
+355	5	2019	Spanish Grand Prix	7	20	Kevin Magnussen	Denmark	Haas	66	1:36:18.602	+ 28.159	+ 8.583	191.322	1:20.770	66
+355	5	2019	Spanish Grand Prix	8	55	Carlos Sainz	Spain	McLaren	66	1:36:22.785	+ 32.342	+ 4.183	191.183	1:20.859	59
+355	5	2019	Spanish Grand Prix	9	26	Daniil Kvyat	Russia	Toro Rosso	66	1:36:23.499	+ 33.056	+ 0.714	191.160	1:20.726	64
+355	5	2019	Spanish Grand Prix	10	8	Romain Grosjean	France	Haas	66	1:36:25.084	+ 34.641	+ 1.585	191.107	1:21.057	64
+355	5	2019	Spanish Grand Prix	11	23	Alexander Albon	Thailand	Toro Rosso	66	1:36:25.888	+ 35.445	+ 0.804	191.081	1:21.028	65
+355	5	2019	Spanish Grand Prix	12	3	Daniel Ricciardo	Australia	Renault	66	1:36:27.201	+ 36.758	+ 1.313	191.037	1:20.615	56
+355	5	2019	Spanish Grand Prix	13	27	Nico Hülkenberg	Germany	Renault	66	1:36:29.684	+ 39.241	+ 2.483	190.955	1:21.282	65
+355	5	2019	Spanish Grand Prix	14	7	Kimi Räikkönen	Finland	Sauber	66	1:36:32.246	+ 41.803	+ 2.562	190.871	1:21.382	66
+355	5	2019	Spanish Grand Prix	15	11	Sergio Pérez	Mexico	Aston Martin	66	1:36:37.320	+ 46.877	+ 5.074	190.704	1:21.859	65
+355	5	2019	Spanish Grand Prix	16	99	Antonio Giovinazzi	Italy	Sauber	66	1:36:38.134	+ 47.691	+ 0.814	190.677	1:21.833	64
+355	5	2019	Spanish Grand Prix	17	63	George Russell	Great Britain	Williams	65	1:36:50.228	1 Lap	1 Lap	187.396	1:22.382	64
+355	5	2019	Spanish Grand Prix	18	88	Robert Kubica	Poland	Williams	65	1:36:57.514	1 Lap	+ 7.286	187.161	1:23.202	65
+355	5	2019	Spanish Grand Prix	19	18	Lance Stroll	Canada	Aston Martin	44	1:02:21.510			196.952	1:23.226	28
+355	5	2019	Spanish Grand Prix	20	4	Lando Norris	Great Britain	McLaren	44	1:02:22.095			196.921	1:22.561	28

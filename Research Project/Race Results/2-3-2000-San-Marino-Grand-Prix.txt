@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+2	3	2000	San Marino Grand Prix	1	3	Michael Schumacher	Germany	Ferrari	62	1:31:39.776			200.043	1:26.774	58
+2	3	2000	San Marino Grand Prix	2	1	Mika Hakkinen	Finland	McLaren	62	1:31:40.944	+ 1.168	+ 1.168	200.000	1:26.523	60
+2	3	2000	San Marino Grand Prix	3	2	David Coulthard	Great Britain	McLaren	62	1:32:30.784	+ 51.008	+ 49.840	198.204	1:27.014	54
+2	3	2000	San Marino Grand Prix	4	4	Rubens Barrichello	Brazil	Ferrari	62	1:33:09.052	+ 1:29.276	+ 38.268	196.847	1:27.899	46
+2	3	2000	San Marino Grand Prix	5	22	Jacques Villeneuve	Canada	BAR	61	1:31:58.841	1 Lap	1 Lap	196.134	1:28.816	39
+2	3	2000	San Marino Grand Prix	6	17	Mika Salo	Finland	Sauber	61	1:31:59.337	1 Lap	+ 0.496	196.116	1:28.336	40
+2	3	2000	San Marino Grand Prix	7	7	Eddie Irvine	Great Britain	Jaguar	61	1:32:06.023	1 Lap	+ 6.686	195.879	1:28.387	60
+2	3	2000	San Marino Grand Prix	8	16	Pedro Diniz	Brazil	Sauber	61	1:32:10.062	1 Lap	+ 4.039	195.736	1:27.814	61
+2	3	2000	San Marino Grand Prix	9	12	Alexander Wurz	Austria	Benneton	61	1:32:32.590	1 Lap	+ 22.528	194.942	1:29.180	55
+2	3	2000	San Marino Grand Prix	10	8	Johnny Herbert	Great Britain	Jaguar	61	1:32:37.721	1 Lap	+ 5.131	194.762	1:29.049	59
+2	3	2000	San Marino Grand Prix	11	11	Giancarlo Fisichella	Italy	Benneton	61	1:32:38.319	1 Lap	+ 0.598	194.741	1:28.884	59
+2	3	2000	San Marino Grand Prix	12	23	Ricardo Zonta	Brazil	BAR	61	1:33:00.608	1 Lap	+ 22.289	193.963	1:28.787	28
+2	3	2000	San Marino Grand Prix	13	21	Gaston Mazzacane	Argentina	Minardi	60	1:33:01.922	2 Laps	1 Lap	190.736	1:30.030	15
+2	3	2000	San Marino Grand Prix	14	19	Jos Verstappen	Netherlands	Arrows	59	1:31:45.066	3 Laps	1 Lap	190.173	1:28.842	54
+2	3	2000	San Marino Grand Prix	15	6	Jarno Trulli	Italy	Jordan	58	1:27:37.299	4 Laps	1 Lap	195.757	1:28.754	57
+2	3	2000	San Marino Grand Prix	16	18	Pedro de la Rosa	Spain	Arrows	49	1:14:51.098			193.566	1:29.370	42
+2	3	2000	San Marino Grand Prix	17	9	Ralf Schumacher	Germany	Williams	45	1:07:34.175			196.906	1:27.339	45
+2	3	2000	San Marino Grand Prix	18	14	Jean Alesi	France	Prost	25	39:06.170			188.868	1:29.719	17
+2	3	2000	San Marino Grand Prix	19	15	Nick Heidfeld	Germany	Prost	22	34:18.132			189.414	1:29.350	16
+2	3	2000	San Marino Grand Prix	20	10	Jenson Button	Great Britain	Williams	5	7:51.278			186.600	1:31.912	4
+2	3	2000	San Marino Grand Prix	21	20	Marc Gene	Spain	Minardi	5	7:52.101			186.275	1:31.524	5
+2	3	2000	San Marino Grand Prix	22	5	Heinz-Harald Frentzen	Germany	Jordan	4	6:19.016			185.168	1:31.503	3

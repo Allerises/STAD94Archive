@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+354	4	2019	Azerbaijan Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes	51	1:31:52.942			199.852	1:44.024	50
+354	4	2019	Azerbaijan Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes	51	1:31:54.466	+ 1.524	+ 1.524	199.797	1:44.166	48
+354	4	2019	Azerbaijan Grand Prix	3	5	Sebastian Vettel	Germany	Ferrari	51	1:32:04.681	+ 11.739	+ 10.215	199.428	1:44.629	46
+354	4	2019	Azerbaijan Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull	51	1:32:10.435	+ 17.493	+ 5.754	199.220	1:44.794	39
+354	4	2019	Azerbaijan Grand Prix	5	16	Charles Leclerc	Monaco	Ferrari	51	1:33:02.049	+ 1:09.107	+ 51.614	197.378	1:43.009	50
+354	4	2019	Azerbaijan Grand Prix	6	11	Sergio Pérez	Mexico	Aston Martin	51	1:33:09.358	+ 1:16.416	+ 7.309	197.120	1:45.524	49
+354	4	2019	Azerbaijan Grand Prix	7	55	Carlos Sainz	Spain	McLaren	51	1:33:16.768	+ 1:23.826	+ 7.410	196.859	1:45.807	43
+354	4	2019	Azerbaijan Grand Prix	8	4	Lando Norris	Great Britain	McLaren	51	1:33:33.210	+ 1:40.268	+ 16.442	196.282	1:45.394	43
+354	4	2019	Azerbaijan Grand Prix	9	18	Lance Stroll	Canada	Aston Martin	51	1:33:36.758	+ 1:43.816	+ 3.548	196.158	1:46.009	38
+354	4	2019	Azerbaijan Grand Prix	10	7	Kimi Räikkönen	Finland	Sauber	50	1:32:08.200	1 Lap	1 Lap	195.391	1:46.479	48
+354	4	2019	Azerbaijan Grand Prix	11	23	Alexander Albon	Thailand	Toro Rosso	50	1:32:10.899	1 Lap	+ 2.699	195.296	1:45.754	49
+354	4	2019	Azerbaijan Grand Prix	12	99	Antonio Giovinazzi	Italy	Sauber	50	1:32:13.392	1 Lap	+ 2.493	195.208	1:45.969	45
+354	4	2019	Azerbaijan Grand Prix	13	20	Kevin Magnussen	Denmark	Haas	50	1:32:41.161	1 Lap	+ 27.769	194.233	1:46.682	42
+354	4	2019	Azerbaijan Grand Prix	14	27	Nico Hülkenberg	Germany	Renault	50	1:33:06.125	1 Lap	+ 24.964	193.365	1:47.407	43
+354	4	2019	Azerbaijan Grand Prix	15	63	George Russell	Great Britain	Williams	49	1:32:06.078	2 Laps	1 Lap	191.556	1:47.251	42
+354	4	2019	Azerbaijan Grand Prix	16	88	Robert Kubica	Poland	Williams	49	1:32:39.174	2 Laps	+ 33.096	190.415	1:47.709	45
+354	4	2019	Azerbaijan Grand Prix	17	10	Pierre Gasly	France	Red Bull	38	1:08:41.127			199.177	1:45.712	34
+354	4	2019	Azerbaijan Grand Prix	18	8	Romain Grosjean	France	Haas	38	1:11:08.551			192.298	1:48.517	33
+354	4	2019	Azerbaijan Grand Prix	19	26	Daniil Kvyat	Russia	Toro Rosso	33	1:01:31.535			193.085	1:47.681	28
+354	4	2019	Azerbaijan Grand Prix	20	3	Daniel Ricciardo	Australia	Renault	31	57:59.205			192.446	1:46.767	29

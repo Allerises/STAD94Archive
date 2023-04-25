@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+258	8	2014	Austrian Grand Prix	1	6	Nico Rosberg	Germany	Mercedes	71	1:27:54.976			209.531	1:12.598	50
+258	8	2014	Austrian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes	71	1:27:56.908	+ 1.932	+ 1.932	209.454	1:12.217	41
+258	8	2014	Austrian Grand Prix	3	77	Valtteri Bottas	Finland	Williams	71	1:28:03.148	+ 8.172	+ 6.240	209.207	1:12.581	63
+258	8	2014	Austrian Grand Prix	4	19	Felipe Massa	Brazil	Williams	71	1:28:12.334	+ 17.358	+ 9.186	208.843	1:12.586	63
+258	8	2014	Austrian Grand Prix	5	14	Fernando Alonso	Spain	Ferrari	71	1:28:13.529	+ 18.553	+ 1.195	208.796	1:12.595	58
+258	8	2014	Austrian Grand Prix	6	11	Sergio Pérez	Mexico	Force India	71	1:28:23.522	+ 28.546	+ 9.993	208.403	1:12.142	59
+258	8	2014	Austrian Grand Prix	7	20	Kevin Magnussen	Denmark	McLaren	71	1:28:27.007	+ 32.031	+ 3.485	208.266	1:12.746	53
+258	8	2014	Austrian Grand Prix	8	3	Daniel Ricciardo	Australia	Red Bull	71	1:28:38.498	+ 43.522	+ 11.491	207.816	1:13.060	55
+258	8	2014	Austrian Grand Prix	9	27	Nico Hülkenberg	Germany	Force India	71	1:28:39.113	+ 44.137	+ 0.615	207.792	1:13.156	60
+258	8	2014	Austrian Grand Prix	10	7	Kimi Räikkönen	Finland	Ferrari	71	1:28:42.753	+ 47.777	+ 3.640	207.650	1:12.884	55
+258	8	2014	Austrian Grand Prix	11	22	Jenson Button	Great Britain	McLaren	71	1:28:45.942	+ 50.966	+ 3.189	207.526	1:12.858	60
+258	8	2014	Austrian Grand Prix	12	13	Pastor Maldonado	Venezuela	Lotus	70	1:28:08.413	1 Lap	1 Lap	206.053	1:13.187	64
+258	8	2014	Austrian Grand Prix	13	99	Adrian Sutil	Germany	Sauber	70	1:28:34.751	1 Lap	+ 26.338	205.032	1:13.709	59
+258	8	2014	Austrian Grand Prix	14	8	Romain Grosjean	France	Lotus	70	1:29:09.548	1 Lap	+ 34.797	203.699	1:13.953	42
+258	8	2014	Austrian Grand Prix	15	17	Jules Bianchi	France	Marussia	69	1:27:59.668	2 Laps	1 Lap	203.445	1:14.476	65
+258	8	2014	Austrian Grand Prix	16	10	Kamui Kobayashi	Japan	Caterham	69	1:28:31.645	2 Laps	+ 31.977	202.220	1:15.274	40
+258	8	2014	Austrian Grand Prix	17	4	Max Chilton	Great Britain	Marussia	69	1:28:33.756	2 Laps	+ 2.111	202.140	1:14.847	40
+258	8	2014	Austrian Grand Prix	18	9	Marcus Ericsson	Sweden	Caterham	69	1:28:41.191	2 Laps	+ 7.435	201.857	1:14.672	33
+258	8	2014	Austrian Grand Prix	19	21	Esteban Gutiérrez	Mexico	Sauber	69	1:28:41.483	2 Laps	+ 0.292	201.846	1:14.036	53
+258	8	2014	Austrian Grand Prix	20	25	Jean-Eric Vergne	France	Toro Rosso	59	1:14:53.982			204.359	1:13.317	55
+258	8	2014	Austrian Grand Prix	21	1	Sebastian Vettel	Germany	Red Bull	34	45:02.108			195.791	1:14.254	30
+258	8	2014	Austrian Grand Prix	22	26	Daniil Kvyat	Russia	Toro Rosso	24	30:32.347			203.734	1:14.332	23

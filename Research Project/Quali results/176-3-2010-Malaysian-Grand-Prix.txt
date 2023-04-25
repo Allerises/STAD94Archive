@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+176	3	2010	Malaysian Grand Prix	1	6	Mark Webber	Australia	Red Bull Racing	18	1:49.327	0.567	0.120			
+176	3	2010	Malaysian Grand Prix	2	4	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	22	1:50.673	1.346	1.346			
+176	3	2010	Malaysian Grand Prix	3	5	Sebastian Vettel	Germany	Red Bull Racing	19	1:50.789	1.462	0.116			
+176	3	2010	Malaysian Grand Prix	4	14	Adrian Sutil	Germany	Force India F1 Team	21	1:50.914	1.587	0.125			
+176	3	2010	Malaysian Grand Prix	5	10	Nico Hülkenberg	Germany	AT&T Williams	22	1:51.001	1.674	0.087			
+176	3	2010	Malaysian Grand Prix	6	11	Robert Kubica	Poland	Renault F1 Team	19	1:51.051	1.724	0.050			
+176	3	2010	Malaysian Grand Prix	7	9	Rubens Barrichello	Brazil	AT&T Williams	21	1:51.511	2.184	0.460			
+176	3	2010	Malaysian Grand Prix	8	3	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	24	1:51.717	2.390	0.206			
+176	3	2010	Malaysian Grand Prix	9	23	Kamui Kobayashi	Japan	BMW Sauber F1 Team	21	1:51.767	2.440	0.050			
+176	3	2010	Malaysian Grand Prix	10	15	Vitantonio Liuzzi	Italy	Force India F1 Team	21	1:52.254	2.927	0.487			
+176	3	2010	Malaysian Grand Prix	11	12	Vitaly Petrov	Russia	Renault F1 Team	15	1:48.760					
+176	3	2010	Malaysian Grand Prix	12	22	Pedro de la Rosa	Spain	BMW Sauber F1 Team	14	1:48.771	0.011	0.011			
+176	3	2010	Malaysian Grand Prix	13	16	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	15	1:49.207	0.447	0.436			
+176	3	2010	Malaysian Grand Prix	14	17	Jaime Alguersuari	Spain	Scuderia Toro Rosso	16	1:49.464	0.137	0.257			
+176	3	2010	Malaysian Grand Prix	15	19	Heikki Kovalainen	Finland	Lotus Racing	16	1:52.270	2.943	2.806			
+176	3	2010	Malaysian Grand Prix	16	24	Timo Glock	Germany	Virgin Racing	13	1:52.520	3.193	0.250			
+176	3	2010	Malaysian Grand Prix	17	1	Jenson Button	Great Britain	Vodafone McLaren Mercedes	3						
+176	3	2010	Malaysian Grand Prix	18	18	Jarno Trulli	Italy	Lotus Racing	6	1:52.884	3.557	0.364			
+176	3	2010	Malaysian Grand Prix	19	8	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	8	1:53.044	3.717	0.160			
+176	3	2010	Malaysian Grand Prix	20	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	8	1:53.050	3.723	0.006			
+176	3	2010	Malaysian Grand Prix	21	7	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	7	1:53.283	3.956	0.233			
+176	3	2010	Malaysian Grand Prix	22	20	Karun Chandhok	India	HRT F1 Team	9	1:56.299	6.972	3.016			
+176	3	2010	Malaysian Grand Prix	23	21	Bruno Senna	Brazil	HRT F1 Team	9	1:57.269	7.942	0.970			
+176	3	2010	Malaysian Grand Prix	24	25	Lucas di Grassi	Brazil	Virgin Racing	4	1:59.977	10.650	2.708			

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+246	15	2013	Japanese Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	53	1:26:49.301			212.484	1:35.317	39
+246	15	2013	Japanese Grand Prix	2	2	Mark Webber	Australia	Red Bull	53	1:26:56.430	+ 7.129	+ 7.129	212.194	1:34.587	44
+246	15	2013	Japanese Grand Prix	3	8	Romain Grosjean	France	Lotus	53	1:26:59.211	+ 9.910	+ 2.781	212.080	1:35.991	48
+246	15	2013	Japanese Grand Prix	4	3	Fernando Alonso	Spain	Ferrari	53	1:27:34.906	+ 45.605	+ 35.695	210.640	1:35.877	39
+246	15	2013	Japanese Grand Prix	5	7	Kimi Räikkönen	Finland	Lotus	53	1:27:36.626	+ 47.325	+ 1.720	210.571	1:35.516	35
+246	15	2013	Japanese Grand Prix	6	11	Nico Hülkenberg	Germany	Sauber	53	1:27:40.916	+ 51.615	+ 4.290	210.399	1:36.482	33
+246	15	2013	Japanese Grand Prix	7	12	Esteban Gutiérrez	Mexico	Sauber	53	1:28:00.931	+ 1:11.630	+ 20.015	209.602	1:36.499	50
+246	15	2013	Japanese Grand Prix	8	9	Nico Rosberg	Germany	Mercedes	53	1:28:01.324	+ 1:12.023	+ 0.393	209.586	1:34.650	46
+246	15	2013	Japanese Grand Prix	9	5	Jenson Button	Great Britain	McLaren	53	1:28:10.122	+ 1:20.821	+ 8.798	209.238	1:35.549	53
+246	15	2013	Japanese Grand Prix	10	4	Felipe Massa	Brazil	Ferrari	53	1:28:18.564	+ 1:29.263	+ 8.442	208.904	1:37.001	30
+246	15	2013	Japanese Grand Prix	11	14	Paul di Resta	Great Britain	Force India	53	1:28:27.873	+ 1:38.572	+ 9.309	208.538	1:37.407	41
+246	15	2013	Japanese Grand Prix	12	18	Jean-Eric Vergne	France	Toro Rosso	52	1:26:52.410	+ 3.109	1 Lap	208.347	1:35.895	52
+246	15	2013	Japanese Grand Prix	13	19	Daniel Ricciardo	Australia	Toro Rosso	52	1:26:54.598	+ 5.297	+ 2.188	208.259	1:35.020	52
+246	15	2013	Japanese Grand Prix	14	15	Adrian Sutil	Germany	Force India	52	1:27:06.344	+ 17.043	+ 11.746	207.791	1:37.367	29
+246	15	2013	Japanese Grand Prix	15	6	Sergio Pérez	Mexico	McLaren	52	1:27:06.462	+ 17.161	+ 0.118	207.786	1:35.845	46
+246	15	2013	Japanese Grand Prix	16	16	Pastor Maldonado	Venezuela	Williams	52	1:27:08.671	+ 19.370	+ 2.209	207.699	1:37.423	30
+246	15	2013	Japanese Grand Prix	17	17	Valtteri Bottas	Finland	Williams	52	1:27:09.253	+ 19.952	+ 0.582	207.675	1:37.856	43
+246	15	2013	Japanese Grand Prix	18	20	Charles Pic	France	Caterham	52	1:28:09.524	+ 1:20.223	+ 1:00.271	205.309	1:37.489	51
+246	15	2013	Japanese Grand Prix	19	23	Max Chilton	Great Britain	Marussia	52	1:28:28.731	+ 1:39.430	+ 19.207	204.566	1:38.713	45
+246	15	2013	Japanese Grand Prix	20	10	Lewis Hamilton	Great Britain	Mercedes	7	13:12.411			183.309	1:41.202	3
+246	15	2013	Japanese Grand Prix	21	21	Giedo van der Garde	Netherlands	Caterham							
+246	15	2013	Japanese Grand Prix	22	22	Jules Bianchi	France	Marussia							

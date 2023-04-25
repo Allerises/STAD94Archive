@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+32	16	2001	United States Grand Prix	1	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:11.708					
+32	16	2001	United States Grand Prix	2	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:11.986	0.278	0.278			
+32	16	2001	United States Grand Prix	3	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:12.252	0.544	0.266			
+32	16	2001	United States Grand Prix	4	3	Mika Hakkinen	Finland	West McLaren Mercedes		1:12.309	0.601	0.057			
+32	16	2001	United States Grand Prix	5	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:12.327	0.619	0.018			
+32	16	2001	United States Grand Prix	6	16	Nick Heidfeld	Germany	Red Bull Sauber Petronas		1:12.434	0.726	0.107			
+32	16	2001	United States Grand Prix	7	4	David Coulthard	Great Britain	West McLaren Mercedes		1:12.500	0.792	0.066			
+32	16	2001	United States Grand Prix	8	11	Jarno Trulli	Italy	B&H Jordan Honda		1:12.605	0.897	0.105			
+32	16	2001	United States Grand Prix	9	12	Jean Alesi	France	B&H Jordan Honda		1:12.607	0.899	0.002			
+32	16	2001	United States Grand Prix	10	8	Jenson Button	Great Britain	Mild Seven Benetton Renault		1:12.805	1.097	0.198			
+32	16	2001	United States Grand Prix	11	17	Kimi Räikkönen	Finland	Red Bull Sauber Petronas		1:12.881	1.173	0.076			
+32	16	2001	United States Grand Prix	12	7	Giancarlo Fisichella	Italy	Mild Seven Benetton Renault		1:12.942	1.234	0.061			
+32	16	2001	United States Grand Prix	13	9	Olivier Panis	France	Lucky Strike BAR Honda		1:13.122	1.414	0.180			
+32	16	2001	United States Grand Prix	14	18	Eddie Irvine	Great Britain	Jaguar Racing		1:13.189	1.481	0.067			
+32	16	2001	United States Grand Prix	15	22	Heinz-Harald Frentzen	Germany	Prost Acer		1:13.281	1.573	0.092			
+32	16	2001	United States Grand Prix	16	19	Pedro de la Rosa	Spain	Jaguar Racing		1:13.679	1.971	0.398			
+32	16	2001	United States Grand Prix	17	21	Fernando Alonso	Spain	European Minardi F1		1:13.991	2.283	0.312			
+32	16	2001	United States Grand Prix	18	10	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:14.012	2.304	0.021			
+32	16	2001	United States Grand Prix	19	15	Enrique Bernoldi	Brazil	Orange Arrows Asiatech		1:14.129	2.421	0.117			
+32	16	2001	United States Grand Prix	20	14	Jos Verstappen	Netherlands	Orange Arrows Asiatech		1:14.138	2.430	0.009			
+32	16	2001	United States Grand Prix	21	23	Tomas Enge	Czech Republic	Prost Acer		1:14.185	2.477	0.047			
+32	16	2001	United States Grand Prix	22	20	Alex Yoong	Malaysia	European Minardi F1		1:15.247	3.539	1.062			

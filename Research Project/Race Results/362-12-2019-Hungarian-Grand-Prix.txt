@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+362	12	2019	Hungarian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	70	1:35:03.796			193.532	1:18.528	60
+362	12	2019	Hungarian Grand Prix	2	33	Max Verstappen	Netherlands	Red Bull	70	1:35:21.592	+ 17.796	+ 17.796	192.930	1:17.103	69
+362	12	2019	Hungarian Grand Prix	3	5	Sebastian Vettel	Germany	Ferrari	70	1:36:05.229	+ 1:01.433	+ 43.637	191.469	1:19.786	65
+362	12	2019	Hungarian Grand Prix	4	16	Charles Leclerc	Monaco	Ferrari	70	1:36:09.046	+ 1:05.250	+ 3.817	191.343	1:20.493	49
+362	12	2019	Hungarian Grand Prix	5	55	Carlos Sainz	Spain	McLaren	69	1:35:31.121	1 Lap	1 Lap	189.857	1:21.002	66
+362	12	2019	Hungarian Grand Prix	6	10	Pierre Gasly	France	Red Bull	69	1:35:32.514	1 Lap	+ 1.393	189.811	1:21.045	65
+362	12	2019	Hungarian Grand Prix	7	7	Kimi Räikkönen	Finland	Sauber	69	1:35:35.188	1 Lap	+ 2.674	189.722	1:20.880	65
+362	12	2019	Hungarian Grand Prix	8	77	Valtteri Bottas	Finland	Mercedes	69	1:35:35.924	1 Lap	+ 0.736	189.698	1:19.331	59
+362	12	2019	Hungarian Grand Prix	9	4	Lando Norris	Great Britain	McLaren	69	1:35:41.187	1 Lap	+ 5.263	189.524	1:21.188	65
+362	12	2019	Hungarian Grand Prix	10	23	Alexander Albon	Thailand	Toro Rosso	69	1:36:10.323	1 Lap	+ 29.136	188.567	1:20.621	65
+362	12	2019	Hungarian Grand Prix	11	11	Sergio Pérez	Mexico	Aston Martin	69	1:36:21.366	1 Lap	+ 11.043	188.207	1:21.734	47
+362	12	2019	Hungarian Grand Prix	12	27	Nico Hülkenberg	Germany	Renault	69	1:36:22.002	1 Lap	+ 0.636	188.186	1:21.650	59
+362	12	2019	Hungarian Grand Prix	13	20	Kevin Magnussen	Denmark	Haas	69	1:36:22.759	1 Lap	+ 0.757	188.162	1:21.008	67
+362	12	2019	Hungarian Grand Prix	14	3	Daniel Ricciardo	Australia	Renault	69	1:36:22.993	1 Lap	+ 0.234	188.154	1:20.839	49
+362	12	2019	Hungarian Grand Prix	15	26	Daniil Kvyat	Russia	Toro Rosso	68	1:35:08.984	2 Laps	1 Lap	187.831	1:21.932	55
+362	12	2019	Hungarian Grand Prix	16	63	George Russell	Great Britain	Williams	68	1:36:03.701	2 Laps	+ 54.717	186.047	1:22.386	66
+362	12	2019	Hungarian Grand Prix	17	18	Lance Stroll	Canada	Aston Martin	68	1:36:07.471	2 Laps	+ 3.770	185.926	1:20.603	52
+362	12	2019	Hungarian Grand Prix	18	99	Antonio Giovinazzi	Italy	Sauber	68	1:36:16.660	2 Laps	+ 9.189	185.630	1:23.134	64
+362	12	2019	Hungarian Grand Prix	19	88	Robert Kubica	Poland	Williams	67	1:35:14.074	3 Laps	1 Lap	184.903	1:23.436	42
+362	12	2019	Hungarian Grand Prix	20	8	Romain Grosjean	France	Haas	49	1:09:26.871			185.430	1:22.809	46

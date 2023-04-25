@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+69	3	2004	Bahrain Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	57	1:28:34.875			208.976	1:30.252	7
+69	3	2004	Bahrain Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	57	1:28:36.242	+ 1.367	+ 1.367	208.922	1:30.876	29
+69	3	2004	Bahrain Grand Prix	3	9	Jenson Button	Great Britain	BAR	57	1:29:01.562	+ 26.687	+ 25.320	207.932	1:30.960	24
+69	3	2004	Bahrain Grand Prix	4	7	Jarno Trulli	Italy	Renault	57	1:29:07.089	+ 32.214	+ 5.527	207.717	1:31.421	24
+69	3	2004	Bahrain Grand Prix	5	10	Takuma Sato	Japan	BAR	57	1:29:27.335	+ 52.460	+ 20.246	206.933	1:31.101	55
+69	3	2004	Bahrain Grand Prix	6	8	Fernando Alonso	Spain	Renault	57	1:29:28.031	+ 53.156	+ 0.696	206.906	1:30.654	39
+69	3	2004	Bahrain Grand Prix	7	4	Ralf Schumacher	Germany	Williams	57	1:29:33.030	+ 58.155	+ 4.999	206.714	1:30.781	56
+69	3	2004	Bahrain Grand Prix	8	14	Mark Webber	Australia	Jaguar	56	1:28:39.255	1 Lap	1 Lap	205.138	1:32.277	19
+69	3	2004	Bahrain Grand Prix	9	17	Olivier Panis	France	Toyota	56	1:28:41.250	1 Lap	+ 1.995	205.061	1:32.401	22
+69	3	2004	Bahrain Grand Prix	10	16	Cristiano da Matta	Brazil	Toyota	56	1:28:53.515	1 Lap	+ 12.265	204.589	1:32.319	23
+69	3	2004	Bahrain Grand Prix	11	11	Giancarlo Fisichella	Italy	Sauber	56	1:28:54.515	1 Lap	+ 1.000	204.551	1:32.329	40
+69	3	2004	Bahrain Grand Prix	12	12	Felipe Massa	Brazil	Sauber	56	1:28:59.164	1 Lap	+ 4.649	204.373	1:32.690	44
+69	3	2004	Bahrain Grand Prix	13	3	Juan Pablo Montoya	Colombia	Williams	56	1:29:09.333	1 Lap	+ 10.169	203.984	1:30.977	28
+69	3	2004	Bahrain Grand Prix	14	15	Christian Klien	Austria	Jaguar	56	1:29:24.651	1 Lap	+ 15.318	203.402	1:32.533	38
+69	3	2004	Bahrain Grand Prix	15	18	Nick Heidfeld	Germany	Jordan	56	1:29:45.382	1 Lap	+ 20.731	202.619	1:33.284	56
+69	3	2004	Bahrain Grand Prix	16	19	Giorgio Pantano	Italy	Jordan	55	1:28:50.551	2 Laps	1 Lap	201.044	1:34.032	9
+69	3	2004	Bahrain Grand Prix	17	20	Gianmaria Bruni	Italy	Minardi	52	1:30:00.129	5 Laps	3 Laps	187.620	1:35.130	40
+69	3	2004	Bahrain Grand Prix	18	5	David Coulthard	Great Britain	McLaren	50	1:18:55.708			205.708	1:31.861	19
+69	3	2004	Bahrain Grand Prix	19	21	Zsolt Baumgartner	Hungary	Minardi	44	1:12:02.526			198.302	1:34.555	24
+69	3	2004	Bahrain Grand Prix	20	6	Kimi Räikkönen	Finland	McLaren	7	11:10.116			202.387	1:33.527	7

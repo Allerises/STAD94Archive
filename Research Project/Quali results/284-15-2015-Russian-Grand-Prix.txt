@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+284	15	2015	Russian Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:37.113			216.786		
+284	15	2015	Russian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:37.433	0.320	0.320	216.074		
+284	15	2015	Russian Grand Prix	3	77	Valtteri Bottas	Finland	Williams Martini Racing		1:37.912	0.799	0.479	215.017		
+284	15	2015	Russian Grand Prix	4	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:37.965	0.852	0.053	214.901		
+284	15	2015	Russian Grand Prix	5	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:38.348	1.235	0.383	214.064		
+284	15	2015	Russian Grand Prix	6	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:38.659	1.546	0.311	213.389		
+284	15	2015	Russian Grand Prix	7	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:38.691	1.578	0.032	213.320		
+284	15	2015	Russian Grand Prix	8	8	Romain Grosjean	France	Lotus F1 Team		1:38.787	1.674	0.096	213.113		
+284	15	2015	Russian Grand Prix	9	33	Max Verstappen	Netherlands	Scuderia Toro Rosso		1:38.924	1.811	0.137	212.817		
+284	15	2015	Russian Grand Prix	10	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing		1:39.728	2.615	0.804	211.102		
+284	15	2015	Russian Grand Prix	11	26	Daniil Kvyat	Russia	Infiniti Red Bull Racing		1:39.214	2.101		212.195		
+284	15	2015	Russian Grand Prix	12	12	Felipe Nasr	Brazil	Sauber F1 Team		1:39.323	2.210	0.109	211.962		
+284	15	2015	Russian Grand Prix	13	22	Jenson Button	Great Britain	McLaren Honda		1:39.763	2.650	0.440	211.028		
+284	15	2015	Russian Grand Prix	14	13	Pastor Maldonado	Venezuela	Lotus F1 Team		1:39.811	2.698	0.048	210.926		
+284	15	2015	Russian Grand Prix	15	19	Felipe Massa	Brazil	Williams Martini Racing		1:39.895	2.782	0.084	210.749		
+284	15	2015	Russian Grand Prix	16	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:40.660	3.547	0.765	209.147		
+284	15	2015	Russian Grand Prix	17	28	Will Stevens	Great Britain	Manor Marussia F1 Team		1:43.693	6.580	3.033	203.030		
+284	15	2015	Russian Grand Prix	18	98	Roberto Merhi	Spain	Manor Marussia F1 Team		1:43.804	6.691	0.111	202.812		
+284	15	2015	Russian Grand Prix	19	14	Fernando Alonso	Spain	McLaren Honda		1:40.144	3.031		210.225		
+284	15	2015	Russian Grand Prix	20	55	Carlos Sainz	Spain	Scuderia Toro Rosso							

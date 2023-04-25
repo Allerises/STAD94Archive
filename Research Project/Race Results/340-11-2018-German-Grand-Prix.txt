@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+340	11	2018	German Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	67	1:32:29.845			198.789	1:15.545	66
+340	11	2018	German Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	67	1:32:34.380	+ 4.535	+ 4.535	198.626	1:15.721	65
+340	11	2018	German Grand Prix	3	7	Kimi Räikkönen	Finland	Ferrari	67	1:32:36.577	+ 6.732	+ 2.197	198.548	1:15.990	64
+340	11	2018	German Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull	67	1:32:37.499	+ 7.654	+ 0.922	198.515	1:15.852	66
+340	11	2018	German Grand Prix	5	27	Nico Hülkenberg	Germany	Renault	67	1:32:56.454	+ 26.609	+ 18.955	197.840	1:17.910	66
+340	11	2018	German Grand Prix	6	8	Romain Grosjean	France	Haas	67	1:32:58.716	+ 28.871	+ 2.262	197.760	1:16.716	66
+340	11	2018	German Grand Prix	7	11	Sergio Pérez	Mexico	Force India	67	1:33:00.401	+ 30.556	+ 1.685	197.700	1:17.867	66
+340	11	2018	German Grand Prix	8	31	Esteban Ocon	France	Force India	67	1:33:01.595	+ 31.750	+ 1.194	197.658	1:17.941	64
+340	11	2018	German Grand Prix	9	9	Marcus Ericsson	Sweden	Sauber	67	1:33:02.207	+ 32.362	+ 0.612	197.636	1:17.745	65
+340	11	2018	German Grand Prix	10	28	Brendon Hartley	New Zealand	Toro Rosso	67	1:33:04.042	+ 34.197	+ 1.835	197.571	1:17.681	66
+340	11	2018	German Grand Prix	11	20	Kevin Magnussen	Denmark	Haas	67	1:33:04.764	+ 34.919	+ 0.722	197.546	1:17.697	66
+340	11	2018	German Grand Prix	12	55	Carlos Sainz	Spain	Renault	67	1:33:12.914	+ 43.069	+ 8.150	197.258	1:17.430	63
+340	11	2018	German Grand Prix	13	2	Stoffel Vandoorne	Belgium	McLaren	67	1:33:16.462	+ 46.617	+ 3.548	197.133	1:17.537	67
+340	11	2018	German Grand Prix	14	10	Pierre Gasly	France	Toro Rosso	66	1:33:08.490	1 Lap	1 Lap	194.467	1:17.762	66
+340	11	2018	German Grand Prix	15	16	Charles Leclerc	Monaco	Sauber	66	1:33:10.282	1 Lap	+ 1.792	194.405	1:17.852	64
+340	11	2018	German Grand Prix	16	14	Fernando Alonso	Spain	McLaren	65	1:31:52.896	2 Laps	1 Lap	194.147	1:17.741	60
+340	11	2018	German Grand Prix	17	18	Lance Stroll	Canada	Williams	53	1:14:16.475			195.831	1:18.861	35
+340	11	2018	German Grand Prix	18	5	Sebastian Vettel	Germany	Ferrari	51	1:07:13.692			208.192	1:17.290	39
+340	11	2018	German Grand Prix	19	35	Sergey Sirotkin	Russia	Williams	51	1:09:59.300			199.982	1:18.934	36
+340	11	2018	German Grand Prix	20	3	Daniel Ricciardo	Australia	Red Bull	27	36:06.859			205.178	1:18.262	22

@@ -1,0 +1,28 @@
+Year	Pos	Driver	Points
+2006	1	Fernando Alonso	134
+2006	2	Michael Schumacher	121
+2006	3	Felipe Massa	80
+2006	4	Giancarlo Fisichella	72
+2006	5	Kimi Räikkönen	65
+2006	6	Jenson Button	56
+2006	7	Rubens Barrichello	30
+2006	8	Juan Pablo Montoya	26
+2006	9	Nick Heidfeld	23
+2006	10	Ralf Schumacher	20
+2006	11	Pedro de la Rosa	19
+2006	12	Jarno Trulli	15
+2006	13	David Coulthard	14
+2006	14	Mark Webber	7
+2006	15	Jacques Villeneuve	7
+2006	16	Robert Kubica	6
+2006	17	Nico Rosberg	4
+2006	18	Christian Klien	2
+2006	19	Vitantonio Liuzzi	1
+2006	20	Scott Speed	
+2006	21	Tiago Monteiro	
+2006	22	Christijan Albers	
+2006	23	Takuma Sato	
+2006	24	Robert Doornbos	
+2006	25	Yuji Ide	
+2006	26	Sakon Yamamoto	
+2006	27	Franck Montagny	

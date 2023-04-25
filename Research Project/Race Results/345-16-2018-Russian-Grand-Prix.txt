@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+345	16	2018	Russian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	53	1:27:25.181			212.591	1:35.916	50
+345	16	2018	Russian Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	53	1:27:27.726	+ 2.545	+ 2.545	212.488	1:35.861	50
+345	16	2018	Russian Grand Prix	3	5	Sebastian Vettel	Germany	Ferrari	53	1:27:32.668	+ 7.487	+ 4.942	212.288	1:35.990	50
+345	16	2018	Russian Grand Prix	4	7	Kimi Räikkönen	Finland	Ferrari	53	1:27:41.724	+ 16.543	+ 9.056	211.923	1:36.611	47
+345	16	2018	Russian Grand Prix	5	33	Max Verstappen	Netherlands	Red Bull	53	1:27:56.197	+ 31.016	+ 14.473	211.341	1:36.283	45
+345	16	2018	Russian Grand Prix	6	3	Daniel Ricciardo	Australia	Red Bull	53	1:28:45.632	+ 1:20.451	+ 49.435	209.380	1:36.345	41
+345	16	2018	Russian Grand Prix	7	16	Charles Leclerc	Monaco	Sauber	53	1:29:03.571	+ 1:38.390	+ 17.939	208.677	1:38.107	52
+345	16	2018	Russian Grand Prix	8	20	Kevin Magnussen	Denmark	Haas	52	1:27:38.781	1 Lap	1 Lap	208.038	1:38.015	52
+345	16	2018	Russian Grand Prix	9	31	Esteban Ocon	France	Force India	52	1:27:42.789	1 Lap	+ 4.008	207.880	1:38.366	52
+345	16	2018	Russian Grand Prix	10	11	Sergio Pérez	Mexico	Force India	52	1:27:46.872	1 Lap	+ 4.083	207.718	1:38.300	47
+345	16	2018	Russian Grand Prix	11	8	Romain Grosjean	France	Haas	52	1:28:02.523	1 Lap	+ 15.651	207.103	1:38.244	46
+345	16	2018	Russian Grand Prix	12	27	Nico Hülkenberg	Germany	Renault	52	1:28:06.746	1 Lap	+ 4.223	206.938	1:39.108	52
+345	16	2018	Russian Grand Prix	13	9	Marcus Ericsson	Sweden	Sauber	52	1:28:24.468	1 Lap	+ 17.722	206.246	1:37.931	39
+345	16	2018	Russian Grand Prix	14	14	Fernando Alonso	Spain	McLaren	52	1:28:43.855	1 Lap	+ 19.387	205.495	1:39.590	44
+345	16	2018	Russian Grand Prix	15	18	Lance Stroll	Canada	Williams	52	1:28:44.790	1 Lap	+ 0.935	205.459	1:39.435	44
+345	16	2018	Russian Grand Prix	16	2	Stoffel Vandoorne	Belgium	McLaren	51	1:27:31.151	2 Laps	1 Lap	204.331	1:39.922	41
+345	16	2018	Russian Grand Prix	17	55	Carlos Sainz	Spain	Renault	51	1:27:35.268	2 Laps	+ 4.117	204.171	1:39.731	35
+345	16	2018	Russian Grand Prix	18	35	Sergey Sirotkin	Russia	Williams	51	1:27:36.427	2 Laps	+ 1.159	204.126	1:39.838	43
+345	16	2018	Russian Grand Prix	19	10	Pierre Gasly	France	Toro Rosso	4	7:41.116			181.071	1:44.071	3
+345	16	2018	Russian Grand Prix	20	28	Brendon Hartley	New Zealand	Toro Rosso	4	8:21.813			166.386	1:45.852	2

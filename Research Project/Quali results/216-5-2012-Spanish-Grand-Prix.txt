@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+216	5	2012	Spanish Grand Prix	1	18	Pastor Maldonado	Venezuela	Williams F1 Team	14	1:22.285	0.578	0.578			
+216	5	2012	Spanish Grand Prix	2	5	Fernando Alonso	Spain	Scuderia Ferrari	15	1:22.302	0.017	0.017			
+216	5	2012	Spanish Grand Prix	3	10	Romain Grosjean	France	Lotus F1 Team	14	1:22.424	0.139	0.122			
+216	5	2012	Spanish Grand Prix	4	9	Kimi Räikkönen	Finland	Lotus F1 Team	13	1:22.487	0.202	0.063			
+216	5	2012	Spanish Grand Prix	5	15	Sergio Pérez	Mexico	Sauber F1 Team	14	1:22.533	0.248	0.046			
+216	5	2012	Spanish Grand Prix	6	8	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	17	1:23.005	0.720	0.472			
+216	5	2012	Spanish Grand Prix	7	1	Sebastian Vettel	Germany	Red Bull Racing	14						
+216	5	2012	Spanish Grand Prix	8	7	Michael Schumacher	Germany	Mercedes AMG Petronas F1 Team	15						
+216	5	2012	Spanish Grand Prix	9	14	Kamui Kobayashi	Japan	Sauber F1 Team	14						
+216	5	2012	Spanish Grand Prix	10	3	Jenson Button	Great Britain	Vodafone McLaren Mercedes	13	1:22.944	0.659	0.411			
+216	5	2012	Spanish Grand Prix	11	2	Mark Webber	Australia	Red Bull Racing	8	1:22.977	0.692	0.033			
+216	5	2012	Spanish Grand Prix	12	11	Paul di Resta	Great Britain	Sahara Force India F1 Team	14	1:23.125	0.840	0.148			
+216	5	2012	Spanish Grand Prix	13	12	Nico Hülkenberg	Germany	Sahara Force India F1 Team	13	1:23.177	0.892	0.052			
+216	5	2012	Spanish Grand Prix	14	17	Jean-Eric Vergne	France	Scuderia Toro Rosso	11	1:23.265	0.980	0.088			
+216	5	2012	Spanish Grand Prix	15	16	Daniel Ricciardo	Australia	Scuderia Toro Rosso	11	1:23.442	1.157	0.177			
+216	5	2012	Spanish Grand Prix	16	6	Felipe Massa	Brazil	Scuderia Ferrari	12	1:23.444	1.159	0.002			
+216	5	2012	Spanish Grand Prix	17	19	Bruno Senna	Brazil	Williams F1 Team	8	1:24.981	2.696	1.537			
+216	5	2012	Spanish Grand Prix	18	21	Vitaly Petrov	Russia	Caterham F1 Team	8	1:25.277	2.992	0.296			
+216	5	2012	Spanish Grand Prix	19	20	Heikki Kovalainen	Finland	Caterham F1 Team	8	1:25.507	3.222	0.230			
+216	5	2012	Spanish Grand Prix	20	25	Charles Pic	France	Marussia F1 Team	8	1:26.582	4.297	1.075			
+216	5	2012	Spanish Grand Prix	21	24	Timo Glock	Germany	Marussia F1 Team	8	1:27.032	4.747	0.450			
+216	5	2012	Spanish Grand Prix	22	22	Pedro de la Rosa	Spain	HRT F1 Team	6	1:27.555	5.270	0.523			
+216	5	2012	Spanish Grand Prix	23	23	Narain Karthikeyan	India	HRT F1 Team	4	1:31.122	8.837	3.567			
+216	5	2012	Spanish Grand Prix	24	4	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	17	1:21.707					

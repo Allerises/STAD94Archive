@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+25	9	2001	European Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	67	1:29:42.724			204.143	1:18.612	49
+25	9	2001	European Grand Prix	2	6	Juan Pablo Montoya	Colombia	Williams	67	1:29:46.941	+ 4.217	+ 4.217	203.983	1:18.354	27
+25	9	2001	European Grand Prix	3	4	David Coulthard	Great Britain	McLaren	67	1:30:07.717	+ 24.993	+ 20.776	203.199	1:18.883	63
+25	9	2001	European Grand Prix	4	5	Ralf Schumacher	Germany	Williams	67	1:30:16.069	+ 33.345	+ 8.352	202.886	1:18.498	54
+25	9	2001	European Grand Prix	5	2	Rubens Barrichello	Brazil	Ferrari	67	1:30:28.219	+ 45.495	+ 12.150	202.432	1:18.537	59
+25	9	2001	European Grand Prix	6	3	Mika Hakkinen	Finland	McLaren	67	1:30:47.592	+ 1:04.868	+ 19.373	201.712	1:19.273	65
+25	9	2001	European Grand Prix	7	18	Eddie Irvine	Great Britain	Jaguar	67	1:30:48.922	+ 1:06.198	+ 1.330	201.663	1:18.674	34
+25	9	2001	European Grand Prix	8	19	Pedro de la Rosa	Spain	Jaguar	66	1:29:56.946	1 Lap	1 Lap	200.566	1:19.737	65
+25	9	2001	European Grand Prix	9	10	Jacques Villeneuve	Canada	BAR	66	1:29:58.681	1 Lap	+ 1.735	200.501	1:19.797	65
+25	9	2001	European Grand Prix	10	17	Kimi Räikkönen	Finland	Sauber	66	1:30:18.487	1 Lap	+ 19.806	199.768	1:20.498	34
+25	9	2001	European Grand Prix	11	7	Giancarlo Fisichella	Italy	Benneton	66	1:31:03.678	1 Lap	+ 45.191	198.116	1:20.729	26
+25	9	2001	European Grand Prix	12	23	Luciano Burti	Brazil	Prost	65	1:29:47.681	2 Laps	1 Lap	197.866	1:19.105	57
+25	9	2001	European Grand Prix	13	8	Jenson Button	Great Britain	Benneton	65	1:30:09.667	2 Laps	+ 21.986	197.062	1:20.069	25
+25	9	2001	European Grand Prix	14	21	Fernando Alonso	Spain	Minardi	65	1:30:33.817	2 Laps	+ 24.150	196.186	1:20.937	29
+25	9	2001	European Grand Prix	15	22	Jean Alesi	France	Prost	64	1:27:35.567	3 Laps	1 Lap	199.719	1:20.049	48
+25	9	2001	European Grand Prix	16	14	Jos Verstappen	Netherlands	Arrows	58	1:20:24.853			197.152	1:21.154	23
+25	9	2001	European Grand Prix	17	16	Nick Heidfeld	Germany	Sauber	54	1:14:50.643			197.215	1:20.976	53
+25	9	2001	European Grand Prix	18	11	Heinz-Harald Frentzen	Germany	Jordan	48	1:05:43.169			199.640	1:19.892	31
+25	9	2001	European Grand Prix	19	12	Jarno Trulli	Italy	Jordan	44	59:55.411			200.702	1:19.484	32
+25	9	2001	European Grand Prix	20	15	Enrique Bernoldi	Brazil	Arrows	29	40:32.152			195.540	1:21.188	25
+25	9	2001	European Grand Prix	21	9	Olivier Panis	France	BAR	23	31:43.768			198.120	1:21.314	23
+25	9	2001	European Grand Prix	22	20	Tarso Marques	Brazil	Minardi	7	10:02.026			190.606	1:23.778	4

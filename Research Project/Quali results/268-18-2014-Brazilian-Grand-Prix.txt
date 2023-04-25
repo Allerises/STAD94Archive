@@ -1,0 +1,18 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+268	18	2014	Brazilian Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	6	1:10.023					
+268	18	2014	Brazilian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team	6	1:10.056	0.033	0.033			
+268	18	2014	Brazilian Grand Prix	3	19	Felipe Massa	Brazil	Williams Martini Racing	5	1:10.247	0.224	0.191			
+268	18	2014	Brazilian Grand Prix	4	77	Valtteri Bottas	Finland	Williams Martini Racing	5	1:10.305	0.282	0.058			
+268	18	2014	Brazilian Grand Prix	5	22	Jenson Button	Great Britain	McLaren Mercedes	6	1:10.930	0.907	0.625			
+268	18	2014	Brazilian Grand Prix	6	1	Sebastian Vettel	Germany	Infiniti Red Bull Racing	6	1:10.938	0.915	0.008			
+268	18	2014	Brazilian Grand Prix	7	20	Kevin Magnussen	Denmark	McLaren Mercedes	6	1:10.969	0.946	0.031			
+268	18	2014	Brazilian Grand Prix	8	14	Fernando Alonso	Spain	Scuderia Ferrari	3	1:10.977	0.954	0.008			
+268	18	2014	Brazilian Grand Prix	9	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing	6	1:11.075	1.052	0.098			
+268	18	2014	Brazilian Grand Prix	10	7	Kimi Räikkönen	Finland	Scuderia Ferrari	3	1:11.099	1.076	0.024			
+268	18	2014	Brazilian Grand Prix	11	21	Esteban Gutiérrez	Mexico	Sauber F1 Team	6	1:11.591	1.568	0.492			
+268	18	2014	Brazilian Grand Prix	12	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team	7	1:11.976	1.953	0.385			
+268	18	2014	Brazilian Grand Prix	13	99	Adrian Sutil	Germany	Sauber F1 Team	5	1:12.099	2.076	0.123			
+268	18	2014	Brazilian Grand Prix	15	8	Romain Grosjean	France	Lotus F1 Team	8	1:12.037	2.014	0.061			
+268	18	2014	Brazilian Grand Prix	16	25	Jean-Eric Vergne	France	Scuderia Toro Rosso	10	1:12.040	2.017	0.003			
+268	18	2014	Brazilian Grand Prix	17	11	Sergio Pérez	Mexico	Sahara Force India F1 Team	9	1:12.076	2.053	0.036			
+268	18	2014	Brazilian Grand Prix	18	13	Pastor Maldonado	Venezuela	Lotus F1 Team	7	1:12.233	2.210	0.157			

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+345	7	2019	Canadian Grand Prix	1	5	Sebastian Vettel	Germany	Scuderia Ferrari	23	1:10.240			223.513		
+345	7	2019	Canadian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Motorsport	22	1:10.446	0.206	0.206	222.860		
+345	7	2019	Canadian Grand Prix	3	16	Charles Leclerc	Monaco	Scuderia Ferrari	23	1:10.920	0.680	0.474	221.370		
+345	7	2019	Canadian Grand Prix	4	3	Daniel Ricciardo	Australia	Renault F1 Team	20	1:11.071	0.831	0.151	220.900		
+345	7	2019	Canadian Grand Prix	5	10	Pierre Gasly	France	Aston Martin Red Bull Racing	17	1:11.079	0.839	0.008	220.875		
+345	7	2019	Canadian Grand Prix	6	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Motorsport	19	1:11.101	0.861	0.022	220.807		
+345	7	2019	Canadian Grand Prix	7	27	Nico Hülkenberg	Germany	Renault F1 Team	21	1:11.324	1.084	0.223	220.116		
+345	7	2019	Canadian Grand Prix	8	4	Lando Norris	Great Britain	McLaren F1 Team	20	1:11.863	1.623	0.539	218.465		
+345	7	2019	Canadian Grand Prix	9	55	Carlos Sainz	Spain	McLaren F1 Team	19	1:13.981	3.741	2.118	212.211		
+345	7	2019	Canadian Grand Prix	10	20	Kevin Magnussen	Denmark	Rich Energy Haas F1 Team	15						
+345	7	2019	Canadian Grand Prix	11	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	12	1:11.800	1.560		218.657		
+345	7	2019	Canadian Grand Prix	12	26	Daniil Kvyat	Russia	Red Bull Toro Rosso Honda	17	1:11.921	1.681	0.121	218.289		
+345	7	2019	Canadian Grand Prix	13	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing	16	1:12.136	1.896	0.215	217.638		
+345	7	2019	Canadian Grand Prix	14	23	Alexander Albon	Thailand	Red Bull Toro Rosso Honda	16	1:12.193	1.953	0.057	217.467		
+345	7	2019	Canadian Grand Prix	15	8	Romain Grosjean	France	Rich Energy Haas F1 Team	15						
+345	7	2019	Canadian Grand Prix	16	11	Sergio Pérez	Mexico	SportPesa Racing Point F1 Team	6	1:12.197	1.957		217.455		
+345	7	2019	Canadian Grand Prix	17	7	Kimi Räikkönen	Finland	Alfa Romeo Racing	10	1:12.230	1.990	0.033	217.355		
+345	7	2019	Canadian Grand Prix	18	18	Lance Stroll	Canada	SportPesa Racing Point F1 Team	9	1:12.266	2.026	0.036	217.247		
+345	7	2019	Canadian Grand Prix	19	63	George Russell	Great Britain	ROKiT Williams Racing	10	1:13.617	3.377	1.351	213.260		
+345	7	2019	Canadian Grand Prix	20	88	Robert Kubica	Poland	ROKiT Williams Racing	10	1:14.393	4.153	0.776	211.035		

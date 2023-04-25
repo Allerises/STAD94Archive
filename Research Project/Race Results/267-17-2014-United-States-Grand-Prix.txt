@@ -1,0 +1,19 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+267	17	2014	United States Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	56	1:40:04.785			184.895	1:41.929	49
+267	17	2014	United States Grand Prix	2	6	Nico Rosberg	Germany	Mercedes	56	1:40:09.099	+ 4.314	+ 4.314	184.762	1:41.932	48
+267	17	2014	United States Grand Prix	3	3	Daniel Ricciardo	Australia	Red Bull	56	1:40:30.345	+ 25.560	+ 21.246	184.111	1:42.831	33
+267	17	2014	United States Grand Prix	4	19	Felipe Massa	Brazil	Williams	56	1:40:31.709	+ 26.924	+ 1.364	184.070	1:42.971	50
+267	17	2014	United States Grand Prix	5	77	Valtteri Bottas	Finland	Williams	56	1:40:35.777	+ 30.992	+ 4.068	183.946	1:42.505	55
+267	17	2014	United States Grand Prix	6	14	Fernando Alonso	Spain	Ferrari	56	1:41:40.016	+ 1:35.231	+ 1:04.239	182.009	1:41.474	47
+267	17	2014	United States Grand Prix	7	1	Sebastian Vettel	Germany	Red Bull	56	1:41:40.519	+ 1:35.734	+ 0.503	181.994	1:41.379	50
+267	17	2014	United States Grand Prix	8	20	Kevin Magnussen	Denmark	McLaren	56	1:41:45.467	+ 1:40.682	+ 4.948	181.846	1:44.287	29
+267	17	2014	United States Grand Prix	9	13	Pastor Maldonado	Venezuela	Lotus	56	1:41:52.655	+ 1:47.870	+ 7.188	181.632	1:43.808	38
+267	17	2014	United States Grand Prix	10	25	Jean-Eric Vergne	France	Toro Rosso	56	1:41:53.648	+ 1:48.863	+ 0.993	181.603	1:44.180	17
+267	17	2014	United States Grand Prix	11	8	Romain Grosjean	France	Lotus	55	1:40:09.963	1 Lap	1 Lap	181.433	1:44.440	51
+267	17	2014	United States Grand Prix	12	22	Jenson Button	Great Britain	McLaren	55	1:40:11.110	1 Lap	+ 1.147	181.399	1:44.255	33
+267	17	2014	United States Grand Prix	13	7	Kimi Räikkönen	Finland	Ferrari	55	1:40:24.599	1 Lap	+ 13.489	180.993	1:42.888	54
+267	17	2014	United States Grand Prix	14	21	Esteban Gutiérrez	Mexico	Sauber	55	1:40:25.672	1 Lap	+ 1.073	180.960	1:43.006	47
+267	17	2014	United States Grand Prix	15	26	Daniil Kvyat	Russia	Toro Rosso	55	1:40:32.052	1 Lap	+ 6.380	180.769	1:41.689	53
+267	17	2014	United States Grand Prix	16	27	Nico Hülkenberg	Germany	Force India	16	31:08.408			169.334	1:46.226	15
+267	17	2014	United States Grand Prix	17	11	Sergio Pérez	Mexico	Force India	1	2:26.788			127.285		
+267	17	2014	United States Grand Prix	18	99	Adrian Sutil	Germany	Sauber							

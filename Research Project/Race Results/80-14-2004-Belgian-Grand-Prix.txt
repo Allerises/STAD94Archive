@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+80	14	2004	Belgian Grand Prix	1	6	Kimi Räikkönen	Finland	McLaren	44	1:32:35.274			198.898	1:45.108	42
+80	14	2004	Belgian Grand Prix	2	1	Michael Schumacher	Germany	Ferrari	44	1:32:38.406	+ 3.132	+ 3.132	198.786	1:45.503	28
+80	14	2004	Belgian Grand Prix	3	2	Rubens Barrichello	Brazil	Ferrari	44	1:32:39.645	+ 4.371	+ 1.239	198.742	1:45.666	43
+80	14	2004	Belgian Grand Prix	4	12	Felipe Massa	Brazil	Sauber	44	1:32:47.778	+ 12.504	+ 8.133	198.452	1:47.624	29
+80	14	2004	Belgian Grand Prix	5	11	Giancarlo Fisichella	Italy	Sauber	44	1:32:49.378	+ 14.104	+ 1.600	198.395	1:46.758	11
+80	14	2004	Belgian Grand Prix	6	15	Christian Klien	Austria	Jaguar	44	1:32:49.888	+ 14.614	+ 0.510	198.376	1:47.509	11
+80	14	2004	Belgian Grand Prix	7	5	David Coulthard	Great Britain	McLaren	44	1:32:53.244	+ 17.970	+ 3.356	198.257	1:46.579	11
+80	14	2004	Belgian Grand Prix	8	17	Olivier Panis	France	Toyota	44	1:32:53.967	+ 18.693	+ 0.723	198.231	1:47.765	29
+80	14	2004	Belgian Grand Prix	9	7	Jarno Trulli	Italy	Renault	44	1:32:57.389	+ 22.115	+ 3.422	198.110	1:45.898	9
+80	14	2004	Belgian Grand Prix	10	16	Ricardo Zonta	Brazil	Toyota	41	1:27:21.317	3 Laps	3 Laps	196.438	1:47.576	26
+80	14	2004	Belgian Grand Prix	11	18	Nick Heidfeld	Germany	Jordan	40	1:32:59.249	4 Laps	1 Lap	180.039	1:50.471	40
+80	14	2004	Belgian Grand Prix	12	3	Juan Pablo Montoya	Colombia	Williams	37	1:19:08.595			195.666	1:46.547	36
+80	14	2004	Belgian Grand Prix	13	4	Antonio Pizzonia	Brazil	Williams	31	1:02:38.523			207.118	1:46.740	26
+80	14	2004	Belgian Grand Prix	14	9	Jenson Button	Great Britain	BAR	29	57:49.654			209.886	1:47.151	26
+80	14	2004	Belgian Grand Prix	15	21	Zsolt Baumgartner	Hungary	Minardi	28	57:49.082			202.681	1:51.031	25
+80	14	2004	Belgian Grand Prix	16	8	Fernando Alonso	Spain	Renault	11	24:38.160			186.846	1:45.870	9
+80	14	2004	Belgian Grand Prix	17	14	Mark Webber	Australia	Jaguar							
+80	14	2004	Belgian Grand Prix	18	10	Takuma Sato	Japan	BAR							
+80	14	2004	Belgian Grand Prix	19	20	Gianmaria Bruni	Italy	Minardi							
+80	14	2004	Belgian Grand Prix	20	19	Giorgio Pantano	Italy	Jordan							

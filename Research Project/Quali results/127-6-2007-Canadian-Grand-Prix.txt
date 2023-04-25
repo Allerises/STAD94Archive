@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+127	6	2007	Canadian Grand Prix	1	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	18	1:15.707					
+127	6	2007	Canadian Grand Prix	2	1	Fernando Alonso	Spain	Vodafone McLaren Mercedes	18	1:16.163	0.456	0.456			
+127	6	2007	Canadian Grand Prix	3	9	Nick Heidfeld	Germany	BMW Sauber F1 Team	23	1:16.266	0.559	0.103			
+127	6	2007	Canadian Grand Prix	4	6	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	21	1:16.411	0.704	0.145			
+127	6	2007	Canadian Grand Prix	5	5	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	19	1:16.570	0.863	0.159			
+127	6	2007	Canadian Grand Prix	6	15	Mark Webber	Australia	Red Bull Racing	24	1:16.913	1.206	0.343			
+127	6	2007	Canadian Grand Prix	7	16	Nico Rosberg	Germany	AT&T Williams	24	1:16.919	1.212	0.006			
+127	6	2007	Canadian Grand Prix	8	10	Robert Kubica	Poland	BMW Sauber F1 Team	26	1:16.993	1.286	0.074			
+127	6	2007	Canadian Grand Prix	9	3	Giancarlo Fisichella	Italy	ING Renault F1 Team	24	1:17.229	1.522	0.236			
+127	6	2007	Canadian Grand Prix	10	12	Jarno Trulli	Italy	Panasonic Toyota Racing	26	1:17.747	2.040	0.518			
+127	6	2007	Canadian Grand Prix	11	22	Takuma Sato	Japan	Super Aguri F1 Team	12	1:16.743	1.036	0.173			
+127	6	2007	Canadian Grand Prix	12	18	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	13	1:16.760	1.053	0.017			
+127	6	2007	Canadian Grand Prix	13	8	Rubens Barrichello	Brazil	Honda Racing F1 Team	12	1:17.116	1.409	0.356			
+127	6	2007	Canadian Grand Prix	14	14	David Coulthard	Great Britain	Red Bull Racing	15	1:17.304	1.597	0.188			
+127	6	2007	Canadian Grand Prix	15	7	Jenson Button	Great Britain	Honda Racing F1 Team	12	1:17.541	1.834	0.237			
+127	6	2007	Canadian Grand Prix	16	19	Scott Speed	USA	Scuderia Toro Rosso	13	1:17.571	1.864	0.030			
+127	6	2007	Canadian Grand Prix	17	23	Anthony Davidson	Great Britain	Super Aguri F1 Team	4	1:17.542	1.835	0.001			
+127	6	2007	Canadian Grand Prix	18	11	Ralf Schumacher	Germany	Panasonic Toyota Racing	8	1:17.634	1.927	0.092			
+127	6	2007	Canadian Grand Prix	19	4	Heikki Kovalainen	Finland	ING Renault F1 Team	6	1:17.806	2.099	0.172			
+127	6	2007	Canadian Grand Prix	20	17	Alexander Wurz	Austria	AT&T Williams	5	1:18.089	2.382	0.283			
+127	6	2007	Canadian Grand Prix	21	20	Adrian Sutil	Germany	Etihad Aldar Spyker F1 Team	7	1:18.536	2.829	0.447			
+127	6	2007	Canadian Grand Prix	22	21	Christijan Albers	Netherlands	Etihad Aldar Spyker F1 Team	7	1:19.196	3.489	0.660			

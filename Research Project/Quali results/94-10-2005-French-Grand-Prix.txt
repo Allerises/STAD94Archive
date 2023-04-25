@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+94	10	2005	French Grand Prix	1	5	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:14.415					
+94	10	2005	French Grand Prix	2	16	Jarno Trulli	Italy	Panasonic Toyota Racing	3	1:14.521	0.106	0.106			
+94	10	2005	French Grand Prix	3	9	Kimi Räikkönen	Finland	Team McLaren Mercedes	3	1:14.559	0.144	0.038			
+94	10	2005	French Grand Prix	4	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:14.572	0.157	0.013			
+94	10	2005	French Grand Prix	5	4	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:14.655	0.240	0.083			
+94	10	2005	French Grand Prix	6	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:14.832	0.417	0.177			
+94	10	2005	French Grand Prix	7	6	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	3	1:14.887	0.472	0.055			
+94	10	2005	French Grand Prix	8	3	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:15.051	0.636	0.164			
+94	10	2005	French Grand Prix	9	10	Juan Pablo Montoya	Colombia	Team McLaren Mercedes	3	1:15.406	0.991	0.355			
+94	10	2005	French Grand Prix	10	12	Felipe Massa	Brazil	Sauber Petronas	3	1:15.566	1.151	0.160			
+94	10	2005	French Grand Prix	11	11	Jacques Villeneuve	Canada	Sauber Petronas	3	1:15.699	1.284	0.133			
+94	10	2005	French Grand Prix	12	17	Ralf Schumacher	Germany	Panasonic Toyota Racing	3	1:15.771	1.356	0.072			
+94	10	2005	French Grand Prix	13	7	Mark Webber	Australia	BMW WilliamsF1 Team	3	1:15.885	1.470	0.114			
+94	10	2005	French Grand Prix	14	8	Nick Heidfeld	Germany	BMW WilliamsF1 Team	3	1:16.207	1.792	0.322			
+94	10	2005	French Grand Prix	15	14	David Coulthard	Great Britain	Red Bull Racing	3	1:16.434	2.019	0.227			
+94	10	2005	French Grand Prix	16	15	Christian Klien	Austria	Red Bull Racing	3	1:16.547	2.132	0.113			
+94	10	2005	French Grand Prix	17	19	Narain Karthikeyan	India	Jordan Grand Prix	3	1:17.857	3.442	1.310			
+94	10	2005	French Grand Prix	18	20	Patrick Friesacher	Austria	Minardi Cosworth	3	1:17.960	3.545	0.103			
+94	10	2005	French Grand Prix	19	18	Tiago Monteiro	Portugal	Jordan Grand Prix	3	1:18.047	3.632	0.087			
+94	10	2005	French Grand Prix	20	21	Christijan Albers	Netherlands	Minardi Cosworth	3	1:18.335	3.920	0.288			

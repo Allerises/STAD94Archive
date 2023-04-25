@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+307	19	2016	Mexican Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	71	1:40:31.402			182.258	1:22.596	66
+307	19	2016	Mexican Grand Prix	2	6	Nico Rosberg	Germany	Mercedes	71	1:40:39.756	+ 8.354	+ 8.354	182.006	1:22.792	43
+307	19	2016	Mexican Grand Prix	3	3	Daniel Ricciardo	Australia	Red Bull	71	1:40:52.260	+ 20.858	+ 12.504	181.630	1:21.134	53
+307	19	2016	Mexican Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull	71	1:40:52.725	+ 21.323	+ 0.465	181.616	1:22.887	66
+307	19	2016	Mexican Grand Prix	5	5	Sebastian Vettel	Germany	Ferrari	71	1:40:58.715	+ 27.313	+ 5.990	181.436	1:22.497	61
+307	19	2016	Mexican Grand Prix	6	7	Kimi Räikkönen	Finland	Ferrari	71	1:41:20.778	+ 49.376	+ 22.063	180.778	1:22.512	47
+307	19	2016	Mexican Grand Prix	7	27	Nico Hülkenberg	Germany	Force India	71	1:41:30.293	+ 58.891	+ 9.515	180.496	1:23.288	50
+307	19	2016	Mexican Grand Prix	8	77	Valtteri Bottas	Finland	Williams	71	1:41:37.014	+ 1:05.612	+ 6.721	180.297	1:23.540	65
+307	19	2016	Mexican Grand Prix	9	19	Felipe Massa	Brazil	Williams	71	1:41:47.608	+ 1:16.206	+ 10.594	179.984	1:23.576	64
+307	19	2016	Mexican Grand Prix	10	11	Sergio Pérez	Mexico	Force India	71	1:41:48.200	+ 1:16.798	+ 0.592	179.966	1:23.607	62
+307	19	2016	Mexican Grand Prix	11	9	Marcus Ericsson	Sweden	Sauber	70	1:41:06.179	1 Lap	1 Lap	178.659	1:24.340	65
+307	19	2016	Mexican Grand Prix	12	22	Jenson Button	Great Britain	McLaren	70	1:41:12.962	1 Lap	+ 6.783	178.459	1:23.777	70
+307	19	2016	Mexican Grand Prix	13	14	Fernando Alonso	Spain	McLaren	70	1:41:21.399	1 Lap	+ 8.437	178.212	1:23.668	69
+307	19	2016	Mexican Grand Prix	14	30	Jolyon Palmer	Great Britain	Renault	70	1:41:27.597	1 Lap	+ 6.198	178.030	1:24.574	64
+307	19	2016	Mexican Grand Prix	15	12	Felipe Nasr	Brazil	Sauber	70	1:41:35.456	1 Lap	+ 7.859	177.801	1:23.657	58
+307	19	2016	Mexican Grand Prix	16	55	Carlos Sainz	Spain	Toro Rosso	70	1:41:37.263	1 Lap	+ 1.807	177.748	1:24.467	52
+307	19	2016	Mexican Grand Prix	17	20	Kevin Magnussen	Denmark	Renault	70	1:41:41.268	1 Lap	+ 4.005	177.631	1:23.146	53
+307	19	2016	Mexican Grand Prix	18	26	Daniil Kvyat	Russia	Toro Rosso	70	1:41:41.274	1 Lap	+ 0.006	177.631	1:23.618	59
+307	19	2016	Mexican Grand Prix	19	21	Esteban Gutiérrez	Mexico	Haas	70	1:41:41.934	1 Lap	+ 0.660	177.612	1:23.456	63
+307	19	2016	Mexican Grand Prix	20	8	Romain Grosjean	France	Haas	70	1:41:50.937	1 Lap	+ 9.003	177.350	1:23.278	53
+307	19	2016	Mexican Grand Prix	21	31	Esteban Ocon	France	Manor	69	1:41:01.123	2 Laps	1 Lap	176.252	1:24.964	43
+307	19	2016	Mexican Grand Prix	22	94	Pascal Wehrlein	Germany	Manor							

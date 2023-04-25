@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+237	6	2013	Monaco Grand Prix	1	9	Nico Rosberg	Germany	Mercedes	78	2:17:52.056			113.378	1:18.327	74
+237	6	2013	Monaco Grand Prix	2	1	Sebastian Vettel	Germany	Red Bull	78	2:17:55.944	+ 3.888	+ 3.888	113.325	1:16.577	77
+237	6	2013	Monaco Grand Prix	3	2	Mark Webber	Australia	Red Bull	78	2:17:58.370	+ 6.314	+ 2.426	113.291	1:18.262	77
+237	6	2013	Monaco Grand Prix	4	10	Lewis Hamilton	Great Britain	Mercedes	78	2:18:05.950	+ 13.894	+ 7.580	113.188	1:18.133	76
+237	6	2013	Monaco Grand Prix	5	15	Adrian Sutil	Germany	Force India	78	2:18:13.533	+ 21.477	+ 7.583	113.084	1:18.292	74
+237	6	2013	Monaco Grand Prix	6	5	Jenson Button	Great Britain	McLaren	78	2:18:15.159	+ 23.103	+ 1.626	113.062	1:18.720	76
+237	6	2013	Monaco Grand Prix	7	3	Fernando Alonso	Spain	Ferrari	78	2:18:18.790	+ 26.734	+ 3.631	113.013	1:19.340	77
+237	6	2013	Monaco Grand Prix	8	18	Jean-Eric Vergne	France	Toro Rosso	78	2:18:19.279	+ 27.223	+ 0.489	113.006	1:19.151	77
+237	6	2013	Monaco Grand Prix	9	14	Paul di Resta	Great Britain	Force India	78	2:18:19.664	+ 27.608	+ 0.385	113.001	1:19.215	77
+237	6	2013	Monaco Grand Prix	10	7	Kimi Räikkönen	Finland	Lotus	78	2:18:28.638	+ 36.582	+ 8.974	112.879	1:17.392	78
+237	6	2013	Monaco Grand Prix	11	11	Nico Hülkenberg	Germany	Sauber	78	2:18:34.628	+ 42.572	+ 5.990	112.797	1:19.853	29
+237	6	2013	Monaco Grand Prix	12	17	Valtteri Bottas	Finland	Williams	78	2:18:34.747	+ 42.691	+ 0.119	112.796	1:20.921	68
+237	6	2013	Monaco Grand Prix	13	12	Esteban Gutiérrez	Mexico	Sauber	78	2:18:35.268	+ 43.212	+ 0.521	112.789	1:18.685	71
+237	6	2013	Monaco Grand Prix	14	23	Max Chilton	Great Britain	Marussia	78	2:18:41.941	+ 49.885	+ 6.673	112.698	1:19.016	78
+237	6	2013	Monaco Grand Prix	15	21	Giedo van der Garde	Netherlands	Caterham	78	2:18:54.646	+ 1:02.590	+ 12.705	112.526	1:20.494	50
+237	6	2013	Monaco Grand Prix	16	6	Sergio Pérez	Mexico	McLaren	72	2:10:17.066	6 Laps	6 Laps	110.748	1:19.530	27
+237	6	2013	Monaco Grand Prix	17	8	Romain Grosjean	France	Lotus	63	1:57:05.139			107.828	1:20.969	57
+237	6	2013	Monaco Grand Prix	18	19	Daniel Ricciardo	Australia	Toro Rosso	61	1:52:59.034			108.195	1:19.426	26
+237	6	2013	Monaco Grand Prix	19	22	Jules Bianchi	France	Marussia	58	1:50:23.391			105.292	1:20.617	49
+237	6	2013	Monaco Grand Prix	20	16	Pastor Maldonado	Venezuela	Williams	44	1:05:18.934			134.999	1:20.881	8
+237	6	2013	Monaco Grand Prix	21	4	Felipe Massa	Brazil	Ferrari	28	39:20.111			142.650	1:20.064	28
+237	6	2013	Monaco Grand Prix	22	20	Charles Pic	France	Caterham	7	10:00.004			140.278	1:22.772	4

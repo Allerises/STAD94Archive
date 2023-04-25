@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+26	10	2001	French Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	72	1:33:35.636			196.093	1:16.286	27
+26	10	2001	French Grand Prix	2	5	Ralf Schumacher	Germany	Williams	72	1:33:46.035	+ 10.399	+ 10.399	195.731	1:16.585	18
+26	10	2001	French Grand Prix	3	2	Rubens Barrichello	Brazil	Ferrari	72	1:33:52.017	+ 16.381	+ 5.982	195.523	1:16.181	23
+26	10	2001	French Grand Prix	4	4	David Coulthard	Great Britain	McLaren	72	1:33:52.742	+ 17.106	+ 0.725	195.497	1:16.088	53
+26	10	2001	French Grand Prix	5	12	Jarno Trulli	Italy	Jordan	72	1:34:43.921	+ 1:08.285	+ 51.179	193.737	1:17.369	29
+26	10	2001	French Grand Prix	6	16	Nick Heidfeld	Germany	Sauber	71	1:33:49.264	1 Lap	1 Lap	192.900	1:17.538	23
+26	10	2001	French Grand Prix	7	17	Kimi Räikkönen	Finland	Sauber	71	1:34:02.262	1 Lap	+ 12.998	192.455	1:17.311	8
+26	10	2001	French Grand Prix	8	11	Heinz-Harald Frentzen	Germany	Jordan	71	1:34:07.250	1 Lap	+ 4.988	192.285	1:17.540	20
+26	10	2001	French Grand Prix	9	9	Olivier Panis	France	BAR	71	1:34:10.778	1 Lap	+ 3.528	192.165	1:18.250	68
+26	10	2001	French Grand Prix	10	23	Luciano Burti	Brazil	Prost	71	1:34:35.257	1 Lap	+ 24.479	191.336	1:18.253	50
+26	10	2001	French Grand Prix	11	7	Giancarlo Fisichella	Italy	Benneton	71	1:34:39.036	1 Lap	+ 3.779	191.209	1:17.968	26
+26	10	2001	French Grand Prix	12	22	Jean Alesi	France	Prost	70	1:34:04.983	2 Laps	1 Lap	189.652	1:18.817	14
+26	10	2001	French Grand Prix	13	14	Jos Verstappen	Netherlands	Arrows	70	1:34:14.330	2 Laps	+ 9.347	189.338	1:18.662	47
+26	10	2001	French Grand Prix	14	19	Pedro de la Rosa	Spain	Jaguar	70	1:34:28.598	2 Laps	+ 14.268	188.861	1:17.508	67
+26	10	2001	French Grand Prix	15	20	Tarso Marques	Brazil	Minardi	69	1:34:04.033	3 Laps	1 Lap	186.972	1:19.608	54
+26	10	2001	French Grand Prix	16	8	Jenson Button	Great Britain	Benneton	68	1:31:18.685	4 Laps	1 Lap	189.822	1:18.359	25
+26	10	2001	French Grand Prix	17	21	Fernando Alonso	Spain	Minardi	65	1:28:16.064	7 Laps	3 Laps	187.698	1:19.199	62
+26	10	2001	French Grand Prix	18	18	Eddie Irvine	Great Britain	Jaguar	54	1:11:19.521			192.947	1:17.304	23
+26	10	2001	French Grand Prix	19	6	Juan Pablo Montoya	Colombia	Williams	52	1:07:54.375			195.150	1:16.355	34
+26	10	2001	French Grand Prix	20	15	Enrique Bernoldi	Brazil	Arrows	17	22:36.106			191.350	1:19.181	13
+26	10	2001	French Grand Prix	21	10	Jacques Villeneuve	Canada	BAR	5	6:36.674			191.210	1:18.181	4
+26	10	2001	French Grand Prix	22	3	Mika Hakkinen	Finland	McLaren							

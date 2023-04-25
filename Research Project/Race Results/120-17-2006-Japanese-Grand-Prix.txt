@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+120	17	2006	Japanese Grand Prix	1	1	Fernando Alonso	Spain	Renault	53	1:23:53.413			219.982	1:32.676	14
+120	17	2006	Japanese Grand Prix	2	6	Felipe Massa	Brazil	Ferrari	53	1:24:09.564	+ 16.151	+ 16.151	219.278	1:33.296	37
+120	17	2006	Japanese Grand Prix	3	2	Giancarlo Fisichella	Italy	Renault	53	1:24:17.366	+ 23.953	+ 7.802	218.940	1:33.564	13
+120	17	2006	Japanese Grand Prix	4	12	Jenson Button	Great Britain	Honda	53	1:24:27.514	+ 34.101	+ 10.148	218.502	1:33.451	35
+120	17	2006	Japanese Grand Prix	5	3	Kimi Räikkönen	Finland	McLaren	53	1:24:37.009	+ 43.596	+ 9.495	218.093	1:33.344	24
+120	17	2006	Japanese Grand Prix	6	8	Jarno Trulli	Italy	Toyota	53	1:24:40.130	+ 46.717	+ 3.121	217.959	1:33.866	2
+120	17	2006	Japanese Grand Prix	7	7	Ralf Schumacher	Germany	Toyota	53	1:24:42.282	+ 48.869	+ 2.152	217.867	1:33.607	2
+120	17	2006	Japanese Grand Prix	8	16	Nick Heidfeld	Germany	Sauber	53	1:25:09.508	+ 1:16.095	+ 27.226	216.706	1:34.525	31
+120	17	2006	Japanese Grand Prix	9	17	Robert Kubica	Poland	Sauber	53	1:25:10.345	+ 1:16.932	+ 0.837	216.670	1:33.509	39
+120	17	2006	Japanese Grand Prix	10	10	Nico Rosberg	Germany	Williams	52	1:24:01.311	1 Lap	1 Lap	215.491	1:34.802	33
+120	17	2006	Japanese Grand Prix	11	4	Pedro de la Rosa	Spain	McLaren	52	1:24:06.083	1 Lap	+ 4.772	215.287	1:34.120	22
+120	17	2006	Japanese Grand Prix	12	11	Rubens Barrichello	Brazil	Honda	52	1:24:31.585	1 Lap	+ 25.502	214.204	1:34.071	40
+120	17	2006	Japanese Grand Prix	13	15	Robert Doornbos	Netherlands	Red Bull	52	1:24:53.750	1 Lap	+ 22.165	213.272	1:35.099	37
+120	17	2006	Japanese Grand Prix	14	20	Vitantonio Liuzzi	Italy	Toro Rosso	52	1:25:07.938	1 Lap	+ 14.188	212.680	1:34.131	22
+120	17	2006	Japanese Grand Prix	15	22	Takuma Sato	Japan	Super Aguri	52	1:25:19.208	1 Lap	+ 11.270	212.212	1:35.082	26
+120	17	2006	Japanese Grand Prix	16	18	Tiago Monteiro	Portugal	Spyker	51	1:24:01.977	2 Laps	1 Lap	211.316	1:35.260	27
+120	17	2006	Japanese Grand Prix	17	23	Sakon Yamamoto	Japan	Super Aguri	50	1:24:19.816	3 Laps	1 Lap	206.439	1:35.594	22
+120	17	2006	Japanese Grand Prix	18	21	Scott Speed	USA	Toro Rosso	48	1:19:12.813	5 Laps	2 Laps	210.977	1:34.560	37
+120	17	2006	Japanese Grand Prix	19	9	Mark Webber	Australia	Williams	39	1:03:23.353			214.176	1:35.092	19
+120	17	2006	Japanese Grand Prix	20	5	Michael Schumacher	Germany	Ferrari	36	56:44.522			220.845	1:32.792	32
+120	17	2006	Japanese Grand Prix	21	14	David Coulthard	Great Britain	Red Bull	35	57:41.182			211.190	1:35.052	20
+120	17	2006	Japanese Grand Prix	22	19	Christijan Albers	Netherlands	Spyker	20	33:11.779			209.556	1:36.036	19

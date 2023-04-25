@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+238	7	2013	Canadian Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	70	1:32:09.143			198.759	1:16.561	55
+238	7	2013	Canadian Grand Prix	2	3	Fernando Alonso	Spain	Ferrari	70	1:32:23.551	+ 14.408	+ 14.408	198.243	1:16.203	69
+238	7	2013	Canadian Grand Prix	3	10	Lewis Hamilton	Great Britain	Mercedes	70	1:32:25.085	+ 15.942	+ 1.534	198.188	1:16.354	69
+238	7	2013	Canadian Grand Prix	4	2	Mark Webber	Australia	Red Bull	70	1:32:34.874	+ 25.731	+ 9.789	197.839	1:16.182	69
+238	7	2013	Canadian Grand Prix	5	9	Nico Rosberg	Germany	Mercedes	70	1:33:18.868	+ 1:09.725	+ 43.994	196.284	1:16.534	70
+238	7	2013	Canadian Grand Prix	6	18	Jean-Eric Vergne	France	Toro Rosso	69	1:32:27.572	+ 18.429	1 Lap	195.269	1:17.909	61
+238	7	2013	Canadian Grand Prix	7	14	Paul di Resta	Great Britain	Force India	69	1:32:36.957	+ 27.814	+ 9.385	194.939	1:17.841	63
+238	7	2013	Canadian Grand Prix	8	4	Felipe Massa	Brazil	Ferrari	69	1:32:38.951	+ 29.808	+ 1.994	194.869	1:16.939	69
+238	7	2013	Canadian Grand Prix	9	7	Kimi Räikkönen	Finland	Lotus	69	1:32:41.642	+ 32.499	+ 2.691	194.775	1:17.766	61
+238	7	2013	Canadian Grand Prix	10	15	Adrian Sutil	Germany	Force India	69	1:32:44.121	+ 34.978	+ 2.479	194.688	1:17.694	68
+238	7	2013	Canadian Grand Prix	11	6	Sergio Pérez	Mexico	McLaren	69	1:32:45.406	+ 36.263	+ 1.285	194.643	1:17.369	69
+238	7	2013	Canadian Grand Prix	12	5	Jenson Button	Great Britain	McLaren	69	1:32:48.028	+ 38.885	+ 2.622	194.552	1:17.458	68
+238	7	2013	Canadian Grand Prix	13	8	Romain Grosjean	France	Lotus	69	1:33:00.532	+ 51.389	+ 12.504	194.116	1:17.607	62
+238	7	2013	Canadian Grand Prix	14	17	Valtteri Bottas	Finland	Williams	69	1:33:22.484	+ 1:13.341	+ 21.952	193.355	1:18.004	63
+238	7	2013	Canadian Grand Prix	15	19	Daniel Ricciardo	Australia	Toro Rosso	68	1:32:15.612	+ 6.469	1 Lap	192.855	1:18.257	68
+238	7	2013	Canadian Grand Prix	16	16	Pastor Maldonado	Venezuela	Williams	68	1:32:51.037	+ 41.894	+ 35.425	191.629	1:18.105	68
+238	7	2013	Canadian Grand Prix	17	22	Jules Bianchi	France	Marussia	68	1:33:12.754	+ 1:03.611	+ 21.717	190.884	1:18.873	68
+238	7	2013	Canadian Grand Prix	18	20	Charles Pic	France	Caterham	67	1:32:09.998	+ 0.855	1 Lap	190.212	1:19.380	60
+238	7	2013	Canadian Grand Prix	19	23	Max Chilton	Great Britain	Marussia	67	1:32:31.141	+ 21.998	+ 21.143	189.487	1:19.566	67
+238	7	2013	Canadian Grand Prix	20	12	Esteban Gutiérrez	Mexico	Sauber	63	1:25:57.489	7 Laps	4 Laps	191.774	1:19.478	52
+238	7	2013	Canadian Grand Prix	21	11	Nico Hülkenberg	Germany	Sauber	45	1:01:33.545			191.274	1:19.056	40
+238	7	2013	Canadian Grand Prix	22	21	Giedo van der Garde	Netherlands	Caterham	43	1:01:34.443			182.729	1:21.811	42

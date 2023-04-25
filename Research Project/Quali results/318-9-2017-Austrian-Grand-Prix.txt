@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+318	9	2017	Austrian Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:04.251			241.938		
+318	9	2017	Austrian Grand Prix	2	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:04.293	0.042	0.042	241.780		
+318	9	2017	Austrian Grand Prix	3	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:04.779	0.528	0.486	239.966		
+318	9	2017	Austrian Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull Racing		1:04.896	0.645	0.117	239.534		
+318	9	2017	Austrian Grand Prix	5	33	Max Verstappen	Netherlands	Red Bull Racing		1:04.983	0.732	0.087	239.213		
+318	9	2017	Austrian Grand Prix	6	8	Romain Grosjean	France	Haas F1 Team		1:05.480	1.229	0.497	237.397		
+318	9	2017	Austrian Grand Prix	7	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:05.605	1.354	0.125	236.945		
+318	9	2017	Austrian Grand Prix	8	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:04.424	0.173		241.288		
+318	9	2017	Austrian Grand Prix	9	31	Esteban Ocon	France	Sahara Force India F1 Team		1:05.674	1.423	1.250	236.696		
+318	9	2017	Austrian Grand Prix	10	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:05.726	1.475	0.052	236.509		
+318	9	2017	Austrian Grand Prix	11	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:05.597	1.346		236.974		
+318	9	2017	Austrian Grand Prix	12	14	Fernando Alonso	Spain	McLaren Honda Formula 1 Team		1:05.602	1.351	0.005	236.956		
+318	9	2017	Austrian Grand Prix	13	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team		1:05.741	1.490	0.139	236.455		
+318	9	2017	Austrian Grand Prix	14	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:05.884	1.633	0.143	235.941		
+318	9	2017	Austrian Grand Prix	15	20	Kevin Magnussen	Denmark	Haas F1 Team							
+318	9	2017	Austrian Grand Prix	16	30	Jolyon Palmer	Great Britain	Renault Sport Formula One Team		1:06.345	2.094		234.302		
+318	9	2017	Austrian Grand Prix	17	19	Felipe Massa	Brazil	Williams Martini Racing		1:06.534	2.283	0.189	233.636		
+318	9	2017	Austrian Grand Prix	18	18	Lance Stroll	Canada	Williams Martini Racing		1:06.608	2.357	0.074	233.377		
+318	9	2017	Austrian Grand Prix	19	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:06.857	2.606	0.249	232.508		
+318	9	2017	Austrian Grand Prix	20	94	Pascal Wehrlein	Germany	Sauber F1 Team		1:07.011	2.760	0.154	231.973		

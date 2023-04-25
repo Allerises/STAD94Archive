@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+166	10	2009	Hungarian Grand Prix	1	1	Lewis Hamilton	Great Britain	McLaren	70	1:38:23.876			186.973	1:22.479	16
+166	10	2009	Hungarian Grand Prix	2	4	Kimi Räikkönen	Finland	Ferrari	70	1:38:35.405	+ 11.529	+ 11.529	186.609	1:22.434	70
+166	10	2009	Hungarian Grand Prix	3	14	Mark Webber	Australia	Red Bull	70	1:38:40.762	+ 16.886	+ 5.357	186.440	1:21.931	65
+166	10	2009	Hungarian Grand Prix	4	16	Nico Rosberg	Germany	Williams	70	1:38:50.843	+ 26.967	+ 10.081	186.123	1:22.468	65
+166	10	2009	Hungarian Grand Prix	5	2	Heikki Kovalainen	Finland	McLaren	70	1:38:58.268	+ 34.392	+ 7.425	185.890	1:22.958	63
+166	10	2009	Hungarian Grand Prix	6	10	Timo Glock	Germany	Toyota	70	1:38:59.113	+ 35.237	+ 0.845	185.864	1:22.506	63
+166	10	2009	Hungarian Grand Prix	7	22	Jenson Button	Great Britain	Brawn	70	1:39:18.964	+ 55.088	+ 19.851	185.244	1:22.706	57
+166	10	2009	Hungarian Grand Prix	8	9	Jarno Trulli	Italy	Toyota	70	1:39:32.048	+ 1:08.172	+ 13.084	184.839	1:23.261	65
+166	10	2009	Hungarian Grand Prix	9	17	Kazuki Nakajima	Japan	Williams	70	1:39:32.650	+ 1:08.774	+ 0.602	184.820	1:23.180	55
+166	10	2009	Hungarian Grand Prix	10	23	Rubens Barrichello	Brazil	Brawn	70	1:39:33.132	+ 1:09.256	+ 0.482	184.805	1:23.024	55
+166	10	2009	Hungarian Grand Prix	11	6	Nick Heidfeld	Germany	Sauber	70	1:39:34.488	+ 1:10.612	+ 1.356	184.763	1:23.282	65
+166	10	2009	Hungarian Grand Prix	12	8	Nelson Piquet Jr.	Brazil	Renault	70	1:39:35.388	+ 1:11.512	+ 0.900	184.735	1:23.418	65
+166	10	2009	Hungarian Grand Prix	13	5	Robert Kubica	Poland	Sauber	70	1:39:37.922	+ 1:14.046	+ 2.534	184.657	1:23.224	65
+166	10	2009	Hungarian Grand Prix	14	21	Giancarlo Fisichella	Italy	Force India	69	1:38:26.239	1 Lap	1 Lap	184.228	1:23.174	40
+166	10	2009	Hungarian Grand Prix	15	11	Jaime Alguersuari	Spain	Toro Rosso	69	1:38:44.598	1 Lap	+ 18.359	183.657	1:23.444	69
+166	10	2009	Hungarian Grand Prix	16	12	Sébastien Buemi	Switzerland	Toro Rosso	69	1:39:11.399	1 Lap	+ 26.801	182.830	1:22.955	69
+166	10	2009	Hungarian Grand Prix	17	15	Sebastian Vettel	Germany	Red Bull	29	42:35.011			178.955	1:23.457	18
+166	10	2009	Hungarian Grand Prix	18	7	Fernando Alonso	Spain	Renault	15	22:57.511			171.635	1:23.529	4
+166	10	2009	Hungarian Grand Prix	19	20	Adrian Sutil	Germany	Force India	1	1:44.266			149.882		
+166	10	2009	Hungarian Grand Prix	20	3	Felipe Massa	Brazil	Ferrari							

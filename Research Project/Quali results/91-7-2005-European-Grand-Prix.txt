@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+91	7	2005	European Grand Prix	1	8	Nick Heidfeld	Germany	BMW WilliamsF1 Team	3	1:30.081					
+91	7	2005	European Grand Prix	2	9	Kimi Räikkönen	Finland	Team McLaren Mercedes	3	1:30.197	0.116	0.116			
+91	7	2005	European Grand Prix	3	7	Mark Webber	Australia	BMW WilliamsF1 Team	3	1:30.368	0.287	0.171			
+91	7	2005	European Grand Prix	4	16	Jarno Trulli	Italy	Panasonic Toyota Racing	3	1:30.700	0.619	0.332			
+91	7	2005	European Grand Prix	5	10	Juan Pablo Montoya	Colombia	Team McLaren Mercedes	3	1:30.890	0.809	0.190			
+91	7	2005	European Grand Prix	6	5	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:31.056	0.975	0.166			
+91	7	2005	European Grand Prix	7	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:31.249	1.168	0.193			
+91	7	2005	European Grand Prix	8	17	Ralf Schumacher	Germany	Panasonic Toyota Racing	3	1:31.392	1.311	0.143			
+91	7	2005	European Grand Prix	9	6	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	3	1:31.566	1.485	0.174			
+91	7	2005	European Grand Prix	10	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:31.585	1.504	0.019			
+91	7	2005	European Grand Prix	11	12	Felipe Massa	Brazil	Sauber Petronas	3	1:32.205	2.124	0.620			
+91	7	2005	European Grand Prix	12	14	David Coulthard	Great Britain	Red Bull Racing	3	1:32.553	2.472	0.348			
+91	7	2005	European Grand Prix	13	3	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:32.594	2.513	0.041			
+91	7	2005	European Grand Prix	14	15	Vitantonio Liuzzi	Italy	Red Bull Racing	3	1:32.642	2.561	0.048			
+91	7	2005	European Grand Prix	15	11	Jacques Villeneuve	Canada	Sauber Petronas	3	1:32.891	2.810	0.249			
+91	7	2005	European Grand Prix	16	4	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:32.926	2.845	0.035			
+91	7	2005	European Grand Prix	17	18	Tiago Monteiro	Portugal	Jordan Grand Prix	3	1:35.047	4.966	2.121			
+91	7	2005	European Grand Prix	18	20	Patrick Friesacher	Austria	Minardi Cosworth	3	1:35.954	5.873	0.907			
+91	7	2005	European Grand Prix	19	19	Narain Karthikeyan	India	Jordan Grand Prix	3	1:36.192	6.111	0.238			
+91	7	2005	European Grand Prix	20	21	Christijan Albers	Netherlands	Minardi Cosworth	3	1:36.239	6.158	0.047			

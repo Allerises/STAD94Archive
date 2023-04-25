@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+347	9	2019	Austrian Grand Prix	1	16	Charles Leclerc	Monaco	Scuderia Ferrari	19	1:03.003			246.731		
+347	9	2019	Austrian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Motorsport	27	1:03.262	0.259	0.259	245.720		
+347	9	2019	Austrian Grand Prix	3	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	18	1:03.439	0.436	0.177	245.035		
+347	9	2019	Austrian Grand Prix	4	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Motorsport	25	1:03.537	0.534	0.098	244.657		
+347	9	2019	Austrian Grand Prix	5	20	Kevin Magnussen	Denmark	Rich Energy Haas F1 Team	20	1:04.072	1.069	0.535	242.614		
+347	9	2019	Austrian Grand Prix	6	4	Lando Norris	Great Britain	McLaren F1 Team	19	1:04.099	1.096	0.027	242.512		
+347	9	2019	Austrian Grand Prix	7	7	Kimi Räikkönen	Finland	Alfa Romeo Racing	23	1:04.166	1.163	0.067	242.259		
+347	9	2019	Austrian Grand Prix	8	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing	22	1:04.179	1.176	0.013	242.210		
+347	9	2019	Austrian Grand Prix	9	10	Pierre Gasly	France	Aston Martin Red Bull Racing	18	1:04.199	1.196	0.020	242.134		
+347	9	2019	Austrian Grand Prix	10	5	Sebastian Vettel	Germany	Scuderia Ferrari	9						
+347	9	2019	Austrian Grand Prix	11	8	Romain Grosjean	France	Rich Energy Haas F1 Team	18	1:04.490	1.487		241.042		
+347	9	2019	Austrian Grand Prix	12	27	Nico Hülkenberg	Germany	Renault F1 Team	12	1:04.516	1.513	0.026	240.944		
+347	9	2019	Austrian Grand Prix	13	23	Alexander Albon	Thailand	Red Bull Toro Rosso Honda	15	1:04.665	1.662	0.149	240.389		
+347	9	2019	Austrian Grand Prix	14	3	Daniel Ricciardo	Australia	Renault F1 Team	12	1:04.790	1.787	0.125	239.925		
+347	9	2019	Austrian Grand Prix	15	55	Carlos Sainz	Spain	McLaren F1 Team	12	1:13.601	10.598	8.811	211.203		
+347	9	2019	Austrian Grand Prix	16	11	Sergio Pérez	Mexico	SportPesa Racing Point F1 Team	8	1:04.789	1.786		239.929		
+347	9	2019	Austrian Grand Prix	17	18	Lance Stroll	Canada	SportPesa Racing Point F1 Team	9	1:04.832	1.829	0.043	239.770		
+347	9	2019	Austrian Grand Prix	18	26	Daniil Kvyat	Russia	Red Bull Toro Rosso Honda	8	1:05.324	2.321	0.492	237.964		
+347	9	2019	Austrian Grand Prix	19	63	George Russell	Great Britain	ROKiT Williams Racing	12	1:05.904	2.901	0.580	235.870		
+347	9	2019	Austrian Grand Prix	20	88	Robert Kubica	Poland	ROKiT Williams Racing	11	1:06.206	3.203	0.302	234.794		

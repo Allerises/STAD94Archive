@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+332	3	2018	Chinese Grand Prix	1	3	Daniel Ricciardo	Australia	Red Bull	56	1:35:36.380			191.451	1:35.785	55
+332	3	2018	Chinese Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	56	1:35:45.274	+ 8.894	+ 8.894	191.154	1:36.987	50
+332	3	2018	Chinese Grand Prix	3	7	Kimi Räikkönen	Finland	Ferrari	56	1:35:46.017	+ 9.637	+ 0.743	191.130	1:36.456	48
+332	3	2018	Chinese Grand Prix	4	44	Lewis Hamilton	Great Britain	Mercedes	56	1:35:53.365	+ 16.985	+ 7.348	190.886	1:36.878	20
+332	3	2018	Chinese Grand Prix	5	33	Max Verstappen	Netherlands	Red Bull	56	1:35:56.816	+ 20.436	+ 3.451	190.771	1:36.206	50
+332	3	2018	Chinese Grand Prix	6	27	Nico Hülkenberg	Germany	Renault	56	1:35:57.432	+ 21.052	+ 0.616	190.751	1:36.881	56
+332	3	2018	Chinese Grand Prix	7	14	Fernando Alonso	Spain	McLaren	56	1:36:07.019	+ 30.639	+ 9.587	190.434	1:37.234	56
+332	3	2018	Chinese Grand Prix	8	5	Sebastian Vettel	Germany	Ferrari	56	1:36:11.666	+ 35.286	+ 4.647	190.280	1:37.479	24
+332	3	2018	Chinese Grand Prix	9	55	Carlos Sainz	Spain	Renault	56	1:36:12.143	+ 35.763	+ 0.477	190.265	1:37.754	54
+332	3	2018	Chinese Grand Prix	10	20	Kevin Magnussen	Denmark	Haas	56	1:36:15.974	+ 39.594	+ 3.831	190.138	1:38.152	54
+332	3	2018	Chinese Grand Prix	11	31	Esteban Ocon	France	Force India	56	1:36:20.430	+ 44.050	+ 4.456	189.992	1:37.985	47
+332	3	2018	Chinese Grand Prix	12	11	Sergio Pérez	Mexico	Force India	56	1:36:21.105	+ 44.725	+ 0.675	189.970	1:37.673	54
+332	3	2018	Chinese Grand Prix	13	2	Stoffel Vandoorne	Belgium	McLaren	56	1:36:25.753	+ 49.373	+ 4.648	189.817	1:38.137	54
+332	3	2018	Chinese Grand Prix	14	18	Lance Stroll	Canada	Williams	56	1:36:31.870	+ 55.490	+ 6.117	189.617	1:38.500	54
+332	3	2018	Chinese Grand Prix	15	35	Sergey Sirotkin	Russia	Williams	56	1:36:34.621	+ 58.241	+ 2.751	189.527	1:38.624	47
+332	3	2018	Chinese Grand Prix	16	9	Marcus Ericsson	Sweden	Sauber	56	1:36:38.984	+ 1:02.604	+ 4.363	189.384	1:38.386	52
+332	3	2018	Chinese Grand Prix	17	8	Romain Grosjean	France	Haas	56	1:36:41.676	+ 1:05.296	+ 2.692	189.296	1:37.410	51
+332	3	2018	Chinese Grand Prix	18	10	Pierre Gasly	France	Toro Rosso	56	1:36:42.710	+ 1:06.330	+ 1.034	189.262	1:38.367	54
+332	3	2018	Chinese Grand Prix	19	16	Charles Leclerc	Monaco	Sauber	56	1:36:58.955	+ 1:22.575	+ 16.245	188.734	1:38.808	23
+332	3	2018	Chinese Grand Prix	20	28	Brendon Hartley	New Zealand	Toro Rosso	51	1:28:45.258	5 Laps	5 Laps	187.806	1:39.376	50

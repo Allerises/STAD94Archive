@@ -1,0 +1,26 @@
+Year	Pos	Driver	Points
+2007	1	Kimi Räikkönen	110
+2007	2	Lewis Hamilton	109
+2007	3	Fernando Alonso	109
+2007	4	Felipe Massa	94
+2007	5	Nick Heidfeld	61
+2007	6	Robert Kubica	39
+2007	7	Heikki Kovalainen	30
+2007	8	Giancarlo Fisichella	21
+2007	9	Nico Rosberg	20
+2007	10	David Coulthard	14
+2007	11	Alexander Wurz	13
+2007	12	Mark Webber	10
+2007	13	Jarno Trulli	8
+2007	14	Sebastian Vettel	6
+2007	15	Jenson Button	6
+2007	16	Ralf Schumacher	5
+2007	17	Takuma Sato	4
+2007	18	Vitantonio Liuzzi	3
+2007	19	Adrian Sutil	1
+2007	20	Rubens Barrichello	
+2007	21	Scott Speed	
+2007	22	Kazuki Nakajima	
+2007	23	Anthony Davidson	
+2007	24	Sakon Yamamoto	
+2007	25	Christijan Albers	

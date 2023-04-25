@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+362	3	2020	Hungarian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Formula One Team	22	1:13.447			214.734		
+362	3	2020	Hungarian Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Formula One Team	20	1:13.554	0.107	0.107	214.422		
+362	3	2020	Hungarian Grand Prix	3	18	Lance Stroll	Canada	BWT Racing Point F1 Team	22	1:14.377	0.930	0.823	212.049		
+362	3	2020	Hungarian Grand Prix	4	11	Sergio Pérez	Mexico	BWT Racing Point F1 Team	22	1:14.545	1.098	0.168	211.571		
+362	3	2020	Hungarian Grand Prix	5	5	Sebastian Vettel	Germany	Scuderia Ferrari	20	1:14.774	1.327	0.229	210.923		
+362	3	2020	Hungarian Grand Prix	6	16	Charles Leclerc	Monaco	Scuderia Ferrari	20	1:14.817	1.370	0.043	210.802		
+362	3	2020	Hungarian Grand Prix	7	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	21	1:14.849	1.402	0.032	210.712		
+362	3	2020	Hungarian Grand Prix	8	4	Lando Norris	Great Britain	McLaren F1 Team	20	1:14.966	1.519	0.117	210.383		
+362	3	2020	Hungarian Grand Prix	9	55	Carlos Sainz	Spain	McLaren F1 Team	21	1:15.027	1.580	0.061	210.212		
+362	3	2020	Hungarian Grand Prix	10	10	Pierre Gasly	France	Scuderia AlphaTauri Honda	14						
+362	3	2020	Hungarian Grand Prix	11	3	Daniel Ricciardo	Australia	Renault DP World F1 Team	14	1:15.661	2.214		208.450		
+362	3	2020	Hungarian Grand Prix	12	63	George Russell	Great Britain	Williams Racing	14	1:15.698	2.251	0.037	208.348		
+362	3	2020	Hungarian Grand Prix	13	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	16	1:15.715	2.268	0.017	208.302		
+362	3	2020	Hungarian Grand Prix	14	31	Esteban Ocon	France	Renault DP World F1 Team	14	1:15.742	2.295	0.027	208.227		
+362	3	2020	Hungarian Grand Prix	15	6	Nicholas Latifi	Canada	Williams Racing	14	1:16.544	3.097	0.802	206.046		
+362	3	2020	Hungarian Grand Prix	16	20	Kevin Magnussen	Denmark	Haas F1 Team	9	1:16.152	2.705		207.106		
+362	3	2020	Hungarian Grand Prix	17	26	Daniil Kvyat	Russia	Scuderia AlphaTauri Honda	9	1:16.204	2.757	0.052	206.965		
+362	3	2020	Hungarian Grand Prix	18	8	Romain Grosjean	France	Haas F1 Team	8	1:16.407	2.960	0.203	206.415		
+362	3	2020	Hungarian Grand Prix	19	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing ORLEN	12	1:16.506	3.059	0.099	206.148		
+362	3	2020	Hungarian Grand Prix	20	7	Kimi Räikkönen	Finland	Alfa Romeo Racing ORLEN	12	1:16.614	3.167	0.108	205.857		

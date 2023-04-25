@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+16	17	2000	Malaysian Grand Prix	1	3	Michael Schumacher	Germany	Ferrari	56	1:35:54.235			194.199	1:39.064	21
+16	17	2000	Malaysian Grand Prix	2	2	David Coulthard	Great Britain	McLaren	56	1:35:54.967	+ 0.732	+ 0.732	194.174	1:39.529	36
+16	17	2000	Malaysian Grand Prix	3	4	Rubens Barrichello	Brazil	Ferrari	56	1:36:12.679	+ 18.444	+ 17.712	193.578	1:39.302	23
+16	17	2000	Malaysian Grand Prix	4	1	Mika Hakkinen	Finland	McLaren	56	1:36:29.504	+ 35.269	+ 16.825	193.016	1:38.543	34
+16	17	2000	Malaysian Grand Prix	5	22	Jacques Villeneuve	Canada	BAR	56	1:37:04.927	+ 1:10.692	+ 35.423	191.842	1:40.160	20
+16	17	2000	Malaysian Grand Prix	6	7	Eddie Irvine	Great Britain	Jaguar	56	1:37:06.803	+ 1:12.568	+ 1.876	191.780	1:40.292	18
+16	17	2000	Malaysian Grand Prix	7	12	Alexander Wurz	Austria	Benneton	56	1:37:23.549	+ 1:29.314	+ 16.746	191.231	1:40.312	19
+16	17	2000	Malaysian Grand Prix	8	17	Mika Salo	Finland	Sauber	55	1:36:00.705	1 Lap	1 Lap	190.517	1:40.896	14
+16	17	2000	Malaysian Grand Prix	9	11	Giancarlo Fisichella	Italy	Benneton	55	1:36:04.755	1 Lap	+ 4.050	190.383	1:40.925	53
+16	17	2000	Malaysian Grand Prix	10	19	Jos Verstappen	Netherlands	Arrows	55	1:36:11.386	1 Lap	+ 6.631	190.164	1:41.104	27
+16	17	2000	Malaysian Grand Prix	11	14	Jean Alesi	France	Prost	55	1:36:57.472	1 Lap	+ 46.086	188.658	1:41.634	34
+16	17	2000	Malaysian Grand Prix	12	6	Jarno Trulli	Italy	Jordan	55	1:37:16.293	1 Lap	+ 18.821	188.049	1:41.262	33
+16	17	2000	Malaysian Grand Prix	13	21	Gaston Mazzacane	Argentina	Minardi	50	1:29:37.019	6 Laps	5 Laps	185.556	1:43.147	24
+16	17	2000	Malaysian Grand Prix	14	8	Johnny Herbert	Great Britain	Jaguar	48	1:24:07.780			189.752	1:40.764	27
+16	17	2000	Malaysian Grand Prix	15	23	Ricardo Zonta	Brazil	BAR	46	1:20:31.268			189.995	1:40.498	21
+16	17	2000	Malaysian Grand Prix	16	9	Ralf Schumacher	Germany	Williams	43	1:16:11.636			187.691	1:41.729	42
+16	17	2000	Malaysian Grand Prix	17	20	Marc Gene	Spain	Minardi	36	1:04:09.778			186.601	1:41.928	27
+16	17	2000	Malaysian Grand Prix	18	10	Jenson Button	Great Britain	Williams	18	32:19.237			185.220	1:42.226	17
+16	17	2000	Malaysian Grand Prix	19	5	Heinz-Harald Frentzen	Germany	Jordan	7	14:25.332			161.421	1:44.557	3
+16	17	2000	Malaysian Grand Prix	20	18	Pedro de la Rosa	Spain	Arrows							
+16	17	2000	Malaysian Grand Prix	21	15	Nick Heidfeld	Germany	Prost							
+16	17	2000	Malaysian Grand Prix	22	16	Pedro Diniz	Brazil	Sauber							

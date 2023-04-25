@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+162	6	2009	Monaco Grand Prix	1	22	Jenson Button	Great Britain	Brawn GP Formula 1 Team	25	1:14.902					
+162	6	2009	Monaco Grand Prix	2	4	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	31	1:14.927	0.025	0.025			
+162	6	2009	Monaco Grand Prix	3	23	Rubens Barrichello	Brazil	Brawn GP Formula 1 Team	26	1:15.077	0.175	0.150			
+162	6	2009	Monaco Grand Prix	4	15	Sebastian Vettel	Germany	Red Bull Racing	27	1:15.271	0.369	0.194			
+162	6	2009	Monaco Grand Prix	5	3	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	28	1:15.437	0.535	0.166			
+162	6	2009	Monaco Grand Prix	6	16	Nico Rosberg	Germany	AT&T Williams	23	1:15.455	0.553	0.018			
+162	6	2009	Monaco Grand Prix	7	2	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	24	1:15.516	0.614	0.061			
+162	6	2009	Monaco Grand Prix	8	14	Mark Webber	Australia	Red Bull Racing	20	1:15.653	0.751	0.137			
+162	6	2009	Monaco Grand Prix	9	7	Fernando Alonso	Spain	ING Renault F1 Team	24	1:16.009	1.107	0.356			
+162	6	2009	Monaco Grand Prix	10	17	Kazuki Nakajima	Japan	AT&T Williams	28	1:17.344	2.442	1.335			
+162	6	2009	Monaco Grand Prix	11	12	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	17	1:15.833	0.931	0.180			
+162	6	2009	Monaco Grand Prix	12	8	Nelson Piquet Jr.	Brazil	Renault	22	1:15.837	0.935	0.004			
+162	6	2009	Monaco Grand Prix	13	21	Giancarlo Fisichella	Italy	Force India F1 Team	18	1:16.146	1.244	0.309			
+162	6	2009	Monaco Grand Prix	14	11	Sebastien Bourdais	France	Scuderia Toro Rosso	19	1:16.281	1.379	0.135			
+162	6	2009	Monaco Grand Prix	15	20	Adrian Sutil	Germany	Force India F1 Team	19	1:16.545	1.643	0.264			
+162	6	2009	Monaco Grand Prix	16	1	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	4	1:16.264	1.362				
+162	6	2009	Monaco Grand Prix	17	6	Nick Heidfeld	Germany	BMW Sauber F1 Team	11	1:16.264	1.362	0.118			
+162	6	2009	Monaco Grand Prix	18	5	Robert Kubica	Poland	BMW Sauber F1 Team	12	1:16.405	1.503	0.141			
+162	6	2009	Monaco Grand Prix	19	9	Jarno Trulli	Italy	Panasonic Toyota Racing	11	1:16.548	1.646	0.143			
+162	6	2009	Monaco Grand Prix	20	10	Timo Glock	Germany	Panasonic Toyota Racing	12	1:16.788	1.886	0.240			

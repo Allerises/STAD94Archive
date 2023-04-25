@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+192	19	2010	Abu Dhabi Grand Prix	1	5	Sebastian Vettel	Germany	Red Bull Racing	17	1:39.394					
+192	19	2010	Abu Dhabi Grand Prix	2	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	19	1:39.425	0.031	0.031			
+192	19	2010	Abu Dhabi Grand Prix	3	8	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	21	1:39.792	0.398	0.367			
+192	19	2010	Abu Dhabi Grand Prix	4	1	Jenson Button	Great Britain	Vodafone McLaren Mercedes	23	1:39.823	0.429	0.031			
+192	19	2010	Abu Dhabi Grand Prix	5	6	Mark Webber	Australia	Red Bull Racing	20	1:39.925	0.531	0.102			
+192	19	2010	Abu Dhabi Grand Prix	6	7	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	19	1:40.202	0.808	0.277			
+192	19	2010	Abu Dhabi Grand Prix	7	9	Rubens Barrichello	Brazil	AT&T Williams	26	1:40.203	0.809	0.001			
+192	19	2010	Abu Dhabi Grand Prix	8	3	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	20	1:40.516	1.122	0.313			
+192	19	2010	Abu Dhabi Grand Prix	9	4	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	25	1:40.589	1.195	0.073			
+192	19	2010	Abu Dhabi Grand Prix	10	12	Vitaly Petrov	Russia	Renault F1 Team	21	1:40.901	1.507	0.312			
+192	19	2010	Abu Dhabi Grand Prix	11	11	Robert Kubica	Poland	Renault F1 Team	13	1:40.780	1.386	0.191			
+192	19	2010	Abu Dhabi Grand Prix	12	23	Kamui Kobayashi	Japan	BMW Sauber F1 Team	14	1:40.783	1.389	0.003			
+192	19	2010	Abu Dhabi Grand Prix	13	14	Adrian Sutil	Germany	Force India F1 Team	18	1:40.914	1.520	0.131			
+192	19	2010	Abu Dhabi Grand Prix	14	22	Nick Heidfeld	Germany	BMW Sauber F1 Team	17	1:41.113	1.719	0.199			
+192	19	2010	Abu Dhabi Grand Prix	15	10	Nico Hülkenberg	Germany	AT&T Williams	18	1:41.418	2.024	0.305			
+192	19	2010	Abu Dhabi Grand Prix	16	15	Vitantonio Liuzzi	Italy	Force India F1 Team	18	1:41.642	2.248	0.224			
+192	19	2010	Abu Dhabi Grand Prix	17	17	Jaime Alguersuari	Spain	Scuderia Toro Rosso	18	1:41.738	2.344	0.096			
+192	19	2010	Abu Dhabi Grand Prix	18	16	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	11	1:41.824	2.430	0.086			
+192	19	2010	Abu Dhabi Grand Prix	19	18	Jarno Trulli	Italy	Lotus Racing	11	1:43.516	4.122	1.692			
+192	19	2010	Abu Dhabi Grand Prix	20	19	Heikki Kovalainen	Finland	Lotus Racing	11	1:43.712	4.318	0.196			
+192	19	2010	Abu Dhabi Grand Prix	21	24	Timo Glock	Germany	Virgin Racing	10	1:44.095	4.701	0.383			
+192	19	2010	Abu Dhabi Grand Prix	22	25	Lucas di Grassi	Brazil	Virgin Racing	9	1:44.510	5.116	0.415			
+192	19	2010	Abu Dhabi Grand Prix	23	21	Bruno Senna	Brazil	HRT F1 Team	10	1:45.085	5.691	0.575			
+192	19	2010	Abu Dhabi Grand Prix	24	20	Christian Klien	Austria	HRT F1 Team	10	1:45.296	5.902	0.211			

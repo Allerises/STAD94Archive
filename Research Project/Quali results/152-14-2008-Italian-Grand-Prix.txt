@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+152	14	2008	Italian Grand Prix	1	15	Sebastian Vettel	Germany	Scuderia Toro Rosso	28	1:37.555			213.774		
+152	14	2008	Italian Grand Prix	2	23	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	24	1:37.631	0.076	0.076	213.608		
+152	14	2008	Italian Grand Prix	3	10	Mark Webber	Australia	Red Bull Racing	23	1:38.117	0.562	0.486	212.550		
+152	14	2008	Italian Grand Prix	4	14	Sebastien Bourdais	France	Scuderia Toro Rosso	28	1:38.445	0.890	0.328	211.842		
+152	14	2008	Italian Grand Prix	5	7	Nico Rosberg	Germany	AT&T Williams	28	1:38.767	1.212	0.322	211.151		
+152	14	2008	Italian Grand Prix	6	2	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	29	1:38.894	1.339	0.127	210.880		
+152	14	2008	Italian Grand Prix	7	11	Jarno Trulli	Italy	Panasonic Toyota Racing	26	1:39.152	1.597	0.258	210.331		
+152	14	2008	Italian Grand Prix	8	5	Fernando Alonso	Spain	ING Renault F1 Team	28	1:39.751	2.196	0.599	209.068		
+152	14	2008	Italian Grand Prix	9	12	Timo Glock	Germany	Panasonic Toyota Racing	28	1:39.787	2.232	0.036	208.993		
+152	14	2008	Italian Grand Prix	10	3	Nick Heidfeld	Germany	BMW Sauber F1 Team	26	1:39.906	2.351	0.119	208.744		
+152	14	2008	Italian Grand Prix	11	4	Robert Kubica	Poland	BMW Sauber F1 Team	21	1:36.697			215.671		
+152	14	2008	Italian Grand Prix	12	21	Giancarlo Fisichella	Italy	Force India F1 Team	19	1:36.698		0.001	215.669		
+152	14	2008	Italian Grand Prix	13	9	David Coulthard	Great Britain	Red Bull Racing	21	1:37.284		0.586	214.370		
+152	14	2008	Italian Grand Prix	14	1	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	21	1:37.522		0.238	213.847		
+152	14	2008	Italian Grand Prix	15	22	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	19	1:39.265	1.710	1.743	210.092		
+152	14	2008	Italian Grand Prix	16	17	Rubens Barrichello	Brazil	Honda Racing F1 Team	12	1:36.510			216.089		
+152	14	2008	Italian Grand Prix	17	6	Nelson Piquet Jr.	Brazil	ING Renault F1 Team	13	1:36.630		0.120	215.821		
+152	14	2008	Italian Grand Prix	18	8	Kazuki Nakajima	Japan	AT&T Williams	13	1:36.653		0.023	215.769		
+152	14	2008	Italian Grand Prix	19	16	Jenson Button	Great Britain	Honda Racing F1 Team	13	1:37.006		0.353	214.984		
+152	14	2008	Italian Grand Prix	20	20	Adrian Sutil	Germany	Force India F1 Team	12	1:37.417		0.411	214.077		

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+53	3	2003	Brazilian Grand Prix	1	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:13.807					
+53	3	2003	Brazilian Grand Prix	2	5	David Coulthard	Great Britain	West McLaren Mercedes		1:13.818	0.011	0.011			
+53	3	2003	Brazilian Grand Prix	3	14	Mark Webber	Australia	Jaguar Racing		1:13.851	0.044	0.033			
+53	3	2003	Brazilian Grand Prix	4	6	Kimi Räikkönen	Finland	West McLaren Mercedes		1:13.866	0.059	0.015			
+53	3	2003	Brazilian Grand Prix	5	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:13.953	0.146	0.087			
+53	3	2003	Brazilian Grand Prix	6	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:14.124	0.317	0.171			
+53	3	2003	Brazilian Grand Prix	7	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:14.130	0.323	0.006			
+53	3	2003	Brazilian Grand Prix	8	11	Giancarlo Fisichella	Italy	Jordan Ford		1:14.191	0.384	0.061			
+53	3	2003	Brazilian Grand Prix	9	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:14.223	0.416	0.032			
+53	3	2003	Brazilian Grand Prix	10	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team		1:14.384	0.577	0.161			
+53	3	2003	Brazilian Grand Prix	11	17	Jenson Button	Great Britain	Lucky Strike BAR Honda		1:14.504	0.697	0.120			
+53	3	2003	Brazilian Grand Prix	12	9	Nick Heidfeld	Germany	Sauber Petronas		1:14.631	0.824	0.127			
+53	3	2003	Brazilian Grand Prix	13	16	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:14.668	0.861	0.037			
+53	3	2003	Brazilian Grand Prix	14	10	Heinz-Harald Frentzen	Germany	Sauber Petronas		1:14.839	1.032	0.171			
+53	3	2003	Brazilian Grand Prix	15	20	Olivier Panis	France	Panasonic Toyota Racing		1:14.839	1.032	0.171			
+53	3	2003	Brazilian Grand Prix	16	12	Ralph Firman	Ireland	Jordan Ford		1:15.240	1.433	0.401			
+53	3	2003	Brazilian Grand Prix	17	15	Antonio Pizzonia	Brazil	Jaguar Racing		1:15.317	1.510	0.077			
+53	3	2003	Brazilian Grand Prix	18	21	Cristiano da Matta	Brazil	Panasonic Toyota Racing		1:15.641	1.834	0.324			
+53	3	2003	Brazilian Grand Prix	19	19	Jos Verstappen	Netherlands	European Minardi Cosworth		1:16.542	2.735	0.901			
+53	3	2003	Brazilian Grand Prix	20	18	Justin Wilson	Great Britain	European Minardi Cosworth		1:16.586	2.779	0.044			

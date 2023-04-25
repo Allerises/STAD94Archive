@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+113	10	2006	United States Grand Prix	1	5	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	22	1:10.832					
+113	10	2006	United States Grand Prix	2	6	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	23	1:11.435	0.603	0.603			
+113	10	2006	United States Grand Prix	3	2	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	27	1:11.920	1.088	0.485			
+113	10	2006	United States Grand Prix	4	11	Rubens Barrichello	Brazil	Lucky Strike Honda Racing F1 Team	29	1:12.109	1.277	0.189			
+113	10	2006	United States Grand Prix	5	1	Fernando Alonso	Spain	Mild Seven Renault F1 Team	26	1:12.449	1.617	0.340			
+113	10	2006	United States Grand Prix	6	17	Jacques Villeneuve	Canada	BMW Sauber F1 Team	26	1:12.479	1.647	0.030			
+113	10	2006	United States Grand Prix	7	12	Jenson Button	Great Britain	Lucky Strike Honda Racing F1 Team	29	1:12.523	1.691	0.044			
+113	10	2006	United States Grand Prix	8	7	Ralf Schumacher	Germany	Panasonic Toyota Racing	29	1:12.795	1.963	0.272			
+113	10	2006	United States Grand Prix	9	3	Kimi Räikkönen	Finland	Team McLaren Mercedes	31	1:13.174	2.342	0.379			
+113	10	2006	United States Grand Prix	10	16	Nick Heidfeld	Germany	BMW Sauber F1 Team	16	1:15.280	4.448	2.106			
+113	10	2006	United States Grand Prix	11	4	Juan Pablo Montoya	Colombia	Team McLaren Mercedes	12	1:12.135	1.303	0.026			
+113	10	2006	United States Grand Prix	12	9	Mark Webber	Australia	WilliamsF1 Team	13	1:12.150	1.318	0.015			
+113	10	2006	United States Grand Prix	13	21	Scott Speed	USA	Scuderia Toro Rosso	14	1:12.292	1.460	0.142			
+113	10	2006	United States Grand Prix	14	19	Christijan Albers	Netherlands	MF1 Racing	9	1:12.854	2.022	0.562			
+113	10	2006	United States Grand Prix	15	18	Tiago Monteiro	Portugal	MF1 Racing	9	1:12.864	2.032	0.010			
+113	10	2006	United States Grand Prix	16	15	Christian Klien	Austria	Red Bull Racing	12	1:12.925	2.093	0.061			
+113	10	2006	United States Grand Prix	17	14	David Coulthard	Great Britain	Red Bull Racing	6	1:13.180	2.348	0.255			
+113	10	2006	United States Grand Prix	18	22	Takuma Sato	Japan	Super Aguri F1	6	1:13.496	2.664	0.316			
+113	10	2006	United States Grand Prix	19	10	Nico Rosberg	Germany	WilliamsF1 Team	7	1:13.506	2.674	0.010			
+113	10	2006	United States Grand Prix	20	8	Jarno Trulli	Italy	Panasonic Toyota Racing	3	1:13.787	2.955	0.281			
+113	10	2006	United States Grand Prix	21	20	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	10	1:14.041	3.209	0.254			
+113	10	2006	United States Grand Prix	22	23	Franck Montagny	France	Super Aguri F1	4	1:16.036	5.204	1.995			

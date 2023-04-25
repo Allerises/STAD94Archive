@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+189	16	2010	Japanese Grand Prix	1	5	Sebastian Vettel	Germany	Red Bull Racing	20	1:30.785					
+189	16	2010	Japanese Grand Prix	2	6	Mark Webber	Australia	Red Bull Racing	21	1:30.853	0.068	0.068			
+189	16	2010	Japanese Grand Prix	3	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	22	1:31.169	0.384	0.316			
+189	16	2010	Japanese Grand Prix	4	11	Robert Kubica	Poland	Renault F1 Team	21	1:31.231	0.446	0.062			
+189	16	2010	Japanese Grand Prix	5	8	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	26	1:31.352	0.567	0.121			
+189	16	2010	Japanese Grand Prix	6	1	Jenson Button	Great Britain	Vodafone McLaren Mercedes	21	1:31.378	0.593	0.026			
+189	16	2010	Japanese Grand Prix	7	4	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	22	1:31.494	0.709	0.116			
+189	16	2010	Japanese Grand Prix	8	9	Rubens Barrichello	Brazil	AT&T Williams	22	1:31.535	0.750	0.041			
+189	16	2010	Japanese Grand Prix	9	10	Nico Hülkenberg	Germany	AT&T Williams	20	1:31.559	0.774	0.024			
+189	16	2010	Japanese Grand Prix	10	3	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	21	1:31.846	1.061	0.287			
+189	16	2010	Japanese Grand Prix	11	22	Nick Heidfeld	Germany	BMW Sauber F1 Team	17	1:32.187	1.402	0.341			
+189	16	2010	Japanese Grand Prix	12	7	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	20	1:32.321	1.536	0.134			
+189	16	2010	Japanese Grand Prix	13	12	Vitaly Petrov	Russia	Renault F1 Team	18	1:32.422	1.637	0.101			
+189	16	2010	Japanese Grand Prix	14	23	Kamui Kobayashi	Japan	BMW Sauber F1 Team	15	1:32.427	1.642	0.005			
+189	16	2010	Japanese Grand Prix	15	14	Adrian Sutil	Germany	Force India F1 Team	17	1:32.659	1.874	0.232			
+189	16	2010	Japanese Grand Prix	16	17	Jaime Alguersuari	Spain	Scuderia Toro Rosso	17	1:33.071	2.286	0.412			
+189	16	2010	Japanese Grand Prix	17	15	Vitantonio Liuzzi	Italy	Force India F1 Team	16	1:33.154	2.369	0.083			
+189	16	2010	Japanese Grand Prix	18	16	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	11	1:33.568	2.783	0.414			
+189	16	2010	Japanese Grand Prix	19	18	Jarno Trulli	Italy	Lotus Racing	10	1:35.346	4.561	1.778			
+189	16	2010	Japanese Grand Prix	20	19	Heikki Kovalainen	Finland	Lotus Racing	11	1:35.464	4.679	0.118			
+189	16	2010	Japanese Grand Prix	21	25	Lucas di Grassi	Brazil	Virgin Racing	9	1:36.265	5.480	0.801			
+189	16	2010	Japanese Grand Prix	22	24	Timo Glock	Germany	Virgin Racing	8	1:36.332	5.547	0.067			
+189	16	2010	Japanese Grand Prix	23	21	Bruno Senna	Brazil	HRT F1 Team	10	1:37.270	6.485	0.938			
+189	16	2010	Japanese Grand Prix	24	20	Sakon Yamamoto	Japan	HRT F1 Team	8	1:37.365	6.580	0.095			

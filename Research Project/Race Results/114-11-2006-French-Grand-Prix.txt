@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+114	11	2006	French Grand Prix	1	5	Michael Schumacher	Germany	Ferrari	70	1:32:07.803			200.967	1:17.111	46
+114	11	2006	French Grand Prix	2	1	Fernando Alonso	Spain	Renault	70	1:32:17.934	+ 10.131	+ 10.131	200.600	1:17.770	23
+114	11	2006	French Grand Prix	3	6	Felipe Massa	Brazil	Ferrari	70	1:32:30.349	+ 22.546	+ 12.415	200.151	1:17.141	18
+114	11	2006	French Grand Prix	4	7	Ralf Schumacher	Germany	Toyota	70	1:32:35.015	+ 27.212	+ 4.666	199.983	1:17.809	19
+114	11	2006	French Grand Prix	5	3	Kimi Räikkönen	Finland	McLaren	70	1:32:40.809	+ 33.006	+ 5.794	199.774	1:17.717	30
+114	11	2006	French Grand Prix	6	2	Giancarlo Fisichella	Italy	Renault	70	1:32:53.068	+ 45.265	+ 12.259	199.335	1:18.057	20
+114	11	2006	French Grand Prix	7	4	Pedro de la Rosa	Spain	McLaren	70	1:32:57.210	+ 49.407	+ 4.142	199.187	1:17.625	34
+114	11	2006	French Grand Prix	8	16	Nick Heidfeld	Germany	Sauber	69	1:32:20.892	1 Lap	1 Lap	197.627	1:18.809	48
+114	11	2006	French Grand Prix	9	14	David Coulthard	Great Britain	Red Bull	69	1:32:24.118	1 Lap	+ 3.226	197.512	1:18.978	56
+114	11	2006	French Grand Prix	10	21	Scott Speed	USA	Toro Rosso	69	1:32:41.592	1 Lap	+ 17.474	196.891	1:18.674	66
+114	11	2006	French Grand Prix	11	17	Jacques Villeneuve	Canada	Sauber	69	1:32:49.908	1 Lap	+ 8.316	196.597	1:17.906	56
+114	11	2006	French Grand Prix	12	15	Christian Klien	Austria	Red Bull	69	1:32:50.705	1 Lap	+ 0.797	196.569	1:18.968	56
+114	11	2006	French Grand Prix	13	20	Vitantonio Liuzzi	Italy	Toro Rosso	69	1:32:54.565	1 Lap	+ 3.860	196.433	1:18.241	54
+114	11	2006	French Grand Prix	14	10	Nico Rosberg	Germany	Williams	68	1:32:08.267	2 Laps	1 Lap	195.205	1:18.796	62
+114	11	2006	French Grand Prix	15	19	Christijan Albers	Netherlands	MF1 Racing	68	1:32:12.747	2 Laps	+ 4.480	195.047	1:19.356	67
+114	11	2006	French Grand Prix	16	23	Franck Montagny	France	Super Aguri	67	1:32:48.547	3 Laps	1 Lap	190.942	1:20.113	53
+114	11	2006	French Grand Prix	17	12	Jenson Button	Great Britain	Honda	61	1:22:22.020			195.869	1:18.510	47
+114	11	2006	French Grand Prix	18	9	Mark Webber	Australia	Williams	53	1:17:32.530			180.752	1:18.859	34
+114	11	2006	French Grand Prix	19	8	Jarno Trulli	Italy	Toyota	39	52:34.967			196.085	1:18.036	16
+114	11	2006	French Grand Prix	20	11	Rubens Barrichello	Brazil	Honda	18	24:25.151			194.635	1:20.094	16
+114	11	2006	French Grand Prix	21	18	Tiago Monteiro	Portugal	MF1 Racing	11	15:47.376			183.679	1:21.663	8
+114	11	2006	French Grand Prix	22	22	Takuma Sato	Japan	Super Aguri							

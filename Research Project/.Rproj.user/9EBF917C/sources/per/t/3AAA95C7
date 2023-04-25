@@ -1,0 +1,28 @@
+{
+    "id": "3AAA95C7",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1655321636148.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "id": "aea2d8c7bfd94b54a2d7831bbf300aa0",
+        "name": "race_results",
+        "title": "race_results",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2019026795812254752,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1655321636148,
+    "read_only": false,
+    "read_only_alternatives": []
+}

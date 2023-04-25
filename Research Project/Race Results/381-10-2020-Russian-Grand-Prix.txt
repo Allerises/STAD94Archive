@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+381	10	2020	Russian Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes	53	1:34:00.364			197.696	1:37.030	51
+381	10	2020	Russian Grand Prix	2	33	Max Verstappen	Netherlands	Red Bull	53	1:34:08.093	+ 7.729	+ 7.729	197.426	1:37.332	53
+381	10	2020	Russian Grand Prix	3	44	Lewis Hamilton	Great Britain	Mercedes	53	1:34:23.093	+ 22.729	+ 15.000	196.903	1:38.075	48
+381	10	2020	Russian Grand Prix	4	11	Sergio Pérez	Mexico	Aston Martin	53	1:34:30.922	+ 30.558	+ 7.829	196.631	1:38.141	52
+381	10	2020	Russian Grand Prix	5	3	Daniel Ricciardo	Australia	Renault	53	1:34:52.429	+ 52.065	+ 21.507	195.888	1:37.886	53
+381	10	2020	Russian Grand Prix	6	16	Charles Leclerc	Monaco	Ferrari	53	1:35:02.550	+ 1:02.186	+ 10.121	195.540	1:39.053	47
+381	10	2020	Russian Grand Prix	7	31	Esteban Ocon	France	Renault	53	1:35:08.370	+ 1:08.006	+ 5.820	195.341	1:39.216	48
+381	10	2020	Russian Grand Prix	8	26	Daniil Kvyat	Russia	Toro Rosso	53	1:35:09.104	+ 1:08.740	+ 0.734	195.316	1:39.133	48
+381	10	2020	Russian Grand Prix	9	10	Pierre Gasly	France	Toro Rosso	53	1:35:30.130	+ 1:29.766	+ 21.026	194.599	1:37.231	50
+381	10	2020	Russian Grand Prix	10	23	Alexander Albon	Thailand	Red Bull	53	1:35:38.224	+ 1:37.860	+ 8.094	194.325	1:38.377	51
+381	10	2020	Russian Grand Prix	11	99	Antonio Giovinazzi	Italy	Sauber	52	1:34:12.509	1 Lap	1 Lap	193.547	1:39.766	44
+381	10	2020	Russian Grand Prix	12	20	Kevin Magnussen	Denmark	Haas	52	1:34:14.419	1 Lap	+ 1.910	193.482	1:40.380	52
+381	10	2020	Russian Grand Prix	13	5	Sebastian Vettel	Germany	Ferrari	52	1:34:15.467	1 Lap	+ 1.048	193.446	1:39.588	46
+381	10	2020	Russian Grand Prix	14	7	Kimi Räikkönen	Finland	Sauber	52	1:34:16.339	1 Lap	+ 0.872	193.416	1:38.858	37
+381	10	2020	Russian Grand Prix	15	4	Lando Norris	Great Britain	McLaren	52	1:34:26.176	1 Lap	+ 9.837	193.080	1:37.377	50
+381	10	2020	Russian Grand Prix	16	6	Nicholas Latifi	Canada	Williams	52	1:34:53.867	1 Lap	+ 27.691	192.141	1:41.044	47
+381	10	2020	Russian Grand Prix	17	8	Romain Grosjean	France	Haas	52	1:34:54.908	1 Lap	+ 1.041	192.106	1:39.614	44
+381	10	2020	Russian Grand Prix	18	63	George Russell	Great Britain	Williams	52	1:35:22.195	1 Lap	+ 27.287	191.190	1:37.352	52
+381	10	2020	Russian Grand Prix	19	55	Carlos Sainz	Spain	McLaren							
+381	10	2020	Russian Grand Prix	20	18	Lance Stroll	Canada	Aston Martin							

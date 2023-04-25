@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+334	5	2018	Spanish Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas Motorsport		1:16.173			219.999		
+334	5	2018	Spanish Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes AMG Petronas Motorsport		1:16.213	0.040	0.040	219.883		
+334	5	2018	Spanish Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:16.305	0.132	0.092	219.618		
+334	5	2018	Spanish Grand Prix	4	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:16.612	0.439	0.307	218.738		
+334	5	2018	Spanish Grand Prix	5	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing		1:16.816	0.643	0.204	218.157		
+334	5	2018	Spanish Grand Prix	6	3	Daniel Ricciardo	Australia	Aston Martin Red Bull Racing		1:16.818	0.645	0.002	218.151		
+334	5	2018	Spanish Grand Prix	7	20	Kevin Magnussen	Denmark	Haas F1 Team		1:17.676	1.503	0.858	215.742		
+334	5	2018	Spanish Grand Prix	8	14	Fernando Alonso	Spain	McLaren F1 Team		1:17.721	1.548	0.045	215.617		
+334	5	2018	Spanish Grand Prix	9	55	Carlos Sainz	Spain	Renault Sport Formula One Team		1:17.790	1.617	0.069	215.426		
+334	5	2018	Spanish Grand Prix	10	8	Romain Grosjean	France	Haas F1 Team		1:17.835	1.662	0.045	215.301		
+334	5	2018	Spanish Grand Prix	11	2	Stoffel Vandoorne	Belgium	McLaren F1 Team		1:18.323	2.150	0.488	213.960		
+334	5	2018	Spanish Grand Prix	12	10	Pierre Gasly	France	Red Bull Toro Rosso Honda		1:18.463	2.290	0.140	213.578		
+334	5	2018	Spanish Grand Prix	13	31	Esteban Ocon	France	Sahara Force India F1 Team		1:18.696	2.523	0.233	212.946		
+334	5	2018	Spanish Grand Prix	14	16	Charles Leclerc	Monaco	Alfa Romeo Sauber F1 Team		1:18.910	2.737	0.214	212.368		
+334	5	2018	Spanish Grand Prix	15	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:19.098	2.925	0.188	211.863		
+334	5	2018	Spanish Grand Prix	16	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:18.923	2.750		212.333		
+334	5	2018	Spanish Grand Prix	17	9	Marcus Ericsson	Sweden	Alfa Romeo Sauber F1 Team		1:19.493	3.320	0.570	210.811		
+334	5	2018	Spanish Grand Prix	18	18	Lance Stroll	Canada	Williams Martini Racing		1:20.225	4.052	0.732	208.887		
+334	5	2018	Spanish Grand Prix	19	35	Sergey Sirotkin	Russia	Williams Martini Racing		1:19.695	3.522		210.276		
+334	5	2018	Spanish Grand Prix	20	28	Brendon Hartley	New Zealand	Red Bull Toro Rosso Honda							

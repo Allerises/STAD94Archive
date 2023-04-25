@@ -1,0 +1,28 @@
+Year	Pos	Driver	Points
+2010	1	Sebastian Vettel	256
+2010	2	Fernando Alonso	252
+2010	3	Mark Webber	242
+2010	4	Lewis Hamilton	240
+2010	5	Jenson Button	214
+2010	6	Felipe Massa	144
+2010	7	Nico Rosberg	142
+2010	8	Robert Kubica	136
+2010	9	Michael Schumacher	72
+2010	10	Rubens Barrichello	47
+2010	11	Adrian Sutil	47
+2010	12	Kamui Kobayashi	32
+2010	13	Vitaly Petrov	27
+2010	14	Nico Hülkenberg	22
+2010	15	Vitantonio Liuzzi	21
+2010	16	Sébastien Buemi	8
+2010	17	Pedro de la Rosa	6
+2010	18	Nick Heidfeld	6
+2010	19	Jaime Alguersuari	5
+2010	20	Heikki Kovalainen	
+2010	21	Jarno Trulli	
+2010	22	Karun Chandhok	
+2010	23	Bruno Senna	
+2010	24	Lucas di Grassi	
+2010	25	Timo Glock	
+2010	26	Sakon Yamamoto	
+2010	27	Christian Klien	

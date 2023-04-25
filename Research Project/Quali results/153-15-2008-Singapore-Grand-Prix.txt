@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+153	15	2008	Singapore Grand Prix	1	2	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	16	1:44.801					
+153	15	2008	Singapore Grand Prix	2	22	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	14	1:45.465	0.664	0.664			
+153	15	2008	Singapore Grand Prix	3	1	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	16	1:45.617	0.816	0.152			
+153	15	2008	Singapore Grand Prix	4	4	Robert Kubica	Poland	BMW Sauber F1 Team	18	1:45.779	0.978	0.162			
+153	15	2008	Singapore Grand Prix	5	23	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	19	1:45.873	1.072	0.094			
+153	15	2008	Singapore Grand Prix	6	3	Nick Heidfeld	Germany	BMW Sauber F1 Team	19	1:45.964	1.163	0.091			
+153	15	2008	Singapore Grand Prix	7	15	Sebastian Vettel	Germany	Scuderia Toro Rosso	15	1:46.244	1.443	0.280			
+153	15	2008	Singapore Grand Prix	8	12	Timo Glock	Germany	Panasonic Toyota Racing	21	1:46.328	1.527	0.084			
+153	15	2008	Singapore Grand Prix	9	7	Nico Rosberg	Germany	AT&T Williams	17	1:46.611	1.810	0.283			
+153	15	2008	Singapore Grand Prix	10	8	Kazuki Nakajima	Japan	AT&T Williams	20	1:47.547	2.746	0.936			
+153	15	2008	Singapore Grand Prix	11	11	Jarno Trulli	Italy	Panasonic Toyota Racing	12	1:45.038	0.237	0.237			
+153	15	2008	Singapore Grand Prix	12	16	Jenson Button	Great Britain	Honda Racing F1 Team	14	1:45.133	0.332	0.095			
+153	15	2008	Singapore Grand Prix	13	10	Mark Webber	Australia	Red Bull Racing	12	1:45.212	0.411	0.079			
+153	15	2008	Singapore Grand Prix	14	9	David Coulthard	Great Britain	Red Bull Racing	16	1:45.298	0.497	0.086			
+153	15	2008	Singapore Grand Prix	15	5	Fernando Alonso	Spain	ING Renault F1 Team	6						
+153	15	2008	Singapore Grand Prix	16	6	Nelson Piquet Jr.	Brazil	ING Renault F1 Team	6	1:46.037	1.236	0.073			
+153	15	2008	Singapore Grand Prix	17	14	Sebastien Bourdais	France	Scuderia Toro Rosso	6	1:46.389	1.588	0.352			
+153	15	2008	Singapore Grand Prix	18	17	Rubens Barrichello	Brazil	Honda Racing F1 Team	7	1:46.583	1.782	0.194			
+153	15	2008	Singapore Grand Prix	19	20	Adrian Sutil	Germany	Force India F1 Team	10	1:47.940	3.139	1.357			
+153	15	2008	Singapore Grand Prix	20	21	Giancarlo Fisichella	Italy	Force India F1 Team	2						

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+171	15	2009	Japanese Grand Prix	1	15	Sebastian Vettel	Germany	Red Bull Racing	14	1:32.160	0.678	0.073			
+171	15	2009	Japanese Grand Prix	2	9	Jarno Trulli	Italy	Panasonic Toyota Racing	20	1:32.220	0.060	0.060			
+171	15	2009	Japanese Grand Prix	3	1	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	21	1:32.395	0.235	0.175			
+171	15	2009	Japanese Grand Prix	4	20	Adrian Sutil	Germany	Force India F1 Team	20	1:32.466	0.306	0.071			
+171	15	2009	Japanese Grand Prix	5	23	Rubens Barrichello	Brazil	Brawn GP Formula 1 Team	18	1:32.660	0.500	0.194			
+171	15	2009	Japanese Grand Prix	6	6	Nick Heidfeld	Germany	BMW Sauber F1 Team	19	1:32.945	0.785	0.285			
+171	15	2009	Japanese Grand Prix	7	22	Jenson Button	Great Britain	Brawn GP Formula 1 Team	18	1:32.962	0.802	0.017			
+171	15	2009	Japanese Grand Prix	8	4	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	23	1:32.980	0.820	0.018			
+171	15	2009	Japanese Grand Prix	9	2	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	21						
+171	15	2009	Japanese Grand Prix	10	12	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	12						
+171	15	2009	Japanese Grand Prix	11	16	Nico Rosberg	Germany	AT&T Williams	17	1:31.482					
+171	15	2009	Japanese Grand Prix	12	7	Fernando Alonso	Spain	ING Renault F1 Team	14	1:31.638	0.156	0.156			
+171	15	2009	Japanese Grand Prix	13	5	Robert Kubica	Poland	BMW Sauber F1 Team	15	1:32.341	0.181	0.703			
+171	15	2009	Japanese Grand Prix	14	10	Timo Glock	Germany	Panasonic Toyota Racing	13						
+171	15	2009	Japanese Grand Prix	15	11	Jaime Alguersuari	Spain	Scuderia Toro Rosso	14						
+171	15	2009	Japanese Grand Prix	16	3	Giancarlo Fisichella	Italy	Scuderia Ferrari Marlboro	11	1:31.704	0.222	0.066			
+171	15	2009	Japanese Grand Prix	17	17	Kazuki Nakajima	Japan	AT&T Williams	8	1:31.718	0.236	0.014			
+171	15	2009	Japanese Grand Prix	18	8	Romain Grosjean	France	ING Renault F1 Team	8	1:32.073	0.591	0.355			
+171	15	2009	Japanese Grand Prix	19	21	Vitantonio Liuzzi	Italy	Force India F1 Team	9	1:32.087	0.605	0.014			
+171	15	2009	Japanese Grand Prix	20	14	Mark Webber	Australia	Red Bull Racing							

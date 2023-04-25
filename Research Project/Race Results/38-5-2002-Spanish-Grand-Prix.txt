@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+38	5	2002	Spanish Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	65	1:30:29.981			203.753	1:20.355	49
+38	5	2002	Spanish Grand Prix	2	6	Juan Pablo Montoya	Colombia	Williams	65	1:31:05.610	+ 35.629	+ 35.629	202.425	1:21.740	47
+38	5	2002	Spanish Grand Prix	3	3	David Coulthard	Great Britain	McLaren	65	1:31:12.604	+ 42.623	+ 6.994	202.166	1:21.931	45
+38	5	2002	Spanish Grand Prix	4	7	Nick Heidfeld	Germany	Sauber	65	1:31:36.677	+ 1:06.696	+ 24.073	201.281	1:22.860	29
+38	5	2002	Spanish Grand Prix	5	8	Felipe Massa	Brazil	Sauber	65	1:31:48.954	+ 1:18.973	+ 12.277	200.832	1:22.186	28
+38	5	2002	Spanish Grand Prix	6	20	Heinz-Harald Frentzen	Germany	Arrows	65	1:31:50.410	+ 1:20.429	+ 1.456	200.779	1:22.320	43
+38	5	2002	Spanish Grand Prix	7	11	Jacques Villeneuve	Canada	BAR	64	1:30:34.386	1 Lap	1 Lap	200.454	1:22.827	47
+38	5	2002	Spanish Grand Prix	8	25	Allan McNish	Great Britain	Toyota	64	1:31:01.105	1 Lap	+ 26.719	199.474	1:23.160	46
+38	5	2002	Spanish Grand Prix	9	24	Mika Salo	Finland	Toyota	64	1:31:43.597	1 Lap	+ 42.492	197.934	1:22.524	47
+38	5	2002	Spanish Grand Prix	10	14	Jarno Trulli	Italy	Renault	63	1:29:32.299	2 Laps	1 Lap	199.601	1:22.155	25
+38	5	2002	Spanish Grand Prix	11	5	Ralf Schumacher	Germany	Williams	63	1:30:18.052	2 Laps	+ 45.753	197.916	1:22.697	27
+38	5	2002	Spanish Grand Prix	12	15	Jenson Button	Great Britain	Renault	60	1:25:22.928	5 Laps	3 Laps	199.346	1:22.607	26
+38	5	2002	Spanish Grand Prix	13	12	Olivier Panis	France	BAR	43	1:00:54.746			200.222	1:22.872	26
+38	5	2002	Spanish Grand Prix	14	16	Eddie Irvine	Great Britain	Jaguar	41	59:34.374			195.196	1:24.187	28
+38	5	2002	Spanish Grand Prix	15	21	Enrique Bernoldi	Brazil	Arrows	40	58:28.640			194.000	1:23.507	26
+38	5	2002	Spanish Grand Prix	16	10	Takuma Sato	Japan	Jordan	10	14:16.483			198.296	1:24.198	10
+38	5	2002	Spanish Grand Prix	17	9	Giancarlo Fisichella	Italy	Jordan	5	7:31.031			187.785	1:24.493	3
+38	5	2002	Spanish Grand Prix	18	4	Kimi Räikkönen	Finland	McLaren	4	6:03.469			186.175	1:23.524	3
+38	5	2002	Spanish Grand Prix	19	17	Pedro de la Rosa	Spain	Jaguar	2	3:03.012			183.666	1:25.944	2
+38	5	2002	Spanish Grand Prix	20	23	Mark Webber	Australia	Minardi							
+38	5	2002	Spanish Grand Prix	21	22	Alex Yoong	Malaysia	Minardi							
+38	5	2002	Spanish Grand Prix	22	2	Rubens Barrichello	Brazil	Ferrari							

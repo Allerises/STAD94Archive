@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+72	6	2004	Monaco Grand Prix	1	7	Jarno Trulli	Italy	Renault	77	1:45:46.601			145.880	1:14.870	22
+72	6	2004	Monaco Grand Prix	2	9	Jenson Button	Great Britain	BAR	77	1:45:47.098	+ 0.497	+ 0.497	145.869	1:15.220	40
+72	6	2004	Monaco Grand Prix	3	2	Rubens Barrichello	Brazil	Ferrari	77	1:47:02.367	+ 1:15.766	+ 1:15.269	144.159	1:15.763	16
+72	6	2004	Monaco Grand Prix	4	3	Juan Pablo Montoya	Colombia	Williams	76	1:46:10.808	1 Lap	1 Lap	143.439	1:15.395	41
+72	6	2004	Monaco Grand Prix	5	12	Felipe Massa	Brazil	Sauber	76	1:46:58.629	1 Lap	+ 47.821	142.370	1:17.151	23
+72	6	2004	Monaco Grand Prix	6	16	Cristiano da Matta	Brazil	Toyota	76	1:46:58.753	1 Lap	+ 0.124	142.367	1:16.232	22
+72	6	2004	Monaco Grand Prix	7	18	Nick Heidfeld	Germany	Jordan	75	1:46:58.271	2 Laps	1 Lap	140.505	1:18.262	35
+72	6	2004	Monaco Grand Prix	8	17	Olivier Panis	France	Toyota	74	1:46:32.220	3 Laps	1 Lap	139.196	1:16.494	57
+72	6	2004	Monaco Grand Prix	9	21	Zsolt Baumgartner	Hungary	Minardi	71	1:45:51.401	6 Laps	3 Laps	134.411	1:21.886	2
+72	6	2004	Monaco Grand Prix	10	4	Ralf Schumacher	Germany	Williams	69	1:39:42.758	8 Laps	2 Laps	138.674	1:17.588	18
+72	6	2004	Monaco Grand Prix	11	1	Michael Schumacher	Germany	Ferrari	45	1:03:55.548			141.069	1:14.439	23
+72	6	2004	Monaco Grand Prix	12	8	Fernando Alonso	Spain	Renault	41	56:47.463			144.677	1:15.226	23
+72	6	2004	Monaco Grand Prix	13	6	Kimi Räikkönen	Finland	McLaren	27	39:22.232			137.432	1:16.203	15
+72	6	2004	Monaco Grand Prix	14	20	Gianmaria Bruni	Italy	Minardi	15	24:36.086			122.188	1:21.592	10
+72	6	2004	Monaco Grand Prix	15	19	Giorgio Pantano	Italy	Jordan	12	20:11.109			119.137	1:19.415	10
+72	6	2004	Monaco Grand Prix	16	14	Mark Webber	Australia	Jaguar	11	18:39.402			118.155	1:17.466	11
+72	6	2004	Monaco Grand Prix	17	10	Takuma Sato	Japan	BAR	2	2:48.349			142.846	1:21.368	2
+72	6	2004	Monaco Grand Prix	18	5	David Coulthard	Great Britain	McLaren	2	2:50.233			141.265	1:20.560	2
+72	6	2004	Monaco Grand Prix	19	11	Giancarlo Fisichella	Italy	Sauber	2	2:52.582			139.342	1:20.804	2
+72	6	2004	Monaco Grand Prix	20	15	Christian Klien	Austria	Jaguar							

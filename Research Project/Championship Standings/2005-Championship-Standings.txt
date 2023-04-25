@@ -1,0 +1,26 @@
+Year	Pos	Driver	Points
+2005	1	Fernando Alonso	133
+2005	2	Kimi Räikkönen	112
+2005	3	Michael Schumacher	62
+2005	4	Juan Pablo Montoya	60
+2005	5	Giancarlo Fisichella	58
+2005	6	Ralf Schumacher	45
+2005	7	Jarno Trulli	43
+2005	8	Rubens Barrichello	38
+2005	9	Jenson Button	37
+2005	10	Mark Webber	36
+2005	11	Nick Heidfeld	28
+2005	12	David Coulthard	24
+2005	13	Felipe Massa	11
+2005	14	Jacques Villeneuve	9
+2005	15	Christian Klien	9
+2005	16	Tiago Monteiro	7
+2005	17	Alexander Wurz	6
+2005	18	Narain Karthikeyan	5
+2005	19	Christijan Albers	4
+2005	20	Pedro de la Rosa	4
+2005	21	Patrick Friesacher	3
+2005	22	Antonio Pizzonia	2
+2005	23	Takuma Sato	1
+2005	24	Vitantonio Liuzzi	1
+2005	25	Robert Doornbos	

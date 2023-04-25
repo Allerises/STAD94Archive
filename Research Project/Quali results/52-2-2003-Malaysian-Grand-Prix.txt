@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+52	2	2003	Malaysian Grand Prix	1	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team		1:37.044					
+52	2	2003	Malaysian Grand Prix	2	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:37.217	0.173	0.173			
+52	2	2003	Malaysian Grand Prix	3	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:37.393	0.349	0.176			
+52	2	2003	Malaysian Grand Prix	4	5	David Coulthard	Great Britain	West McLaren Mercedes		1:37.454	0.410	0.061			
+52	2	2003	Malaysian Grand Prix	5	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:37.579	0.535	0.125			
+52	2	2003	Malaysian Grand Prix	6	9	Nick Heidfeld	Germany	Sauber Petronas		1:37.766	0.722	0.187			
+52	2	2003	Malaysian Grand Prix	7	6	Kimi Räikkönen	Finland	West McLaren Mercedes		1:37.858	0.814	0.092			
+52	2	2003	Malaysian Grand Prix	8	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:37.974	0.930	0.116			
+52	2	2003	Malaysian Grand Prix	9	17	Jenson Button	Great Britain	Lucky Strike BAR Honda		1:38.073	1.029	0.099			
+52	2	2003	Malaysian Grand Prix	10	20	Olivier Panis	France	Panasonic Toyota Racing		1:38.094	1.050	0.021			
+52	2	2003	Malaysian Grand Prix	11	21	Cristiano da Matta	Brazil	Panasonic Toyota Racing		1:38.097	1.053	0.003			
+52	2	2003	Malaysian Grand Prix	12	16	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:38.289	1.245	0.192			
+52	2	2003	Malaysian Grand Prix	13	10	Heinz-Harald Frentzen	Germany	Sauber Petronas		1:38.291	1.247	0.002			
+52	2	2003	Malaysian Grand Prix	14	11	Giancarlo Fisichella	Italy	Jordan Ford		1:38.416	1.372	0.125			
+52	2	2003	Malaysian Grand Prix	15	15	Antonio Pizzonia	Brazil	Jaguar Racing		1:38.516	1.472	0.100			
+52	2	2003	Malaysian Grand Prix	16	14	Mark Webber	Australia	Jaguar Racing		1:38.624	1.580	0.108			
+52	2	2003	Malaysian Grand Prix	17	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:38.789	1.745	0.165			
+52	2	2003	Malaysian Grand Prix	18	19	Jos Verstappen	Netherlands	European Minardi Cosworth		1:40.417	3.373	1.628			
+52	2	2003	Malaysian Grand Prix	19	18	Justin Wilson	Great Britain	European Minardi Cosworth		1:40.599	3.555	0.182			
+52	2	2003	Malaysian Grand Prix	20	12	Ralph Firman	Ireland	Jordan Ford		1:40.910	3.866	0.311			

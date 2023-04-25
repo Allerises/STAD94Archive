@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+371	12	2020	Portuguese Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Formula One Team	21	1:16.652			218.530		
+371	12	2020	Portuguese Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Formula One Team	17	1:16.754	0.102	0.102	218.240		
+371	12	2020	Portuguese Grand Prix	3	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	23	1:16.904	0.252	0.150	217.814		
+371	12	2020	Portuguese Grand Prix	4	16	Charles Leclerc	Monaco	Scuderia Ferrari	23	1:17.090	0.438	0.186	217.288		
+371	12	2020	Portuguese Grand Prix	5	11	Sergio Pérez	Mexico	BWT Racing Point F1 Team	21	1:17.223	0.571	0.133	216.914		
+371	12	2020	Portuguese Grand Prix	6	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	29	1:17.437	0.785	0.214	216.315		
+371	12	2020	Portuguese Grand Prix	7	55	Carlos Sainz	Spain	McLaren F1 Team	24	1:17.520	0.868	0.083	216.083		
+371	12	2020	Portuguese Grand Prix	8	4	Lando Norris	Great Britain	McLaren F1 Team	24	1:17.525	0.873	0.005	216.069		
+371	12	2020	Portuguese Grand Prix	9	10	Pierre Gasly	France	Scuderia AlphaTauri Honda	26	1:17.803	1.151	0.278	215.297		
+371	12	2020	Portuguese Grand Prix	10	3	Daniel Ricciardo	Australia	Renault DP World F1 Team	17						
+371	12	2020	Portuguese Grand Prix	11	31	Esteban Ocon	France	Renault DP World F1 Team	18	1:17.614	0.962		215.821		
+371	12	2020	Portuguese Grand Prix	12	18	Lance Stroll	Canada	BWT Racing Point F1 Team	22	1:17.626	0.974	0.012	215.788		
+371	12	2020	Portuguese Grand Prix	13	26	Daniil Kvyat	Russia	Scuderia AlphaTauri Honda	22	1:17.728	1.076	0.102	215.505		
+371	12	2020	Portuguese Grand Prix	14	63	George Russell	Great Britain	Williams Racing	17	1:17.788	1.136	0.060	215.339		
+371	12	2020	Portuguese Grand Prix	15	5	Sebastian Vettel	Germany	Scuderia Ferrari	20	1:17.919	1.267	0.131	214.977		
+371	12	2020	Portuguese Grand Prix	16	7	Kimi Räikkönen	Finland	Alfa Romeo Racing ORLEN	12	1:18.201	1.549	0.282	214.201		
+371	12	2020	Portuguese Grand Prix	17	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing ORLEN	12	1:18.323	1.671	0.122	213.868		
+371	12	2020	Portuguese Grand Prix	18	8	Romain Grosjean	France	Haas F1 Team	12	1:18.364	1.712	0.041	213.756		
+371	12	2020	Portuguese Grand Prix	19	20	Kevin Magnussen	Denmark	Haas F1 Team	10	1:18.508	1.856	0.144	213.364		
+371	12	2020	Portuguese Grand Prix	20	6	Nicholas Latifi	Canada	Williams Racing	11	1:18.777	2.125	0.269	212.635		

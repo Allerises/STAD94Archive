@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+88	4	2005	San Marino Grand Prix	1	5	Fernando Alonso	Spain	Renault	62	1:27:41.921			209.085	1:23.133	22
+88	4	2005	San Marino Grand Prix	2	1	Michael Schumacher	Germany	Ferrari	62	1:27:42.136	+ 0.215	+ 0.215	209.077	1:21.858	48
+88	4	2005	San Marino Grand Prix	3	10	Alexander Wurz	Austria	McLaren	62	1:28:09.475	+ 27.554	+ 27.339	207.996	1:23.023	24
+88	4	2005	San Marino Grand Prix	4	11	Jacques Villeneuve	Canada	Sauber	62	1:28:46.363	+ 1:04.442	+ 36.888	206.556	1:24.017	45
+88	4	2005	San Marino Grand Prix	5	16	Jarno Trulli	Italy	Toyota	62	1:28:52.179	+ 1:10.258	+ 5.816	206.330	1:24.022	44
+88	4	2005	San Marino Grand Prix	6	8	Nick Heidfeld	Germany	Williams	62	1:28:53.203	+ 1:11.282	+ 1.024	206.291	1:23.917	54
+88	4	2005	San Marino Grand Prix	7	7	Mark Webber	Australia	Williams	62	1:29:05.218	+ 1:23.297	+ 12.015	205.827	1:24.419	17
+88	4	2005	San Marino Grand Prix	8	15	Vitantonio Liuzzi	Italy	Red Bull	62	1:29:05.685	+ 1:23.764	+ 0.467	205.809	1:23.488	46
+88	4	2005	San Marino Grand Prix	9	17	Ralf Schumacher	Germany	Toyota	62	1:29:17.762	+ 1:35.841	+ 12.077	205.345	1:24.230	19
+88	4	2005	San Marino Grand Prix	10	12	Felipe Massa	Brazil	Sauber	61	1:27:43.565	1 Lap	1 Lap	205.646	1:23.602	37
+88	4	2005	San Marino Grand Prix	11	14	David Coulthard	Great Britain	Red Bull	61	1:28:07.742	1 Lap	+ 24.177	204.706	1:24.641	22
+88	4	2005	San Marino Grand Prix	12	19	Narain Karthikeyan	India	Jordan	61	1:28:24.807	1 Lap	+ 17.065	204.047	1:24.094	20
+88	4	2005	San Marino Grand Prix	13	18	Tiago Monteiro	Portugal	Jordan	60	1:29:02.239	2 Laps	1 Lap	199.293	1:24.719	19
+88	4	2005	San Marino Grand Prix	14	3	Jenson Button	Great Britain	BAR	62	1:27:52.402			208.670	1:22.604	22
+88	4	2005	San Marino Grand Prix	15	4	Takuma Sato	Japan	BAR	62	1:28:16.704			207.712	1:23.368	23
+88	4	2005	San Marino Grand Prix	16	21	Christijan Albers	Netherlands	Minardi	20	29:48.688			198.090	1:27.420	18
+88	4	2005	San Marino Grand Prix	17	2	Rubens Barrichello	Brazil	Ferrari	18	26:11.325			202.889	1:24.435	13
+88	4	2005	San Marino Grand Prix	18	9	Kimi Räikkönen	Finland	McLaren	9	13:39.307			194.037	1:23.296	8
+88	4	2005	San Marino Grand Prix	19	20	Patrick Friesacher	Austria	Minardi	8	12:03.336			195.230	1:28.334	5
+88	4	2005	San Marino Grand Prix	20	6	Giancarlo Fisichella	Italy	Renault	5	7:19.330			200.170	1:25.665	4

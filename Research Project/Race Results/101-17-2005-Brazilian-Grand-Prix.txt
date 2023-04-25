@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+101	17	2005	Brazilian Grand Prix	1	10	Juan Pablo Montoya	Colombia	McLaren	71	1:29:20.574			205.439	1:12.650	27
+101	17	2005	Brazilian Grand Prix	2	9	Kimi Räikkönen	Finland	McLaren	71	1:29:23.101	+ 2.527	+ 2.527	205.342	1:12.268	29
+101	17	2005	Brazilian Grand Prix	3	5	Fernando Alonso	Spain	Renault	71	1:29:45.414	+ 24.840	+ 22.313	204.491	1:12.653	21
+101	17	2005	Brazilian Grand Prix	4	1	Michael Schumacher	Germany	Ferrari	71	1:29:56.242	+ 35.668	+ 10.828	204.081	1:12.800	25
+101	17	2005	Brazilian Grand Prix	5	6	Giancarlo Fisichella	Italy	Renault	71	1:30:00.792	+ 40.218	+ 4.550	203.909	1:13.190	11
+101	17	2005	Brazilian Grand Prix	6	2	Rubens Barrichello	Brazil	Ferrari	71	1:30:29.747	+ 1:09.173	+ 28.955	202.822	1:13.192	49
+101	17	2005	Brazilian Grand Prix	7	3	Jenson Button	Great Britain	BAR	70	1:29:24.301	1 Lap	1 Lap	202.404	1:13.746	24
+101	17	2005	Brazilian Grand Prix	8	17	Ralf Schumacher	Germany	Toyota	70	1:29:25.343	1 Lap	+ 1.042	202.365	1:13.724	25
+101	17	2005	Brazilian Grand Prix	9	15	Christian Klien	Austria	Red Bull	70	1:29:28.687	1 Lap	+ 3.344	202.239	1:13.800	50
+101	17	2005	Brazilian Grand Prix	10	4	Takuma Sato	Japan	BAR	70	1:30:05.528	1 Lap	+ 36.841	200.861	1:14.394	32
+101	17	2005	Brazilian Grand Prix	11	12	Felipe Massa	Brazil	Sauber	70	1:30:16.625	1 Lap	+ 11.097	200.449	1:14.343	70
+101	17	2005	Brazilian Grand Prix	12	11	Jacques Villeneuve	Canada	Sauber	70	1:30:17.449	1 Lap	+ 0.824	200.419	1:14.054	25
+101	17	2005	Brazilian Grand Prix	13	16	Jarno Trulli	Italy	Toyota	69	1:29:04.725	2 Laps	1 Lap	200.243	1:13.570	69
+101	17	2005	Brazilian Grand Prix	14	21	Christijan Albers	Netherlands	Minardi	69	1:30:26.178	2 Laps	+ 1:21.453	197.237	1:15.527	19
+101	17	2005	Brazilian Grand Prix	15	19	Narain Karthikeyan	India	Jordan	68	1:29:30.524	3 Laps	1 Lap	196.393	1:14.906	41
+101	17	2005	Brazilian Grand Prix	16	18	Tiago Monteiro	Portugal	Jordan	55	1:12:23.099			196.420	1:15.113	41
+101	17	2005	Brazilian Grand Prix	17	7	Mark Webber	Australia	Williams	45	1:29:40.707			129.713	1:13.590	45
+101	17	2005	Brazilian Grand Prix	18	20	Robert Doornbos	Netherlands	Minardi	34	45:27.063			193.363	1:15.792	16
+101	17	2005	Brazilian Grand Prix	19	8	Antonio Pizzonia	Brazil	Williams							
+101	17	2005	Brazilian Grand Prix	20	14	David Coulthard	Great Britain	Red Bull							

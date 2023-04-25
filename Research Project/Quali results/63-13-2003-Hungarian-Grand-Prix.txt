@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+63	13	2003	Hungarian Grand Prix	1	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team		1:21.688					
+63	13	2003	Hungarian Grand Prix	2	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:21.944	0.256	0.256			
+63	13	2003	Hungarian Grand Prix	3	14	Mark Webber	Australia	Jaguar Racing		1:22.027	0.339	0.083			
+63	13	2003	Hungarian Grand Prix	4	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:22.180	0.492	0.153			
+63	13	2003	Hungarian Grand Prix	5	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:22.180	0.492	0.153			
+63	13	2003	Hungarian Grand Prix	6	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:22.610	0.922	0.430			
+63	13	2003	Hungarian Grand Prix	7	6	Kimi Räikkönen	Finland	West McLaren Mercedes		1:22.742	1.054	0.132			
+63	13	2003	Hungarian Grand Prix	8	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:22.755	1.067	0.013			
+63	13	2003	Hungarian Grand Prix	9	5	David Coulthard	Great Britain	West McLaren Mercedes		1:23.060	1.372	0.305			
+63	13	2003	Hungarian Grand Prix	10	20	Olivier Panis	France	Panasonic Toyota Racing		1:23.369	1.681	0.309			
+63	13	2003	Hungarian Grand Prix	11	9	Nick Heidfeld	Germany	Sauber Petronas		1:23.621	1.933	0.252			
+63	13	2003	Hungarian Grand Prix	12	15	Justin Wilson	Great Britain	Jaguar Racing		1:23.660	1.972	0.039			
+63	13	2003	Hungarian Grand Prix	13	11	Giancarlo Fisichella	Italy	Jordan Ford		1:23.726	2.038	0.066			
+63	13	2003	Hungarian Grand Prix	14	17	Jenson Button	Great Britain	Lucky Strike BAR Honda		1:23.847	2.159	0.121			
+63	13	2003	Hungarian Grand Prix	15	21	Cristiano da Matta	Brazil	Panasonic Toyota Racing		1:23.982	2.294	0.135			
+63	13	2003	Hungarian Grand Prix	16	16	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:24.100	2.412	0.118			
+63	13	2003	Hungarian Grand Prix	17	10	Heinz-Harald Frentzen	Germany	Sauber Petronas		1:24.569	2.881	0.469			
+63	13	2003	Hungarian Grand Prix	18	19	Jos Verstappen	Netherlands	European Minardi Cosworth		1:26.423	4.735	1.854			
+63	13	2003	Hungarian Grand Prix	19	12	Zsolt Baumgartner	Hungary	Jordan Ford		1:26.678	4.990	0.255			
+63	13	2003	Hungarian Grand Prix	20	18	Nicolas Kiesa	Denmark	European Minardi Cosworth		1:28.907	7.219	2.229			

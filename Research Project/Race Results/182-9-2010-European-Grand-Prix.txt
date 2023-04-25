@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+182	9	2010	European Grand Prix	1	5	Sebastian Vettel	Germany	Red Bull	57	1:40:29.571			184.420	1:39.141	52
+182	9	2010	European Grand Prix	2	2	Lewis Hamilton	Great Britain	McLaren	57	1:40:34.613	+ 5.042	+ 5.042	184.266	1:39.156	56
+182	9	2010	European Grand Prix	3	1	Jenson Button	Great Britain	McLaren	57	1:40:42.229	+ 12.658	+ 7.616	184.034	1:38.766	54
+182	9	2010	European Grand Prix	4	9	Rubens Barrichello	Brazil	Williams	57	1:40:55.198	+ 25.627	+ 12.969	183.640	1:39.489	56
+182	9	2010	European Grand Prix	5	11	Robert Kubica	Poland	Renault	57	1:40:56.693	+ 27.122	+ 1.495	183.595	1:39.542	55
+182	9	2010	European Grand Prix	6	14	Adrian Sutil	Germany	Force India	57	1:40:59.739	+ 30.168	+ 3.046	183.502	1:39.803	52
+182	9	2010	European Grand Prix	7	23	Kamui Kobayashi	Japan	Sauber	57	1:41:00.536	+ 30.965	+ 0.797	183.478	1:39.517	57
+182	9	2010	European Grand Prix	8	8	Fernando Alonso	Spain	Ferrari	57	1:41:02.380	+ 32.809	+ 1.844	183.422	1:39.889	50
+182	9	2010	European Grand Prix	9	16	Sébastien Buemi	Switzerland	Toro Rosso	57	1:41:05.870	+ 36.299	+ 3.490	183.317	1:40.084	53
+182	9	2010	European Grand Prix	10	4	Nico Rosberg	Germany	Mercedes	57	1:41:13.953	+ 44.382	+ 8.083	183.073	1:39.878	57
+182	9	2010	European Grand Prix	11	7	Felipe Massa	Brazil	Ferrari	57	1:41:16.192	+ 46.621	+ 2.239	183.005	1:40.208	52
+182	9	2010	European Grand Prix	12	22	Pedro de la Rosa	Spain	Sauber	57	1:41:16.985	+ 47.414	+ 0.793	182.981	1:40.430	56
+182	9	2010	European Grand Prix	13	17	Jaime Alguersuari	Spain	Toro Rosso	57	1:41:17.810	+ 48.239	+ 0.825	182.957	1:40.327	55
+182	9	2010	European Grand Prix	14	12	Vitaly Petrov	Russia	Renault	57	1:41:17.858	+ 48.287	+ 0.048	182.955	1:40.100	57
+182	9	2010	European Grand Prix	15	3	Michael Schumacher	Germany	Mercedes	57	1:41:18.397	+ 48.826	+ 0.539	182.939	1:38.968	53
+182	9	2010	European Grand Prix	16	15	Vitantonio Liuzzi	Italy	Force India	57	1:41:20.461	+ 50.890	+ 2.064	182.877	1:40.305	52
+182	9	2010	European Grand Prix	17	25	Lucas di Grassi	Brazil	Virgin	56	1:41:59.858	1 Lap	1 Lap	178.512	1:42.414	45
+182	9	2010	European Grand Prix	18	20	Karun Chandhok	India	HRT	55	1:40:37.870	2 Laps	1 Lap	177.705	1:43.820	51
+182	9	2010	European Grand Prix	19	24	Timo Glock	Germany	Virgin	55	1:40:53.767	2 Laps	+ 15.897	177.238	1:42.319	48
+182	9	2010	European Grand Prix	20	21	Bruno Senna	Brazil	HRT	55	1:41:07.902	2 Laps	+ 14.135	176.825	1:42.927	55
+182	9	2010	European Grand Prix	21	18	Jarno Trulli	Italy	Lotus	53	1:41:42.171	4 Laps	2 Laps	169.438	1:41.770	53
+182	9	2010	European Grand Prix	22	10	Nico Hülkenberg	Germany	Williams	49	1:27:48.166			181.450	1:40.790	46
+182	9	2010	European Grand Prix	23	19	Heikki Kovalainen	Finland	Lotus	8	14:29.688			179.451	1:46.130	8
+182	9	2010	European Grand Prix	24	6	Mark Webber	Australia	Red Bull	8	14:30.977			179.186	1:44.064	5

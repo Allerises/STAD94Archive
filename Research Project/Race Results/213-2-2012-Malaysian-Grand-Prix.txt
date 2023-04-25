@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+213	2	2012	Malaysian Grand Prix	1	5	Fernando Alonso	Spain	Ferrari	56	2:44:51.812			112.969	1:41.680	53
+213	2	2012	Malaysian Grand Prix	2	15	Sergio Pérez	Mexico	Sauber	56	2:44:54.075	+ 2.263	+ 2.263	112.943	1:41.021	54
+213	2	2012	Malaysian Grand Prix	3	4	Lewis Hamilton	Great Britain	McLaren	56	2:45:06.403	+ 14.591	+ 12.328	112.802	1:41.539	50
+213	2	2012	Malaysian Grand Prix	4	2	Mark Webber	Australia	Red Bull	56	2:45:09.500	+ 17.688	+ 3.097	112.767	1:41.017	52
+213	2	2012	Malaysian Grand Prix	5	9	Kimi Räikkönen	Finland	Lotus	56	2:45:21.268	+ 29.456	+ 11.768	112.633	1:40.722	53
+213	2	2012	Malaysian Grand Prix	6	19	Bruno Senna	Brazil	Williams	56	2:45:29.479	+ 37.667	+ 8.211	112.540	1:41.404	55
+213	2	2012	Malaysian Grand Prix	7	11	Paul di Resta	Great Britain	Force India	56	2:45:36.224	+ 44.412	+ 6.745	112.464	1:41.819	55
+213	2	2012	Malaysian Grand Prix	8	17	Jean-Eric Vergne	France	Toro Rosso	56	2:45:38.797	+ 46.985	+ 2.573	112.435	1:41.922	55
+213	2	2012	Malaysian Grand Prix	9	12	Nico Hülkenberg	Germany	Force India	56	2:45:39.704	+ 47.892	+ 0.907	112.424	1:42.173	51
+213	2	2012	Malaysian Grand Prix	10	7	Michael Schumacher	Germany	Mercedes	56	2:45:41.808	+ 49.996	+ 2.104	112.400	1:41.760	53
+213	2	2012	Malaysian Grand Prix	11	1	Sebastian Vettel	Germany	Red Bull	56	2:46:07.339	+ 1:15.527	+ 25.531	112.113	1:41.342	50
+213	2	2012	Malaysian Grand Prix	12	16	Daniel Ricciardo	Australia	Toro Rosso	56	2:46:08.640	+ 1:16.828	+ 1.301	112.098	1:41.756	54
+213	2	2012	Malaysian Grand Prix	13	8	Nico Rosberg	Germany	Mercedes	56	2:46:10.405	+ 1:18.593	+ 1.765	112.078	1:41.863	51
+213	2	2012	Malaysian Grand Prix	14	3	Jenson Button	Great Britain	McLaren	56	2:46:11.531	+ 1:19.719	+ 1.126	112.065	1:42.100	50
+213	2	2012	Malaysian Grand Prix	15	6	Felipe Massa	Brazil	Ferrari	56	2:46:29.131	+ 1:37.319	+ 17.600	111.868	1:42.051	56
+213	2	2012	Malaysian Grand Prix	16	21	Vitaly Petrov	Russia	Caterham	55	2:45:05.170	+ 13.358	1 Lap	110.802	1:43.513	52
+213	2	2012	Malaysian Grand Prix	17	24	Timo Glock	Germany	Marussia	55	2:45:47.835	+ 56.023	+ 42.665	110.326	1:44.757	50
+213	2	2012	Malaysian Grand Prix	18	20	Heikki Kovalainen	Finland	Caterham	55	2:45:51.814	+ 1:00.002	+ 3.979	110.282	1:43.803	54
+213	2	2012	Malaysian Grand Prix	19	18	Pastor Maldonado	Venezuela	Williams	54	2:42:26.499	2 Laps	1 Lap	110.558	1:42.237	51
+213	2	2012	Malaysian Grand Prix	20	25	Charles Pic	France	Marussia	54	2:44:56.936	+ 5.124	+ 2:30.437	108.878	1:44.813	50
+213	2	2012	Malaysian Grand Prix	21	23	Narain Karthikeyan	India	HRT	54	2:46:09.679	+ 1:17.867	+ 1:12.743	108.083	1:45.909	52
+213	2	2012	Malaysian Grand Prix	22	22	Pedro de la Rosa	Spain	HRT	54	2:46:22.889	+ 1:31.077	+ 13.210	107.940	1:46.244	54
+213	2	2012	Malaysian Grand Prix	23	14	Kamui Kobayashi	Japan	Sauber	46	2:29:19.124			102.456	1:44.202	44
+213	2	2012	Malaysian Grand Prix	24	10	Romain Grosjean	France	Lotus	3	6:41.146			149.233	2:08.464	2

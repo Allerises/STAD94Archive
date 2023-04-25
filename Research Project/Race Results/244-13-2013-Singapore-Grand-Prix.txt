@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+244	13	2013	Singapore Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	61	1:59:13.132			155.425	1:48.574	46
+244	13	2013	Singapore Grand Prix	2	3	Fernando Alonso	Spain	Ferrari	61	1:59:45.759	+ 32.627	+ 32.627	154.720	1:51.082	44
+244	13	2013	Singapore Grand Prix	3	7	Kimi Räikkönen	Finland	Lotus	61	1:59:57.052	+ 43.920	+ 11.293	154.477	1:51.140	55
+244	13	2013	Singapore Grand Prix	4	9	Nico Rosberg	Germany	Mercedes	61	2:00:04.287	+ 51.155	+ 7.235	154.322	1:50.353	51
+244	13	2013	Singapore Grand Prix	5	10	Lewis Hamilton	Great Britain	Mercedes	61	2:00:06.291	+ 53.159	+ 2.004	154.279	1:49.916	59
+244	13	2013	Singapore Grand Prix	6	4	Felipe Massa	Brazil	Ferrari	61	2:00:17.009	+ 1:03.877	+ 10.718	154.050	1:50.509	45
+244	13	2013	Singapore Grand Prix	7	5	Jenson Button	Great Britain	McLaren	61	2:00:36.486	+ 1:23.354	+ 19.477	153.635	1:51.740	46
+244	13	2013	Singapore Grand Prix	8	6	Sergio Pérez	Mexico	McLaren	61	2:00:36.952	+ 1:23.820	+ 0.466	153.625	1:51.926	46
+244	13	2013	Singapore Grand Prix	9	11	Nico Hülkenberg	Germany	Sauber	61	2:00:37.393	+ 1:24.261	+ 0.441	153.616	1:52.186	47
+244	13	2013	Singapore Grand Prix	10	15	Adrian Sutil	Germany	Force India	61	2:00:37.800	+ 1:24.668	+ 0.407	153.607	1:49.656	43
+244	13	2013	Singapore Grand Prix	11	16	Pastor Maldonado	Venezuela	Williams	61	2:00:41.611	+ 1:28.479	+ 3.811	153.526	1:50.708	46
+244	13	2013	Singapore Grand Prix	12	12	Esteban Gutiérrez	Mexico	Sauber	61	2:00:51.026	+ 1:37.894	+ 9.415	153.327	1:52.007	37
+244	13	2013	Singapore Grand Prix	13	17	Valtteri Bottas	Finland	Williams	61	2:00:58.293	+ 1:45.161	+ 7.267	153.173	1:51.706	53
+244	13	2013	Singapore Grand Prix	14	18	Jean-Eric Vergne	France	Toro Rosso	61	2:01:06.644	+ 1:53.512	+ 8.351	152.997	1:50.328	45
+244	13	2013	Singapore Grand Prix	15	2	Mark Webber	Australia	Red Bull	60	1:58:20.259	1 Lap	1 Lap	154.015	1:49.783	51
+244	13	2013	Singapore Grand Prix	16	21	Giedo van der Garde	Netherlands	Caterham	60	1:59:34.235	+ 21.103	+ 1:13.976	152.426	1:52.472	44
+244	13	2013	Singapore Grand Prix	17	23	Max Chilton	Great Britain	Marussia	60	1:59:41.391	+ 28.259	+ 7.156	152.275	1:53.041	50
+244	13	2013	Singapore Grand Prix	18	22	Jules Bianchi	France	Marussia	60	1:59:48.515	+ 35.383	+ 7.124	152.124	1:52.898	45
+244	13	2013	Singapore Grand Prix	19	20	Charles Pic	France	Caterham	60	1:59:48.663	+ 35.531	+ 0.148	152.121	1:50.990	58
+244	13	2013	Singapore Grand Prix	20	14	Paul di Resta	Great Britain	Force India	54	1:46:57.222	7 Laps	6 Laps	153.359	1:50.739	45
+244	13	2013	Singapore Grand Prix	21	8	Romain Grosjean	France	Lotus	37	1:16:11.900			147.458	1:51.097	35
+244	13	2013	Singapore Grand Prix	22	19	Daniel Ricciardo	Australia	Toro Rosso	23	44:45.493			155.982	1:53.052	23

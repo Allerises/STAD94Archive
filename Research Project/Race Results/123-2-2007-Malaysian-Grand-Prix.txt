@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+123	2	2007	Malaysian Grand Prix	1	1	Fernando Alonso	Spain	McLaren	56	1:32:14.930			201.893	1:36.861	42
+123	2	2007	Malaysian Grand Prix	2	2	Lewis Hamilton	Great Britain	McLaren	56	1:32:32.487	+ 17.557	+ 17.557	201.255	1:36.701	22
+123	2	2007	Malaysian Grand Prix	3	6	Kimi Räikkönen	Finland	Ferrari	56	1:32:33.269	+ 18.339	+ 0.782	201.227	1:37.228	40
+123	2	2007	Malaysian Grand Prix	4	9	Nick Heidfeld	Germany	Sauber	56	1:32:48.707	+ 33.777	+ 15.438	200.669	1:37.417	55
+123	2	2007	Malaysian Grand Prix	5	5	Felipe Massa	Brazil	Ferrari	56	1:32:51.635	+ 36.705	+ 2.928	200.563	1:37.199	42
+123	2	2007	Malaysian Grand Prix	6	3	Giancarlo Fisichella	Italy	Renault	56	1:33:20.568	+ 1:05.638	+ 28.933	199.527	1:37.879	44
+123	2	2007	Malaysian Grand Prix	7	12	Jarno Trulli	Italy	Toyota	56	1:33:25.062	+ 1:10.132	+ 4.494	199.367	1:38.016	40
+123	2	2007	Malaysian Grand Prix	8	4	Heikki Kovalainen	Finland	Renault	56	1:33:26.945	+ 1:12.015	+ 1.883	199.300	1:37.810	41
+123	2	2007	Malaysian Grand Prix	9	17	Alexander Wurz	Austria	Williams	56	1:33:44.854	+ 1:29.924	+ 17.909	198.666	1:37.864	19
+123	2	2007	Malaysian Grand Prix	10	15	Mark Webber	Australia	Red Bull	56	1:33:48.486	+ 1:33.556	+ 3.632	198.538	1:38.540	55
+123	2	2007	Malaysian Grand Prix	11	8	Rubens Barrichello	Brazil	Honda	55	1:32:44.341	1 Lap	1 Lap	197.240	1:38.566	32
+123	2	2007	Malaysian Grand Prix	12	7	Jenson Button	Great Britain	Honda	55	1:32:45.062	1 Lap	+ 0.721	197.215	1:38.658	54
+123	2	2007	Malaysian Grand Prix	13	22	Takuma Sato	Japan	Super Aguri	55	1:32:53.736	1 Lap	+ 8.674	196.908	1:38.496	37
+123	2	2007	Malaysian Grand Prix	14	19	Scott Speed	USA	Toro Rosso	55	1:32:59.861	1 Lap	+ 6.125	196.691	1:39.098	54
+123	2	2007	Malaysian Grand Prix	15	11	Ralf Schumacher	Germany	Toyota	55	1:33:10.875	1 Lap	+ 11.014	196.304	1:39.243	52
+123	2	2007	Malaysian Grand Prix	16	23	Anthony Davidson	Great Britain	Super Aguri	55	1:33:17.142	1 Lap	+ 6.267	196.084	1:39.566	32
+123	2	2007	Malaysian Grand Prix	17	18	Vitantonio Liuzzi	Italy	Toro Rosso	55	1:33:18.262	1 Lap	+ 1.120	196.045	1:38.447	21
+123	2	2007	Malaysian Grand Prix	18	10	Robert Kubica	Poland	Sauber	55	1:33:19.255	1 Lap	+ 0.993	196.010	1:38.874	53
+123	2	2007	Malaysian Grand Prix	19	16	Nico Rosberg	Germany	Williams	42	1:10:07.602			199.187	1:37.704	18
+123	2	2007	Malaysian Grand Prix	20	14	David Coulthard	Great Britain	Red Bull	36	1:00:34.151			197.672	1:38.098	28
+123	2	2007	Malaysian Grand Prix	21	21	Christijan Albers	Netherlands	Spyker	7	12:44.788			182.643	1:41.495	5
+123	2	2007	Malaysian Grand Prix	22	20	Adrian Sutil	Germany	Spyker							

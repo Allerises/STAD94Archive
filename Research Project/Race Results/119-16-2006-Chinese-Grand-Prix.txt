@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+119	16	2006	Chinese Grand Prix	1	5	Michael Schumacher	Germany	Ferrari	56	1:37:32.747			187.644	1:38.553	50
+119	16	2006	Chinese Grand Prix	2	1	Fernando Alonso	Spain	Renault	56	1:37:35.868	+ 3.121	+ 3.121	187.544	1:37.586	49
+119	16	2006	Chinese Grand Prix	3	2	Giancarlo Fisichella	Italy	Renault	56	1:38:16.944	+ 44.197	+ 41.076	186.238	1:39.332	53
+119	16	2006	Chinese Grand Prix	4	12	Jenson Button	Great Britain	Honda	56	1:38:44.803	+ 1:12.056	+ 27.859	185.362	1:39.206	51
+119	16	2006	Chinese Grand Prix	5	4	Pedro de la Rosa	Spain	McLaren	56	1:38:49.884	+ 1:17.137	+ 5.081	185.203	1:39.149	45
+119	16	2006	Chinese Grand Prix	6	11	Rubens Barrichello	Brazil	Honda	56	1:38:51.878	+ 1:19.131	+ 1.994	185.141	1:39.749	52
+119	16	2006	Chinese Grand Prix	7	16	Nick Heidfeld	Germany	Sauber	56	1:39:04.726	+ 1:31.979	+ 12.848	184.741	1:39.164	53
+119	16	2006	Chinese Grand Prix	8	9	Mark Webber	Australia	Williams	56	1:39:16.335	+ 1:43.588	+ 11.609	184.381	1:39.907	44
+119	16	2006	Chinese Grand Prix	9	14	David Coulthard	Great Britain	Red Bull	56	1:39:16.543	+ 1:43.796	+ 0.208	184.374	1:40.549	52
+119	16	2006	Chinese Grand Prix	10	20	Vitantonio Liuzzi	Italy	Toro Rosso	55	1:38:12.368	1 Lap	1 Lap	183.052	1:41.710	53
+119	16	2006	Chinese Grand Prix	11	10	Nico Rosberg	Germany	Williams	55	1:38:13.489	1 Lap	+ 1.121	183.017	1:40.471	52
+119	16	2006	Chinese Grand Prix	12	15	Robert Doornbos	Netherlands	Red Bull	55	1:38:24.465	1 Lap	+ 10.976	182.677	1:39.801	52
+119	16	2006	Chinese Grand Prix	13	17	Robert Kubica	Poland	Sauber	55	1:38:38.210	1 Lap	+ 13.745	182.253	1:40.193	51
+119	16	2006	Chinese Grand Prix	14	21	Scott Speed	USA	Toro Rosso	55	1:39:13.358	1 Lap	+ 35.148	181.177	1:39.681	49
+119	16	2006	Chinese Grand Prix	15	19	Christijan Albers	Netherlands	Spyker	53	1:39:15.058	3 Laps	2 Laps	174.535	1:41.483	50
+119	16	2006	Chinese Grand Prix	16	23	Sakon Yamamoto	Japan	Super Aguri	52	1:37:38.996	4 Laps	1 Lap	174.047	1:41.847	42
+119	16	2006	Chinese Grand Prix	17	22	Takuma Sato	Japan	Super Aguri	55	1:38:45.333			182.034	1:40.856	48
+119	16	2006	Chinese Grand Prix	18	7	Ralf Schumacher	Germany	Toyota	49	1:28:01.505			181.931	1:39.823	47
+119	16	2006	Chinese Grand Prix	19	6	Felipe Massa	Brazil	Ferrari	44	1:18:36.395			182.926	1:39.397	42
+119	16	2006	Chinese Grand Prix	20	8	Jarno Trulli	Italy	Toyota	38	1:11:35.389			173.444	1:44.787	24
+119	16	2006	Chinese Grand Prix	21	18	Tiago Monteiro	Portugal	Spyker	37	1:08:04.788			177.583	1:45.356	35
+119	16	2006	Chinese Grand Prix	22	3	Kimi Räikkönen	Finland	McLaren	18	32:14.614			182.227	1:44.094	14

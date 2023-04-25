@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+173	17	2009	Abu Dhabi Grand Prix	1	1	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	20	1:40.948	0.222	0.171			
+173	17	2009	Abu Dhabi Grand Prix	2	15	Sebastian Vettel	Germany	Red Bull Racing	21	1:41.615	0.667	0.667			
+173	17	2009	Abu Dhabi Grand Prix	3	14	Mark Webber	Australia	Red Bull Racing	21	1:41.726	0.778	0.111			
+173	17	2009	Abu Dhabi Grand Prix	4	23	Rubens Barrichello	Brazil	Brawn GP Formula 1 Team	24	1:41.786	0.838	0.060			
+173	17	2009	Abu Dhabi Grand Prix	5	22	Jenson Button	Great Britain	Brawn GP Formula 1 Team	25	1:41.892	0.944	0.106			
+173	17	2009	Abu Dhabi Grand Prix	6	9	Jarno Trulli	Italy	Panasonic Toyota Racing	24	1:41.897	0.949	0.005			
+173	17	2009	Abu Dhabi Grand Prix	7	5	Robert Kubica	Poland	BMW Sauber F1 Team	25	1:41.992	1.044	0.095			
+173	17	2009	Abu Dhabi Grand Prix	8	6	Nick Heidfeld	Germany	BMW Sauber F1 Team	24	1:42.343	1.395	0.351			
+173	17	2009	Abu Dhabi Grand Prix	9	16	Nico Rosberg	Germany	AT&T Williams	25	1:42.583	1.635	0.240			
+173	17	2009	Abu Dhabi Grand Prix	10	12	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	27	1:42.713	1.765	0.130			
+173	17	2009	Abu Dhabi Grand Prix	11	4	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	20	1:40.726					
+173	17	2009	Abu Dhabi Grand Prix	12	10	Kamui Kobayashi	Japan	Panasonic Toyota Racing	17	1:40.777	0.051	0.051			
+173	17	2009	Abu Dhabi Grand Prix	13	2	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	16	1:40.983	0.035	0.206			
+173	17	2009	Abu Dhabi Grand Prix	14	17	Kazuki Nakajima	Japan	AT&T Williams	18	1:41.148	0.200	0.165			
+173	17	2009	Abu Dhabi Grand Prix	15	11	Jaime Alguersuari	Spain	Scuderia Toro Rosso	19	1:41.689	0.741	0.541			
+173	17	2009	Abu Dhabi Grand Prix	16	7	Fernando Alonso	Spain	ING Renault F1 Team	12	1:41.667	0.719	0.052			
+173	17	2009	Abu Dhabi Grand Prix	17	21	Vitantonio Liuzzi	Italy	Force India F1 Team	10	1:41.701	0.753	0.034			
+173	17	2009	Abu Dhabi Grand Prix	18	20	Adrian Sutil	Germany	Force India F1 Team	10	1:41.863	0.915	0.162			
+173	17	2009	Abu Dhabi Grand Prix	19	8	Romain Grosjean	France	ING Renault F1 Team	12	1:41.950	1.002	0.087			
+173	17	2009	Abu Dhabi Grand Prix	20	3	Giancarlo Fisichella	Italy	Scuderia Ferrari Marlboro	12	1:42.184	1.236	0.234			

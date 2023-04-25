@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+281	12	2015	Italian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:23.397			250.066		
+281	12	2015	Italian Grand Prix	2	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:23.631	0.234	0.234	249.366		
+281	12	2015	Italian Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:23.685	0.288	0.054	249.205		
+281	12	2015	Italian Grand Prix	4	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:23.703	0.306	0.018	249.152		
+281	12	2015	Italian Grand Prix	5	19	Felipe Massa	Brazil	Williams Martini Racing		1:23.940	0.543	0.237	248.448		
+281	12	2015	Italian Grand Prix	6	77	Valtteri Bottas	Finland	Williams Martini Racing		1:24.127	0.730	0.187	247.896		
+281	12	2015	Italian Grand Prix	7	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:24.626	1.229	0.499	246.434		
+281	12	2015	Italian Grand Prix	8	8	Romain Grosjean	France	Lotus F1 Team		1:25.054	1.657	0.428	245.194		
+281	12	2015	Italian Grand Prix	9	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:25.317	1.920	0.263	244.438		
+281	12	2015	Italian Grand Prix	10	13	Pastor Maldonado	Venezuela	Lotus F1 Team		1:24.525	1.128		246.729		
+281	12	2015	Italian Grand Prix	11	12	Felipe Nasr	Brazil	Sauber F1 Team		1:24.898	1.501	0.373	245.645		
+281	12	2015	Italian Grand Prix	12	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:26.214	2.817	1.316	241.895		
+281	12	2015	Italian Grand Prix	13	28	Will Stevens	Great Britain	Manor Marussia F1 Team		1:27.731	4.334	1.517	237.713		
+281	12	2015	Italian Grand Prix	14	98	Roberto Merhi	Spain	Manor Marussia F1 Team		1:27.912	4.515	0.181	237.223		
+281	12	2015	Italian Grand Prix	15	22	Jenson Button	Great Britain	McLaren Honda		1:26.058	2.661		242.334		
+281	12	2015	Italian Grand Prix	16	14	Fernando Alonso	Spain	McLaren Honda		1:26.154	2.757	0.096	242.064		
+281	12	2015	Italian Grand Prix	17	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:25.618	2.221		243.579		
+281	12	2015	Italian Grand Prix	18	26	Daniil Kvyat	Russia	Infiniti Red Bull Racing		1:25.796	2.399	0.178	243.074		
+281	12	2015	Italian Grand Prix	19	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing							
+281	12	2015	Italian Grand Prix	20	33	Max Verstappen	Netherlands	Scuderia Toro Rosso							

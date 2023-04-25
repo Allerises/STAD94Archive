@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+99	15	2005	Italian Grand Prix	1	10	Juan Pablo Montoya	Colombia	McLaren	53	1:14:28.659			247.096	1:21.828	15
+99	15	2005	Italian Grand Prix	2	5	Fernando Alonso	Spain	Renault	53	1:14:31.138	+ 2.479	+ 2.479	246.959	1:22.146	16
+99	15	2005	Italian Grand Prix	3	6	Giancarlo Fisichella	Italy	Renault	53	1:14:46.634	+ 17.975	+ 15.496	246.106	1:22.587	16
+99	15	2005	Italian Grand Prix	4	9	Kimi Räikkönen	Finland	McLaren	53	1:14:51.434	+ 22.775	+ 4.800	245.843	1:21.504	51
+99	15	2005	Italian Grand Prix	5	16	Jarno Trulli	Italy	Toyota	53	1:15:02.445	+ 33.786	+ 11.011	245.242	1:22.831	19
+99	15	2005	Italian Grand Prix	6	17	Ralf Schumacher	Germany	Toyota	53	1:15:12.584	+ 43.925	+ 10.139	244.691	1:23.076	19
+99	15	2005	Italian Grand Prix	7	8	Antonio Pizzonia	Brazil	Williams	53	1:15:13.302	+ 44.643	+ 0.718	244.652	1:22.870	21
+99	15	2005	Italian Grand Prix	8	3	Jenson Button	Great Britain	BAR	53	1:15:32.294	+ 1:03.635	+ 18.992	243.627	1:23.161	16
+99	15	2005	Italian Grand Prix	9	12	Felipe Massa	Brazil	Sauber	53	1:15:44.072	+ 1:15.413	+ 11.778	242.996	1:23.365	18
+99	15	2005	Italian Grand Prix	10	1	Michael Schumacher	Germany	Ferrari	53	1:16:04.729	+ 1:36.070	+ 20.657	241.896	1:23.584	5
+99	15	2005	Italian Grand Prix	11	11	Jacques Villeneuve	Canada	Sauber	52	1:14:29.901	1 Lap	1 Lap	242.362	1:23.892	13
+99	15	2005	Italian Grand Prix	12	2	Rubens Barrichello	Brazil	Ferrari	52	1:14:33.570	1 Lap	+ 3.669	242.163	1:23.466	13
+99	15	2005	Italian Grand Prix	13	15	Christian Klien	Austria	Red Bull	52	1:14:34.359	1 Lap	+ 0.789	242.121	1:23.633	17
+99	15	2005	Italian Grand Prix	14	7	Mark Webber	Australia	Williams	52	1:14:35.624	1 Lap	+ 1.265	242.052	1:22.935	40
+99	15	2005	Italian Grand Prix	15	14	David Coulthard	Great Britain	Red Bull	52	1:14:51.151	1 Lap	+ 15.527	241.215	1:23.867	18
+99	15	2005	Italian Grand Prix	16	4	Takuma Sato	Japan	BAR	52	1:14:52.104	1 Lap	+ 0.953	241.164	1:23.341	14
+99	15	2005	Italian Grand Prix	17	18	Tiago Monteiro	Portugal	Jordan	51	1:14:42.264	2 Laps	1 Lap	237.041	1:24.810	9
+99	15	2005	Italian Grand Prix	18	20	Robert Doornbos	Netherlands	Minardi	51	1:14:53.706	2 Laps	+ 11.442	236.437	1:25.193	31
+99	15	2005	Italian Grand Prix	19	21	Christijan Albers	Netherlands	Minardi	51	1:15:26.715	2 Laps	+ 33.009	234.713	1:24.966	33
+99	15	2005	Italian Grand Prix	20	19	Narain Karthikeyan	India	Jordan	50	1:15:45.892	3 Laps	1 Lap	229.136	1:25.146	17

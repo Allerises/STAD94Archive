@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+319	10	2017	British Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:26.600			244.891		
+319	10	2017	British Grand Prix	2	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:27.147	0.547	0.547	243.354		
+319	10	2017	British Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:27.356	0.756	0.209	242.772		
+319	10	2017	British Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull Racing		1:28.130	1.530	0.774	240.639		
+319	10	2017	British Grand Prix	5	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:28.856	2.256	0.726	238.673		
+319	10	2017	British Grand Prix	6	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:28.902	2.302	0.046	238.550		
+319	10	2017	British Grand Prix	7	31	Esteban Ocon	France	Sahara Force India F1 Team		1:29.074	2.474	0.172	238.089		
+319	10	2017	British Grand Prix	8	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team		1:29.418	2.818	0.344	237.173		
+319	10	2017	British Grand Prix	9	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:27.376	0.776		242.716		
+319	10	2017	British Grand Prix	10	8	Romain Grosjean	France	Haas F1 Team		1:29.549	2.949	2.173	236.826		
+319	10	2017	British Grand Prix	11	30	Jolyon Palmer	Great Britain	Renault Sport Formula One Team		1:30.193	3.593	0.644	235.135		
+319	10	2017	British Grand Prix	12	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:30.355	3.755	0.162	234.714		
+319	10	2017	British Grand Prix	13	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:31.368	4.768	1.013	232.111		
+319	10	2017	British Grand Prix	14	19	Felipe Massa	Brazil	Williams Martini Racing		1:31.482	4.882	0.114	231.822		
+319	10	2017	British Grand Prix	15	18	Lance Stroll	Canada	Williams Martini Racing		1:42.573	15.973	11.091	206.756		
+319	10	2017	British Grand Prix	16	20	Kevin Magnussen	Denmark	Haas F1 Team		1:42.577	15.977	0.004	206.748		
+319	10	2017	British Grand Prix	17	94	Pascal Wehrlein	Germany	Sauber F1 Team		1:42.593	15.993	0.016	206.715		
+319	10	2017	British Grand Prix	18	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:42.633	16.033	0.040	206.635		
+319	10	2017	British Grand Prix	19	3	Daniel Ricciardo	Australia	Red Bull Racing		1:42.966	16.366	0.333	205.967		
+319	10	2017	British Grand Prix	20	14	Fernando Alonso	Spain	McLaren Honda Formula 1 Team		1:30.600	4.000		234.079		

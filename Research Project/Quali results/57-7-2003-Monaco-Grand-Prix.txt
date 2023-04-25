@@ -1,0 +1,20 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+57	7	2003	Monaco Grand Prix	1	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:15.259					
+57	7	2003	Monaco Grand Prix	2	6	Kimi Räikkönen	Finland	West McLaren Mercedes		1:15.295	0.036	0.036			
+57	7	2003	Monaco Grand Prix	3	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:15.415	0.156	0.120			
+57	7	2003	Monaco Grand Prix	4	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:15.500	0.241	0.085			
+57	7	2003	Monaco Grand Prix	5	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:15.644	0.385	0.144			
+57	7	2003	Monaco Grand Prix	6	5	David Coulthard	Great Britain	West McLaren Mercedes		1:15.700	0.441	0.056			
+57	7	2003	Monaco Grand Prix	7	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:15.820	0.561	0.120			
+57	7	2003	Monaco Grand Prix	8	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team		1:15.884	0.625	0.064			
+57	7	2003	Monaco Grand Prix	9	14	Mark Webber	Australia	Jaguar Racing		1:16.237	0.978	0.353			
+57	7	2003	Monaco Grand Prix	10	21	Cristiano da Matta	Brazil	Panasonic Toyota Racing		1:16.744	1.485	0.507			
+57	7	2003	Monaco Grand Prix	11	16	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:16.755	1.496	0.011			
+57	7	2003	Monaco Grand Prix	12	11	Giancarlo Fisichella	Italy	Jordan Ford		1:16.967	1.708	0.212			
+57	7	2003	Monaco Grand Prix	13	15	Antonio Pizzonia	Brazil	Jaguar Racing		1:17.103	1.844	0.136			
+57	7	2003	Monaco Grand Prix	14	9	Nick Heidfeld	Germany	Sauber Petronas		1:17.176	1.917	0.073			
+57	7	2003	Monaco Grand Prix	15	10	Heinz-Harald Frentzen	Germany	Sauber Petronas		1:17.402	2.143	0.226			
+57	7	2003	Monaco Grand Prix	16	12	Ralph Firman	Ireland	Jordan Ford		1:17.452	2.193	0.050			
+57	7	2003	Monaco Grand Prix	17	20	Olivier Panis	France	Panasonic Toyota Racing		1:17.464	2.205	0.012			
+57	7	2003	Monaco Grand Prix	18	19	Jos Verstappen	Netherlands	European Minardi Cosworth		1:18.706	3.447	1.242			
+57	7	2003	Monaco Grand Prix	19	18	Justin Wilson	Great Britain	European Minardi Cosworth		1:20.063	4.804	1.357			

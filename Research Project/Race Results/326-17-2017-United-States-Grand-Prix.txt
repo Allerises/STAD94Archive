@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+326	17	2017	United States Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	56	1:33:50.991			197.169	1:38.776	48
+326	17	2017	United States Grand Prix	2	5	Sebastian Vettel	Germany	Ferrari	56	1:34:01.134	+ 10.143	+ 10.143	196.814	1:37.766	51
+326	17	2017	United States Grand Prix	3	7	Kimi Räikkönen	Finland	Ferrari	56	1:34:06.770	+ 15.779	+ 5.636	196.618	1:38.809	42
+326	17	2017	United States Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull	56	1:34:07.759	+ 16.768	+ 0.989	196.583	1:38.060	39
+326	17	2017	United States Grand Prix	5	77	Valtteri Bottas	Finland	Mercedes	56	1:34:25.958	+ 34.967	+ 18.199	195.952	1:37.767	54
+326	17	2017	United States Grand Prix	6	31	Esteban Ocon	France	Force India	56	1:35:21.971	+ 1:30.980	+ 56.013	194.034	1:40.499	53
+326	17	2017	United States Grand Prix	7	55	Carlos Sainz	Spain	Renault	56	1:35:23.935	+ 1:32.944	+ 1.964	193.967	1:40.462	43
+326	17	2017	United States Grand Prix	8	11	Sergio Pérez	Mexico	Force India	55	1:33:53.788	+ 2.797	1 Lap	193.548	1:40.851	14
+326	17	2017	United States Grand Prix	9	19	Felipe Massa	Brazil	Williams	55	1:33:54.312	+ 3.321	+ 0.524	193.530	1:40.131	36
+326	17	2017	United States Grand Prix	10	26	Daniil Kvyat	Russia	Toro Rosso	55	1:34:00.463	+ 9.472	+ 6.151	193.319	1:40.971	19
+326	17	2017	United States Grand Prix	11	18	Lance Stroll	Canada	Williams	55	1:34:22.169	+ 31.178	+ 21.706	192.578	1:39.666	38
+326	17	2017	United States Grand Prix	12	2	Stoffel Vandoorne	Belgium	McLaren	55	1:34:23.812	+ 32.821	+ 1.643	192.522	1:40.349	27
+326	17	2017	United States Grand Prix	13	39	Brendon Hartley	New Zealand	Toro Rosso	55	1:34:27.591	+ 36.600	+ 3.779	192.394	1:39.979	47
+326	17	2017	United States Grand Prix	14	8	Romain Grosjean	France	Haas	55	1:34:34.027	+ 43.036	+ 6.436	192.175	1:41.259	36
+326	17	2017	United States Grand Prix	15	9	Marcus Ericsson	Sweden	Sauber	55	1:34:40.803	+ 49.812	+ 6.776	191.946	1:41.041	42
+326	17	2017	United States Grand Prix	16	20	Kevin Magnussen	Denmark	Haas	55	1:34:56.701	+ 1:05.710	+ 15.898	191.410	1:37.893	51
+326	17	2017	United States Grand Prix	17	14	Fernando Alonso	Spain	McLaren	24	41:40.259			190.044	1:41.537	21
+326	17	2017	United States Grand Prix	18	3	Daniel Ricciardo	Australia	Red Bull	14	24:01.158			191.993	1:40.102	14
+326	17	2017	United States Grand Prix	19	94	Pascal Wehrlein	Germany	Sauber	5	9:32.998			171.154	1:47.073	2
+326	17	2017	United States Grand Prix	20	27	Nico Hülkenberg	Germany	Renault	3	5:22.394			181.074	1:44.270	2

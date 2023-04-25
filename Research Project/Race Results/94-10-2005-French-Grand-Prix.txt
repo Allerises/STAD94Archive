@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+94	10	2005	French Grand Prix	1	5	Fernando Alonso	Spain	Renault	70	1:31:22.233			202.638	1:16.502	5
+94	10	2005	French Grand Prix	2	9	Kimi Räikkönen	Finland	McLaren	70	1:31:34.038	+ 11.805	+ 11.805	202.202	1:16.423	25
+94	10	2005	French Grand Prix	3	1	Michael Schumacher	Germany	Ferrari	70	1:32:44.147	+ 1:21.914	+ 1:10.109	199.654	1:17.714	22
+94	10	2005	French Grand Prix	4	3	Jenson Button	Great Britain	BAR	69	1:31:25.973	1 Lap	1 Lap	199.605	1:17.408	18
+94	10	2005	French Grand Prix	5	16	Jarno Trulli	Italy	Toyota	69	1:31:30.412	1 Lap	+ 4.439	199.444	1:17.792	67
+94	10	2005	French Grand Prix	6	6	Giancarlo Fisichella	Italy	Renault	69	1:31:39.266	1 Lap	+ 8.854	199.122	1:17.511	18
+94	10	2005	French Grand Prix	7	17	Ralf Schumacher	Germany	Toyota	69	1:31:52.356	1 Lap	+ 13.090	198.650	1:18.103	36
+94	10	2005	French Grand Prix	8	11	Jacques Villeneuve	Canada	Sauber	69	1:31:56.677	1 Lap	+ 4.321	198.494	1:17.841	17
+94	10	2005	French Grand Prix	9	2	Rubens Barrichello	Brazil	Ferrari	69	1:32:00.392	1 Lap	+ 3.715	198.360	1:17.960	4
+94	10	2005	French Grand Prix	10	14	David Coulthard	Great Britain	Red Bull	69	1:32:02.698	1 Lap	+ 2.306	198.278	1:17.611	39
+94	10	2005	French Grand Prix	11	4	Takuma Sato	Japan	BAR	69	1:32:22.308	1 Lap	+ 19.610	197.576	1:17.929	8
+94	10	2005	French Grand Prix	12	7	Mark Webber	Australia	Williams	68	1:31:36.599	2 Laps	1 Lap	196.330	1:18.395	17
+94	10	2005	French Grand Prix	13	18	Tiago Monteiro	Portugal	Jordan	67	1:32:06.232	3 Laps	1 Lap	192.404	1:20.004	32
+94	10	2005	French Grand Prix	14	8	Nick Heidfeld	Germany	Williams	66	1:32:05.264	4 Laps	1 Lap	189.564	1:18.102	36
+94	10	2005	French Grand Prix	15	19	Narain Karthikeyan	India	Jordan	66	1:32:09.774	4 Laps	+ 4.510	189.409	1:20.156	9
+94	10	2005	French Grand Prix	16	10	Juan Pablo Montoya	Colombia	McLaren	46	1:00:40.135			200.486	1:16.656	24
+94	10	2005	French Grand Prix	17	21	Christijan Albers	Netherlands	Minardi	37	51:35.299			189.604	1:21.077	8
+94	10	2005	French Grand Prix	18	20	Patrick Friesacher	Austria	Minardi	33	46:40.152			186.905	1:21.451	4
+94	10	2005	French Grand Prix	19	12	Felipe Massa	Brazil	Sauber	30	47:38.875			166.403	1:17.805	11
+94	10	2005	French Grand Prix	20	15	Christian Klien	Austria	Red Bull	1	1:29.654			169.732		

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+40	7	2002	Monaco Grand Prix	1	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:16.676					
+40	7	2002	Monaco Grand Prix	2	3	David Coulthard	Great Britain	West McLaren Mercedes		1:17.068	0.392	0.392			
+40	7	2002	Monaco Grand Prix	3	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:17.118	0.442	0.050			
+40	7	2002	Monaco Grand Prix	4	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:17.274	0.598	0.156			
+40	7	2002	Monaco Grand Prix	5	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:17.357	0.681	0.083			
+40	7	2002	Monaco Grand Prix	6	4	Kimi Räikkönen	Finland	West McLaren Mercedes		1:17.660	0.984	0.303			
+40	7	2002	Monaco Grand Prix	7	14	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:17.710	1.034	0.050			
+40	7	2002	Monaco Grand Prix	8	15	Jenson Button	Great Britain	Mild Seven Renault F1 Team		1:18.132	1.456	0.422			
+40	7	2002	Monaco Grand Prix	9	24	Mika Salo	Finland	Panasonic Toyota Racing		1:18.234	1.558	0.102			
+40	7	2002	Monaco Grand Prix	10	25	Allan McNish	Great Britain	Panasonic Toyota Racing		1:18.292	1.616	0.058			
+40	7	2002	Monaco Grand Prix	11	9	Giancarlo Fisichella	Italy	DHL Jordan Honda		1:18.342	1.666	0.050			
+40	7	2002	Monaco Grand Prix	12	20	Heinz-Harald Frentzen	Germany	Orange Arrows		1:18.607	1.931	0.265			
+40	7	2002	Monaco Grand Prix	13	8	Felipe Massa	Brazil	Sauber Petronas		1:19.006	2.330	0.399			
+40	7	2002	Monaco Grand Prix	14	11	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:19.252	2.576	0.246			
+40	7	2002	Monaco Grand Prix	15	21	Enrique Bernoldi	Brazil	Orange Arrows		1:19.412	2.736	0.160			
+40	7	2002	Monaco Grand Prix	16	10	Takuma Sato	Japan	DHL Jordan Honda		1:19.461	2.785	0.049			
+40	7	2002	Monaco Grand Prix	17	7	Nick Heidfeld	Germany	Sauber Petronas		1:19.500	2.824	0.039			
+40	7	2002	Monaco Grand Prix	18	12	Olivier Panis	France	Lucky Strike BAR Honda		1:19.569	2.893	0.069			
+40	7	2002	Monaco Grand Prix	19	23	Mark Webber	Australia	KL Minardi Asiatech		1:19.674	2.998	0.105			
+40	7	2002	Monaco Grand Prix	20	17	Pedro de la Rosa	Spain	Jaguar Racing		1:19.796	3.120	0.122			
+40	7	2002	Monaco Grand Prix	21	16	Eddie Irvine	Great Britain	Jaguar Racing		1:20.139	3.463	0.343			
+40	7	2002	Monaco Grand Prix	22	22	Alex Yoong	Malaysia	KL Minardi Asiatech		1:21.599	4.923	1.460			

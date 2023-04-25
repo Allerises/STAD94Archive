@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+318	9	2017	Austrian Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes	71	1:21:48.523			224.757	1:07.847	51
+318	9	2017	Austrian Grand Prix	2	5	Sebastian Vettel	Germany	Ferrari	71	1:21:49.181	+ 0.658	+ 0.658	224.727	1:07.496	69
+318	9	2017	Austrian Grand Prix	3	3	Daniel Ricciardo	Australia	Red Bull	71	1:21:54.535	+ 6.012	+ 5.354	224.482	1:07.442	69
+318	9	2017	Austrian Grand Prix	4	44	Lewis Hamilton	Great Britain	Mercedes	71	1:21:55.953	+ 7.430	+ 1.418	224.417	1:07.411	69
+318	9	2017	Austrian Grand Prix	5	7	Kimi Räikkönen	Finland	Ferrari	71	1:22:08.893	+ 20.370	+ 12.940	223.828	1:07.486	68
+318	9	2017	Austrian Grand Prix	6	8	Romain Grosjean	France	Haas	71	1:23:01.683	+ 1:13.160	+ 52.790	221.456	1:08.590	65
+318	9	2017	Austrian Grand Prix	7	11	Sergio Pérez	Mexico	Force India	70	1:21:57.175	+ 8.652	1 Lap	221.200	1:08.470	58
+318	9	2017	Austrian Grand Prix	8	31	Esteban Ocon	France	Force India	70	1:22:04.589	+ 16.066	+ 7.414	220.867	1:08.659	68
+318	9	2017	Austrian Grand Prix	9	19	Felipe Massa	Brazil	Williams	70	1:22:05.524	+ 17.001	+ 0.935	220.825	1:08.419	49
+318	9	2017	Austrian Grand Prix	10	18	Lance Stroll	Canada	Williams	70	1:22:23.547	+ 35.024	+ 18.023	220.020	1:08.777	67
+318	9	2017	Austrian Grand Prix	11	30	Jolyon Palmer	Great Britain	Renault	70	1:22:24.092	+ 35.569	+ 0.545	219.996	1:08.652	64
+318	9	2017	Austrian Grand Prix	12	2	Stoffel Vandoorne	Belgium	McLaren	70	1:22:39.440	+ 50.917	+ 15.348	219.315	1:08.422	67
+318	9	2017	Austrian Grand Prix	13	27	Nico Hülkenberg	Germany	Renault	70	1:22:49.868	+ 1:01.345	+ 10.428	218.855	1:09.043	64
+318	9	2017	Austrian Grand Prix	14	94	Pascal Wehrlein	Germany	Sauber	70	1:22:54.911	+ 1:06.388	+ 5.043	218.633	1:09.241	60
+318	9	2017	Austrian Grand Prix	15	9	Marcus Ericsson	Sweden	Sauber	69	1:22:08.501	+ 19.978	1 Lap	217.538	1:09.284	56
+318	9	2017	Austrian Grand Prix	16	26	Daniil Kvyat	Russia	Toro Rosso	68	1:22:02.450	+ 13.927	1 Lap	214.647	1:08.061	57
+318	9	2017	Austrian Grand Prix	17	55	Carlos Sainz	Spain	Toro Rosso	44	52:44.831			215.972	1:09.150	42
+318	9	2017	Austrian Grand Prix	18	20	Kevin Magnussen	Denmark	Haas	29	34:52.272			215.242	1:10.402	23
+318	9	2017	Austrian Grand Prix	19	14	Fernando Alonso	Spain	McLaren	1	1:36.711			156.043		
+318	9	2017	Austrian Grand Prix	20	33	Max Verstappen	Netherlands	Red Bull							

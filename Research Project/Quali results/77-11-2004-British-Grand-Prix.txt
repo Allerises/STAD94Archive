@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+77	11	2004	British Grand Prix	1	6	Kimi Räikkönen	Finland	West McLaren Mercedes	3	1:18.233					
+77	11	2004	British Grand Prix	2	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:18.305	0.072	0.072			
+77	11	2004	British Grand Prix	3	9	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:18.580	0.347	0.275			
+77	11	2004	British Grand Prix	4	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:18.710	0.477	0.130			
+77	11	2004	British Grand Prix	5	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team	3	1:18.715	0.482	0.005			
+77	11	2004	British Grand Prix	6	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:18.811	0.578	0.096			
+77	11	2004	British Grand Prix	7	5	David Coulthard	Great Britain	West McLaren Mercedes	3	1:19.148	0.915	0.337			
+77	11	2004	British Grand Prix	8	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team	3	1:19.378	1.145	0.230			
+77	11	2004	British Grand Prix	9	10	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:19.688	1.455	0.310			
+77	11	2004	British Grand Prix	10	14	Mark Webber	Australia	Jaguar Racing	3	1:20.004	1.771	0.316			
+77	11	2004	British Grand Prix	11	12	Felipe Massa	Brazil	Sauber Petronas	3	1:20.202	1.969	0.198			
+77	11	2004	British Grand Prix	12	17	Olivier Panis	France	Panasonic Toyota Racing	3	1:20.335	2.102	0.133			
+77	11	2004	British Grand Prix	13	4	Marc Gene	Spain	BMW WilliamsF1 Team	3	1:20.335	2.102				
+77	11	2004	British Grand Prix	14	16	Cristiano da Matta	Brazil	Panasonic Toyota Racing	3	1:20.545	2.312	0.210			
+77	11	2004	British Grand Prix	15	15	Christian Klien	Austria	Jaguar Racing	3	1:21.559	3.326	1.014			
+77	11	2004	British Grand Prix	16	19	Giorgio Pantano	Italy	Jordan Ford	3	1:22.458	4.225	0.899			
+77	11	2004	British Grand Prix	17	18	Nick Heidfeld	Germany	Jordan Ford	3	1:22.677	4.444	0.219			
+77	11	2004	British Grand Prix	18	20	Gianmaria Bruni	Italy	Minardi Cosworth	3	1:23.437	5.204	0.760			
+77	11	2004	British Grand Prix	19	21	Zsolt Baumgartner	Hungary	Minardi Cosworth	3	1:24.117	5.884	0.680			
+77	11	2004	British Grand Prix	20	11	Giancarlo Fisichella	Italy	Sauber Petronas							

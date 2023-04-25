@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+234	3	2013	Chinese Grand Prix	1	3	Fernando Alonso	Spain	Ferrari	56	1:36:26.945			189.778	1:39.506	46
+234	3	2013	Chinese Grand Prix	2	7	Kimi Räikkönen	Finland	Lotus	56	1:36:37.113	+ 10.168	+ 10.168	189.445	1:39.955	51
+234	3	2013	Chinese Grand Prix	3	10	Lewis Hamilton	Great Britain	Mercedes	56	1:36:39.267	+ 12.322	+ 2.154	189.375	1:39.981	50
+234	3	2013	Chinese Grand Prix	4	1	Sebastian Vettel	Germany	Red Bull	56	1:36:39.470	+ 12.525	+ 0.203	189.368	1:36.808	53
+234	3	2013	Chinese Grand Prix	5	5	Jenson Button	Great Britain	McLaren	56	1:37:02.230	+ 35.285	+ 22.760	188.628	1:38.058	56
+234	3	2013	Chinese Grand Prix	6	4	Felipe Massa	Brazil	Ferrari	56	1:37:07.772	+ 40.827	+ 5.542	188.448	1:40.284	55
+234	3	2013	Chinese Grand Prix	7	19	Daniel Ricciardo	Australia	Toro Rosso	56	1:37:09.636	+ 42.691	+ 1.864	188.388	1:40.240	55
+234	3	2013	Chinese Grand Prix	8	14	Paul di Resta	Great Britain	Force India	56	1:37:18.029	+ 51.084	+ 8.393	188.117	1:40.101	55
+234	3	2013	Chinese Grand Prix	9	8	Romain Grosjean	France	Lotus	56	1:37:20.368	+ 53.423	+ 2.339	188.042	1:40.563	55
+234	3	2013	Chinese Grand Prix	10	11	Nico Hülkenberg	Germany	Sauber	56	1:37:23.543	+ 56.598	+ 3.175	187.940	1:40.630	31
+234	3	2013	Chinese Grand Prix	11	6	Sergio Pérez	Mexico	McLaren	56	1:37:30.805	+ 1:03.860	+ 7.262	187.707	1:41.281	55
+234	3	2013	Chinese Grand Prix	12	18	Jean-Eric Vergne	France	Toro Rosso	56	1:37:39.549	+ 1:12.604	+ 8.744	187.426	1:40.138	56
+234	3	2013	Chinese Grand Prix	13	17	Valtteri Bottas	Finland	Williams	56	1:38:00.806	+ 1:33.861	+ 21.257	186.749	1:38.200	53
+234	3	2013	Chinese Grand Prix	14	16	Pastor Maldonado	Venezuela	Williams	56	1:38:02.398	+ 1:35.453	+ 1.592	186.698	1:40.968	54
+234	3	2013	Chinese Grand Prix	15	22	Jules Bianchi	France	Marussia	55	1:36:38.818	+ 11.873	1 Lap	186.005	1:41.537	35
+234	3	2013	Chinese Grand Prix	16	20	Charles Pic	France	Caterham	55	1:36:40.872	+ 13.927	+ 2.054	185.939	1:41.997	48
+234	3	2013	Chinese Grand Prix	17	23	Max Chilton	Great Britain	Marussia	55	1:37:16.746	+ 49.801	+ 35.874	184.797	1:41.978	39
+234	3	2013	Chinese Grand Prix	18	21	Giedo van der Garde	Netherlands	Caterham	55	1:37:47.991	+ 1:21.046	+ 31.245	183.813	1:42.357	42
+234	3	2013	Chinese Grand Prix	19	9	Nico Rosberg	Germany	Mercedes	21	38:11.908			179.506	1:43.378	7
+234	3	2013	Chinese Grand Prix	20	2	Mark Webber	Australia	Red Bull	15	26:39.458			183.605	1:43.416	12
+234	3	2013	Chinese Grand Prix	21	15	Adrian Sutil	Germany	Force India	5	8:59.050			180.751	1:44.257	3
+234	3	2013	Chinese Grand Prix	22	12	Esteban Gutiérrez	Mexico	Sauber	4	7:07.390			182.059	1:44.775	2

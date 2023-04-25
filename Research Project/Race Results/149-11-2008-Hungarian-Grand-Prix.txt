@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+149	11	2008	Hungarian Grand Prix	1	23	Heikki Kovalainen	Finland	McLaren	70	1:37:27.067			188.790	1:21.753	19
+149	11	2008	Hungarian Grand Prix	2	12	Timo Glock	Germany	Toyota	70	1:37:38.128	+ 11.061	+ 11.061	188.433	1:21.671	42
+149	11	2008	Hungarian Grand Prix	3	1	Kimi Räikkönen	Finland	Ferrari	70	1:37:43.923	+ 16.856	+ 5.795	188.247	1:21.195	61
+149	11	2008	Hungarian Grand Prix	4	5	Fernando Alonso	Spain	Renault	70	1:37:48.681	+ 21.614	+ 4.758	188.094	1:21.793	47
+149	11	2008	Hungarian Grand Prix	5	22	Lewis Hamilton	Great Britain	McLaren	70	1:37:50.115	+ 23.048	+ 1.434	188.048	1:21.493	15
+149	11	2008	Hungarian Grand Prix	6	6	Nelson Piquet Jr.	Brazil	Renault	70	1:37:59.365	+ 32.298	+ 9.250	187.752	1:21.537	64
+149	11	2008	Hungarian Grand Prix	7	11	Jarno Trulli	Italy	Toyota	70	1:38:03.516	+ 36.449	+ 4.151	187.620	1:21.638	65
+149	11	2008	Hungarian Grand Prix	8	4	Robert Kubica	Poland	Sauber	70	1:38:15.388	+ 48.321	+ 11.872	187.242	1:21.941	70
+149	11	2008	Hungarian Grand Prix	9	10	Mark Webber	Australia	Red Bull	70	1:38:25.901	+ 58.834	+ 10.513	186.909	1:22.125	67
+149	11	2008	Hungarian Grand Prix	10	3	Nick Heidfeld	Germany	Sauber	70	1:38:34.776	+ 1:07.709	+ 8.875	186.628	1:22.183	67
+149	11	2008	Hungarian Grand Prix	11	9	David Coulthard	Great Britain	Red Bull	70	1:38:37.474	+ 1:10.407	+ 2.698	186.543	1:22.732	67
+149	11	2008	Hungarian Grand Prix	12	16	Jenson Button	Great Britain	Honda	69	1:37:44.160	1 Lap	1 Lap	185.550	1:22.397	63
+149	11	2008	Hungarian Grand Prix	13	8	Kazuki Nakajima	Japan	Williams	69	1:38:30.779	1 Lap	+ 46.619	184.086	1:23.307	67
+149	11	2008	Hungarian Grand Prix	14	7	Nico Rosberg	Germany	Williams	69	1:38:31.269	1 Lap	+ 0.490	184.071	1:22.397	57
+149	11	2008	Hungarian Grand Prix	15	21	Giancarlo Fisichella	Italy	Force India	69	1:38:44.943	1 Lap	+ 13.674	183.646	1:22.641	68
+149	11	2008	Hungarian Grand Prix	16	17	Rubens Barrichello	Brazil	Honda	68	1:37:55.162	2 Laps	1 Lap	182.518	1:22.436	65
+149	11	2008	Hungarian Grand Prix	17	2	Felipe Massa	Brazil	Ferrari	67	1:33:11.071	3 Laps	1 Lap	188.971	1:21.355	16
+149	11	2008	Hungarian Grand Prix	18	14	Sebastien Bourdais	France	Toro Rosso	67	1:37:48.266	3 Laps	+ 4:37.195	180.045	1:23.220	29
+149	11	2008	Hungarian Grand Prix	19	20	Adrian Sutil	Germany	Force India	62	1:31:11.707			178.681	1:23.650	29
+149	11	2008	Hungarian Grand Prix	20	15	Sebastian Vettel	Germany	Toro Rosso	22	32:23.411			178.465	1:24.222	17

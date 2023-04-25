@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+248	17	2013	Abu Dhabi Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	55	1:38:06.106			186.758	1:43.893	51
+248	17	2013	Abu Dhabi Grand Prix	2	2	Mark Webber	Australia	Red Bull	55	1:38:36.935	+ 30.829	+ 30.829	185.785	1:44.364	49
+248	17	2013	Abu Dhabi Grand Prix	3	9	Nico Rosberg	Germany	Mercedes	55	1:38:39.756	+ 33.650	+ 2.821	185.696	1:44.458	51
+248	17	2013	Abu Dhabi Grand Prix	4	8	Romain Grosjean	France	Lotus	55	1:38:40.908	+ 34.802	+ 1.152	185.660	1:44.301	54
+248	17	2013	Abu Dhabi Grand Prix	5	3	Fernando Alonso	Spain	Ferrari	55	1:39:13.287	+ 1:07.181	+ 32.379	184.650	1:43.434	55
+248	17	2013	Abu Dhabi Grand Prix	6	14	Paul di Resta	Great Britain	Force India	55	1:39:24.280	+ 1:18.174	+ 10.993	184.310	1:45.786	55
+248	17	2013	Abu Dhabi Grand Prix	7	10	Lewis Hamilton	Great Britain	Mercedes	55	1:39:25.373	+ 1:19.267	+ 1.093	184.276	1:45.463	47
+248	17	2013	Abu Dhabi Grand Prix	8	4	Felipe Massa	Brazil	Ferrari	55	1:39:28.992	+ 1:22.886	+ 3.619	184.164	1:45.447	52
+248	17	2013	Abu Dhabi Grand Prix	9	6	Sergio Pérez	Mexico	McLaren	55	1:39:37.304	+ 1:31.198	+ 8.312	183.908	1:45.435	51
+248	17	2013	Abu Dhabi Grand Prix	10	15	Adrian Sutil	Germany	Force India	55	1:39:39.363	+ 1:33.257	+ 2.059	183.845	1:45.609	48
+248	17	2013	Abu Dhabi Grand Prix	11	16	Pastor Maldonado	Venezuela	Williams	55	1:39:42.095	+ 1:35.989	+ 2.732	183.761	1:45.530	55
+248	17	2013	Abu Dhabi Grand Prix	12	5	Jenson Button	Great Britain	McLaren	55	1:39:49.873	+ 1:43.767	+ 7.778	183.522	1:46.336	43
+248	17	2013	Abu Dhabi Grand Prix	13	12	Esteban Gutiérrez	Mexico	Sauber	55	1:39:50.401	+ 1:44.295	+ 0.528	183.506	1:45.974	43
+248	17	2013	Abu Dhabi Grand Prix	14	11	Nico Hülkenberg	Germany	Sauber	54	1:38:06.670	1 Lap	1 Lap	183.343	1:45.570	52
+248	17	2013	Abu Dhabi Grand Prix	15	17	Valtteri Bottas	Finland	Williams	54	1:38:07.113	1 Lap	+ 0.443	183.329	1:44.351	54
+248	17	2013	Abu Dhabi Grand Prix	16	19	Daniel Ricciardo	Australia	Toro Rosso	54	1:38:11.436	1 Lap	+ 4.323	183.195	1:46.042	46
+248	17	2013	Abu Dhabi Grand Prix	17	18	Jean-Eric Vergne	France	Toro Rosso	54	1:38:43.418	1 Lap	+ 31.982	182.206	1:44.517	53
+248	17	2013	Abu Dhabi Grand Prix	18	21	Giedo van der Garde	Netherlands	Caterham	54	1:39:07.945	1 Lap	+ 24.527	181.454	1:46.592	48
+248	17	2013	Abu Dhabi Grand Prix	19	20	Charles Pic	France	Caterham	54	1:39:19.054	1 Lap	+ 11.109	181.116	1:46.432	50
+248	17	2013	Abu Dhabi Grand Prix	20	22	Jules Bianchi	France	Marussia	53	1:38:29.356	2 Laps	1 Lap	179.256	1:47.619	52
+248	17	2013	Abu Dhabi Grand Prix	21	23	Max Chilton	Great Britain	Marussia	53	1:38:34.241	2 Laps	+ 4.885	179.108	1:47.707	52
+248	17	2013	Abu Dhabi Grand Prix	22	7	Kimi Räikkönen	Finland	Lotus							

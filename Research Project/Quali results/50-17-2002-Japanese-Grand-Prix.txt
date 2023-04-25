@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+50	17	2002	Japanese Grand Prix	1	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:31.317					
+50	17	2002	Japanese Grand Prix	2	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:31.749	0.432	0.432			
+50	17	2002	Japanese Grand Prix	3	3	David Coulthard	Great Britain	West McLaren Mercedes		1:32.088	0.771	0.339			
+50	17	2002	Japanese Grand Prix	4	4	Kimi Räikkönen	Finland	West McLaren Mercedes		1:32.197	0.880	0.109			
+50	17	2002	Japanese Grand Prix	5	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:32.444	1.127	0.247			
+50	17	2002	Japanese Grand Prix	6	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:32.507	1.190	0.063			
+50	17	2002	Japanese Grand Prix	7	10	Takuma Sato	Japan	DHL Jordan Honda		1:33.090	1.773	0.583			
+50	17	2002	Japanese Grand Prix	8	9	Giancarlo Fisichella	Italy	DHL Jordan Honda		1:33.276	1.959	0.186			
+50	17	2002	Japanese Grand Prix	9	11	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:33.349	2.032	0.073			
+50	17	2002	Japanese Grand Prix	10	15	Jenson Button	Great Britain	Mild Seven Renault F1 Team		1:33.000	1.683	0.493			
+50	17	2002	Japanese Grand Prix	11	14	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:33.547	2.230	0.547			
+50	17	2002	Japanese Grand Prix	12	7	Nick Heidfeld	Germany	Sauber Petronas		1:33.553	2.236	0.006			
+50	17	2002	Japanese Grand Prix	13	24	Mika Salo	Finland	Panasonic Toyota Racing		1:33.742	2.425	0.189			
+50	17	2002	Japanese Grand Prix	14	16	Eddie Irvine	Great Britain	Jaguar Racing		1:33.915	2.598	0.173			
+50	17	2002	Japanese Grand Prix	15	8	Felipe Massa	Brazil	Sauber Petronas		1:33.979	2.662	0.064			
+50	17	2002	Japanese Grand Prix	16	12	Olivier Panis	France	Lucky Strike BAR Honda		1:34.192	2.875	0.213			
+50	17	2002	Japanese Grand Prix	17	17	Pedro de la Rosa	Spain	Jaguar Racing		1:34.227	2.910	0.035			
+50	17	2002	Japanese Grand Prix	18	25	Allan McNish	Great Britain	Panasonic Toyota Racing		1:35.191	3.874	0.964			
+50	17	2002	Japanese Grand Prix	19	23	Mark Webber	Australia	KL Minardi Asiatech		1:35.958	4.641	0.767			
+50	17	2002	Japanese Grand Prix	20	22	Alex Yoong	Malaysia	KL Minardi Asiatech		1:36.267	4.950	0.309			

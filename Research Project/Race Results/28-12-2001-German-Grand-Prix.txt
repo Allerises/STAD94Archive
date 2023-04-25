@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+28	12	2001	German Grand Prix	1	5	Ralf Schumacher	Germany	Williams	45	1:18:17.873			235.351	1:42.048	17
+28	12	2001	German Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	45	1:19:03.990	+ 46.117	+ 46.117	233.063	1:42.638	10
+28	12	2001	German Grand Prix	3	10	Jacques Villeneuve	Canada	BAR	45	1:19:20.679	+ 1:02.806	+ 16.689	232.246	1:43.448	21
+28	12	2001	German Grand Prix	4	7	Giancarlo Fisichella	Italy	Benneton	45	1:19:21.350	+ 1:03.477	+ 0.671	232.213	1:43.999	34
+28	12	2001	German Grand Prix	5	8	Jenson Button	Great Britain	Benneton	45	1:19:23.327	+ 1:05.454	+ 1.977	232.117	1:44.051	31
+28	12	2001	German Grand Prix	6	22	Jean Alesi	France	Prost	45	1:19:23.823	+ 1:05.950	+ 0.496	232.093	1:44.135	42
+28	12	2001	German Grand Prix	7	9	Olivier Panis	France	BAR	45	1:19:35.400	+ 1:17.527	+ 11.577	231.530	1:43.329	30
+28	12	2001	German Grand Prix	8	15	Enrique Bernoldi	Brazil	Arrows	44	1:18:30.372	1 Lap	1 Lap	229.510	1:44.785	31
+28	12	2001	German Grand Prix	9	14	Jos Verstappen	Netherlands	Arrows	44	1:18:30.703	1 Lap	+ 0.331	229.494	1:44.681	35
+28	12	2001	German Grand Prix	10	21	Fernando Alonso	Spain	Minardi	44	1:19:41.665	1 Lap	+ 1:10.962	226.088	1:45.908	4
+28	12	2001	German Grand Prix	11	12	Jarno Trulli	Italy	Jordan	34	1:00:38.564			229.590	1:43.740	33
+28	12	2001	German Grand Prix	12	4	David Coulthard	Great Britain	McLaren	27	47:04.458			234.873	1:43.571	26
+28	12	2001	German Grand Prix	13	20	Tarso Marques	Brazil	Minardi	26	47:43.623			223.081	1:46.013	12
+28	12	2001	German Grand Prix	14	6	Juan Pablo Montoya	Colombia	Williams	24	41:46.801			235.232	1:41.808	20
+28	12	2001	German Grand Prix	15	1	Michael Schumacher	Germany	Ferrari	23	39:49.868			236.460	1:42.853	21
+28	12	2001	German Grand Prix	16	23	Luciano Burti	Brazil	Prost	23	40:56.276			230.067	1:44.683	17
+28	12	2001	German Grand Prix	17	17	Kimi Räikkönen	Finland	Sauber	16	28:41.758			228.324	1:44.365	10
+28	12	2001	German Grand Prix	18	18	Eddie Irvine	Great Britain	Jaguar	16	28:52.138			226.956	1:44.415	11
+28	12	2001	German Grand Prix	19	3	Mika Hakkinen	Finland	McLaren	13	22:40.402			234.790	1:43.516	4
+28	12	2001	German Grand Prix	20	11	Ricardo Zonta	Brazil	Jordan	7	13:35.510			210.898	1:45.591	4
+28	12	2001	German Grand Prix	21	16	Nick Heidfeld	Germany	Sauber							
+28	12	2001	German Grand Prix	22	19	Pedro de la Rosa	Spain	Jaguar							

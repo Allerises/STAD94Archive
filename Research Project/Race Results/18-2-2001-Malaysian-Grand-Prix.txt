@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+18	2	2001	Malaysian Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	55	1:47:34.801			170.030	1:41.833	2
+18	2	2001	Malaysian Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	55	1:47:58.461	+ 23.660	+ 23.660	169.409	1:42.037	2
+18	2	2001	Malaysian Grand Prix	3	4	David Coulthard	Great Britain	McLaren	55	1:48:03.356	+ 28.555	+ 4.895	169.281	1:42.839	47
+18	2	2001	Malaysian Grand Prix	4	11	Heinz-Harald Frentzen	Germany	Jordan	55	1:48:21.344	+ 46.543	+ 17.988	168.813	1:42.119	50
+18	2	2001	Malaysian Grand Prix	5	5	Ralf Schumacher	Germany	Williams	55	1:48:23.034	+ 48.233	+ 1.690	168.769	1:41.503	54
+18	2	2001	Malaysian Grand Prix	6	3	Mika Hakkinen	Finland	McLaren	55	1:48:23.407	+ 48.606	+ 0.373	168.759	1:40.962	48
+18	2	2001	Malaysian Grand Prix	7	14	Jos Verstappen	Netherlands	Arrows	55	1:48:56.361	+ 1:21.560	+ 32.954	167.909	1:43.029	55
+18	2	2001	Malaysian Grand Prix	8	12	Jarno Trulli	Italy	Jordan	54	1:47:38.792	1 Lap	1 Lap	166.836	1:43.559	52
+18	2	2001	Malaysian Grand Prix	9	22	Jean Alesi	France	Prost	54	1:48:39.431	1 Lap	+ 1:00.639	165.284	1:43.853	53
+18	2	2001	Malaysian Grand Prix	10	19	Luciano Burti	Brazil	Jaguar	54	1:48:58.369	1 Lap	+ 18.938	164.805	1:43.697	52
+18	2	2001	Malaysian Grand Prix	11	8	Jenson Button	Great Britain	Benneton	53	1:47:44.939	2 Laps	1 Lap	163.590	1:44.891	52
+18	2	2001	Malaysian Grand Prix	12	23	Gaston Mazzacane	Argentina	Prost	53	1:48:32.080	2 Laps	+ 47.141	162.406	1:43.991	53
+18	2	2001	Malaysian Grand Prix	13	21	Fernando Alonso	Spain	Minardi	52	1:47:40.354	3 Laps	1 Lap	160.618	1:45.585	50
+18	2	2001	Malaysian Grand Prix	14	20	Tarso Marques	Brazil	Minardi	51	1:47:39.484	4 Laps	1 Lap	157.550	1:46.016	50
+18	2	2001	Malaysian Grand Prix	15	7	Giancarlo Fisichella	Italy	Benneton	31	1:07:30.182			152.733	1:46.982	2
+18	2	2001	Malaysian Grand Prix	16	10	Jacques Villeneuve	Canada	BAR	3	5:25.307			184.024	1:43.470	2
+18	2	2001	Malaysian Grand Prix	17	16	Nick Heidfeld	Germany	Sauber	3	5:28.850			182.041	1:45.328	2
+18	2	2001	Malaysian Grand Prix	18	15	Enrique Bernoldi	Brazil	Arrows	3	5:34.479			178.978	1:47.294	2
+18	2	2001	Malaysian Grand Prix	19	6	Juan Pablo Montoya	Colombia	Williams	3	5:45.110			173.464	1:43.926	2
+18	2	2001	Malaysian Grand Prix	20	18	Eddie Irvine	Great Britain	Jaguar	3	5:48.836			171.611	1:51.532	2
+18	2	2001	Malaysian Grand Prix	21	9	Olivier Panis	France	BAR	1	1:54.538			174.219		
+18	2	2001	Malaysian Grand Prix	22	17	Kimi Räikkönen	Finland	Sauber							

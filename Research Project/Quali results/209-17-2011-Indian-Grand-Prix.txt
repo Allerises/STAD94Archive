@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+209	17	2011	Indian Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull Racing	16	1:24.178					
+209	17	2011	Indian Grand Prix	2	3	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	18	1:24.474	0.296	0.296			
+209	17	2011	Indian Grand Prix	3	2	Mark Webber	Australia	Red Bull Racing	17	1:24.508	0.330	0.034			
+209	17	2011	Indian Grand Prix	4	5	Fernando Alonso	Spain	Scuderia Ferrari	19	1:24.519	0.341	0.011			
+209	17	2011	Indian Grand Prix	5	4	Jenson Button	Great Britain	Vodafone McLaren Mercedes	20	1:24.950	0.772	0.431			
+209	17	2011	Indian Grand Prix	6	6	Felipe Massa	Brazil	Scuderia Ferrari	18	1:25.122	0.944	0.172			
+209	17	2011	Indian Grand Prix	7	8	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	19	1:25.451	1.273	0.329			
+209	17	2011	Indian Grand Prix	8	14	Adrian Sutil	Germany	Force India F1 Team	19						
+209	17	2011	Indian Grand Prix	9	18	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	19						
+209	17	2011	Indian Grand Prix	10	19	Jaime Alguersuari	Spain	Scuderia Toro Rosso	19						
+209	17	2011	Indian Grand Prix	11	10	Vitaly Petrov	Russia	Lotus Renault GP	20	1:26.319	2.141	0.868			
+209	17	2011	Indian Grand Prix	12	7	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	17	1:26.337	2.159	0.018			
+209	17	2011	Indian Grand Prix	13	15	Paul di Resta	Great Britain	Force India F1 Team	15	1:26.503	2.325	0.166			
+209	17	2011	Indian Grand Prix	14	12	Pastor Maldonado	Venezuela	AT&T Williams	18	1:26.537	2.359	0.034			
+209	17	2011	Indian Grand Prix	15	9	Bruno Senna	Brazil	Lotus Renault GP	16	1:26.651	2.473	0.114			
+209	17	2011	Indian Grand Prix	16	11	Rubens Barrichello	Brazil	AT&T Williams	17	1:27.247	3.069	0.596			
+209	17	2011	Indian Grand Prix	17	17	Sergio Pérez	Mexico	Sauber F1 Team	10	1:27.562	3.384	0.315			
+209	17	2011	Indian Grand Prix	18	16	Kamui Kobayashi	Japan	Sauber F1 Team	6	1:27.876	3.698	0.314			
+209	17	2011	Indian Grand Prix	19	20	Heikki Kovalainen	Finland	Team Lotus	13	1:28.565	4.387	0.689			
+209	17	2011	Indian Grand Prix	20	21	Jarno Trulli	Italy	Team Lotus	13	1:28.520	4.342	0.644			
+209	17	2011	Indian Grand Prix	21	23	Daniel Ricciardo	Australia	HRT F1 Team	11	1:30.216	6.038	1.696			
+209	17	2011	Indian Grand Prix	22	22	Narain Karthikeyan	India	HRT F1 Team	11	1:30.238	6.060	0.022			
+209	17	2011	Indian Grand Prix	23	25	Jerome d'Ambrosio	Belgium	Marussia Virgin Racing	14	1:30.866	6.688	0.628			
+209	17	2011	Indian Grand Prix	24	24	Timo Glock	Germany	Marussia Virgin Racing	3	1:34.046	9.868	3.180			

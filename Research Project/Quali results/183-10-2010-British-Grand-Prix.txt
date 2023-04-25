@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+183	10	2010	British Grand Prix	1	5	Sebastian Vettel	Germany	Red Bull Racing	18	1:29.615					
+183	10	2010	British Grand Prix	2	6	Mark Webber	Australia	Red Bull Racing	18	1:29.758	0.143	0.143			
+183	10	2010	British Grand Prix	3	8	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	23	1:30.426	0.811	0.668			
+183	10	2010	British Grand Prix	4	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	17	1:30.556	0.941	0.130			
+183	10	2010	British Grand Prix	5	4	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	23	1:30.625	1.010	0.069			
+183	10	2010	British Grand Prix	6	11	Robert Kubica	Poland	Renault F1 Team	22	1:31.040	1.425	0.415			
+183	10	2010	British Grand Prix	7	7	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	26	1:31.172	1.557	0.132			
+183	10	2010	British Grand Prix	8	9	Rubens Barrichello	Brazil	AT&T Williams	20	1:31.175	1.560	0.003			
+183	10	2010	British Grand Prix	9	22	Pedro de la Rosa	Spain	BMW Sauber F1 Team	16	1:31.274	1.659	0.099			
+183	10	2010	British Grand Prix	10	3	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	20	1:31.430	1.815	0.156			
+183	10	2010	British Grand Prix	11	14	Adrian Sutil	Germany	Force India F1 Team	15	1:31.399	1.784	0.125			
+183	10	2010	British Grand Prix	12	23	Kamui Kobayashi	Japan	BMW Sauber F1 Team	14	1:31.421	1.806	0.022			
+183	10	2010	British Grand Prix	13	10	Nico Hülkenberg	Germany	AT&T Williams	17	1:31.635	2.020	0.214			
+183	10	2010	British Grand Prix	14	1	Jenson Button	Great Britain	Vodafone McLaren Mercedes	17	1:31.699	2.084	0.064			
+183	10	2010	British Grand Prix	15	15	Vitantonio Liuzzi	Italy	Force India F1 Team	14	1:31.708	2.093	0.009			
+183	10	2010	British Grand Prix	16	12	Vitaly Petrov	Russia	Renault F1 Team	14	1:31.796	2.181	0.088			
+183	10	2010	British Grand Prix	17	16	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	14	1:32.012	2.397	0.216			
+183	10	2010	British Grand Prix	18	17	Jaime Alguersuari	Spain	Scuderia Toro Rosso	7	1:32.430	2.815	0.418			
+183	10	2010	British Grand Prix	19	19	Heikki Kovalainen	Finland	Lotus Racing	9	1:34.405	4.790	1.975			
+183	10	2010	British Grand Prix	20	24	Timo Glock	Germany	Virgin Racing	10	1:34.775	5.160	0.370			
+183	10	2010	British Grand Prix	21	18	Jarno Trulli	Italy	Lotus Racing	10	1:34.864	5.249	0.089			
+183	10	2010	British Grand Prix	22	25	Lucas di Grassi	Brazil	Virgin Racing	10	1:35.212	5.597	0.348			
+183	10	2010	British Grand Prix	23	20	Karun Chandhok	India	HRT F1 Team	7	1:36.576	6.961	1.364			
+183	10	2010	British Grand Prix	24	21	Sakon Yamamoto	Japan	HRT F1 Team	9	1:36.968	7.353	0.392			

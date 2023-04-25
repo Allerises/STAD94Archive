@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+177	4	2010	Chinese Grand Prix	1	5	Sebastian Vettel	Germany	Red Bull Racing	21	1:34.558					
+177	4	2010	Chinese Grand Prix	2	6	Mark Webber	Australia	Red Bull Racing	17	1:34.806	0.248	0.248			
+177	4	2010	Chinese Grand Prix	3	8	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	15	1:34.913	0.355	0.107			
+177	4	2010	Chinese Grand Prix	4	4	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	17	1:34.923	0.365	0.010			
+177	4	2010	Chinese Grand Prix	5	1	Jenson Button	Great Britain	Vodafone McLaren Mercedes	17	1:34.979	0.421	0.056			
+177	4	2010	Chinese Grand Prix	6	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	13	1:35.034	0.476	0.055			
+177	4	2010	Chinese Grand Prix	7	7	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	19	1:35.180	0.622	0.146			
+177	4	2010	Chinese Grand Prix	8	11	Robert Kubica	Poland	Renault F1 Team	21	1:35.364	0.806	0.184			
+177	4	2010	Chinese Grand Prix	9	3	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	21	1:35.646	1.088	0.282			
+177	4	2010	Chinese Grand Prix	10	14	Adrian Sutil	Germany	Force India F1 Team	23	1:35.963	1.405	0.317			
+177	4	2010	Chinese Grand Prix	11	9	Rubens Barrichello	Brazil	AT&T Williams	15	1:35.748	1.190	0.102			
+177	4	2010	Chinese Grand Prix	12	17	Jaime Alguersuari	Spain	Scuderia Toro Rosso	17	1:36.047	1.489	0.299			
+177	4	2010	Chinese Grand Prix	13	16	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	17	1:36.149	1.591	0.102			
+177	4	2010	Chinese Grand Prix	14	12	Vitaly Petrov	Russia	Renault F1 Team	10	1:36.311	1.753	0.162			
+177	4	2010	Chinese Grand Prix	15	23	Kamui Kobayashi	Japan	BMW Sauber F1 Team	16	1:36.422	1.864	0.111			
+177	4	2010	Chinese Grand Prix	16	10	Nico Hülkenberg	Germany	AT&T Williams	14	1:36.647	2.089	0.225			
+177	4	2010	Chinese Grand Prix	17	22	Pedro de la Rosa	Spain	BMW Sauber F1 Team	15	1:37.020	2.462	0.373			
+177	4	2010	Chinese Grand Prix	18	15	Vitantonio Liuzzi	Italy	Force India F1 Team	9	1:37.161	2.603	0.141			
+177	4	2010	Chinese Grand Prix	19	24	Timo Glock	Germany	Virgin Racing	6	1:39.278	4.720	2.117			
+177	4	2010	Chinese Grand Prix	20	18	Jarno Trulli	Italy	Lotus Racing	9	1:39.399	4.841	0.121			
+177	4	2010	Chinese Grand Prix	21	19	Heikki Kovalainen	Finland	Lotus Racing	8	1:39.520	4.962	0.121			
+177	4	2010	Chinese Grand Prix	22	25	Lucas di Grassi	Brazil	Virgin Racing	6	1:39.783	5.225	0.263			
+177	4	2010	Chinese Grand Prix	23	21	Bruno Senna	Brazil	HRT F1 Team	10	1:40.469	5.911	0.686			
+177	4	2010	Chinese Grand Prix	24	20	Karun Chandhok	India	HRT F1 Team	7	1:40.578	6.020	0.109			

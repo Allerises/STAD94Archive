@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+287	18	2015	Brazilian Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:11.282			217.620		
+287	18	2015	Brazilian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:11.360	0.078	0.078	217.382		
+287	18	2015	Brazilian Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:11.804	0.522	0.444	216.038		
+287	18	2015	Brazilian Grand Prix	4	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:12.144	0.862	0.340	215.019		
+287	18	2015	Brazilian Grand Prix	5	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:12.265	0.983	0.121	214.659		
+287	18	2015	Brazilian Grand Prix	6	26	Daniil Kvyat	Russia	Infiniti Red Bull Racing		1:12.322	1.040	0.057	214.490		
+287	18	2015	Brazilian Grand Prix	7	77	Valtteri Bottas	Finland	Williams Martini Racing		1:12.085	0.803		215.195		
+287	18	2015	Brazilian Grand Prix	8	19	Felipe Massa	Brazil	Williams Martini Racing		1:12.415	1.133	0.330	214.215		
+287	18	2015	Brazilian Grand Prix	9	33	Max Verstappen	Netherlands	Scuderia Toro Rosso		1:12.739	1.457	0.324	213.261		
+287	18	2015	Brazilian Grand Prix	10	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:13.045	1.763	0.306	212.367		
+287	18	2015	Brazilian Grand Prix	11	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:13.147	1.865	0.102	212.071		
+287	18	2015	Brazilian Grand Prix	12	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:13.233	1.951	0.086	211.822		
+287	18	2015	Brazilian Grand Prix	13	12	Felipe Nasr	Brazil	Sauber F1 Team		1:12.989	1.707		212.530		
+287	18	2015	Brazilian Grand Prix	14	8	Romain Grosjean	France	Lotus F1 Team		1:13.913	2.631	0.924	209.873		
+287	18	2015	Brazilian Grand Prix	15	13	Pastor Maldonado	Venezuela	Lotus F1 Team		1:13.385	2.103		211.383		
+287	18	2015	Brazilian Grand Prix	16	22	Jenson Button	Great Britain	McLaren Honda		1:13.425	2.143	0.040	211.268		
+287	18	2015	Brazilian Grand Prix	17	53	Alexander Rossi	USA	Manor Marussia F1 Team		1:16.151	4.869	2.726	203.705		
+287	18	2015	Brazilian Grand Prix	18	28	Will Stevens	Great Britain	Manor Marussia F1 Team		1:16.283	5.001	0.132	203.353		
+287	18	2015	Brazilian Grand Prix	19	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing		1:12.417	1.135		214.209		
+287	18	2015	Brazilian Grand Prix	20	14	Fernando Alonso	Spain	McLaren Honda							

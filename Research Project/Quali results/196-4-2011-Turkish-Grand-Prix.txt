@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+196	4	2011	Turkish Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull Racing	12	1:25.049					
+196	4	2011	Turkish Grand Prix	2	2	Mark Webber	Australia	Red Bull Racing	10	1:25.454	0.405	0.405			
+196	4	2011	Turkish Grand Prix	3	8	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	15	1:25.574	0.525	0.120			
+196	4	2011	Turkish Grand Prix	4	3	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	13	1:25.595	0.546	0.021			
+196	4	2011	Turkish Grand Prix	5	5	Fernando Alonso	Spain	Scuderia Ferrari Marlboro	16	1:25.851	0.802	0.256			
+196	4	2011	Turkish Grand Prix	6	4	Jenson Button	Great Britain	Vodafone McLaren Mercedes	14	1:25.982	0.933	0.131			
+196	4	2011	Turkish Grand Prix	7	10	Vitaly Petrov	Russia	Lotus Renault GP	15	1:26.296	1.247	0.314			
+196	4	2011	Turkish Grand Prix	8	7	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	13	1:26.646	1.597	0.350			
+196	4	2011	Turkish Grand Prix	9	9	Nick Heidfeld	Germany	Lotus Renault GP	13	1:26.659	1.610	0.013			
+196	4	2011	Turkish Grand Prix	10	6	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	16						
+196	4	2011	Turkish Grand Prix	11	11	Rubens Barrichello	Brazil	AT&T Williams	10	1:26.764	1.715	0.105			
+196	4	2011	Turkish Grand Prix	12	14	Adrian Sutil	Germany	Force India F1 Team	14	1:27.027	1.978	0.263			
+196	4	2011	Turkish Grand Prix	13	15	Paul di Resta	Great Britain	Force India F1 Team	11	1:27.145	2.096	0.118			
+196	4	2011	Turkish Grand Prix	14	12	Pastor Maldonado	Venezuela	AT&T Williams	14	1:27.236	2.187	0.091			
+196	4	2011	Turkish Grand Prix	15	17	Sergio Pérez	Mexico	Sauber F1 Team	11	1:27.244	2.195	0.008			
+196	4	2011	Turkish Grand Prix	16	18	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	9	1:27.255	2.206	0.011			
+196	4	2011	Turkish Grand Prix	17	19	Jaime Alguersuari	Spain	Scuderia Toro Rosso	7	1:27.572	2.523	0.317			
+196	4	2011	Turkish Grand Prix	18	20	Heikki Kovalainen	Finland	Lotus Racing	8	1:28.780	3.731	1.208			
+196	4	2011	Turkish Grand Prix	19	21	Jarno Trulli	Italy	Lotus Racing	8	1:30.119	5.070	1.339			
+196	4	2011	Turkish Grand Prix	20	25	Jerome d'Ambrosio	Belgium	Marussia Virgin Racing	8	1:30.445	5.396	0.326			
+196	4	2011	Turkish Grand Prix	21	23	Vitantonio Liuzzi	Italy	HRT F1 Team	7	1:30.692	5.643	0.247			
+196	4	2011	Turkish Grand Prix	22	24	Timo Glock	Germany	Marussia Virgin Racing	8	1:30.813	5.764	0.121			
+196	4	2011	Turkish Grand Prix	23	22	Narain Karthikeyan	India	HRT F1 Team	8	1:31.564	6.515	0.751			
+196	4	2011	Turkish Grand Prix	24	16	Kamui Kobayashi	Japan	Sauber F1 Team	2						

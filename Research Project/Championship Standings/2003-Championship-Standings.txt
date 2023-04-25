@@ -1,0 +1,25 @@
+Year	Pos	Driver	Points
+2003	1	Michael Schumacher	93
+2003	2	Kimi Räikkönen	91
+2003	3	Juan Pablo Montoya	82
+2003	4	Rubens Barrichello	65
+2003	5	Ralf Schumacher	58
+2003	6	Fernando Alonso	55
+2003	7	David Coulthard	51
+2003	8	Jarno Trulli	33
+2003	9	Jenson Button	17
+2003	10	Mark Webber	17
+2003	11	Heinz-Harald Frentzen	13
+2003	12	Giancarlo Fisichella	12
+2003	13	Cristiano da Matta	10
+2003	14	Nick Heidfeld	6
+2003	15	Olivier Panis	6
+2003	16	Jacques Villeneuve	6
+2003	17	Marc Gene	4
+2003	18	Takuma Sato	3
+2003	19	Ralph Firman	1
+2003	20	Justin Wilson	1
+2003	21	Antonio Pizzonia	
+2003	22	Jos Verstappen	
+2003	23	Nicolas Kiesa	
+2003	24	Zsolt Baumgartner	

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+91	7	2005	European Grand Prix	1	5	Fernando Alonso	Spain	Renault	59	1:31:46.648			198.555	1:30.711	44
+91	7	2005	European Grand Prix	2	8	Nick Heidfeld	Germany	Williams	59	1:32:03.215	+ 16.567	+ 16.567	197.959	1:31.124	9
+91	7	2005	European Grand Prix	3	2	Rubens Barrichello	Brazil	Ferrari	59	1:32:05.197	+ 18.549	+ 1.982	197.888	1:31.028	44
+91	7	2005	European Grand Prix	4	14	David Coulthard	Great Britain	Red Bull	59	1:32:18.236	+ 31.588	+ 13.039	197.422	1:31.306	19
+91	7	2005	European Grand Prix	5	1	Michael Schumacher	Germany	Ferrari	59	1:32:37.093	+ 50.445	+ 18.857	196.752	1:31.503	19
+91	7	2005	European Grand Prix	6	6	Giancarlo Fisichella	Italy	Renault	59	1:32:38.580	+ 51.932	+ 1.487	196.700	1:31.708	47
+91	7	2005	European Grand Prix	7	10	Juan Pablo Montoya	Colombia	McLaren	59	1:32:44.821	+ 58.173	+ 6.241	196.479	1:31.807	42
+91	7	2005	European Grand Prix	8	16	Jarno Trulli	Italy	Toyota	59	1:32:57.739	+ 1:11.091	+ 12.918	196.024	1:31.779	43
+91	7	2005	European Grand Prix	9	15	Vitantonio Liuzzi	Italy	Red Bull	59	1:32:58.177	+ 1:11.529	+ 0.438	196.009	1:31.971	43
+91	7	2005	European Grand Prix	10	3	Jenson Button	Great Britain	BAR	59	1:33:22.434	+ 1:35.786	+ 24.257	195.160	1:31.955	20
+91	7	2005	European Grand Prix	11	9	Kimi Räikkönen	Finland	McLaren	58	1:30:08.373	1 Lap	1 Lap	198.736	1:30.940	9
+91	7	2005	European Grand Prix	12	4	Takuma Sato	Japan	BAR	58	1:31:48.301	1 Lap	+ 1:39.928	195.131	1:31.889	26
+91	7	2005	European Grand Prix	13	11	Jacques Villeneuve	Canada	Sauber	58	1:32:15.608	1 Lap	+ 27.307	194.168	1:32.583	41
+91	7	2005	European Grand Prix	14	12	Felipe Massa	Brazil	Sauber	58	1:32:32.755	1 Lap	+ 17.147	193.568	1:32.329	18
+91	7	2005	European Grand Prix	15	18	Tiago Monteiro	Portugal	Jordan	58	1:33:11.372	1 Lap	+ 38.617	192.232	1:33.425	39
+91	7	2005	European Grand Prix	16	19	Narain Karthikeyan	India	Jordan	58	1:33:12.277	1 Lap	+ 0.905	192.200	1:33.292	21
+91	7	2005	European Grand Prix	17	21	Christijan Albers	Netherlands	Minardi	57	1:33:19.276	2 Laps	1 Lap	188.650	1:35.047	18
+91	7	2005	European Grand Prix	18	20	Patrick Friesacher	Austria	Minardi	56	1:32:15.162	3 Laps	1 Lap	187.487	1:35.536	18
+91	7	2005	European Grand Prix	19	17	Ralf Schumacher	Germany	Toyota	33	52:32.130			194.002	1:31.724	25
+91	7	2005	European Grand Prix	20	7	Mark Webber	Australia	Williams							

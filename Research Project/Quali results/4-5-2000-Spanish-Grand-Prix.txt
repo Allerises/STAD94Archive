@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+4	5	2000	Spanish Grand Prix	1	3	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:20.974					
+4	5	2000	Spanish Grand Prix	2	1	Mika Hakkinen	Finland	West McLaren Mercedes		1:21.052	0.078	0.078			
+4	5	2000	Spanish Grand Prix	3	4	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:21.416	0.442	0.364			
+4	5	2000	Spanish Grand Prix	4	2	David Coulthard	Great Britain	West McLaren Mercedes		1:21.422	0.448	0.006			
+4	5	2000	Spanish Grand Prix	5	9	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:21.605	0.631	0.183			
+4	5	2000	Spanish Grand Prix	6	22	Jacques Villeneuve	Canada	Lucky Strike Reynard BAR Honda		1:21.963	0.989	0.358			
+4	5	2000	Spanish Grand Prix	7	6	Jarno Trulli	Italy	Jordan		1:22.006	1.032	0.043			
+4	5	2000	Spanish Grand Prix	8	5	Heinz-Harald Frentzen	Germany	Jordan		1:22.135	1.161	0.129			
+4	5	2000	Spanish Grand Prix	9	7	Eddie Irvine	Great Britain	Jaguar Racing		1:22.370	1.396	0.235			
+4	5	2000	Spanish Grand Prix	10	10	Jenson Button	Great Britain	BMW WilliamsF1 Team		1:22.385	1.411	0.015			
+4	5	2000	Spanish Grand Prix	11	19	Jos Verstappen	Netherlands	Arrows F1 Team		1:22.421	1.447	0.036			
+4	5	2000	Spanish Grand Prix	12	17	Mika Salo	Finland	Red Bull Sauber Petronas		1:22.443	1.469	0.022			
+4	5	2000	Spanish Grand Prix	13	11	Giancarlo Fisichella	Italy	Mild Seven Benetton Playlife		1:22.569	1.595	0.126			
+4	5	2000	Spanish Grand Prix	14	8	Johnny Herbert	Great Britain	Jaguar Racing		1:22.781	1.807	0.212			
+4	5	2000	Spanish Grand Prix	15	16	Pedro Diniz	Brazil	Red Bull Sauber Petronas		1:22.841	1.867	0.060			
+4	5	2000	Spanish Grand Prix	16	23	Ricardo Zonta	Brazil	Lucky Strike Reynard BAR Honda		1:22.882	1.908	0.041			
+4	5	2000	Spanish Grand Prix	17	14	Jean Alesi	France	Gauloises Prost Peugeot		1:22.894	1.920	0.012			
+4	5	2000	Spanish Grand Prix	18	12	Alexander Wurz	Austria	Mild Seven Benetton Playlife		1:23.010	2.036	0.116			
+4	5	2000	Spanish Grand Prix	19	15	Nick Heidfeld	Germany	Gauloises Prost Peugeot		1:23.033	2.059	0.023			
+4	5	2000	Spanish Grand Prix	20	20	Marc Gene	Spain	Telefonica Minardi Fondmetal		1:23.486	2.512	0.453			
+4	5	2000	Spanish Grand Prix	21	21	Gaston Mazzacane	Argentina	Telefonica Minardi Fondmetal		1:24.257	3.283	0.771			
+4	5	2000	Spanish Grand Prix	22	18	Pedro de la Rosa	Spain	Arrows F1 Team							

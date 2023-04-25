@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+334	5	2018	Spanish Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	66	1:35:29.972			192.945	1:19.133	64
+334	5	2018	Spanish Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	66	1:35:50.565	+ 20.593	+ 20.593	192.254	1:19.478	56
+334	5	2018	Spanish Grand Prix	3	33	Max Verstappen	Netherlands	Red Bull	66	1:35:56.845	+ 26.873	+ 6.280	192.045	1:19.422	62
+334	5	2018	Spanish Grand Prix	4	5	Sebastian Vettel	Germany	Ferrari	66	1:35:57.556	+ 27.584	+ 0.711	192.021	1:19.128	61
+334	5	2018	Spanish Grand Prix	5	3	Daniel Ricciardo	Australia	Red Bull	66	1:36:20.030	+ 50.058	+ 22.474	191.274	1:18.441	61
+334	5	2018	Spanish Grand Prix	6	20	Kevin Magnussen	Denmark	Haas	65	1:35:48.205	1 Lap	1 Lap	189.418	1:20.246	64
+334	5	2018	Spanish Grand Prix	7	55	Carlos Sainz	Spain	Renault	65	1:36:24.940	1 Lap	+ 36.735	188.215	1:21.324	61
+334	5	2018	Spanish Grand Prix	8	14	Fernando Alonso	Spain	McLaren	65	1:36:28.028	1 Lap	+ 3.088	188.115	1:20.727	64
+334	5	2018	Spanish Grand Prix	9	11	Sergio Pérez	Mexico	Force India	64	1:35:30.601	2 Laps	1 Lap	187.076	1:21.128	43
+334	5	2018	Spanish Grand Prix	10	16	Charles Leclerc	Monaco	Sauber	64	1:35:36.153	2 Laps	+ 5.552	186.895	1:22.122	51
+334	5	2018	Spanish Grand Prix	11	18	Lance Stroll	Canada	Williams	64	1:35:40.965	2 Laps	+ 4.812	186.738	1:22.095	60
+334	5	2018	Spanish Grand Prix	12	28	Brendon Hartley	New Zealand	Toro Rosso	64	1:35:49.920	2 Laps	+ 8.955	186.447	1:21.439	63
+334	5	2018	Spanish Grand Prix	13	9	Marcus Ericsson	Sweden	Sauber	64	1:35:53.903	2 Laps	+ 3.983	186.318	1:22.487	50
+334	5	2018	Spanish Grand Prix	14	35	Sergey Sirotkin	Russia	Williams	63	1:35:37.411	3 Laps	1 Lap	183.933	1:22.680	57
+334	5	2018	Spanish Grand Prix	15	2	Stoffel Vandoorne	Belgium	McLaren	45	1:09:35.469			180.496	1:22.594	38
+334	5	2018	Spanish Grand Prix	16	31	Esteban Ocon	France	Force India	38	58:49.632			180.288	1:22.117	36
+334	5	2018	Spanish Grand Prix	17	7	Kimi Räikkönen	Finland	Ferrari	25	40:10.169			173.637	1:21.531	23
+334	5	2018	Spanish Grand Prix	18	8	Romain Grosjean	France	Haas							
+334	5	2018	Spanish Grand Prix	19	10	Pierre Gasly	France	Toro Rosso							
+334	5	2018	Spanish Grand Prix	20	27	Nico Hülkenberg	Germany	Renault							

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+385	14	2020	Turkish Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	58	1:42:19.313			181.425	1:39.413	56
+385	14	2020	Turkish Grand Prix	2	11	Sergio Pérez	Mexico	Aston Martin	58	1:42:50.946	+ 31.633	+ 31.633	180.495	1:40.392	50
+385	14	2020	Turkish Grand Prix	3	5	Sebastian Vettel	Germany	Ferrari	58	1:42:51.273	+ 31.960	+ 0.327	180.485	1:39.662	53
+385	14	2020	Turkish Grand Prix	4	16	Charles Leclerc	Monaco	Ferrari	58	1:42:53.171	+ 33.858	+ 1.898	180.430	1:39.961	47
+385	14	2020	Turkish Grand Prix	5	55	Carlos Sainz	Spain	McLaren	58	1:42:53.676	+ 34.363	+ 0.505	180.415	1:38.754	56
+385	14	2020	Turkish Grand Prix	6	33	Max Verstappen	Netherlands	Red Bull	58	1:43:04.186	+ 44.873	+ 10.510	180.108	1:38.431	53
+385	14	2020	Turkish Grand Prix	7	23	Alexander Albon	Thailand	Red Bull	58	1:43:05.797	+ 46.484	+ 1.611	180.061	1:39.099	54
+385	14	2020	Turkish Grand Prix	8	4	Lando Norris	Great Britain	McLaren	58	1:43:20.572	+ 1:01.259	+ 14.775	179.632	1:36.806	58
+385	14	2020	Turkish Grand Prix	9	18	Lance Stroll	Canada	Aston Martin	58	1:43:31.666	+ 1:12.353	+ 11.094	179.311	1:39.921	55
+385	14	2020	Turkish Grand Prix	10	3	Daniel Ricciardo	Australia	Renault	58	1:43:54.773	+ 1:35.460	+ 23.107	178.647	1:40.677	54
+385	14	2020	Turkish Grand Prix	11	31	Esteban Ocon	France	Renault	57	1:42:23.252	1 Lap	1 Lap	178.180	1:41.006	55
+385	14	2020	Turkish Grand Prix	12	26	Daniil Kvyat	Russia	Toro Rosso	57	1:42:32.202	1 Lap	+ 8.950	177.921	1:41.019	53
+385	14	2020	Turkish Grand Prix	13	10	Pierre Gasly	France	Toro Rosso	57	1:42:33.613	1 Lap	+ 1.411	177.880	1:39.586	53
+385	14	2020	Turkish Grand Prix	14	77	Valtteri Bottas	Finland	Mercedes	57	1:43:11.527	1 Lap	+ 37.914	176.791	1:38.193	57
+385	14	2020	Turkish Grand Prix	15	7	Kimi Räikkönen	Finland	Sauber	57	1:43:41.668	1 Lap	+ 30.141	175.934	1:39.743	57
+385	14	2020	Turkish Grand Prix	16	63	George Russell	Great Britain	Williams	57	1:43:57.645	1 Lap	+ 15.977	175.484	1:40.814	51
+385	14	2020	Turkish Grand Prix	17	20	Kevin Magnussen	Denmark	Haas	55	1:41:45.515	3 Laps	2 Laps	172.987	1:40.948	45
+385	14	2020	Turkish Grand Prix	18	8	Romain Grosjean	France	Haas	49	1:31:18.383			171.743	1:43.281	38
+385	14	2020	Turkish Grand Prix	19	6	Nicholas Latifi	Canada	Williams	39	1:15:39.771			164.921	1:43.495	32
+385	14	2020	Turkish Grand Prix	20	99	Antonio Giovinazzi	Italy	Sauber	11	22:13.153			157.998	1:51.122	11

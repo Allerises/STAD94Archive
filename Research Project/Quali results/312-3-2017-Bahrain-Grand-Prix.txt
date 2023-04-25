@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+312	3	2017	Bahrain Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:28.769			219.482		
+312	3	2017	Bahrain Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:28.792	0.023	0.023	219.425		
+312	3	2017	Bahrain Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:29.247	0.478	0.455	218.306		
+312	3	2017	Bahrain Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull Racing		1:29.545	0.776	0.298	217.579		
+312	3	2017	Bahrain Grand Prix	5	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:29.567	0.798	0.022	217.526		
+312	3	2017	Bahrain Grand Prix	6	33	Max Verstappen	Netherlands	Red Bull Racing		1:29.687	0.918	0.120	217.235		
+312	3	2017	Bahrain Grand Prix	7	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:29.842	1.073	0.155	216.860		
+312	3	2017	Bahrain Grand Prix	8	19	Felipe Massa	Brazil	Williams Martini Racing		1:30.074	1.305	0.232	216.302		
+312	3	2017	Bahrain Grand Prix	9	8	Romain Grosjean	France	Haas F1 Team		1:30.763	1.994	0.689	214.660		
+312	3	2017	Bahrain Grand Prix	10	30	Jolyon Palmer	Great Britain	Renault Sport Formula One Team		1:31.074	2.305	0.311	213.927		
+312	3	2017	Bahrain Grand Prix	11	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:30.923	2.154		214.282		
+312	3	2017	Bahrain Grand Prix	12	18	Lance Stroll	Canada	Williams Martini Racing		1:31.168	2.399	0.245	213.706		
+312	3	2017	Bahrain Grand Prix	13	94	Pascal Wehrlein	Germany	Sauber F1 Team		1:31.414	2.645	0.246	213.131		
+312	3	2017	Bahrain Grand Prix	14	31	Esteban Ocon	France	Sahara Force India F1 Team		1:31.684	2.915	0.270	212.503		
+312	3	2017	Bahrain Grand Prix	15	14	Fernando Alonso	Spain	McLaren Honda Formula 1 Team							
+312	3	2017	Bahrain Grand Prix	16	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:32.118	3.349		211.502		
+312	3	2017	Bahrain Grand Prix	17	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team		1:32.313	3.544	0.195	211.055		
+312	3	2017	Bahrain Grand Prix	18	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:32.318	3.549	0.005	211.044		
+312	3	2017	Bahrain Grand Prix	19	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:32.543	3.774	0.225	210.531		
+312	3	2017	Bahrain Grand Prix	20	20	Kevin Magnussen	Denmark	Haas F1 Team		1:32.900	4.131	0.357	209.722		

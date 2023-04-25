@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+212	1	2012	Australian Grand Prix	1	3	Jenson Button	Great Britain	McLaren	58	1:34:09.565			195.991	1:29.187	56
+212	1	2012	Australian Grand Prix	2	1	Sebastian Vettel	Germany	Red Bull	58	1:34:11.704	+ 2.139	+ 2.139	195.917	1:29.417	57
+212	1	2012	Australian Grand Prix	3	4	Lewis Hamilton	Great Britain	McLaren	58	1:34:13.640	+ 4.075	+ 1.936	195.850	1:29.538	57
+212	1	2012	Australian Grand Prix	4	2	Mark Webber	Australia	Red Bull	58	1:34:14.112	+ 4.547	+ 0.472	195.833	1:29.438	57
+212	1	2012	Australian Grand Prix	5	5	Fernando Alonso	Spain	Ferrari	58	1:34:31.130	+ 21.565	+ 17.018	195.246	1:30.277	52
+212	1	2012	Australian Grand Prix	6	14	Kamui Kobayashi	Japan	Sauber	58	1:34:46.331	+ 36.766	+ 15.201	194.724	1:30.620	55
+212	1	2012	Australian Grand Prix	7	9	Kimi Räikkönen	Finland	Lotus	58	1:34:47.579	+ 38.014	+ 1.248	194.681	1:30.759	50
+212	1	2012	Australian Grand Prix	8	15	Sergio Pérez	Mexico	Sauber	58	1:34:49.023	+ 39.458	+ 1.444	194.632	1:30.843	46
+212	1	2012	Australian Grand Prix	9	16	Daniel Ricciardo	Australia	Toro Rosso	58	1:34:49.121	+ 39.556	+ 0.098	194.628	1:30.592	53
+212	1	2012	Australian Grand Prix	10	11	Paul di Resta	Great Britain	Force India	58	1:34:49.302	+ 39.737	+ 0.181	194.622	1:30.605	57
+212	1	2012	Australian Grand Prix	11	17	Jean-Eric Vergne	France	Toro Rosso	58	1:34:49.413	+ 39.848	+ 0.111	194.618	1:30.274	52
+212	1	2012	Australian Grand Prix	12	8	Nico Rosberg	Germany	Mercedes	58	1:35:07.207	+ 57.642	+ 17.794	194.011	1:30.931	53
+212	1	2012	Australian Grand Prix	13	18	Pastor Maldonado	Venezuela	Williams	57	1:32:57.859	1 Lap	1 Lap	195.088	1:30.254	53
+212	1	2012	Australian Grand Prix	14	24	Timo Glock	Germany	Marussia	57	1:34:54.824	+ 45.259	+ 1:56.965	191.081	1:34.253	43
+212	1	2012	Australian Grand Prix	15	25	Charles Pic	France	Marussia	53	1:30:30.587	5 Laps	4 Laps	186.317	1:35.011	45
+212	1	2012	Australian Grand Prix	16	19	Bruno Senna	Brazil	Williams	52	1:27:08.928	6 Laps	1 Lap	189.851	1:30.855	49
+212	1	2012	Australian Grand Prix	17	6	Felipe Massa	Brazil	Ferrari	46	1:16:28.791			191.374	1:31.940	46
+212	1	2012	Australian Grand Prix	18	20	Heikki Kovalainen	Finland	Caterham	38	1:03:48.677			189.478	1:33.693	26
+212	1	2012	Australian Grand Prix	19	21	Vitaly Petrov	Russia	Caterham	34	54:38.913			197.958	1:33.214	27
+212	1	2012	Australian Grand Prix	20	7	Michael Schumacher	Germany	Mercedes	10	15:52.170			200.497	1:34.021	4
+212	1	2012	Australian Grand Prix	21	10	Romain Grosjean	France	Lotus	1	1:43.730			184.042		
+212	1	2012	Australian Grand Prix	22	12	Nico Hülkenberg	Germany	Force India							

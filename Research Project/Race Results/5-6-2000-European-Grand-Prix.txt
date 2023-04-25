@@ -1,0 +1,22 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+5	6	2000	European Grand Prix	1	3	Michael Schumacher	Germany	Ferrari	67	1:42:00.307			179.540	1:22.269	8
+5	6	2000	European Grand Prix	2	1	Mika Hakkinen	Finland	McLaren	67	1:42:14.129	+ 13.822	+ 13.822	179.136	1:22.288	8
+5	6	2000	European Grand Prix	3	2	David Coulthard	Great Britain	McLaren	66	1:42:07.768	1 Lap	1 Lap	176.645	1:22.289	7
+5	6	2000	European Grand Prix	4	4	Rubens Barrichello	Brazil	Ferrari	66	1:42:09.336	1 Lap	+ 1.568	176.600	1:22.339	8
+5	6	2000	European Grand Prix	5	11	Giancarlo Fisichella	Italy	Benneton	66	1:42:21.556	1 Lap	+ 12.220	176.249	1:23.255	5
+5	6	2000	European Grand Prix	6	18	Pedro de la Rosa	Spain	Arrows	66	1:42:37.337	1 Lap	+ 15.781	175.797	1:23.125	8
+5	6	2000	European Grand Prix	7	16	Pedro Diniz	Brazil	Sauber	65	1:42:31.707	2 Laps	1 Lap	173.292	1:24.798	8
+5	6	2000	European Grand Prix	8	21	Gaston Mazzacane	Argentina	Minardi	65	1:42:44.802	2 Laps	+ 13.095	172.924	1:24.772	8
+5	6	2000	European Grand Prix	9	14	Jean Alesi	France	Prost	65	1:43:19.905	2 Laps	+ 35.103	171.945	1:23.898	7
+5	6	2000	European Grand Prix	10	10	Jenson Button	Great Britain	Williams	62	1:37:32.742	5 Laps	3 Laps	173.737	1:23.688	5
+5	6	2000	European Grand Prix	11	8	Johnny Herbert	Great Britain	Jaguar	61	1:35:52.337	6 Laps	1 Lap	173.918	1:24.715	8
+5	6	2000	European Grand Prix	12	12	Alexander Wurz	Austria	Benneton	61	1:35:55.361	6 Laps	+ 3.024	173.826	1:23.485	8
+5	6	2000	European Grand Prix	13	23	Ricardo Zonta	Brazil	BAR	51	1:20:52.033			172.385	1:24.620	8
+5	6	2000	European Grand Prix	14	20	Marc Gene	Spain	Minardi	47	1:14:36.610			172.186	1:24.018	8
+5	6	2000	European Grand Prix	15	22	Jacques Villeneuve	Canada	BAR	46	1:11:35.978			175.608	1:23.390	8
+5	6	2000	European Grand Prix	16	7	Eddie Irvine	Great Britain	Jaguar	29	44:52.236			176.650	1:24.008	8
+5	6	2000	European Grand Prix	17	19	Jos Verstappen	Netherlands	Arrows	29	44:52.366			176.642	1:23.369	8
+5	6	2000	European Grand Prix	18	9	Ralf Schumacher	Germany	Williams	29	44:52.767			176.615	1:23.802	9
+5	6	2000	European Grand Prix	19	17	Mika Salo	Finland	Sauber	27	41:54.671			176.079	1:24.346	5
+5	6	2000	European Grand Prix	20	5	Heinz-Harald Frentzen	Germany	Jordan	2	2:59.734			182.169	1:24.937	2
+5	6	2000	European Grand Prix	21	6	Jarno Trulli	Italy	Jordan							

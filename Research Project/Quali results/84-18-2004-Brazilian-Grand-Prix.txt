@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+84	18	2004	Brazilian Grand Prix	1	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:10.646					
+84	18	2004	Brazilian Grand Prix	2	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team	3	1:10.850	0.204	0.204			
+84	18	2004	Brazilian Grand Prix	3	6	Kimi Räikkönen	Finland	West McLaren Mercedes	3	1:10.892	0.246	0.042			
+84	18	2004	Brazilian Grand Prix	4	12	Felipe Massa	Brazil	Sauber Petronas	3	1:10.922	0.276	0.030			
+84	18	2004	Brazilian Grand Prix	5	9	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:11.092	0.446	0.170			
+84	18	2004	Brazilian Grand Prix	6	10	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:11.120	0.474	0.028			
+84	18	2004	Brazilian Grand Prix	7	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team	3	1:11.131	0.485	0.011			
+84	18	2004	Brazilian Grand Prix	8	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:11.386	0.740	0.255			
+84	18	2004	Brazilian Grand Prix	9	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:11.454	0.808	0.068			
+84	18	2004	Brazilian Grand Prix	10	16	Jarno Trulli	Italy	Panasonic Toyota Racing	3	1:11.483	0.837	0.029			
+84	18	2004	Brazilian Grand Prix	11	11	Giancarlo Fisichella	Italy	Sauber Petronas	3	1:11.571	0.925	0.088			
+84	18	2004	Brazilian Grand Prix	12	14	Mark Webber	Australia	Jaguar Racing	3	1:11.665	1.019	0.094			
+84	18	2004	Brazilian Grand Prix	13	5	David Coulthard	Great Britain	West McLaren Mercedes	3	1:11.750	1.104	0.085			
+84	18	2004	Brazilian Grand Prix	14	7	Jacques Villeneuve	Canada	Mild Seven Renault F1 Team	3	1:11.836	1.190	0.086			
+84	18	2004	Brazilian Grand Prix	15	17	Ricardo Zonta	Brazil	Panasonic Toyota Racing	3	1:11.974	1.328	0.138			
+84	18	2004	Brazilian Grand Prix	16	15	Christian Klien	Austria	Jaguar Racing	3	1:12.211	1.565	0.237			
+84	18	2004	Brazilian Grand Prix	17	18	Nick Heidfeld	Germany	Jordan Ford	3	1:12.829	2.183	0.618			
+84	18	2004	Brazilian Grand Prix	18	19	Timo Glock	Germany	Jordan Ford	3	1:13.502	2.856	0.673			
+84	18	2004	Brazilian Grand Prix	19	21	Zsolt Baumgartner	Hungary	Minardi Cosworth	3	1:13.550	2.904	0.048			
+84	18	2004	Brazilian Grand Prix	20	20	Gianmaria Bruni	Italy	Minardi Cosworth							

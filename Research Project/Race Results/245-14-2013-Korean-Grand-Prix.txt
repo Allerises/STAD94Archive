@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+245	14	2013	Korean Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	55	1:43:13.701			179.386	1:41.380	53
+245	14	2013	Korean Grand Prix	2	7	Kimi Räikkönen	Finland	Lotus	55	1:43:17.925	+ 4.224	+ 4.224	179.264	1:41.975	51
+245	14	2013	Korean Grand Prix	3	8	Romain Grosjean	France	Lotus	55	1:43:18.628	+ 4.927	+ 0.703	179.244	1:41.936	46
+245	14	2013	Korean Grand Prix	4	11	Nico Hülkenberg	Germany	Sauber	55	1:43:37.815	+ 24.114	+ 19.187	178.691	1:42.608	53
+245	14	2013	Korean Grand Prix	5	10	Lewis Hamilton	Great Britain	Mercedes	55	1:43:38.956	+ 25.255	+ 1.141	178.658	1:42.539	53
+245	14	2013	Korean Grand Prix	6	3	Fernando Alonso	Spain	Ferrari	55	1:43:39.890	+ 26.189	+ 0.934	178.631	1:42.709	54
+245	14	2013	Korean Grand Prix	7	9	Nico Rosberg	Germany	Mercedes	55	1:43:40.399	+ 26.698	+ 0.509	178.616	1:42.471	54
+245	14	2013	Korean Grand Prix	8	5	Jenson Button	Great Britain	McLaren	55	1:43:45.963	+ 32.262	+ 5.564	178.457	1:43.073	45
+245	14	2013	Korean Grand Prix	9	4	Felipe Massa	Brazil	Ferrari	55	1:43:48.091	+ 34.390	+ 2.128	178.396	1:42.954	47
+245	14	2013	Korean Grand Prix	10	6	Sergio Pérez	Mexico	McLaren	55	1:43:48.856	+ 35.155	+ 0.765	178.374	1:42.973	47
+245	14	2013	Korean Grand Prix	11	12	Esteban Gutiérrez	Mexico	Sauber	55	1:43:49.691	+ 35.990	+ 0.835	178.350	1:42.744	55
+245	14	2013	Korean Grand Prix	12	17	Valtteri Bottas	Finland	Williams	55	1:44:00.750	+ 47.049	+ 11.059	178.034	1:43.869	44
+245	14	2013	Korean Grand Prix	13	16	Pastor Maldonado	Venezuela	Williams	55	1:44:03.714	+ 50.013	+ 2.964	177.949	1:44.136	43
+245	14	2013	Korean Grand Prix	14	20	Charles Pic	France	Caterham	55	1:44:17.279	+ 1:03.578	+ 13.565	177.564	1:44.477	54
+245	14	2013	Korean Grand Prix	15	21	Giedo van der Garde	Netherlands	Caterham	55	1:44:18.202	+ 1:04.501	+ 0.923	177.537	1:44.375	55
+245	14	2013	Korean Grand Prix	16	22	Jules Bianchi	France	Marussia	55	1:44:21.671	+ 1:07.970	+ 3.469	177.439	1:44.991	54
+245	14	2013	Korean Grand Prix	17	23	Max Chilton	Great Britain	Marussia	55	1:44:26.599	+ 1:12.898	+ 4.928	177.299	1:45.408	48
+245	14	2013	Korean Grand Prix	18	18	Jean-Eric Vergne	France	Toro Rosso	53	1:40:53.686	2 Laps	2 Laps	176.857	1:44.090	52
+245	14	2013	Korean Grand Prix	19	19	Daniel Ricciardo	Australia	Toro Rosso	52	1:38:36.740	3 Laps	1 Lap	177.534	1:42.947	52
+245	14	2013	Korean Grand Prix	20	15	Adrian Sutil	Germany	Force India	50	1:36:12.893	5 Laps	2 Laps	174.955	1:44.095	43
+245	14	2013	Korean Grand Prix	21	2	Mark Webber	Australia	Red Bull	36	1:08:37.261			176.574	1:43.863	27
+245	14	2013	Korean Grand Prix	22	14	Paul di Resta	Great Britain	Force India	24	44:04.505			183.185	1:46.411	10

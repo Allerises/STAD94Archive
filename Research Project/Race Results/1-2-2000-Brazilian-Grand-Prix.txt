@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+1	2	2000	Brazilian Grand Prix	1	3	Michael Schumacher	Germany	Ferrari	71	1:31:35.271			200.403	1:14.755	48
+1	2	2000	Brazilian Grand Prix	2	11	Giancarlo Fisichella	Italy	Benneton	71	1:32:15.169	+ 39.898	+ 39.898	198.959	1:16.002	68
+1	2	2000	Brazilian Grand Prix	3	5	Heinz-Harald Frentzen	Germany	Jordan	71	1:32:17.539	+ 42.268	+ 2.370	198.873	1:15.192	71
+1	2	2000	Brazilian Grand Prix	4	6	Jarno Trulli	Italy	Jordan	71	1:32:48.051	+ 1:12.780	+ 30.512	197.784	1:16.375	50
+1	2	2000	Brazilian Grand Prix	5	9	Ralf Schumacher	Germany	Williams	70	1:31:36.323	1 Lap	1 Lap	197.542	1:16.398	67
+1	2	2000	Brazilian Grand Prix	6	10	Jenson Button	Great Britain	Williams	70	1:31:55.031	1 Lap	+ 18.708	196.872	1:16.379	41
+1	2	2000	Brazilian Grand Prix	7	19	Jos Verstappen	Netherlands	Arrows	70	1:32:12.462	1 Lap	+ 17.431	196.252	1:16.975	31
+1	2	2000	Brazilian Grand Prix	8	18	Pedro de la Rosa	Spain	Arrows	70	1:32:26.505	1 Lap	+ 14.043	195.755	1:16.967	62
+1	2	2000	Brazilian Grand Prix	9	23	Ricardo Zonta	Brazil	BAR	69	1:31:35.482	2 Laps	1 Lap	194.750	1:16.658	61
+1	2	2000	Brazilian Grand Prix	10	21	Gaston Mazzacane	Argentina	Minardi	69	1:32:01.590	2 Laps	+ 26.108	193.829	1:17.380	65
+1	2	2000	Brazilian Grand Prix	11	2	David Coulthard	Great Britain	McLaren	71	1:31:39.573			200.246	1:15.633	68
+1	2	2000	Brazilian Grand Prix	12	8	Johnny Herbert	Great Britain	Jaguar	51	1:07:57.502			193.997	1:17.696	50
+1	2	2000	Brazilian Grand Prix	13	20	Marc Gene	Spain	Minardi	31	41:06.944			194.887	1:17.174	31
+1	2	2000	Brazilian Grand Prix	14	1	Mika Hakkinen	Finland	McLaren	30	38:44.744			200.135	1:15.456	28
+1	2	2000	Brazilian Grand Prix	15	4	Rubens Barrichello	Brazil	Ferrari	27	35:40.658			195.606	1:15.632	19
+1	2	2000	Brazilian Grand Prix	16	7	Eddie Irvine	Great Britain	Jaguar	20	26:23.273			195.885	1:17.792	20
+1	2	2000	Brazilian Grand Prix	17	22	Jacques Villeneuve	Canada	BAR	16	21:26.685			192.813	1:18.379	16
+1	2	2000	Brazilian Grand Prix	18	14	Jean Alesi	France	Prost	11	14:46.367			192.390	1:18.381	11
+1	2	2000	Brazilian Grand Prix	19	15	Nick Heidfeld	Germany	Prost	9	12:17.718			189.101	1:19.765	8
+1	2	2000	Brazilian Grand Prix	20	12	Alexander Wurz	Austria	Benneton	6	9:10.247			168.953	1:21.821	5
+1	2	2000	Brazilian Grand Prix	21	16	Pedro Diniz	Brazil	Sauber							
+1	2	2000	Brazilian Grand Prix	22	17	Mika Salo	Finland	Sauber							

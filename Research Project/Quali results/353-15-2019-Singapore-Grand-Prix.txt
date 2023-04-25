@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+353	15	2019	Singapore Grand Prix	1	16	Charles Leclerc	Monaco	Scuderia Ferrari	18	1:36.217			189.434		
+353	15	2019	Singapore Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Motorsport	19	1:36.408	0.191	0.191	189.058		
+353	15	2019	Singapore Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari	16	1:36.437	0.220	0.029	189.002		
+353	15	2019	Singapore Grand Prix	4	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	15	1:36.813	0.596	0.376	188.268		
+353	15	2019	Singapore Grand Prix	5	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Motorsport	18	1:37.146	0.929	0.333	187.622		
+353	15	2019	Singapore Grand Prix	6	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	16	1:37.411	1.194	0.265	187.112		
+353	15	2019	Singapore Grand Prix	7	55	Carlos Sainz	Spain	McLaren F1 Team	19	1:37.818	1.601	0.407	186.333		
+353	15	2019	Singapore Grand Prix	8	27	Nico Hülkenberg	Germany	Renault F1 Team	18	1:38.264	2.047	0.446	185.488		
+353	15	2019	Singapore Grand Prix	9	4	Lando Norris	Great Britain	McLaren F1 Team	19	1:38.329	2.112	0.065	185.365		
+353	15	2019	Singapore Grand Prix	10	11	Sergio Pérez	Mexico	SportPesa Racing Point F1 Team	14	1:38.620	2.403	0.291	184.818		
+353	15	2019	Singapore Grand Prix	11	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing	14	1:38.697	2.480	0.077	184.674		
+353	15	2019	Singapore Grand Prix	12	10	Pierre Gasly	France	Red Bull Toro Rosso Honda	12	1:38.699	2.482	0.002	184.670		
+353	15	2019	Singapore Grand Prix	13	7	Kimi Räikkönen	Finland	Alfa Romeo Racing	14	1:38.858	2.641	0.159	184.373		
+353	15	2019	Singapore Grand Prix	14	20	Kevin Magnussen	Denmark	Haas F1 Team	14	1:39.650	3.433	0.792	182.908		
+353	15	2019	Singapore Grand Prix	15	26	Daniil Kvyat	Russia	Red Bull Toro Rosso Honda	7	1:39.957	3.740	0.307	182.346		
+353	15	2019	Singapore Grand Prix	16	18	Lance Stroll	Canada	SportPesa Racing Point F1 Team	8	1:39.979	3.762	0.022	182.306		
+353	15	2019	Singapore Grand Prix	17	8	Romain Grosjean	France	Haas F1 Team	8	1:40.277	4.060	0.298	181.764		
+353	15	2019	Singapore Grand Prix	18	63	George Russell	Great Britain	ROKiT Williams Racing	7	1:40.867	4.650	0.590	180.701		
+353	15	2019	Singapore Grand Prix	19	88	Robert Kubica	Poland	ROKiT Williams Racing	6	1:41.186	4.969	0.319	180.131		
+353	15	2019	Singapore Grand Prix	20	3	Daniel Ricciardo	Australia	Renault F1 Team	18						

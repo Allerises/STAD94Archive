@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+346	8	2019	French Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Motorsport	20	1:28.319			238.127		
+346	8	2019	French Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Motorsport	19	1:28.605	0.286	0.286	237.359		
+346	8	2019	French Grand Prix	3	16	Charles Leclerc	Monaco	Scuderia Ferrari	19	1:28.965	0.646	0.360	236.398		
+346	8	2019	French Grand Prix	4	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	19	1:29.409	1.090	0.444	235.224		
+346	8	2019	French Grand Prix	5	4	Lando Norris	Great Britain	McLaren F1 Team	21	1:29.418	1.099	0.009	235.200		
+346	8	2019	French Grand Prix	6	55	Carlos Sainz	Spain	McLaren F1 Team	21	1:29.522	1.203	0.104	234.927		
+346	8	2019	French Grand Prix	7	5	Sebastian Vettel	Germany	Scuderia Ferrari	19	1:29.799	1.480	0.277	234.203		
+346	8	2019	French Grand Prix	8	3	Daniel Ricciardo	Australia	Renault F1 Team	20	1:29.918	1.599	0.119	233.893		
+346	8	2019	French Grand Prix	9	10	Pierre Gasly	France	Aston Martin Red Bull Racing	19	1:30.184	1.865	0.266	233.203		
+346	8	2019	French Grand Prix	10	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing	17	1:33.420	5.101	3.236	225.125		
+346	8	2019	French Grand Prix	11	23	Alexander Albon	Thailand	Red Bull Toro Rosso Honda	14	1:30.461	2.142		232.489		
+346	8	2019	French Grand Prix	12	7	Kimi Räikkönen	Finland	Alfa Romeo Racing	14	1:30.533	2.214	0.072	232.304		
+346	8	2019	French Grand Prix	13	27	Nico Hülkenberg	Germany	Renault F1 Team	15	1:30.544	2.225	0.011	232.276		
+346	8	2019	French Grand Prix	14	11	Sergio Pérez	Mexico	SportPesa Racing Point F1 Team	15	1:30.738	2.419	0.194	231.779		
+346	8	2019	French Grand Prix	15	20	Kevin Magnussen	Denmark	Rich Energy Haas F1 Team	17	1:31.440	3.121	0.702	230.000		
+346	8	2019	French Grand Prix	16	26	Daniil Kvyat	Russia	Red Bull Toro Rosso Honda	6	1:31.564	3.245	0.124	229.688		
+346	8	2019	French Grand Prix	17	8	Romain Grosjean	France	Rich Energy Haas F1 Team	9	1:31.626	3.307	0.062	229.533		
+346	8	2019	French Grand Prix	18	18	Lance Stroll	Canada	SportPesa Racing Point F1 Team	9	1:31.726	3.407	0.100	229.282		
+346	8	2019	French Grand Prix	19	63	George Russell	Great Britain	ROKiT Williams Racing	8	1:32.789	4.470	1.063	226.656		
+346	8	2019	French Grand Prix	20	88	Robert Kubica	Poland	ROKiT Williams Racing	8	1:33.205	4.886	0.416	225.644		

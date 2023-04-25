@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+79	13	2004	Hungarian Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	70	1:35:26.131			192.798	1:19.071	29
+79	13	2004	Hungarian Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	70	1:35:30.827	+ 4.696	+ 4.696	192.640	1:19.213	29
+79	13	2004	Hungarian Grand Prix	3	8	Fernando Alonso	Spain	Renault	70	1:36:10.730	+ 44.599	+ 39.903	191.307	1:20.275	49
+79	13	2004	Hungarian Grand Prix	4	3	Juan Pablo Montoya	Colombia	Williams	70	1:36:28.744	+ 1:02.613	+ 18.014	190.712	1:20.715	49
+79	13	2004	Hungarian Grand Prix	5	9	Jenson Button	Great Britain	BAR	70	1:36:33.570	+ 1:07.439	+ 4.826	190.553	1:20.425	47
+79	13	2004	Hungarian Grand Prix	6	10	Takuma Sato	Japan	BAR	69	1:35:26.613	1 Lap	1 Lap	190.027	1:21.030	10
+79	13	2004	Hungarian Grand Prix	7	4	Antonio Pizzonia	Brazil	Williams	69	1:35:27.748	1 Lap	+ 1.135	189.990	1:20.501	48
+79	13	2004	Hungarian Grand Prix	8	11	Giancarlo Fisichella	Italy	Sauber	69	1:35:53.595	1 Lap	+ 25.847	189.136	1:21.022	53
+79	13	2004	Hungarian Grand Prix	9	5	David Coulthard	Great Britain	McLaren	69	1:35:55.652	1 Lap	+ 2.057	189.068	1:21.134	67
+79	13	2004	Hungarian Grand Prix	10	14	Mark Webber	Australia	Jaguar	69	1:36:21.740	1 Lap	+ 26.088	188.215	1:20.825	45
+79	13	2004	Hungarian Grand Prix	11	17	Olivier Panis	France	Toyota	69	1:36:38.075	1 Lap	+ 16.335	187.685	1:21.310	50
+79	13	2004	Hungarian Grand Prix	12	18	Nick Heidfeld	Germany	Jordan	68	1:35:59.009	2 Laps	1 Lap	186.220	1:21.518	68
+79	13	2004	Hungarian Grand Prix	13	15	Christian Klien	Austria	Jaguar	68	1:36:37.631	2 Laps	+ 38.622	184.979	1:22.530	45
+79	13	2004	Hungarian Grand Prix	14	20	Gianmaria Bruni	Italy	Minardi	66	1:36:46.632	4 Laps	2 Laps	179.260	1:24.601	65
+79	13	2004	Hungarian Grand Prix	15	21	Zsolt Baumgartner	Hungary	Minardi	65	1:36:04.389	5 Laps	1 Lap	177.838	1:24.855	63
+79	13	2004	Hungarian Grand Prix	16	19	Giorgio Pantano	Italy	Jordan	48	1:08:24.840			184.419	1:22.927	43
+79	13	2004	Hungarian Grand Prix	17	7	Jarno Trulli	Italy	Renault	41	57:12.150			188.398	1:20.705	10
+79	13	2004	Hungarian Grand Prix	18	16	Ricardo Zonta	Brazil	Toyota	31	44:28.110			183.236	1:22.525	13
+79	13	2004	Hungarian Grand Prix	19	12	Felipe Massa	Brazil	Sauber	21	30:45.718			179.430	1:21.856	14
+79	13	2004	Hungarian Grand Prix	20	6	Kimi Räikkönen	Finland	McLaren	13	18:55.919			180.475	1:21.678	6

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+164	8	2009	British Grand Prix	1	15	Sebastian Vettel	Germany	Red Bull	60	1:22:49.328			223.385	1:20.735	16
+164	8	2009	British Grand Prix	2	14	Mark Webber	Australia	Red Bull	60	1:23:04.516	+ 15.188	+ 15.188	222.705	1:20.915	57
+164	8	2009	British Grand Prix	3	23	Rubens Barrichello	Brazil	Brawn	60	1:23:30.503	+ 41.175	+ 25.987	221.550	1:21.429	18
+164	8	2009	British Grand Prix	4	3	Felipe Massa	Brazil	Ferrari	60	1:23:34.371	+ 45.043	+ 3.868	221.379	1:21.509	22
+164	8	2009	British Grand Prix	5	16	Nico Rosberg	Germany	Williams	60	1:23:35.243	+ 45.915	+ 0.872	221.340	1:21.054	17
+164	8	2009	British Grand Prix	6	22	Jenson Button	Great Britain	Brawn	60	1:23:35.613	+ 46.285	+ 0.370	221.324	1:21.189	54
+164	8	2009	British Grand Prix	7	9	Jarno Trulli	Italy	Toyota	60	1:23:57.635	+ 1:08.307	+ 22.022	220.356	1:21.806	17
+164	8	2009	British Grand Prix	8	4	Kimi Räikkönen	Finland	Ferrari	60	1:23:58.950	+ 1:09.622	+ 1.315	220.299	1:21.656	14
+164	8	2009	British Grand Prix	9	10	Timo Glock	Germany	Toyota	60	1:23:59.151	+ 1:09.823	+ 0.201	220.290	1:21.671	51
+164	8	2009	British Grand Prix	10	21	Giancarlo Fisichella	Italy	Force India	60	1:24:00.850	+ 1:11.522	+ 1.699	220.216	1:21.810	20
+164	8	2009	British Grand Prix	11	17	Kazuki Nakajima	Japan	Williams	60	1:24:03.351	+ 1:14.023	+ 2.501	220.107	1:21.845	14
+164	8	2009	British Grand Prix	12	8	Nelson Piquet Jr.	Brazil	Renault	59	1:23:00.929	1 Lap	1 Lap	219.149	1:22.505	25
+164	8	2009	British Grand Prix	13	5	Robert Kubica	Poland	Sauber	59	1:23:01.760	1 Lap	+ 0.831	219.113	1:22.182	41
+164	8	2009	British Grand Prix	14	7	Fernando Alonso	Spain	Renault	59	1:23:02.225	1 Lap	+ 0.465	219.092	1:21.852	36
+164	8	2009	British Grand Prix	15	6	Nick Heidfeld	Germany	Sauber	59	1:23:25.425	1 Lap	+ 23.200	218.077	1:21.956	59
+164	8	2009	British Grand Prix	16	1	Lewis Hamilton	Great Britain	McLaren	59	1:23:52.322	1 Lap	+ 26.897	216.911	1:22.576	24
+164	8	2009	British Grand Prix	17	20	Adrian Sutil	Germany	Force India	59	1:23:53.434	1 Lap	+ 1.112	216.863	1:23.475	50
+164	8	2009	British Grand Prix	18	12	Sébastien Buemi	Switzerland	Toro Rosso	59	1:23:56.002	1 Lap	+ 2.568	216.753	1:22.711	24
+164	8	2009	British Grand Prix	19	11	Sebastien Bourdais	France	Toro Rosso	37	53:51.477			211.792	1:22.466	26
+164	8	2009	British Grand Prix	20	2	Heikki Kovalainen	Finland	McLaren	36	52:14.722			212.425	1:22.418	32

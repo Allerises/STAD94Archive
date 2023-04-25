@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+98	14	2005	Turkish Grand Prix	1	9	Kimi Räikkönen	Finland	Team McLaren Mercedes	3	1:26.797					
+98	14	2005	Turkish Grand Prix	2	6	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	3	1:27.039	0.242	0.242			
+98	14	2005	Turkish Grand Prix	3	5	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:27.050	0.253	0.011			
+98	14	2005	Turkish Grand Prix	4	10	Juan Pablo Montoya	Colombia	Team McLaren Mercedes	3	1:27.352	0.555	0.302			
+98	14	2005	Turkish Grand Prix	5	16	Jarno Trulli	Italy	Panasonic Toyota Racing	3	1:27.501	0.704	0.149			
+98	14	2005	Turkish Grand Prix	6	8	Nick Heidfeld	Germany	BMW WilliamsF1 Team	3	1:27.929	1.132	0.428			
+98	14	2005	Turkish Grand Prix	7	7	Mark Webber	Australia	BMW WilliamsF1 Team	3	1:27.944	1.147	0.015			
+98	14	2005	Turkish Grand Prix	8	12	Felipe Massa	Brazil	Sauber Petronas	3	1:28.419	1.622	0.475			
+98	14	2005	Turkish Grand Prix	9	17	Ralf Schumacher	Germany	Panasonic Toyota Racing	3	1:28.594	1.797	0.175			
+98	14	2005	Turkish Grand Prix	10	15	Christian Klien	Austria	Red Bull Racing	3	1:28.963	2.166	0.369			
+98	14	2005	Turkish Grand Prix	11	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:29.369	2.572	0.406			
+98	14	2005	Turkish Grand Prix	12	14	David Coulthard	Great Britain	Red Bull Racing	3	1:29.764	2.967	0.395			
+98	14	2005	Turkish Grand Prix	13	3	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:30.063	3.266	0.299			
+98	14	2005	Turkish Grand Prix	14	4	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:30.175	3.378	0.112			
+98	14	2005	Turkish Grand Prix	15	18	Tiago Monteiro	Portugal	Jordan Grand Prix	3	1:30.710	3.913	0.535			
+98	14	2005	Turkish Grand Prix	16	21	Christijan Albers	Netherlands	Minardi Cosworth	3	1:32.186	5.389	1.476			
+98	14	2005	Turkish Grand Prix	17	20	Robert Doornbos	Netherlands	Minardi Cosworth	2						
+98	14	2005	Turkish Grand Prix	18	11	Jacques Villeneuve	Canada	Sauber Petronas	2						
+98	14	2005	Turkish Grand Prix	19	19	Narain Karthikeyan	India	Jordan Grand Prix	1						
+98	14	2005	Turkish Grand Prix	20	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	2						

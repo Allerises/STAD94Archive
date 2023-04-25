@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+200	8	2011	European Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull Racing	15	1:36.975					
+200	8	2011	European Grand Prix	2	2	Mark Webber	Australia	Red Bull Racing	19	1:37.163	0.188	0.188			
+200	8	2011	European Grand Prix	3	3	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	13	1:37.380	0.405	0.217			
+200	8	2011	European Grand Prix	4	5	Fernando Alonso	Spain	Scuderia Ferrari	20	1:37.454	0.479	0.074			
+200	8	2011	European Grand Prix	5	6	Felipe Massa	Brazil	Scuderia Ferrari	20	1:37.535	0.560	0.081			
+200	8	2011	European Grand Prix	6	4	Jenson Button	Great Britain	Vodafone McLaren Mercedes	14	1:37.645	0.670	0.110			
+200	8	2011	European Grand Prix	7	8	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	15	1:38.231	1.256	0.586			
+200	8	2011	European Grand Prix	8	7	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	18	1:38.240	1.265	0.009			
+200	8	2011	European Grand Prix	9	9	Nick Heidfeld	Germany	Lotus Renault GP	17						
+200	8	2011	European Grand Prix	10	14	Adrian Sutil	Germany	Force India F1 Team	14						
+200	8	2011	European Grand Prix	11	10	Vitaly Petrov	Russia	Lotus Renault GP	14	1:39.068	2.093	0.828			
+200	8	2011	European Grand Prix	12	15	Paul di Resta	Great Britain	Force India F1 Team	16	1:39.422	2.447	0.354			
+200	8	2011	European Grand Prix	13	11	Rubens Barrichello	Brazil	AT&T Williams	19	1:39.489	2.514	0.067			
+200	8	2011	European Grand Prix	14	16	Kamui Kobayashi	Japan	Sauber F1 Team	17	1:39.525	2.550	0.036			
+200	8	2011	European Grand Prix	15	12	Pastor Maldonado	Venezuela	AT&T Williams	10	1:39.645	2.670	0.120			
+200	8	2011	European Grand Prix	16	17	Sergio Pérez	Mexico	Sauber F1 Team	13	1:39.657	2.682	0.012			
+200	8	2011	European Grand Prix	17	18	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	8	1:39.711	2.736	0.054			
+200	8	2011	European Grand Prix	18	19	Jaime Alguersuari	Spain	Scuderia Toro Rosso	5	1:40.232	3.257	0.521			
+200	8	2011	European Grand Prix	19	20	Heikki Kovalainen	Finland	Team Lotus	10	1:41.664	4.689	1.432			
+200	8	2011	European Grand Prix	20	21	Jarno Trulli	Italy	Team Lotus	9	1:42.234	5.259	0.570			
+200	8	2011	European Grand Prix	21	24	Timo Glock	Germany	Marussia Virgin Racing	9	1:42.553	5.578	0.319			
+200	8	2011	European Grand Prix	22	23	Vitantonio Liuzzi	Italy	HRT F1 Team	10	1:43.584	6.609	1.031			
+200	8	2011	European Grand Prix	23	25	Jerome d'Ambrosio	Belgium	Marussia Virgin Racing	6	1:43.735	6.760	0.151			
+200	8	2011	European Grand Prix	24	22	Narain Karthikeyan	India	HRT F1 Team	9	1:44.363	7.388	0.628			

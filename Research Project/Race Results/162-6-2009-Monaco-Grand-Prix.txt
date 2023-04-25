@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+162	6	2009	Monaco Grand Prix	1	22	Jenson Button	Great Britain	Brawn	78	1:40:44.282			155.166	1:15.190	49
+162	6	2009	Monaco Grand Prix	2	23	Rubens Barrichello	Brazil	Brawn	78	1:40:51.948	+ 7.666	+ 7.666	154.970	1:15.685	46
+162	6	2009	Monaco Grand Prix	3	4	Kimi Räikkönen	Finland	Ferrari	78	1:40:57.724	+ 13.442	+ 5.776	154.822	1:15.382	47
+162	6	2009	Monaco Grand Prix	4	3	Felipe Massa	Brazil	Ferrari	78	1:40:59.392	+ 15.110	+ 1.668	154.779	1:15.154	50
+162	6	2009	Monaco Grand Prix	5	14	Mark Webber	Australia	Red Bull	78	1:41:00.012	+ 15.730	+ 0.620	154.764	1:15.321	45
+162	6	2009	Monaco Grand Prix	6	16	Nico Rosberg	Germany	Williams	78	1:41:17.868	+ 33.586	+ 17.856	154.309	1:15.772	48
+162	6	2009	Monaco Grand Prix	7	7	Fernando Alonso	Spain	Renault	78	1:41:22.121	+ 37.839	+ 4.253	154.201	1:15.371	64
+162	6	2009	Monaco Grand Prix	8	11	Sebastien Bourdais	France	Toro Rosso	78	1:41:47.424	+ 1:03.142	+ 25.303	153.562	1:16.178	47
+162	6	2009	Monaco Grand Prix	9	21	Giancarlo Fisichella	Italy	Force India	78	1:41:49.322	+ 1:05.040	+ 1.898	153.514	1:16.419	74
+162	6	2009	Monaco Grand Prix	10	10	Timo Glock	Germany	Toyota	77	1:41:05.998	1 Lap	1 Lap	152.629	1:16.066	72
+162	6	2009	Monaco Grand Prix	11	6	Nick Heidfeld	Germany	Sauber	77	1:41:25.243	1 Lap	+ 19.245	152.146	1:16.268	49
+162	6	2009	Monaco Grand Prix	12	1	Lewis Hamilton	Great Britain	McLaren	77	1:41:26.882	1 Lap	+ 1.639	152.105	1:15.706	65
+162	6	2009	Monaco Grand Prix	13	9	Jarno Trulli	Italy	Toyota	77	1:41:28.869	1 Lap	+ 1.987	152.055	1:16.011	57
+162	6	2009	Monaco Grand Prix	14	20	Adrian Sutil	Germany	Force India	77	1:41:31.730	1 Lap	+ 2.861	151.984	1:16.245	66
+162	6	2009	Monaco Grand Prix	15	17	Kazuki Nakajima	Japan	Williams	76	1:39:37.442	2 Laps	1 Lap	152.878	1:15.792	73
+162	6	2009	Monaco Grand Prix	16	2	Heikki Kovalainen	Finland	McLaren	51	1:06:25.544			153.862	1:15.672	48
+162	6	2009	Monaco Grand Prix	17	5	Robert Kubica	Poland	Sauber	28	37:43.029			148.770	1:17.558	25
+162	6	2009	Monaco Grand Prix	18	15	Sebastian Vettel	Germany	Red Bull	15	20:30.236			146.606	1:17.634	15
+162	6	2009	Monaco Grand Prix	19	8	Nelson Piquet Jr.	Brazil	Renault	10	13:36.552			147.253	1:18.514	7
+162	6	2009	Monaco Grand Prix	20	12	Sébastien Buemi	Switzerland	Toro Rosso	10	13:36.683			147.229	1:18.582	7

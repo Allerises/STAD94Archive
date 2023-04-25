@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+146	8	2008	French Grand Prix	1	2	Felipe Massa	Brazil	Ferrari	70	1:31:50.245			201.608	1:16.729	20
+146	8	2008	French Grand Prix	2	1	Kimi Räikkönen	Finland	Ferrari	70	1:32:08.229	+ 17.984	+ 17.984	200.952	1:16.630	16
+146	8	2008	French Grand Prix	3	11	Jarno Trulli	Italy	Toyota	70	1:32:18.495	+ 28.250	+ 10.266	200.579	1:17.567	12
+146	8	2008	French Grand Prix	4	23	Heikki Kovalainen	Finland	McLaren	70	1:32:19.174	+ 28.929	+ 0.679	200.555	1:17.134	46
+146	8	2008	French Grand Prix	5	4	Robert Kubica	Poland	Sauber	70	1:32:20.757	+ 30.512	+ 1.583	200.497	1:17.172	16
+146	8	2008	French Grand Prix	6	10	Mark Webber	Australia	Red Bull	70	1:32:30.549	+ 40.304	+ 9.792	200.144	1:17.507	22
+146	8	2008	French Grand Prix	7	6	Nelson Piquet Jr.	Brazil	Renault	70	1:32:31.278	+ 41.033	+ 0.729	200.117	1:17.758	24
+146	8	2008	French Grand Prix	8	5	Fernando Alonso	Spain	Renault	70	1:32:33.617	+ 43.372	+ 2.339	200.033	1:17.641	39
+146	8	2008	French Grand Prix	9	9	David Coulthard	Great Britain	Red Bull	70	1:32:41.317	+ 51.072	+ 7.700	199.756	1:17.818	23
+146	8	2008	French Grand Prix	10	22	Lewis Hamilton	Great Britain	McLaren	70	1:32:44.766	+ 54.521	+ 3.449	199.632	1:17.453	40
+146	8	2008	French Grand Prix	11	12	Timo Glock	Germany	Toyota	70	1:32:47.983	+ 57.738	+ 3.217	199.517	1:17.836	45
+146	8	2008	French Grand Prix	12	15	Sebastian Vettel	Germany	Toro Rosso	70	1:32:48.310	+ 58.065	+ 0.327	199.505	1:17.760	36
+146	8	2008	French Grand Prix	13	3	Nick Heidfeld	Germany	Sauber	70	1:32:52.324	+ 1:02.079	+ 4.014	199.361	1:17.716	46
+146	8	2008	French Grand Prix	14	17	Rubens Barrichello	Brazil	Honda	69	1:32:05.471	1 Lap	1 Lap	198.178	1:17.969	54
+146	8	2008	French Grand Prix	15	8	Kazuki Nakajima	Japan	Williams	69	1:32:08.926	1 Lap	+ 3.455	198.054	1:18.054	60
+146	8	2008	French Grand Prix	16	7	Nico Rosberg	Germany	Williams	69	1:32:09.617	1 Lap	+ 0.691	198.029	1:18.311	38
+146	8	2008	French Grand Prix	17	14	Sebastien Bourdais	France	Toro Rosso	69	1:32:10.274	1 Lap	+ 0.657	198.006	1:18.216	28
+146	8	2008	French Grand Prix	18	21	Giancarlo Fisichella	Italy	Force India	69	1:32:37.032	1 Lap	+ 26.758	197.053	1:18.557	53
+146	8	2008	French Grand Prix	19	20	Adrian Sutil	Germany	Force India	69	1:32:57.001	1 Lap	+ 19.969	196.347	1:18.462	41
+146	8	2008	French Grand Prix	20	16	Jenson Button	Great Britain	Honda	16	23:01.103			183.484	1:20.876	15

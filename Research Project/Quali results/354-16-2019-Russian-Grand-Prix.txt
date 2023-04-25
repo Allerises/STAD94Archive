@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+354	16	2019	Russian Grand Prix	1	16	Charles Leclerc	Monaco	Scuderia Ferrari	18	1:31.628			229.763		
+354	16	2019	Russian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Motorsport	19	1:32.030	0.402	0.402	228.760		
+354	16	2019	Russian Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari	22	1:32.053	0.425	0.023	228.703		
+354	16	2019	Russian Grand Prix	4	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	15	1:32.310	0.682	0.257	228.066		
+354	16	2019	Russian Grand Prix	5	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Motorsport	18	1:32.632	1.004	0.322	227.273		
+354	16	2019	Russian Grand Prix	6	55	Carlos Sainz	Spain	McLaren F1 Team	20	1:33.222	1.594	0.590	225.835		
+354	16	2019	Russian Grand Prix	7	27	Nico Hülkenberg	Germany	Renault F1 Team	15	1:33.289	1.661	0.067	225.672		
+354	16	2019	Russian Grand Prix	8	4	Lando Norris	Great Britain	McLaren F1 Team	20	1:33.301	1.673	0.012	225.643		
+354	16	2019	Russian Grand Prix	9	8	Romain Grosjean	France	Haas F1 Team	19	1:33.517	1.889	0.216	225.122		
+354	16	2019	Russian Grand Prix	10	3	Daniel Ricciardo	Australia	Renault F1 Team	18	1:33.661	2.033	0.144	224.776		
+354	16	2019	Russian Grand Prix	11	10	Pierre Gasly	France	Red Bull Toro Rosso Honda	13	1:33.950	2.322	0.289	224.085		
+354	16	2019	Russian Grand Prix	12	11	Sergio Pérez	Mexico	SportPesa Racing Point F1 Team	14	1:33.958	2.330	0.008	224.066		
+354	16	2019	Russian Grand Prix	13	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing	14	1:34.037	2.409	0.079	223.877		
+354	16	2019	Russian Grand Prix	14	20	Kevin Magnussen	Denmark	Haas F1 Team	13	1:34.082	2.454	0.045	223.770		
+354	16	2019	Russian Grand Prix	15	18	Lance Stroll	Canada	SportPesa Racing Point F1 Team	14	1:34.233	2.605	0.151	223.412		
+354	16	2019	Russian Grand Prix	16	7	Kimi Räikkönen	Finland	Alfa Romeo Racing	8	1:34.840	3.212	0.607	221.982		
+354	16	2019	Russian Grand Prix	17	63	George Russell	Great Britain	ROKiT Williams Racing	8	1:35.356	3.728	0.516	220.781		
+354	16	2019	Russian Grand Prix	18	88	Robert Kubica	Poland	ROKiT Williams Racing	8	1:36.474	4.846	1.118	218.222		
+354	16	2019	Russian Grand Prix	19	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	4	1:39.197	7.569	2.723	212.232		
+354	16	2019	Russian Grand Prix	20	26	Daniil Kvyat	Russia	Red Bull Toro Rosso Honda							

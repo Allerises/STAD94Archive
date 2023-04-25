@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+342	13	2018	Belgian Grand Prix	1	5	Sebastian Vettel	Germany	Ferrari	44	1:23:34.476			221.157	1:46.644	25
+342	13	2018	Belgian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes	44	1:23:45.537	+ 11.061	+ 11.061	220.670	1:46.721	23
+342	13	2018	Belgian Grand Prix	3	33	Max Verstappen	Netherlands	Red Bull	44	1:24:05.848	+ 31.372	+ 20.311	219.782	1:46.946	36
+342	13	2018	Belgian Grand Prix	4	77	Valtteri Bottas	Finland	Mercedes	44	1:24:43.081	+ 1:08.605	+ 37.233	218.172	1:46.286	32
+342	13	2018	Belgian Grand Prix	5	11	Sergio Pérez	Mexico	Force India	44	1:24:45.499	+ 1:11.023	+ 2.418	218.068	1:48.080	38
+342	13	2018	Belgian Grand Prix	6	31	Esteban Ocon	France	Force India	44	1:24:53.996	+ 1:19.520	+ 8.497	217.704	1:48.078	35
+342	13	2018	Belgian Grand Prix	7	8	Romain Grosjean	France	Haas	44	1:25:00.429	+ 1:25.953	+ 6.433	217.430	1:48.283	35
+342	13	2018	Belgian Grand Prix	8	20	Kevin Magnussen	Denmark	Haas	44	1:25:02.115	+ 1:27.639	+ 1.686	217.358	1:47.937	36
+342	13	2018	Belgian Grand Prix	9	10	Pierre Gasly	France	Toro Rosso	44	1:25:20.368	+ 1:45.892	+ 18.253	216.583	1:48.588	36
+342	13	2018	Belgian Grand Prix	10	9	Marcus Ericsson	Sweden	Sauber	43	1:23:39.447	1 Lap	1 Lap	215.914	1:48.694	35
+342	13	2018	Belgian Grand Prix	11	55	Carlos Sainz	Spain	Renault	43	1:23:51.895	1 Lap	+ 12.448	215.380	1:48.670	32
+342	13	2018	Belgian Grand Prix	12	35	Sergey Sirotkin	Russia	Williams	43	1:23:54.334	1 Lap	+ 2.439	215.276	1:49.113	42
+342	13	2018	Belgian Grand Prix	13	18	Lance Stroll	Canada	Williams	43	1:23:56.544	1 Lap	+ 2.210	215.181	1:49.287	39
+342	13	2018	Belgian Grand Prix	14	28	Brendon Hartley	New Zealand	Toro Rosso	43	1:24:12.518	1 Lap	+ 15.974	214.501	1:48.756	33
+342	13	2018	Belgian Grand Prix	15	2	Stoffel Vandoorne	Belgium	McLaren	43	1:24:18.767	1 Lap	+ 6.249	214.236	1:48.956	38
+342	13	2018	Belgian Grand Prix	16	3	Daniel Ricciardo	Australia	Red Bull	28	59:35.967			197.305	1:49.242	27
+342	13	2018	Belgian Grand Prix	17	7	Kimi Räikkönen	Finland	Ferrari	8	19:53.263			168.670	1:54.320	6
+342	13	2018	Belgian Grand Prix	18	16	Charles Leclerc	Monaco	Sauber							
+342	13	2018	Belgian Grand Prix	19	14	Fernando Alonso	Spain	McLaren							
+342	13	2018	Belgian Grand Prix	20	27	Nico Hülkenberg	Germany	Renault							

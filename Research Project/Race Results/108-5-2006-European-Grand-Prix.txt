@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+108	5	2006	European Grand Prix	1	5	Michael Schumacher	Germany	Ferrari	60	1:35:58.765			193.080	1:32.099	39
+108	5	2006	European Grand Prix	2	1	Fernando Alonso	Spain	Renault	60	1:36:02.516	+ 3.751	+ 3.751	192.955	1:32.532	37
+108	5	2006	European Grand Prix	3	6	Felipe Massa	Brazil	Ferrari	60	1:36:03.212	+ 4.447	+ 0.696	192.931	1:33.099	19
+108	5	2006	European Grand Prix	4	3	Kimi Räikkönen	Finland	McLaren	60	1:36:03.644	+ 4.879	+ 0.432	192.917	1:32.472	43
+108	5	2006	European Grand Prix	5	11	Rubens Barrichello	Brazil	Honda	60	1:37:11.351	+ 1:12.586	+ 1:07.707	190.677	1:33.952	59
+108	5	2006	European Grand Prix	6	2	Giancarlo Fisichella	Italy	Renault	60	1:37:12.881	+ 1:14.116	+ 1.530	190.627	1:32.964	46
+108	5	2006	European Grand Prix	7	10	Nico Rosberg	Germany	Williams	60	1:37:13.330	+ 1:14.565	+ 0.449	190.612	1:33.579	48
+108	5	2006	European Grand Prix	8	17	Jacques Villeneuve	Canada	Sauber	60	1:37:28.129	+ 1:29.364	+ 14.799	190.130	1:34.037	38
+108	5	2006	European Grand Prix	9	8	Jarno Trulli	Italy	Toyota	59	1:36:00.978	1 Lap	1 Lap	189.789	1:33.953	58
+108	5	2006	European Grand Prix	10	16	Nick Heidfeld	Germany	Sauber	59	1:36:08.187	1 Lap	+ 7.209	189.552	1:34.035	47
+108	5	2006	European Grand Prix	11	21	Scott Speed	USA	Toro Rosso	59	1:36:09.384	1 Lap	+ 1.197	189.513	1:34.091	57
+108	5	2006	European Grand Prix	12	18	Tiago Monteiro	Portugal	MF1 Racing	59	1:37:26.121	1 Lap	+ 1:16.737	187.025	1:35.504	41
+108	5	2006	European Grand Prix	13	19	Christijan Albers	Netherlands	MF1 Racing	59	1:37:28.526	1 Lap	+ 2.405	186.948	1:35.428	35
+108	5	2006	European Grand Prix	14	7	Ralf Schumacher	Germany	Toyota	52	1:24:35.119			189.876	1:33.607	27
+108	5	2006	European Grand Prix	15	4	Juan Pablo Montoya	Colombia	McLaren	52	1:24:36.992			189.806	1:33.571	47
+108	5	2006	European Grand Prix	16	22	Takuma Sato	Japan	Super Aguri	45	1:15:57.890			182.960	1:36.706	26
+108	5	2006	European Grand Prix	17	23	Franck Montagny	France	Super Aguri	29	49:31.163			180.868	1:37.214	21
+108	5	2006	European Grand Prix	18	12	Jenson Button	Great Britain	Honda	28	46:03.526			187.751	1:34.042	9
+108	5	2006	European Grand Prix	19	15	Christian Klien	Austria	Red Bull	28	46:27.318			186.149	1:34.553	16
+108	5	2006	European Grand Prix	20	9	Mark Webber	Australia	Williams	12	20:38.594			179.503	1:35.415	11
+108	5	2006	European Grand Prix	21	14	David Coulthard	Great Britain	Red Bull	2	4:21.675			141.413	2:24.500	2
+108	5	2006	European Grand Prix	22	20	Vitantonio Liuzzi	Italy	Toro Rosso							

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+136	15	2007	Japanese Grand Prix	1	2	Lewis Hamilton	Great Britain	McLaren	67	2:00:34.579			151.978	1:28.193	27
+136	15	2007	Japanese Grand Prix	2	4	Heikki Kovalainen	Finland	Renault	67	2:00:42.956	+ 8.377	+ 8.377	151.802	1:29.655	34
+136	15	2007	Japanese Grand Prix	3	6	Kimi Räikkönen	Finland	Ferrari	67	2:00:44.057	+ 9.478	+ 1.101	151.779	1:29.619	29
+136	15	2007	Japanese Grand Prix	4	14	David Coulthard	Great Britain	Red Bull	67	2:00:54.876	+ 20.297	+ 10.819	151.552	1:30.086	56
+136	15	2007	Japanese Grand Prix	5	3	Giancarlo Fisichella	Italy	Renault	67	2:01:13.443	+ 38.864	+ 18.567	151.166	1:30.387	33
+136	15	2007	Japanese Grand Prix	6	5	Felipe Massa	Brazil	Ferrari	67	2:01:23.621	+ 49.042	+ 10.178	150.954	1:29.588	32
+136	15	2007	Japanese Grand Prix	7	10	Robert Kubica	Poland	Sauber	67	2:01:23.864	+ 49.285	+ 0.243	150.949	1:29.021	32
+136	15	2007	Japanese Grand Prix	8	20	Adrian Sutil	Germany	Spyker	67	2:01:34.708	+ 1:00.129	+ 10.844	150.725	1:31.891	54
+136	15	2007	Japanese Grand Prix	9	18	Vitantonio Liuzzi	Italy	Toro Rosso	67	2:01:55.201	+ 1:20.622	+ 20.493	150.303	1:30.653	35
+136	15	2007	Japanese Grand Prix	10	8	Rubens Barrichello	Brazil	Honda	67	2:02:02.921	+ 1:28.342	+ 7.720	150.144	1:31.060	57
+136	15	2007	Japanese Grand Prix	11	7	Jenson Button	Great Britain	Honda	66	2:00:20.820	1 Lap	1 Lap	149.992	1:31.951	58
+136	15	2007	Japanese Grand Prix	12	21	Sakon Yamamoto	Japan	Spyker	66	2:00:54.187	1 Lap	+ 33.367	149.302	1:32.130	33
+136	15	2007	Japanese Grand Prix	13	12	Jarno Trulli	Italy	Toyota	66	2:01:06.449	1 Lap	+ 12.262	149.050	1:32.414	55
+136	15	2007	Japanese Grand Prix	14	9	Nick Heidfeld	Germany	Sauber	65	1:58:18.247	2 Laps	1 Lap	150.268	1:29.084	28
+136	15	2007	Japanese Grand Prix	15	22	Takuma Sato	Japan	Super Aguri	65	2:00:21.480	2 Laps	+ 2:03.233	147.704	1:31.507	54
+136	15	2007	Japanese Grand Prix	16	11	Ralf Schumacher	Germany	Toyota	55	1:58:46.865			126.616	1:30.865	33
+136	15	2007	Japanese Grand Prix	17	23	Anthony Davidson	Great Britain	Super Aguri	54	1:41:27.732			145.530	1:31.803	27
+136	15	2007	Japanese Grand Prix	18	16	Nico Rosberg	Germany	Williams	49	1:34:07.505			142.331	1:29.926	27
+136	15	2007	Japanese Grand Prix	19	19	Sebastian Vettel	Germany	Toro Rosso	46	1:27:30.187			143.715	1:29.057	31
+136	15	2007	Japanese Grand Prix	20	15	Mark Webber	Australia	Red Bull	45	1:24:51.992			144.954	1:28.940	30
+136	15	2007	Japanese Grand Prix	21	1	Fernando Alonso	Spain	McLaren	41	1:16:29.582			146.505	1:28.511	25
+136	15	2007	Japanese Grand Prix	22	17	Alexander Wurz	Austria	Williams	19	42:38.280			121.570	2:05.636	19

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+281	12	2015	Italian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	53	1:18:00.688			235.903	1:26.672	48
+281	12	2015	Italian Grand Prix	2	5	Sebastian Vettel	Germany	Ferrari	53	1:18:25.730	+ 25.042	+ 25.042	234.648	1:27.376	52
+281	12	2015	Italian Grand Prix	3	19	Felipe Massa	Brazil	Williams	53	1:18:48.323	+ 47.635	+ 22.593	233.527	1:27.874	31
+281	12	2015	Italian Grand Prix	4	77	Valtteri Bottas	Finland	Williams	53	1:18:48.684	+ 47.996	+ 0.361	233.509	1:27.525	49
+281	12	2015	Italian Grand Prix	5	7	Kimi Räikkönen	Finland	Ferrari	53	1:19:09.548	+ 1:08.860	+ 20.864	232.483	1:27.584	43
+281	12	2015	Italian Grand Prix	6	11	Sergio Pérez	Mexico	Force India	53	1:19:13.471	+ 1:12.783	+ 3.923	232.291	1:28.140	46
+281	12	2015	Italian Grand Prix	7	27	Nico Hülkenberg	Germany	Force India	52	1:18:03.505	1 Lap	1 Lap	231.309	1:28.913	36
+281	12	2015	Italian Grand Prix	8	3	Daniel Ricciardo	Australia	Red Bull	52	1:18:04.008	1 Lap	+ 0.503	231.284	1:28.065	50
+281	12	2015	Italian Grand Prix	9	9	Marcus Ericsson	Sweden	Sauber	52	1:18:04.250	1 Lap	+ 0.242	231.272	1:28.516	22
+281	12	2015	Italian Grand Prix	10	26	Daniil Kvyat	Russia	Red Bull	52	1:18:11.576	1 Lap	+ 7.326	230.911	1:28.231	39
+281	12	2015	Italian Grand Prix	11	55	Carlos Sainz	Spain	Toro Rosso	52	1:18:15.250	1 Lap	+ 3.674	230.730	1:27.510	38
+281	12	2015	Italian Grand Prix	12	33	Max Verstappen	Netherlands	Toro Rosso	52	1:18:31.117	1 Lap	+ 15.867	229.953	1:27.390	35
+281	12	2015	Italian Grand Prix	13	12	Felipe Nasr	Brazil	Sauber	52	1:18:52.603	1 Lap	+ 21.486	228.909	1:28.653	51
+281	12	2015	Italian Grand Prix	14	22	Jenson Button	Great Britain	McLaren	52	1:19:15.105	1 Lap	+ 22.502	227.826	1:29.766	33
+281	12	2015	Italian Grand Prix	15	28	Will Stevens	Great Britain	Manor	51	1:19:03.683	2 Laps	1 Lap	223.978	1:31.098	51
+281	12	2015	Italian Grand Prix	16	98	Roberto Merhi	Spain	Manor	51	1:19:16.777	2 Laps	+ 13.094	223.361	1:31.311	29
+281	12	2015	Italian Grand Prix	17	6	Nico Rosberg	Germany	Mercedes	50	1:14:03.632	3 Laps	1 Lap	234.409	1:27.067	43
+281	12	2015	Italian Grand Prix	18	14	Fernando Alonso	Spain	McLaren	47	1:12:20.208	6 Laps	3 Laps	225.579	1:29.285	42
+281	12	2015	Italian Grand Prix	19	8	Romain Grosjean	France	Lotus	1	1:35.106			207.583		
+281	12	2015	Italian Grand Prix	20	13	Pastor Maldonado	Venezuela	Lotus	1	2:19.892			141.126		

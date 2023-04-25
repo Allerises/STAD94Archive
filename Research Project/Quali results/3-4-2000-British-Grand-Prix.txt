@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+3	4	2000	British Grand Prix	1	4	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:25.703					
+3	4	2000	British Grand Prix	2	5	Heinz-Harald Frentzen	Germany	Jordan		1:25.706	0.003	0.003			
+3	4	2000	British Grand Prix	3	1	Mika Hakkinen	Finland	West McLaren Mercedes		1:25.741	0.038	0.035			
+3	4	2000	British Grand Prix	4	2	David Coulthard	Great Britain	West McLaren Mercedes		1:26.088	0.385	0.347			
+3	4	2000	British Grand Prix	5	3	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:26.161	0.458	0.073			
+3	4	2000	British Grand Prix	6	10	Jenson Button	Great Britain	BMW WilliamsF1 Team		1:26.733	1.030	0.572			
+3	4	2000	British Grand Prix	7	9	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:26.786	1.083	0.053			
+3	4	2000	British Grand Prix	8	19	Jos Verstappen	Netherlands	Arrows F1 Team		1:26.793	1.090	0.007			
+3	4	2000	British Grand Prix	9	7	Eddie Irvine	Great Britain	Jaguar Racing		1:26.818	1.115	0.025			
+3	4	2000	British Grand Prix	10	22	Jacques Villeneuve	Canada	Lucky Strike Reynard BAR Honda		1:27.025	1.322	0.207			
+3	4	2000	British Grand Prix	11	6	Jarno Trulli	Italy	Jordan		1:27.164	1.461	0.139			
+3	4	2000	British Grand Prix	12	11	Giancarlo Fisichella	Italy	Mild Seven Benetton Playlife		1:27.253	1.550	0.089			
+3	4	2000	British Grand Prix	13	16	Pedro Diniz	Brazil	Red Bull Sauber Petronas		1:27.301	1.598	0.048			
+3	4	2000	British Grand Prix	14	8	Johnny Herbert	Great Britain	Jaguar Racing		1:27.461	1.758	0.160			
+3	4	2000	British Grand Prix	15	14	Jean Alesi	France	Gauloises Prost Peugeot		1:27.559	1.856	0.098			
+3	4	2000	British Grand Prix	16	23	Ricardo Zonta	Brazil	Lucky Strike Reynard BAR Honda		1:27.772	2.069	0.213			
+3	4	2000	British Grand Prix	17	15	Nick Heidfeld	Germany	Gauloises Prost Peugeot		1:27.806	2.103	0.034			
+3	4	2000	British Grand Prix	18	17	Mika Salo	Finland	Red Bull Sauber Petronas		1:28.110	2.407	0.304			
+3	4	2000	British Grand Prix	19	18	Pedro de la Rosa	Spain	Arrows F1 Team		1:28.135	2.432	0.025			
+3	4	2000	British Grand Prix	20	12	Alexander Wurz	Austria	Mild Seven Benetton Playlife		1:28.205	2.502	0.070			
+3	4	2000	British Grand Prix	21	20	Marc Gene	Spain	Telefonica Minardi Fondmetal		1:28.253	2.550	0.048			
+3	4	2000	British Grand Prix	22	21	Gaston Mazzacane	Argentina	Telefonica Minardi Fondmetal		1:29.174	3.471	0.921			

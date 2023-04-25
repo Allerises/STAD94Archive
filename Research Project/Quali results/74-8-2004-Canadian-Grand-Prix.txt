@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+74	8	2004	Canadian Grand Prix	1	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team	3	1:12.275					
+74	8	2004	Canadian Grand Prix	2	9	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:12.341	0.066	0.066			
+74	8	2004	Canadian Grand Prix	3	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team	3	1:13.023	0.748	0.682			
+74	8	2004	Canadian Grand Prix	4	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team	3	1:13.072	0.797	0.049			
+74	8	2004	Canadian Grand Prix	5	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:13.308	1.033	0.236			
+74	8	2004	Canadian Grand Prix	6	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:13.355	1.080	0.047			
+74	8	2004	Canadian Grand Prix	7	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:13.562	1.287	0.207			
+74	8	2004	Canadian Grand Prix	8	6	Kimi Räikkönen	Finland	West McLaren Mercedes	3	1:13.595	1.320	0.033			
+74	8	2004	Canadian Grand Prix	9	5	David Coulthard	Great Britain	West McLaren Mercedes	3	1:13.681	1.406	0.086			
+74	8	2004	Canadian Grand Prix	10	15	Christian Klien	Austria	Jaguar Racing	3	1:14.532	2.257	0.851			
+74	8	2004	Canadian Grand Prix	11	11	Giancarlo Fisichella	Italy	Sauber Petronas	3	1:14.674	2.399	0.142			
+74	8	2004	Canadian Grand Prix	12	16	Cristiano da Matta	Brazil	Panasonic Toyota Racing	3	1:14.851	2.576	0.177			
+74	8	2004	Canadian Grand Prix	13	17	Olivier Panis	France	Panasonic Toyota Racing	3	1:14.891	2.616	0.040			
+74	8	2004	Canadian Grand Prix	14	14	Mark Webber	Australia	Jaguar Racing	3	1:15.148	2.873	0.257			
+74	8	2004	Canadian Grand Prix	15	18	Nick Heidfeld	Germany	Jordan Ford	3	1:15.321	3.046	0.173			
+74	8	2004	Canadian Grand Prix	16	19	Timo Glock	Germany	Jordan Ford	3	1:16.323	4.048	1.002			
+74	8	2004	Canadian Grand Prix	17	10	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:17.004	4.729	0.681			
+74	8	2004	Canadian Grand Prix	18	21	Zsolt Baumgartner	Hungary	Minardi Cosworth	3	1:17.064	4.789	0.060			
+74	8	2004	Canadian Grand Prix	19	20	Gianmaria Bruni	Italy	Minardi Cosworth	1						
+74	8	2004	Canadian Grand Prix	20	12	Felipe Massa	Brazil	Sauber Petronas	1						

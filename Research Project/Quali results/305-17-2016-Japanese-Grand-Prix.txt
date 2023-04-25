@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+305	17	2016	Japanese Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:30.647			230.622		
+305	17	2016	Japanese Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:30.660	0.013	0.013	230.589		
+305	17	2016	Japanese Grand Prix	3	33	Max Verstappen	Netherlands	Red Bull Racing		1:31.178	0.531	0.518	229.278		
+305	17	2016	Japanese Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull Racing		1:31.240	0.593	0.062	229.123		
+305	17	2016	Japanese Grand Prix	5	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:31.961	1.314	0.721	227.326		
+305	17	2016	Japanese Grand Prix	6	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:31.028	0.381		229.656		
+305	17	2016	Japanese Grand Prix	7	8	Romain Grosjean	France	Haas F1 Team		1:31.961	1.314	0.933	227.326		
+305	17	2016	Japanese Grand Prix	8	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:30.949	0.302		229.856		
+305	17	2016	Japanese Grand Prix	9	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:32.142	1.495	1.193	226.880		
+305	17	2016	Japanese Grand Prix	10	21	Esteban Gutiérrez	Mexico	Haas F1 Team		1:32.547	1.900	0.405	225.887		
+305	17	2016	Japanese Grand Prix	11	77	Valtteri Bottas	Finland	Williams Martini Racing		1:32.315	1.668		226.455		
+305	17	2016	Japanese Grand Prix	12	19	Felipe Massa	Brazil	Williams Martini Racing		1:32.380	1.733	0.065	226.295		
+305	17	2016	Japanese Grand Prix	13	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:32.623	1.976	0.243	225.702		
+305	17	2016	Japanese Grand Prix	14	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:32.685	2.038	0.062	225.551		
+305	17	2016	Japanese Grand Prix	15	14	Fernando Alonso	Spain	McLaren Honda		1:32.689	2.042	0.004	225.541		
+305	17	2016	Japanese Grand Prix	16	30	Jolyon Palmer	Great Britain	Renault Sport F1 Team		1:32.807	2.160	0.118	225.254		
+305	17	2016	Japanese Grand Prix	17	20	Kevin Magnussen	Denmark	Renault Sport F1 Team		1:33.023	2.376	0.216	224.731		
+305	17	2016	Japanese Grand Prix	18	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:33.222	2.575	0.199	224.251		
+305	17	2016	Japanese Grand Prix	19	12	Felipe Nasr	Brazil	Sauber F1 Team		1:33.332	2.685	0.110	223.987		
+305	17	2016	Japanese Grand Prix	20	31	Esteban Ocon	France	Manor Racing MRT		1:33.353	2.706	0.021	223.937		
+305	17	2016	Japanese Grand Prix	21	94	Pascal Wehrlein	Germany	Manor Racing MRT		1:33.561	2.914	0.208	223.439		
+305	17	2016	Japanese Grand Prix	22	22	Jenson Button	Great Britain	McLaren Honda		1:32.851	2.204		225.147		

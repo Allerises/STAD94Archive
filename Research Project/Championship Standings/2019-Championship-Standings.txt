@@ -1,0 +1,21 @@
+Year	Pos	Driver	Points
+2019	1	Lewis Hamilton	413
+2019	2	Valtteri Bottas	326
+2019	3	Max Verstappen	278
+2019	4	Charles Leclerc	264
+2019	5	Sebastian Vettel	240
+2019	6	Carlos Sainz	96
+2019	7	Pierre Gasly	95
+2019	8	Alexander Albon	92
+2019	9	Daniel Ricciardo	54
+2019	10	Sergio Pérez	52
+2019	11	Lando Norris	49
+2019	12	Kimi Räikkönen	43
+2019	13	Daniil Kvyat	37
+2019	14	Nico Hülkenberg	37
+2019	15	Lance Stroll	21
+2019	16	Kevin Magnussen	20
+2019	17	Antonio Giovinazzi	14
+2019	18	Romain Grosjean	8
+2019	19	Robert Kubica	1
+2019	20	George Russell	

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+103	19	2005	Chinese Grand Prix	1	5	Fernando Alonso	Spain	Renault	56	1:39:53.618			183.234	1:33.536	45
+103	19	2005	Chinese Grand Prix	2	9	Kimi Räikkönen	Finland	McLaren	56	1:39:57.633	+ 4.015	+ 4.015	183.111	1:33.242	56
+103	19	2005	Chinese Grand Prix	3	17	Ralf Schumacher	Germany	Toyota	56	1:40:18.994	+ 25.376	+ 21.361	182.461	1:34.035	44
+103	19	2005	Chinese Grand Prix	4	6	Giancarlo Fisichella	Italy	Renault	56	1:40:19.732	+ 26.114	+ 0.738	182.439	1:33.563	54
+103	19	2005	Chinese Grand Prix	5	15	Christian Klien	Austria	Red Bull	56	1:40:25.457	+ 31.839	+ 5.725	182.266	1:33.727	43
+103	19	2005	Chinese Grand Prix	6	12	Felipe Massa	Brazil	Sauber	56	1:40:30.018	+ 36.400	+ 4.561	182.128	1:34.094	43
+103	19	2005	Chinese Grand Prix	7	7	Mark Webber	Australia	Williams	56	1:40:30.460	+ 36.842	+ 0.442	182.115	1:34.271	53
+103	19	2005	Chinese Grand Prix	8	3	Jenson Button	Great Britain	BAR	56	1:40:34.867	+ 41.249	+ 4.407	181.982	1:34.766	53
+103	19	2005	Chinese Grand Prix	9	14	David Coulthard	Great Britain	Red Bull	56	1:40:37.865	+ 44.247	+ 2.998	181.891	1:34.585	54
+103	19	2005	Chinese Grand Prix	10	11	Jacques Villeneuve	Canada	Sauber	56	1:40:53.595	+ 59.977	+ 15.730	181.419	1:34.713	53
+103	19	2005	Chinese Grand Prix	11	18	Tiago Monteiro	Portugal	Jordan	56	1:41:18.266	+ 1:24.648	+ 24.671	180.682	1:36.563	13
+103	19	2005	Chinese Grand Prix	12	2	Rubens Barrichello	Brazil	Ferrari	56	1:41:26.430	+ 1:32.812	+ 8.164	180.440	1:35.011	18
+103	19	2005	Chinese Grand Prix	13	8	Antonio Pizzonia	Brazil	Williams	55	1:39:23.847	1 Lap	1 Lap	180.858	1:34.560	52
+103	19	2005	Chinese Grand Prix	14	20	Robert Doornbos	Netherlands	Minardi	55	1:39:53.277	1 Lap	+ 29.430	179.970	1:36.894	54
+103	19	2005	Chinese Grand Prix	15	16	Jarno Trulli	Italy	Toyota	55	1:40:56.442	1 Lap	+ 1:03.165	178.093	1:35.347	16
+103	19	2005	Chinese Grand Prix	16	21	Christijan Albers	Netherlands	Minardi	51	1:35:36.880	5 Laps	4 Laps	174.331	1:37.215	48
+103	19	2005	Chinese Grand Prix	17	4	Takuma Sato	Japan	BAR	34	1:05:22.126			169.938	1:35.587	17
+103	19	2005	Chinese Grand Prix	18	19	Narain Karthikeyan	India	Jordan	28	50:51.617			179.831	1:37.398	17
+103	19	2005	Chinese Grand Prix	19	10	Juan Pablo Montoya	Colombia	McLaren	24	44:32.565			175.966	1:34.501	15
+103	19	2005	Chinese Grand Prix	20	1	Michael Schumacher	Germany	Ferrari	22	38:54.390			184.645	1:35.877	16

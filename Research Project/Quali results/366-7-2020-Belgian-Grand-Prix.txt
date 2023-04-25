@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+366	7	2020	Belgian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Formula One Team	15	1:41.252			249.026		
+366	7	2020	Belgian Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Formula One Team	17	1:41.763	0.511	0.511	247.775		
+366	7	2020	Belgian Grand Prix	3	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	17	1:41.778	0.526	0.015	247.739		
+366	7	2020	Belgian Grand Prix	4	3	Daniel Ricciardo	Australia	Renault DP World F1 Team	11	1:42.061	0.809	0.283	247.052		
+366	7	2020	Belgian Grand Prix	5	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	15	1:42.264	1.012	0.203	246.561		
+366	7	2020	Belgian Grand Prix	6	31	Esteban Ocon	France	Renault DP World F1 Team	15	1:42.396	1.144	0.132	246.243		
+366	7	2020	Belgian Grand Prix	7	55	Carlos Sainz	Spain	McLaren F1 Team	15	1:42.438	1.186	0.042	246.143		
+366	7	2020	Belgian Grand Prix	8	11	Sergio Pérez	Mexico	BWT Racing Point F1 Team	15	1:42.532	1.280	0.094	245.917		
+366	7	2020	Belgian Grand Prix	9	18	Lance Stroll	Canada	BWT Racing Point F1 Team	15	1:42.603	1.351	0.071	245.747		
+366	7	2020	Belgian Grand Prix	10	4	Lando Norris	Great Britain	McLaren F1 Team	17	1:42.657	1.405	0.054	245.617		
+366	7	2020	Belgian Grand Prix	11	26	Daniil Kvyat	Russia	Scuderia AlphaTauri Honda	12	1:42.730	1.478	0.073	245.443		
+366	7	2020	Belgian Grand Prix	12	10	Pierre Gasly	France	Scuderia AlphaTauri Honda	12	1:42.745	1.493	0.015	245.407		
+366	7	2020	Belgian Grand Prix	13	16	Charles Leclerc	Monaco	Scuderia Ferrari	12	1:42.996	1.744	0.251	244.809		
+366	7	2020	Belgian Grand Prix	14	5	Sebastian Vettel	Germany	Scuderia Ferrari	12	1:43.261	2.009	0.265	244.181		
+366	7	2020	Belgian Grand Prix	15	63	George Russell	Great Britain	Williams Racing	11	1:43.468	2.216	0.207	243.692		
+366	7	2020	Belgian Grand Prix	16	7	Kimi Räikkönen	Finland	Alfa Romeo Racing ORLEN	6	1:43.743	2.491	0.275	243.046		
+366	7	2020	Belgian Grand Prix	17	8	Romain Grosjean	France	Haas F1 Team	6	1:43.838	2.586	0.095	242.824		
+366	7	2020	Belgian Grand Prix	18	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing ORLEN	6	1:43.950	2.698	0.112	242.562		
+366	7	2020	Belgian Grand Prix	19	6	Nicholas Latifi	Canada	Williams Racing	6	1:44.138	2.886	0.188	242.124		
+366	7	2020	Belgian Grand Prix	20	20	Kevin Magnussen	Denmark	Haas F1 Team	8	1:44.314	3.062	0.176	241.716		

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+344	15	2018	Singapore Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	61	1:51:11.611			166.577	1:42.913	56
+344	15	2018	Singapore Grand Prix	2	33	Max Verstappen	Netherlands	Red Bull	61	1:51:20.572	+ 8.961	+ 8.961	166.354	1:43.345	54
+344	15	2018	Singapore Grand Prix	3	5	Sebastian Vettel	Germany	Ferrari	61	1:51:51.556	+ 39.945	+ 30.984	165.586	1:44.669	48
+344	15	2018	Singapore Grand Prix	4	77	Valtteri Bottas	Finland	Mercedes	61	1:52:03.541	+ 51.930	+ 11.985	165.291	1:44.720	42
+344	15	2018	Singapore Grand Prix	5	7	Kimi Räikkönen	Finland	Ferrari	61	1:52:04.612	+ 53.001	+ 1.071	165.264	1:44.715	46
+344	15	2018	Singapore Grand Prix	6	3	Daniel Ricciardo	Australia	Red Bull	61	1:52:05.593	+ 53.982	+ 0.981	165.240	1:43.120	59
+344	15	2018	Singapore Grand Prix	7	14	Fernando Alonso	Spain	McLaren	61	1:52:54.622	+ 1:43.011	+ 49.029	164.044	1:43.164	57
+344	15	2018	Singapore Grand Prix	8	55	Carlos Sainz	Spain	Renault	60	1:51:33.079	1 Lap	1 Lap	163.320	1:45.211	50
+344	15	2018	Singapore Grand Prix	9	16	Charles Leclerc	Monaco	Sauber	60	1:51:47.328	1 Lap	+ 14.249	162.973	1:45.203	57
+344	15	2018	Singapore Grand Prix	10	27	Nico Hülkenberg	Germany	Renault	60	1:52:01.055	1 Lap	+ 13.727	162.640	1:46.093	53
+344	15	2018	Singapore Grand Prix	11	9	Marcus Ericsson	Sweden	Sauber	60	1:52:14.828	1 Lap	+ 13.773	162.307	1:45.169	50
+344	15	2018	Singapore Grand Prix	12	2	Stoffel Vandoorne	Belgium	McLaren	60	1:52:15.609	1 Lap	+ 0.781	162.288	1:45.555	50
+344	15	2018	Singapore Grand Prix	13	10	Pierre Gasly	France	Toro Rosso	60	1:52:24.251	1 Lap	+ 8.642	162.080	1:46.063	56
+344	15	2018	Singapore Grand Prix	14	18	Lance Stroll	Canada	Williams	60	1:52:27.254	1 Lap	+ 3.003	162.008	1:46.033	53
+344	15	2018	Singapore Grand Prix	15	8	Romain Grosjean	France	Haas	60	1:52:27.257	1 Lap	+ 0.003	162.008	1:45.904	57
+344	15	2018	Singapore Grand Prix	16	11	Sergio Pérez	Mexico	Force India	60	1:52:49.091	1 Lap	+ 21.834	161.486	1:45.389	48
+344	15	2018	Singapore Grand Prix	17	28	Brendon Hartley	New Zealand	Toro Rosso	60	1:53:03.752	1 Lap	+ 14.661	161.137	1:44.889	38
+344	15	2018	Singapore Grand Prix	18	20	Kevin Magnussen	Denmark	Haas	59	1:51:28.990	2 Laps	1 Lap	160.695	1:41.905	50
+344	15	2018	Singapore Grand Prix	19	35	Sergey Sirotkin	Russia	Williams	59	1:52:30.741	2 Laps	+ 1:01.751	159.225	1:45.902	48
+344	15	2018	Singapore Grand Prix	20	31	Esteban Ocon	France	Force India							

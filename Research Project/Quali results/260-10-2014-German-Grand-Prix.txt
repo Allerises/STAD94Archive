@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+260	10	2014	German Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	6	1:16.540					
+260	10	2014	German Grand Prix	2	77	Valtteri Bottas	Finland	Williams Martini Racing	6	1:16.759	0.219	0.219			
+260	10	2014	German Grand Prix	3	19	Felipe Massa	Brazil	Williams Martini Racing	6	1:17.078	0.538	0.319			
+260	10	2014	German Grand Prix	4	20	Kevin Magnussen	Denmark	McLaren Mercedes	6	1:17.214	0.674	0.136			
+260	10	2014	German Grand Prix	5	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing	6	1:17.273	0.733	0.059			
+260	10	2014	German Grand Prix	6	1	Sebastian Vettel	Germany	Infiniti Red Bull Racing	6	1:17.577	1.037	0.304			
+260	10	2014	German Grand Prix	7	14	Fernando Alonso	Spain	Scuderia Ferrari	6	1:17.649	1.109	0.072			
+260	10	2014	German Grand Prix	8	26	Daniil Kvyat	Russia	Scuderia Toro Rosso	6	1:17.965	1.425	0.316			
+260	10	2014	German Grand Prix	9	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team	6	1:18.014	1.474	0.049			
+260	10	2014	German Grand Prix	10	11	Sergio Pérez	Mexico	Sahara Force India F1 Team	6	1:18.035	1.495	0.021			
+260	10	2014	German Grand Prix	11	22	Jenson Button	Great Britain	McLaren Mercedes	6	1:18.193	1.653	0.158			
+260	10	2014	German Grand Prix	12	7	Kimi Räikkönen	Finland	Scuderia Ferrari	6	1:18.273	1.733	0.080			
+260	10	2014	German Grand Prix	13	25	Jean-Eric Vergne	France	Scuderia Toro Rosso	6	1:18.285	1.745	0.012			
+260	10	2014	German Grand Prix	14	21	Esteban Gutiérrez	Mexico	Sauber F1 Team	6	1:18.787	2.247	0.502			
+260	10	2014	German Grand Prix	15	8	Romain Grosjean	France	Lotus F1 Team	6	1:18.983	2.443	0.196			
+260	10	2014	German Grand Prix	16	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team							
+260	10	2014	German Grand Prix	17	99	Adrian Sutil	Germany	Sauber F1 Team	8	1:19.142	2.602	0.159			
+260	10	2014	German Grand Prix	18	17	Jules Bianchi	France	Marussia F1 Team	8	1:19.676	3.136	0.534			
+260	10	2014	German Grand Prix	19	13	Pastor Maldonado	Venezuela	Lotus F1 Team	7	1:20.195	3.655	0.519			
+260	10	2014	German Grand Prix	20	10	Kamui Kobayashi	Japan	Caterham F1 Team	7	1:20.408	3.868	0.213			
+260	10	2014	German Grand Prix	21	4	Max Chilton	Great Britain	Marussia F1 Team	9	1:20.489	3.949	0.081			
+260	10	2014	German Grand Prix	22	9	Marcus Ericsson	Sweden	Caterham F1 Team							

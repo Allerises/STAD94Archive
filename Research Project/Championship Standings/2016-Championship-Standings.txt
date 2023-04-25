@@ -1,0 +1,25 @@
+Year	Pos	Driver	Points
+2016	1	Nico Rosberg	385
+2016	2	Lewis Hamilton	380
+2016	3	Daniel Ricciardo	256
+2016	4	Sebastian Vettel	212
+2016	5	Max Verstappen	204
+2016	6	Kimi Räikkönen	186
+2016	7	Sergio Pérez	101
+2016	8	Valtteri Bottas	85
+2016	9	Nico Hülkenberg	72
+2016	10	Fernando Alonso	54
+2016	11	Felipe Massa	53
+2016	12	Carlos Sainz	46
+2016	13	Romain Grosjean	29
+2016	14	Daniil Kvyat	25
+2016	15	Jenson Button	21
+2016	16	Kevin Magnussen	7
+2016	17	Felipe Nasr	2
+2016	18	Jolyon Palmer	1
+2016	19	Pascal Wehrlein	1
+2016	20	Stoffel Vandoorne	1
+2016	21	Esteban Gutiérrez	
+2016	22	Marcus Ericsson	
+2016	23	Esteban Ocon	
+2016	24	Rio Haryanto	

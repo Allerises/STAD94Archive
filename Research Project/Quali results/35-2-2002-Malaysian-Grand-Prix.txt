@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+35	2	2002	Malaysian Grand Prix	1	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:35.266					
+35	2	2002	Malaysian Grand Prix	2	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:35.497	0.231	0.231			
+35	2	2002	Malaysian Grand Prix	3	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:35.891	0.625	0.394			
+35	2	2002	Malaysian Grand Prix	4	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:36.028	0.762	0.137			
+35	2	2002	Malaysian Grand Prix	5	4	Kimi Räikkönen	Finland	West McLaren Mercedes		1:36.468	1.202	0.440			
+35	2	2002	Malaysian Grand Prix	6	3	David Coulthard	Great Britain	West McLaren Mercedes		1:36.477	1.211	0.009			
+35	2	2002	Malaysian Grand Prix	7	7	Nick Heidfeld	Germany	Sauber Petronas		1:37.199	1.933	0.722			
+35	2	2002	Malaysian Grand Prix	8	15	Jenson Button	Great Britain	Mild Seven Renault F1 Team		1:37.245	1.979	0.046			
+35	2	2002	Malaysian Grand Prix	9	9	Giancarlo Fisichella	Italy	DHL Jordan Honda		1:37.536	2.270	0.291			
+35	2	2002	Malaysian Grand Prix	10	24	Mika Salo	Finland	Panasonic Toyota Racing		1:37.694	2.428	0.158			
+35	2	2002	Malaysian Grand Prix	11	20	Heinz-Harald Frentzen	Germany	Orange Arrows		1:37.919	2.653	0.225			
+35	2	2002	Malaysian Grand Prix	12	14	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:37.920	2.654	0.001			
+35	2	2002	Malaysian Grand Prix	13	11	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:38.039	2.773	0.119			
+35	2	2002	Malaysian Grand Prix	14	8	Felipe Massa	Brazil	Sauber Petronas		1:38.057	2.791	0.018			
+35	2	2002	Malaysian Grand Prix	15	10	Takuma Sato	Japan	DHL Jordan Honda		1:38.141	2.875	0.084			
+35	2	2002	Malaysian Grand Prix	16	21	Enrique Bernoldi	Brazil	Orange Arrows		1:38.284	3.018	0.143			
+35	2	2002	Malaysian Grand Prix	17	17	Pedro de la Rosa	Spain	Jaguar Racing		1:38.374	3.108	0.090			
+35	2	2002	Malaysian Grand Prix	18	12	Olivier Panis	France	Lucky Strike BAR Honda		1:38.390	3.124	0.016			
+35	2	2002	Malaysian Grand Prix	19	25	Allan McNish	Great Britain	Panasonic Toyota Racing		1:38.959	3.693	0.569			
+35	2	2002	Malaysian Grand Prix	20	16	Eddie Irvine	Great Britain	Jaguar Racing		1:39.121	3.855	0.162			
+35	2	2002	Malaysian Grand Prix	21	23	Mark Webber	Australia	KL Minardi Asiatech		1:39.454	4.188	0.333			
+35	2	2002	Malaysian Grand Prix	22	22	Alex Yoong	Malaysia	KL Minardi Asiatech		1:40.158	4.892	0.704			

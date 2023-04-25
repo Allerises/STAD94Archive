@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+293	5	2016	Spanish Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:22.000			204.365		
+293	5	2016	Spanish Grand Prix	2	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:22.280	0.280	0.280	203.670		
+293	5	2016	Spanish Grand Prix	3	3	Daniel Ricciardo	Australia	Red Bull Racing		1:22.680	0.680	0.400	202.685		
+293	5	2016	Spanish Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull Racing		1:23.087	1.087	0.407	201.692		
+293	5	2016	Spanish Grand Prix	5	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:23.113	1.113	0.026	201.629		
+293	5	2016	Spanish Grand Prix	6	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:23.334	1.334	0.221	201.094		
+293	5	2016	Spanish Grand Prix	7	77	Valtteri Bottas	Finland	Williams Martini Racing		1:23.522	1.522	0.188	200.641		
+293	5	2016	Spanish Grand Prix	8	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:23.643	1.643	0.121	200.351		
+293	5	2016	Spanish Grand Prix	9	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:23.782	1.782	0.139	200.019		
+293	5	2016	Spanish Grand Prix	10	14	Fernando Alonso	Spain	McLaren Honda		1:23.981	1.981	0.199	199.545		
+293	5	2016	Spanish Grand Prix	11	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:24.203	2.203	0.222	199.019		
+293	5	2016	Spanish Grand Prix	12	22	Jenson Button	Great Britain	McLaren Honda		1:24.348	2.348	0.145	198.676		
+293	5	2016	Spanish Grand Prix	13	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:24.445	2.445	0.097	198.448		
+293	5	2016	Spanish Grand Prix	14	8	Romain Grosjean	France	Haas F1 Team		1:24.480	2.480	0.035	198.366		
+293	5	2016	Spanish Grand Prix	15	20	Kevin Magnussen	Denmark	Renault Sport F1 Team		1:24.625	2.625	0.145	198.026		
+293	5	2016	Spanish Grand Prix	16	21	Esteban Gutiérrez	Mexico	Haas F1 Team		1:24.778	2.778	0.153	197.669		
+293	5	2016	Spanish Grand Prix	17	30	Jolyon Palmer	Great Britain	Renault Sport F1 Team		1:24.903	2.903	0.125	197.378		
+293	5	2016	Spanish Grand Prix	18	19	Felipe Massa	Brazil	Williams Martini Racing		1:24.941	2.941	0.038	197.289		
+293	5	2016	Spanish Grand Prix	19	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:25.202	3.202	0.261	196.685		
+293	5	2016	Spanish Grand Prix	20	12	Felipe Nasr	Brazil	Sauber F1 Team		1:25.579	3.579	0.377	195.819		
+293	5	2016	Spanish Grand Prix	21	94	Pascal Wehrlein	Germany	Manor Racing MRT		1:25.745	3.745	0.166	195.439		
+293	5	2016	Spanish Grand Prix	22	88	Rio Haryanto	Indonesia	Manor Racing MRT		1:25.939	3.939	0.194	194.998		

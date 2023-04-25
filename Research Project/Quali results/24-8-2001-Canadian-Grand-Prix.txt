@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+24	8	2001	Canadian Grand Prix	1	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:15.782					
+24	8	2001	Canadian Grand Prix	2	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:16.297	0.515	0.515			
+24	8	2001	Canadian Grand Prix	3	4	David Coulthard	Great Britain	West McLaren Mercedes		1:16.423	0.641	0.126			
+24	8	2001	Canadian Grand Prix	4	12	Jarno Trulli	Italy	B&H Jordan Honda		1:16.459	0.677	0.036			
+24	8	2001	Canadian Grand Prix	5	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:16.760	0.978	0.301			
+24	8	2001	Canadian Grand Prix	6	9	Olivier Panis	France	Lucky Strike BAR Honda		1:16.771	0.989	0.011			
+24	8	2001	Canadian Grand Prix	7	17	Kimi Räikkönen	Finland	Red Bull Sauber Petronas		1:16.875	1.093	0.104			
+24	8	2001	Canadian Grand Prix	8	3	Mika Hakkinen	Finland	West McLaren Mercedes		1:16.979	1.197	0.104			
+24	8	2001	Canadian Grand Prix	9	10	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:17.035	1.253	0.056			
+24	8	2001	Canadian Grand Prix	10	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:17.123	1.341	0.088			
+24	8	2001	Canadian Grand Prix	11	16	Nick Heidfeld	Germany	Red Bull Sauber Petronas		1:17.165	1.383	0.042			
+24	8	2001	Canadian Grand Prix	12	11	Ricardo Zonta	Brazil	B&H Jordan Honda		1:17.328	1.546	0.163			
+24	8	2001	Canadian Grand Prix	13	14	Jos Verstappen	Netherlands	Orange Arrows Asiatech		1:17.903	2.121	0.575			
+24	8	2001	Canadian Grand Prix	14	19	Pedro de la Rosa	Spain	Jaguar Racing		1:18.015	2.233	0.112			
+24	8	2001	Canadian Grand Prix	15	18	Eddie Irvine	Great Britain	Jaguar Racing		1:18.016	2.234	0.001			
+24	8	2001	Canadian Grand Prix	16	22	Jean Alesi	France	Prost Acer		1:18.178	2.396	0.162			
+24	8	2001	Canadian Grand Prix	17	15	Enrique Bernoldi	Brazil	Orange Arrows Asiatech		1:18.575	2.793	0.397			
+24	8	2001	Canadian Grand Prix	18	7	Giancarlo Fisichella	Italy	Mild Seven Benetton Renault		1:18.622	2.840	0.047			
+24	8	2001	Canadian Grand Prix	19	23	Luciano Burti	Brazil	Prost Acer		1:18.753	2.971	0.131			
+24	8	2001	Canadian Grand Prix	20	8	Jenson Button	Great Britain	Mild Seven Benetton Renault		1:19.033	3.251	0.280			
+24	8	2001	Canadian Grand Prix	21	20	Tarso Marques	Brazil	European Minardi F1		1:20.690	4.908	1.657			
+24	8	2001	Canadian Grand Prix	22	21	Fernando Alonso	Spain	European Minardi F1							

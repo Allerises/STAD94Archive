@@ -1,0 +1,20 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+336	7	2018	Canadian Grand Prix	1	5	Sebastian Vettel	Germany	Scuderia Ferrari	18	1:10.764			221.858		
+336	7	2018	Canadian Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes AMG Petronas Motorsport	20	1:10.857	0.093	0.093	221.567		
+336	7	2018	Canadian Grand Prix	3	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	16	1:10.937	0.173	0.080	221.317		
+336	7	2018	Canadian Grand Prix	4	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas Motorsport	21	1:10.996	0.232	0.059	221.133		
+336	7	2018	Canadian Grand Prix	5	7	Kimi Räikkönen	Finland	Scuderia Ferrari	20	1:11.095	0.331	0.099	220.825		
+336	7	2018	Canadian Grand Prix	6	3	Daniel Ricciardo	Australia	Aston Martin Red Bull Racing	18	1:11.116	0.352	0.021	220.760		
+336	7	2018	Canadian Grand Prix	7	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team	15	1:11.973	1.209	0.857	218.131		
+336	7	2018	Canadian Grand Prix	8	31	Esteban Ocon	France	Sahara Force India F1 Team	14	1:12.084	1.320	0.111	217.795		
+336	7	2018	Canadian Grand Prix	9	55	Carlos Sainz	Spain	Renault Sport Formula One Team	15	1:12.168	1.404	0.084	217.542		
+336	7	2018	Canadian Grand Prix	10	11	Sergio Pérez	Mexico	Sahara Force India F1 Team	13	1:12.671	1.907	0.503	216.036		
+336	7	2018	Canadian Grand Prix	11	20	Kevin Magnussen	Denmark	Haas F1 Team	22	1:12.606	1.842		216.230		
+336	7	2018	Canadian Grand Prix	12	28	Brendon Hartley	New Zealand	Red Bull Toro Rosso Honda	17	1:12.635	1.871	0.029	216.143		
+336	7	2018	Canadian Grand Prix	13	16	Charles Leclerc	Monaco	Alfa Romeo Sauber F1 Team	22	1:12.661	1.897	0.026	216.066		
+336	7	2018	Canadian Grand Prix	14	14	Fernando Alonso	Spain	McLaren F1 Team	14	1:12.856	2.092	0.195	215.488		
+336	7	2018	Canadian Grand Prix	15	2	Stoffel Vandoorne	Belgium	McLaren F1 Team	14	1:12.865	2.101	0.009	215.461		
+336	7	2018	Canadian Grand Prix	16	10	Pierre Gasly	France	Red Bull Toro Rosso Honda	8	1:13.047	2.283	0.182	214.924		
+336	7	2018	Canadian Grand Prix	17	18	Lance Stroll	Canada	Williams Martini Racing	8	1:13.590	2.826	0.543	213.338		
+336	7	2018	Canadian Grand Prix	18	35	Sergey Sirotkin	Russia	Williams Martini Racing	10	1:13.643	2.879	0.053	213.185		
+336	7	2018	Canadian Grand Prix	19	9	Marcus Ericsson	Sweden	Alfa Romeo Sauber F1 Team	6	1:14.593	3.829	0.950	210.470		

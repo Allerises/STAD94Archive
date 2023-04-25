@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+361	2	2020	Styrian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Formula One Team	34	1:19.273			196.091		
+361	2	2020	Styrian Grand Prix	2	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	34	1:20.489	1.216	1.216	193.129		
+361	2	2020	Styrian Grand Prix	3	55	Carlos Sainz	Spain	McLaren F1 Team	33	1:20.671	1.398	0.182	192.693		
+361	2	2020	Styrian Grand Prix	4	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Formula One Team	34	1:20.701	1.428	0.030	192.622		
+361	2	2020	Styrian Grand Prix	5	31	Esteban Ocon	France	Renault DP World F1 Team	33	1:20.922	1.649	0.221	192.096		
+361	2	2020	Styrian Grand Prix	6	4	Lando Norris	Great Britain	McLaren F1 Team	34	1:20.925	1.652	0.003	192.088		
+361	2	2020	Styrian Grand Prix	7	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	31	1:21.011	1.738	0.086	191.885		
+361	2	2020	Styrian Grand Prix	8	10	Pierre Gasly	France	Scuderia AlphaTauri Honda	33	1:21.028	1.755	0.017	191.844		
+361	2	2020	Styrian Grand Prix	9	3	Daniel Ricciardo	Australia	Renault DP World F1 Team	32	1:21.192	1.919	0.164	191.457		
+361	2	2020	Styrian Grand Prix	10	5	Sebastian Vettel	Germany	Scuderia Ferrari	33	1:21.651	2.378	0.459	190.381		
+361	2	2020	Styrian Grand Prix	11	16	Charles Leclerc	Monaco	Scuderia Ferrari	24	1:19.628	0.355		195.217		
+361	2	2020	Styrian Grand Prix	12	63	George Russell	Great Britain	Williams Racing	22	1:19.636	0.363	0.008	195.198		
+361	2	2020	Styrian Grand Prix	13	18	Lance Stroll	Canada	BWT Racing Point F1 Team	23	1:19.645	0.372	0.009	195.176		
+361	2	2020	Styrian Grand Prix	14	26	Daniil Kvyat	Russia	Scuderia AlphaTauri Honda	24	1:19.717	0.444	0.072	194.999		
+361	2	2020	Styrian Grand Prix	15	20	Kevin Magnussen	Denmark	Haas F1 Team	22	1:20.211	0.938	0.494	193.798		
+361	2	2020	Styrian Grand Prix	16	7	Kimi Räikkönen	Finland	Alfa Romeo Racing ORLEN	12	1:21.372	2.099	1.161	191.033		
+361	2	2020	Styrian Grand Prix	17	11	Sergio Pérez	Mexico	BWT Racing Point F1 Team	12	1:21.607	2.334	0.235	190.483		
+361	2	2020	Styrian Grand Prix	18	6	Nicholas Latifi	Canada	Williams Racing	12	1:21.759	2.486	0.152	190.129		
+361	2	2020	Styrian Grand Prix	19	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing ORLEN	12	1:21.831	2.558	0.072	189.962		
+361	2	2020	Styrian Grand Prix	20	8	Romain Grosjean	France	Haas F1 Team	1						

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+41	8	2002	Canadian Grand Prix	1	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:12.836					
+41	8	2002	Canadian Grand Prix	2	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:13.018	0.182	0.182			
+41	8	2002	Canadian Grand Prix	3	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:13.280	0.444	0.262			
+41	8	2002	Canadian Grand Prix	4	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:13.301	0.465	0.021			
+41	8	2002	Canadian Grand Prix	5	4	Kimi Räikkönen	Finland	West McLaren Mercedes		1:13.898	1.062	0.597			
+41	8	2002	Canadian Grand Prix	6	9	Giancarlo Fisichella	Italy	DHL Jordan Honda		1:14.132	1.296	0.234			
+41	8	2002	Canadian Grand Prix	7	7	Nick Heidfeld	Germany	Sauber Petronas		1:14.139	1.303	0.007			
+41	8	2002	Canadian Grand Prix	8	3	David Coulthard	Great Britain	West McLaren Mercedes		1:14.385	1.549	0.246			
+41	8	2002	Canadian Grand Prix	9	11	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:14.564	1.728	0.179			
+41	8	2002	Canadian Grand Prix	10	14	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:14.688	1.852	0.124			
+41	8	2002	Canadian Grand Prix	11	12	Olivier Panis	France	Lucky Strike BAR Honda		1:14.713	1.877	0.025			
+41	8	2002	Canadian Grand Prix	12	8	Felipe Massa	Brazil	Sauber Petronas		1:14.823	1.987	0.110			
+41	8	2002	Canadian Grand Prix	13	15	Jenson Button	Great Britain	Mild Seven Renault F1 Team		1:14.854	2.018	0.031			
+41	8	2002	Canadian Grand Prix	14	16	Eddie Irvine	Great Britain	Jaguar Racing		1:14.882	2.046	0.028			
+41	8	2002	Canadian Grand Prix	15	10	Takuma Sato	Japan	DHL Jordan Honda		1:14.940	2.104	0.058			
+41	8	2002	Canadian Grand Prix	16	17	Pedro de la Rosa	Spain	Jaguar Racing		1:15.089	2.253	0.149			
+41	8	2002	Canadian Grand Prix	17	21	Enrique Bernoldi	Brazil	Orange Arrows		1:15.102	2.266	0.013			
+41	8	2002	Canadian Grand Prix	18	24	Mika Salo	Finland	Panasonic Toyota Racing		1:15.111	2.275	0.009			
+41	8	2002	Canadian Grand Prix	19	20	Heinz-Harald Frentzen	Germany	Orange Arrows		1:15.115	2.279	0.004			
+41	8	2002	Canadian Grand Prix	20	25	Allan McNish	Great Britain	Panasonic Toyota Racing		1:15.321	2.485	0.206			
+41	8	2002	Canadian Grand Prix	21	23	Mark Webber	Australia	KL Minardi Asiatech		1:15.508	2.672	0.187			
+41	8	2002	Canadian Grand Prix	22	22	Alex Yoong	Malaysia	KL Minardi Asiatech		1:17.347	4.511	1.839			

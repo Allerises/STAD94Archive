@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+0	1	2000	Australian Grand Prix	1	3	Michael Schumacher	Germany	Ferrari	58	1:34:01.987			196.254	1:31.752	28
+0	1	2000	Australian Grand Prix	2	4	Rubens Barrichello	Brazil	Ferrari	58	1:34:13.402	+ 11.415	+ 11.415	195.858	1:31.481	41
+0	1	2000	Australian Grand Prix	3	9	Ralf Schumacher	Germany	Williams	58	1:34:21.996	+ 20.009	+ 8.594	195.561	1:32.525	50
+0	1	2000	Australian Grand Prix	4	22	Jacques Villeneuve	Canada	BAR	58	1:34:46.434	+ 44.447	+ 24.438	194.720	1:33.185	35
+0	1	2000	Australian Grand Prix	5	11	Giancarlo Fisichella	Italy	Benneton	58	1:34:47.152	+ 45.165	+ 0.718	194.696	1:33.449	34
+0	1	2000	Australian Grand Prix	6	23	Ricardo Zonta	Brazil	BAR	58	1:34:48.455	+ 46.468	+ 1.303	194.651	1:33.435	34
+0	1	2000	Australian Grand Prix	7	12	Alexander Wurz	Austria	Benneton	58	1:34:48.902	+ 46.915	+ 0.447	194.636	1:33.459	33
+0	1	2000	Australian Grand Prix	8	20	Marc Gene	Spain	Minardi	57	1:35:13.022	1 Lap	1 Lap	190.472	1:33.231	54
+0	1	2000	Australian Grand Prix	9	15	Nick Heidfeld	Germany	Prost	56	1:34:10.100	2 Laps	1 Lap	189.215	1:34.111	53
+0	1	2000	Australian Grand Prix	10	17	Mika Salo	Finland	Sauber	58	1:34:47.611			194.680	1:33.471	51
+0	1	2000	Australian Grand Prix	11	10	Jenson Button	Great Britain	Williams	46	1:15:56.157			192.745	1:33.351	36
+0	1	2000	Australian Grand Prix	12	16	Pedro Diniz	Brazil	Sauber	41	1:10:09.629			185.936	1:32.977	38
+0	1	2000	Australian Grand Prix	13	21	Gaston Mazzacane	Argentina	Minardi	40	1:08:30.108			185.793	1:35.241	33
+0	1	2000	Australian Grand Prix	14	5	Heinz-Harald Frentzen	Germany	Jordan	39	1:04:51.269			191.336	1:32.110	34
+0	1	2000	Australian Grand Prix	15	6	Jarno Trulli	Italy	Jordan	35	57:49.944			192.561	1:33.223	28
+0	1	2000	Australian Grand Prix	16	14	Jean Alesi	France	Prost	27	46:10.753			186.033	1:35.088	18
+0	1	2000	Australian Grand Prix	17	1	Mika Hakkinen	Finland	McLaren	18	30:48.776			185.871	1:32.433	18
+0	1	2000	Australian Grand Prix	18	19	Jos Verstappen	Netherlands	Arrows	16	31:27.906			161.794	1:34.834	16
+0	1	2000	Australian Grand Prix	19	2	David Coulthard	Great Britain	McLaren	11	21:04.549			166.066	1:33.653	7
+0	1	2000	Australian Grand Prix	20	18	Pedro de la Rosa	Spain	Arrows	6	9:51.800			193.553	1:35.663	6
+0	1	2000	Australian Grand Prix	21	7	Eddie Irvine	Great Britain	Jaguar	6	9:52.800			193.226	1:35.789	6
+0	1	2000	Australian Grand Prix	22	8	Johnny Herbert	Great Britain	Jaguar	1	2:12.970			143.572		

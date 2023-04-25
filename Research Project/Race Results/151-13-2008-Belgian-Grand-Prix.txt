@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+151	13	2008	Belgian Grand Prix	1	2	Felipe Massa	Brazil	Ferrari	44	1:22:59.394			222.715	1:48.222	26
+151	13	2008	Belgian Grand Prix	2	3	Nick Heidfeld	Germany	Sauber	44	1:23:08.777	+ 9.383	+ 9.383	222.296	1:49.067	36
+151	13	2008	Belgian Grand Prix	3	22	Lewis Hamilton	Great Britain	McLaren	44	1:23:09.933	+ 10.539	+ 1.156	222.244	1:48.135	20
+151	13	2008	Belgian Grand Prix	4	5	Fernando Alonso	Spain	Renault	44	1:23:13.872	+ 14.478	+ 3.939	222.069	1:49.238	25
+151	13	2008	Belgian Grand Prix	5	15	Sebastian Vettel	Germany	Toro Rosso	44	1:23:13.970	+ 14.576	+ 0.098	222.065	1:49.086	16
+151	13	2008	Belgian Grand Prix	6	4	Robert Kubica	Poland	Sauber	44	1:23:14.431	+ 15.037	+ 0.461	222.044	1:48.965	36
+151	13	2008	Belgian Grand Prix	7	14	Sebastien Bourdais	France	Toro Rosso	44	1:23:16.129	+ 16.735	+ 1.698	221.969	1:49.002	31
+151	13	2008	Belgian Grand Prix	8	10	Mark Webber	Australia	Red Bull	44	1:23:42.170	+ 42.776	+ 26.041	220.818	1:49.515	34
+151	13	2008	Belgian Grand Prix	9	12	Timo Glock	Germany	Toyota	44	1:24:06.439	+ 1:07.045	+ 24.269	219.756	1:50.255	37
+151	13	2008	Belgian Grand Prix	10	23	Heikki Kovalainen	Finland	McLaren	43	1:20:58.715	1 Lap	1 Lap	223.057	1:48.223	35
+151	13	2008	Belgian Grand Prix	11	9	David Coulthard	Great Britain	Red Bull	43	1:22:45.088	1 Lap	+ 1:46.373	218.278	1:50.177	19
+151	13	2008	Belgian Grand Prix	12	7	Nico Rosberg	Germany	Williams	43	1:22:47.042	1 Lap	+ 1.954	218.192	1:50.656	32
+151	13	2008	Belgian Grand Prix	13	20	Adrian Sutil	Germany	Force India	43	1:22:49.057	1 Lap	+ 2.015	218.104	1:50.487	27
+151	13	2008	Belgian Grand Prix	14	8	Kazuki Nakajima	Japan	Williams	43	1:22:58.340	1 Lap	+ 9.283	217.697	1:50.970	35
+151	13	2008	Belgian Grand Prix	15	16	Jenson Button	Great Britain	Honda	43	1:22:59.886	1 Lap	+ 1.546	217.630	1:50.671	19
+151	13	2008	Belgian Grand Prix	16	11	Jarno Trulli	Italy	Toyota	43	1:23:40.609	1 Lap	+ 40.723	215.864	1:50.543	32
+151	13	2008	Belgian Grand Prix	17	21	Giancarlo Fisichella	Italy	Force India	43	1:24:49.083	1 Lap	+ 1:08.474	212.960	1:51.701	17
+151	13	2008	Belgian Grand Prix	18	1	Kimi Räikkönen	Finland	Ferrari	42	1:17:42.833	2 Laps	1 Lap	227.020	1:47.930	24
+151	13	2008	Belgian Grand Prix	19	17	Rubens Barrichello	Brazil	Honda	19	37:00.084			215.589	1:52.072	10
+151	13	2008	Belgian Grand Prix	20	6	Nelson Piquet Jr.	Brazil	Renault	13	24:51.976			219.400	1:51.118	12

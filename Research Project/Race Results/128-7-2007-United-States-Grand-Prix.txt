@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+128	7	2007	United States Grand Prix	1	2	Lewis Hamilton	Great Britain	McLaren	73	1:31:09.965			201.401	1:13.222	20
+128	7	2007	United States Grand Prix	2	1	Fernando Alonso	Spain	McLaren	73	1:31:11.483	+ 1.518	+ 1.518	201.345	1:13.257	21
+128	7	2007	United States Grand Prix	3	5	Felipe Massa	Brazil	Ferrari	73	1:31:22.807	+ 12.842	+ 11.324	200.929	1:13.380	50
+128	7	2007	United States Grand Prix	4	6	Kimi Räikkönen	Finland	Ferrari	73	1:31:25.387	+ 15.422	+ 2.580	200.834	1:13.117	49
+128	7	2007	United States Grand Prix	5	4	Heikki Kovalainen	Finland	Renault	73	1:31:51.367	+ 41.402	+ 25.980	199.888	1:13.998	67
+128	7	2007	United States Grand Prix	6	12	Jarno Trulli	Italy	Toyota	73	1:32:16.668	+ 1:06.703	+ 25.301	198.974	1:14.016	30
+128	7	2007	United States Grand Prix	7	15	Mark Webber	Australia	Red Bull	73	1:32:17.296	+ 1:07.331	+ 0.628	198.952	1:14.004	57
+128	7	2007	United States Grand Prix	8	10	Sebastian Vettel	Germany	Sauber	73	1:32:17.748	+ 1:07.783	+ 0.452	198.936	1:13.862	53
+128	7	2007	United States Grand Prix	9	3	Giancarlo Fisichella	Italy	Renault	72	1:31:44.282	1 Lap	1 Lap	197.403	1:14.009	67
+128	7	2007	United States Grand Prix	10	17	Alexander Wurz	Austria	Williams	72	1:32:11.721	1 Lap	+ 27.439	196.424	1:14.486	41
+128	7	2007	United States Grand Prix	11	23	Anthony Davidson	Great Britain	Super Aguri	72	1:32:13.434	1 Lap	+ 1.713	196.363	1:14.066	55
+128	7	2007	United States Grand Prix	12	7	Jenson Button	Great Britain	Honda	72	1:32:23.277	1 Lap	+ 9.843	196.015	1:14.703	42
+128	7	2007	United States Grand Prix	13	19	Scott Speed	USA	Toro Rosso	71	1:31:17.333	2 Laps	1 Lap	195.619	1:15.092	66
+128	7	2007	United States Grand Prix	14	20	Adrian Sutil	Germany	Spyker	71	1:31:19.396	2 Laps	+ 2.063	195.546	1:14.858	49
+128	7	2007	United States Grand Prix	15	21	Christijan Albers	Netherlands	Spyker	70	1:31:16.671	3 Laps	1 Lap	192.887	1:15.902	65
+128	7	2007	United States Grand Prix	16	16	Nico Rosberg	Germany	Williams	68	1:25:59.466	5 Laps	2 Laps	198.896	1:14.066	34
+128	7	2007	United States Grand Prix	17	18	Vitantonio Liuzzi	Italy	Toro Rosso	68	1:27:31.379	5 Laps	+ 1:31.913	195.415	1:15.426	64
+128	7	2007	United States Grand Prix	18	9	Nick Heidfeld	Germany	Sauber	55	1:09:24.705			199.297	1:13.414	20
+128	7	2007	United States Grand Prix	19	22	Takuma Sato	Japan	Super Aguri	13	16:56.997			192.906	1:16.680	8
+128	7	2007	United States Grand Prix	20	14	David Coulthard	Great Britain	Red Bull							
+128	7	2007	United States Grand Prix	21	11	Ralf Schumacher	Germany	Toyota							
+128	7	2007	United States Grand Prix	22	8	Rubens Barrichello	Brazil	Honda							

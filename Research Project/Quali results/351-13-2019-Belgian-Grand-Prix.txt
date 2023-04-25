@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+351	13	2019	Belgian Grand Prix	1	16	Charles Leclerc	Monaco	Scuderia Ferrari	17	1:42.519			245.948		
+351	13	2019	Belgian Grand Prix	2	5	Sebastian Vettel	Germany	Scuderia Ferrari	17	1:43.267	0.748	0.748	244.167		
+351	13	2019	Belgian Grand Prix	3	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Motorsport	19	1:43.282	0.763	0.015	244.131		
+351	13	2019	Belgian Grand Prix	4	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Motorsport	19	1:43.415	0.896	0.133	243.817		
+351	13	2019	Belgian Grand Prix	5	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	16	1:43.690	1.171	0.275	243.170		
+351	13	2019	Belgian Grand Prix	6	3	Daniel Ricciardo	Australia	Renault F1 Team	17	1:44.257	1.738	0.567	241.848		
+351	13	2019	Belgian Grand Prix	7	27	Nico Hülkenberg	Germany	Renault F1 Team	16	1:44.542	2.023	0.285	241.189		
+351	13	2019	Belgian Grand Prix	8	7	Kimi Räikkönen	Finland	Alfa Romeo Racing	18	1:44.557	2.038	0.015	241.154		
+351	13	2019	Belgian Grand Prix	9	11	Sergio Pérez	Mexico	SportPesa Racing Point F1 Team	18	1:44.706	2.187	0.149	240.811		
+351	13	2019	Belgian Grand Prix	10	20	Kevin Magnussen	Denmark	Rich Energy Haas F1 Team	18	1:45.086	2.567	0.380	239.940		
+351	13	2019	Belgian Grand Prix	11	8	Romain Grosjean	France	Rich Energy Haas F1 Team	12	1:44.797	2.278		240.602		
+351	13	2019	Belgian Grand Prix	12	4	Lando Norris	Great Britain	McLaren F1 Team	12	1:44.847	2.328	0.050	240.487		
+351	13	2019	Belgian Grand Prix	13	18	Lance Stroll	Canada	SportPesa Racing Point F1 Team	8	1:45.047	2.528	0.200	240.029		
+351	13	2019	Belgian Grand Prix	14	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	8	1:45.799	3.280	0.752	238.323		
+351	13	2019	Belgian Grand Prix	15	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing	7						
+351	13	2019	Belgian Grand Prix	16	10	Pierre Gasly	France	Red Bull Toro Rosso Honda	5	1:46.435	3.916		236.899		
+351	13	2019	Belgian Grand Prix	17	55	Carlos Sainz	Spain	McLaren F1 Team	6	1:46.507	3.988	0.072	236.739		
+351	13	2019	Belgian Grand Prix	18	26	Daniil Kvyat	Russia	Red Bull Toro Rosso Honda	4	1:46.518	3.999	0.011	236.714		
+351	13	2019	Belgian Grand Prix	19	63	George Russell	Great Britain	ROKiT Williams Racing	6	1:47.548	5.029	1.030	234.447		
+351	13	2019	Belgian Grand Prix	20	88	Robert Kubica	Poland	ROKiT Williams Racing	2						

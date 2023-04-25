@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+169	13	2009	Italian Grand Prix	1	23	Rubens Barrichello	Brazil	Brawn	53	1:16:21.706			241.000	1:24.967	48
+169	13	2009	Italian Grand Prix	2	22	Jenson Button	Great Britain	Brawn	53	1:16:24.572	+ 2.866	+ 2.866	240.849	1:24.935	46
+169	13	2009	Italian Grand Prix	3	4	Kimi Räikkönen	Finland	Ferrari	53	1:16:52.370	+ 30.664	+ 27.798	239.397	1:24.761	36
+169	13	2009	Italian Grand Prix	4	20	Adrian Sutil	Germany	Force India	53	1:16:52.837	+ 31.131	+ 0.467	239.373	1:24.739	36
+169	13	2009	Italian Grand Prix	5	7	Fernando Alonso	Spain	Renault	53	1:17:20.888	+ 59.182	+ 28.051	237.926	1:25.199	50
+169	13	2009	Italian Grand Prix	6	2	Heikki Kovalainen	Finland	McLaren	53	1:17:22.399	+ 1:00.693	+ 1.511	237.849	1:25.109	51
+169	13	2009	Italian Grand Prix	7	6	Nick Heidfeld	Germany	Sauber	53	1:17:44.118	+ 1:22.412	+ 21.719	236.741	1:25.488	30
+169	13	2009	Italian Grand Prix	8	15	Sebastian Vettel	Germany	Red Bull	53	1:17:47.113	+ 1:25.407	+ 2.995	236.589	1:25.194	50
+169	13	2009	Italian Grand Prix	9	3	Giancarlo Fisichella	Italy	Ferrari	53	1:17:48.562	+ 1:26.856	+ 1.449	236.516	1:25.498	28
+169	13	2009	Italian Grand Prix	10	17	Kazuki Nakajima	Japan	Williams	53	1:19:03.869	+ 2:42.163	+ 1:15.307	232.761	1:25.976	51
+169	13	2009	Italian Grand Prix	11	10	Timo Glock	Germany	Toyota	53	1:19:05.631	+ 2:43.925	+ 1.762	232.675	1:25.751	50
+169	13	2009	Italian Grand Prix	12	1	Lewis Hamilton	Great Britain	McLaren	52	1:14:59.622	1 Lap	1 Lap	240.761	1:24.802	52
+169	13	2009	Italian Grand Prix	13	12	Sébastien Buemi	Switzerland	Toro Rosso	52	1:16:18.421	1 Lap	+ 1:18.799	236.618	1:25.564	50
+169	13	2009	Italian Grand Prix	14	9	Jarno Trulli	Italy	Toyota	52	1:16:27.945	1 Lap	+ 9.524	236.126	1:25.700	49
+169	13	2009	Italian Grand Prix	15	8	Romain Grosjean	France	Renault	52	1:16:59.720	1 Lap	+ 31.775	234.502	1:25.609	51
+169	13	2009	Italian Grand Prix	16	16	Nico Rosberg	Germany	Williams	51	1:17:07.169	2 Laps	1 Lap	229.618	1:25.901	50
+169	13	2009	Italian Grand Prix	17	21	Vitantonio Liuzzi	Italy	Force India	22	31:59.464			238.448	1:26.041	22
+169	13	2009	Italian Grand Prix	18	11	Jaime Alguersuari	Spain	Toro Rosso	19	28:22.878			232.035	1:27.846	17
+169	13	2009	Italian Grand Prix	19	5	Robert Kubica	Poland	Sauber	15	22:48.793			227.725	1:27.819	12
+169	13	2009	Italian Grand Prix	20	14	Mark Webber	Australia	Red Bull							

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+172	16	2009	Brazilian Grand Prix	1	23	Rubens Barrichello	Brazil	Brawn GP Formula 1 Team	30	1:19.576					
+172	16	2009	Brazilian Grand Prix	2	14	Mark Webber	Australia	Red Bull Racing	28	1:19.668	0.092	0.092			
+172	16	2009	Brazilian Grand Prix	3	20	Adrian Sutil	Germany	Force India F1 Team	28	1:19.912	0.336	0.244			
+172	16	2009	Brazilian Grand Prix	4	9	Jarno Trulli	Italy	Panasonic Toyota Racing	29	1:20.097	0.521	0.185			
+172	16	2009	Brazilian Grand Prix	5	4	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	30	1:20.168	0.592	0.071			
+172	16	2009	Brazilian Grand Prix	6	12	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	35	1:20.250	0.674	0.082			
+172	16	2009	Brazilian Grand Prix	7	16	Nico Rosberg	Germany	AT&T Williams	31	1:20.326	0.750	0.076			
+172	16	2009	Brazilian Grand Prix	8	5	Robert Kubica	Poland	BMW Sauber F1 Team	30	1:20.631	1.055	0.305			
+172	16	2009	Brazilian Grand Prix	9	17	Kazuki Nakajima	Japan	AT&T Williams	32	1:20.674	1.098	0.043			
+172	16	2009	Brazilian Grand Prix	10	7	Fernando Alonso	Spain	ING Renault F1 Team	27	1:21.422	1.846	0.748			
+172	16	2009	Brazilian Grand Prix	11	10	Kamui Kobayashi	Japan	Panasonic Toyota Racing	22	1:21.960	2.384	0.538			
+172	16	2009	Brazilian Grand Prix	12	11	Jaime Alguersuari	Spain	Scuderia Toro Rosso	25	1:22.231	2.655	0.271			
+172	16	2009	Brazilian Grand Prix	13	8	Romain Grosjean	France	ING Renault F1 Team	23	1:22.477	2.901	0.246			
+172	16	2009	Brazilian Grand Prix	14	22	Jenson Button	Great Britain	Brawn GP Formula 1 Team	23	1:22.504	2.928	0.027			
+172	16	2009	Brazilian Grand Prix	15	21	Vitantonio Liuzzi	Italy	Force India F1 Team	12						
+172	16	2009	Brazilian Grand Prix	16	15	Sebastian Vettel	Germany	Red Bull Racing	13	1:25.009	5.433	2.505			
+172	16	2009	Brazilian Grand Prix	17	2	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	12	1:25.052	5.476	0.043			
+172	16	2009	Brazilian Grand Prix	18	1	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	11	1:25.192	5.616	0.140			
+172	16	2009	Brazilian Grand Prix	19	6	Nick Heidfeld	Germany	BMW Sauber F1 Team	11	1:25.515	5.939	0.323			
+172	16	2009	Brazilian Grand Prix	20	3	Giancarlo Fisichella	Italy	Scuderia Ferrari Marlboro	3	1:40.703	21.127	15.188			

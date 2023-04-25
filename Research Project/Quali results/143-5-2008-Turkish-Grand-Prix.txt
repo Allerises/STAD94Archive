@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+143	5	2008	Turkish Grand Prix	1	2	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	16	1:27.617	0.605	0.049			
+143	5	2008	Turkish Grand Prix	2	23	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	16	1:27.808	0.191	0.191			
+143	5	2008	Turkish Grand Prix	3	22	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	15	1:27.923	0.306	0.115			
+143	5	2008	Turkish Grand Prix	4	1	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	17	1:27.936	0.319	0.013			
+143	5	2008	Turkish Grand Prix	5	4	Robert Kubica	Poland	BMW Sauber F1 Team	17	1:28.390	0.773	0.454			
+143	5	2008	Turkish Grand Prix	6	10	Mark Webber	Australia	Red Bull Racing	17	1:28.417	0.800	0.027			
+143	5	2008	Turkish Grand Prix	7	5	Fernando Alonso	Spain	ING Renault F1 Team	18	1:28.422	0.805	0.005			
+143	5	2008	Turkish Grand Prix	8	11	Jarno Trulli	Italy	Panasonic Toyota Racing	20	1:28.836	1.219	0.414			
+143	5	2008	Turkish Grand Prix	9	3	Nick Heidfeld	Germany	BMW Sauber F1 Team	20	1:28.882	1.265	0.046			
+143	5	2008	Turkish Grand Prix	10	9	David Coulthard	Great Britain	Red Bull Racing	16	1:29.959	2.342	1.077			
+143	5	2008	Turkish Grand Prix	11	7	Nico Rosberg	Germany	AT&T Williams	13	1:27.012					
+143	5	2008	Turkish Grand Prix	12	17	Rubens Barrichello	Brazil	Honda Racing F1 Team	13	1:27.219	0.207	0.207			
+143	5	2008	Turkish Grand Prix	13	16	Jenson Button	Great Britain	Honda Racing F1 Team	14	1:27.298	0.286	0.079			
+143	5	2008	Turkish Grand Prix	14	15	Sebastian Vettel	Germany	Scuderia Toro Rosso	15	1:27.412	0.400	0.114			
+143	5	2008	Turkish Grand Prix	15	12	Timo Glock	Germany	Panasonic Toyota Racing	15	1:27.806	0.189	0.394			
+143	5	2008	Turkish Grand Prix	16	8	Kazuki Nakajima	Japan	AT&T Williams	9	1:27.547	0.535	0.135			
+143	5	2008	Turkish Grand Prix	17	6	Nelson Piquet Jr.	Brazil	Renault	7	1:27.568	0.556	0.021			
+143	5	2008	Turkish Grand Prix	18	14	Sebastien Bourdais	France	Scuderia Toro Rosso	8	1:27.621	0.004	0.053			
+143	5	2008	Turkish Grand Prix	19	21	Giancarlo Fisichella	Italy	Force India F1 Team	10	1:27.807	0.190	0.186			
+143	5	2008	Turkish Grand Prix	20	20	Adrian Sutil	Germany	Force India F1 Team	9	1:28.325	0.708	0.518			

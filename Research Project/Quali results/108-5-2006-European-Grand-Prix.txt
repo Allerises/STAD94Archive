@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+108	5	2006	European Grand Prix	1	1	Fernando Alonso	Spain	Mild Seven Renault F1 Team	20	1:29.819					
+108	5	2006	European Grand Prix	2	5	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	19	1:30.028	0.209	0.209			
+108	5	2006	European Grand Prix	3	6	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	21	1:30.407	0.588	0.379			
+108	5	2006	European Grand Prix	4	11	Rubens Barrichello	Brazil	Lucky Strike Honda Racing F1 Team	20	1:30.754	0.935	0.347			
+108	5	2006	European Grand Prix	5	3	Kimi Räikkönen	Finland	Team McLaren Mercedes	20	1:30.933	1.114	0.179			
+108	5	2006	European Grand Prix	6	12	Jenson Button	Great Britain	Lucky Strike Honda Racing F1 Team	23	1:30.940	1.121	0.007			
+108	5	2006	European Grand Prix	7	8	Jarno Trulli	Italy	Panasonic Toyota Racing	26	1:31.419	1.600	0.479			
+108	5	2006	European Grand Prix	8	17	Jacques Villeneuve	Canada	BMW Sauber F1 Team	22	1:31.542	1.723	0.123			
+108	5	2006	European Grand Prix	9	4	Juan Pablo Montoya	Colombia	Team McLaren Mercedes	22	1:31.880	2.061	0.338			
+108	5	2006	European Grand Prix	10	9	Mark Webber	Australia	WilliamsF1 Team	20	1:33.405	3.586	1.525			
+108	5	2006	European Grand Prix	11	7	Ralf Schumacher	Germany	Panasonic Toyota Racing	13	1:30.944	1.125	0.004			
+108	5	2006	European Grand Prix	12	10	Nico Rosberg	Germany	WilliamsF1 Team	7	1:31.194	1.375	0.250			
+108	5	2006	European Grand Prix	13	2	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	9	1:31.197	1.378	0.003			
+108	5	2006	European Grand Prix	14	14	David Coulthard	Great Britain	Red Bull Racing	13	1:31.227	1.408	0.030			
+108	5	2006	European Grand Prix	15	16	Nick Heidfeld	Germany	BMW Sauber F1 Team	9	1:31.422	1.603	0.195			
+108	5	2006	European Grand Prix	16	20	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	12	1:31.728	1.909	0.306			
+108	5	2006	European Grand Prix	17	15	Christian Klien	Austria	Red Bull Racing	7	1:32.901	3.082	1.173			
+108	5	2006	European Grand Prix	18	19	Christijan Albers	Netherlands	MF1 Racing	5	1:32.936	3.117	0.035			
+108	5	2006	European Grand Prix	19	21	Scott Speed	USA	Scuderia Toro Rosso	7	1:32.992	3.173	0.056			
+108	5	2006	European Grand Prix	20	18	Tiago Monteiro	Portugal	MF1 Racing	6	1:33.658	3.839	0.666			
+108	5	2006	European Grand Prix	21	22	Takuma Sato	Japan	Super Aguri F1	4	1:35.239	5.420	1.581			
+108	5	2006	European Grand Prix	22	23	Franck Montagny	France	Super Aguri F1	4	1:46.505	16.686	11.266			

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+240	9	2013	German Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	60	1:41:14.711			182.896	1:34.164	59
+240	9	2013	German Grand Prix	2	7	Kimi Räikkönen	Finland	Lotus	60	1:41:15.719	+ 1.008	+ 1.008	182.866	1:33.767	57
+240	9	2013	German Grand Prix	3	8	Romain Grosjean	France	Lotus	60	1:41:20.541	+ 5.830	+ 4.822	182.721	1:34.576	57
+240	9	2013	German Grand Prix	4	3	Fernando Alonso	Spain	Ferrari	60	1:41:22.432	+ 7.721	+ 1.891	182.664	1:33.468	51
+240	9	2013	German Grand Prix	5	10	Lewis Hamilton	Great Britain	Mercedes	60	1:41:41.638	+ 26.927	+ 19.206	182.089	1:34.156	57
+240	9	2013	German Grand Prix	6	5	Jenson Button	Great Britain	McLaren	60	1:41:42.707	+ 27.996	+ 1.069	182.057	1:34.201	49
+240	9	2013	German Grand Prix	7	2	Mark Webber	Australia	Red Bull	60	1:41:52.273	+ 37.562	+ 9.566	181.772	1:34.782	55
+240	9	2013	German Grand Prix	8	6	Sergio Pérez	Mexico	McLaren	60	1:41:53.017	+ 38.306	+ 0.744	181.750	1:36.134	50
+240	9	2013	German Grand Prix	9	9	Nico Rosberg	Germany	Mercedes	60	1:42:01.532	+ 46.821	+ 8.515	181.497	1:34.181	55
+240	9	2013	German Grand Prix	10	11	Nico Hülkenberg	Germany	Sauber	60	1:42:04.603	+ 49.892	+ 3.071	181.406	1:34.244	58
+240	9	2013	German Grand Prix	11	14	Paul di Resta	Great Britain	Force India	60	1:42:08.482	+ 53.771	+ 3.879	181.291	1:36.566	43
+240	9	2013	German Grand Prix	12	19	Daniel Ricciardo	Australia	Toro Rosso	60	1:42:11.686	+ 56.975	+ 3.204	181.196	1:35.982	58
+240	9	2013	German Grand Prix	13	15	Adrian Sutil	Germany	Force India	60	1:42:12.449	+ 57.738	+ 0.763	181.174	1:35.816	60
+240	9	2013	German Grand Prix	14	12	Esteban Gutiérrez	Mexico	Sauber	60	1:42:14.871	+ 1:00.160	+ 2.422	181.102	1:35.792	56
+240	9	2013	German Grand Prix	15	16	Pastor Maldonado	Venezuela	Williams	60	1:42:16.640	+ 1:01.929	+ 1.769	181.050	1:34.293	56
+240	9	2013	German Grand Prix	16	17	Valtteri Bottas	Finland	Williams	59	1:41:23.946	+ 9.235	1 Lap	179.572	1:33.972	56
+240	9	2013	German Grand Prix	17	20	Charles Pic	France	Caterham	59	1:41:50.508	+ 35.797	+ 26.562	178.791	1:37.584	51
+240	9	2013	German Grand Prix	18	21	Giedo van der Garde	Netherlands	Caterham	59	1:41:55.601	+ 40.890	+ 5.093	178.643	1:38.509	40
+240	9	2013	German Grand Prix	19	23	Max Chilton	Great Britain	Marussia	59	1:42:00.415	+ 45.704	+ 4.814	178.502	1:38.383	47
+240	9	2013	German Grand Prix	20	18	Jean-Eric Vergne	France	Toro Rosso	22	37:21.058			181.519	1:39.281	12
+240	9	2013	German Grand Prix	21	22	Jules Bianchi	France	Marussia	21	36:05.176			179.321	1:39.844	20
+240	9	2013	German Grand Prix	22	4	Felipe Massa	Brazil	Ferrari	3	5:01.075			181.592	1:38.890	3

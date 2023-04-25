@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+7	8	2000	Canadian Grand Prix	1	3	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:18.439					
+7	8	2000	Canadian Grand Prix	2	2	David Coulthard	Great Britain	West McLaren Mercedes		1:18.537	0.098	0.098			
+7	8	2000	Canadian Grand Prix	3	4	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:18.801	0.362	0.264			
+7	8	2000	Canadian Grand Prix	4	1	Mika Hakkinen	Finland	West McLaren Mercedes		1:18.985	0.546	0.184			
+7	8	2000	Canadian Grand Prix	5	5	Heinz-Harald Frentzen	Germany	Jordan		1:19.483	1.044	0.498			
+7	8	2000	Canadian Grand Prix	6	22	Jacques Villeneuve	Canada	Lucky Strike Reynard BAR Honda		1:19.544	1.105	0.061			
+7	8	2000	Canadian Grand Prix	7	6	Jarno Trulli	Italy	Jordan		1:19.581	1.142	0.037			
+7	8	2000	Canadian Grand Prix	8	23	Ricardo Zonta	Brazil	Lucky Strike Reynard BAR Honda		1:19.742	1.303	0.161			
+7	8	2000	Canadian Grand Prix	9	18	Pedro de la Rosa	Spain	Arrows F1 Team		1:19.912	1.473	0.170			
+7	8	2000	Canadian Grand Prix	10	11	Giancarlo Fisichella	Italy	Mild Seven Benetton Playlife		1:19.932	1.493	0.020			
+7	8	2000	Canadian Grand Prix	11	8	Johnny Herbert	Great Britain	Jaguar Racing		1:19.954	1.515	0.022			
+7	8	2000	Canadian Grand Prix	12	9	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:20.073	1.634	0.119			
+7	8	2000	Canadian Grand Prix	13	19	Jos Verstappen	Netherlands	Arrows F1 Team		1:20.107	1.668	0.034			
+7	8	2000	Canadian Grand Prix	14	12	Alexander Wurz	Austria	Mild Seven Benetton Playlife		1:20.113	1.674	0.006			
+7	8	2000	Canadian Grand Prix	15	17	Mika Salo	Finland	Red Bull Sauber Petronas		1:20.445	2.006	0.332			
+7	8	2000	Canadian Grand Prix	16	7	Eddie Irvine	Great Britain	Jaguar Racing		1:20.500	2.061	0.055			
+7	8	2000	Canadian Grand Prix	17	14	Jean Alesi	France	Gauloises Prost Peugeot		1:20.512	2.073	0.012			
+7	8	2000	Canadian Grand Prix	18	10	Jenson Button	Great Britain	BMW WilliamsF1 Team		1:20.534	2.095	0.022			
+7	8	2000	Canadian Grand Prix	19	16	Pedro Diniz	Brazil	Red Bull Sauber Petronas		1:20.692	2.253	0.158			
+7	8	2000	Canadian Grand Prix	20	20	Marc Gene	Spain	Telefonica Minardi Fondmetal		1:21.058	2.619	0.366			
+7	8	2000	Canadian Grand Prix	21	15	Nick Heidfeld	Germany	Gauloises Prost Peugeot		1:21.680	3.241	0.622			
+7	8	2000	Canadian Grand Prix	22	21	Gaston Mazzacane	Argentina	Telefonica Minardi Fondmetal		1:22.091	3.652	0.411			

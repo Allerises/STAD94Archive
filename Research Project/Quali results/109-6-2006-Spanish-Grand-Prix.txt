@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+109	6	2006	Spanish Grand Prix	1	1	Fernando Alonso	Spain	Mild Seven Renault F1 Team	22	1:14.648					
+109	6	2006	Spanish Grand Prix	2	2	Giancarlo Fisichella	Italy	Mild Seven Renault F1 Team	25	1:14.709	0.061	0.061			
+109	6	2006	Spanish Grand Prix	3	5	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	24	1:14.970	0.322	0.261			
+109	6	2006	Spanish Grand Prix	4	6	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	22	1:15.442	0.794	0.472			
+109	6	2006	Spanish Grand Prix	5	11	Rubens Barrichello	Brazil	Lucky Strike Honda Racing F1 Team	23	1:15.885	1.237	0.443			
+109	6	2006	Spanish Grand Prix	6	7	Ralf Schumacher	Germany	Panasonic Toyota Racing	28	1:15.885	1.237				
+109	6	2006	Spanish Grand Prix	7	8	Jarno Trulli	Italy	Panasonic Toyota Racing	28	1:15.976	1.328	0.091			
+109	6	2006	Spanish Grand Prix	8	12	Jenson Button	Great Britain	Lucky Strike Honda Racing F1 Team	24	1:16.008	1.360	0.032			
+109	6	2006	Spanish Grand Prix	9	3	Kimi Räikkönen	Finland	Team McLaren Mercedes	22	1:16.015	1.367	0.007			
+109	6	2006	Spanish Grand Prix	10	16	Nick Heidfeld	Germany	BMW Sauber F1 Team	25	1:17.144	2.496	1.129			
+109	6	2006	Spanish Grand Prix	11	9	Mark Webber	Australia	WilliamsF1 Team	9	1:15.502	0.854	0.060			
+109	6	2006	Spanish Grand Prix	12	4	Juan Pablo Montoya	Colombia	Team McLaren Mercedes	11	1:15.801	1.153	0.299			
+109	6	2006	Spanish Grand Prix	13	10	Nico Rosberg	Germany	WilliamsF1 Team	9	1:15.804	1.156	0.003			
+109	6	2006	Spanish Grand Prix	14	17	Jacques Villeneuve	Canada	BMW Sauber F1 Team	9	1:15.847	1.199	0.043			
+109	6	2006	Spanish Grand Prix	15	15	Christian Klien	Austria	Red Bull Racing	12	1:15.928	1.280	0.081			
+109	6	2006	Spanish Grand Prix	16	20	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	14	1:16.661	2.013	0.733			
+109	6	2006	Spanish Grand Prix	17	21	Scott Speed	USA	Scuderia Toro Rosso	8	1:17.361	2.713	0.700			
+109	6	2006	Spanish Grand Prix	18	18	Tiago Monteiro	Portugal	MF1 Racing	6	1:17.702	3.054	0.341			
+109	6	2006	Spanish Grand Prix	19	19	Christijan Albers	Netherlands	MF1 Racing	7	1:18.024	3.376	0.322			
+109	6	2006	Spanish Grand Prix	20	22	Takuma Sato	Japan	Super Aguri F1	6	1:18.920	4.272	0.896			
+109	6	2006	Spanish Grand Prix	21	23	Franck Montagny	France	Super Aguri F1	6	1:20.763	6.115	1.843			
+109	6	2006	Spanish Grand Prix	22	14	David Coulthard	Great Britain	Red Bull Racing	2						

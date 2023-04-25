@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+98	14	2005	Turkish Grand Prix	1	9	Kimi Räikkönen	Finland	McLaren	58	1:24:34.454			219.496	1:25.030	40
+98	14	2005	Turkish Grand Prix	2	5	Fernando Alonso	Spain	Renault	58	1:24:53.063	+ 18.609	+ 18.609	218.694	1:25.524	58
+98	14	2005	Turkish Grand Prix	3	10	Juan Pablo Montoya	Colombia	McLaren	58	1:24:54.089	+ 19.635	+ 1.026	218.650	1:24.770	39
+98	14	2005	Turkish Grand Prix	4	6	Giancarlo Fisichella	Italy	Renault	58	1:25:12.427	+ 37.973	+ 18.338	217.866	1:25.604	34
+98	14	2005	Turkish Grand Prix	5	3	Jenson Button	Great Britain	BAR	58	1:25:13.758	+ 39.304	+ 1.331	217.809	1:25.790	58
+98	14	2005	Turkish Grand Prix	6	16	Jarno Trulli	Italy	Toyota	58	1:25:29.874	+ 55.420	+ 16.116	217.125	1:26.178	52
+98	14	2005	Turkish Grand Prix	7	14	David Coulthard	Great Britain	Red Bull	58	1:25:43.750	+ 1:09.296	+ 13.876	216.539	1:26.417	58
+98	14	2005	Turkish Grand Prix	8	15	Christian Klien	Austria	Red Bull	58	1:25:46.076	+ 1:11.622	+ 2.326	216.441	1:26.374	58
+98	14	2005	Turkish Grand Prix	9	4	Takuma Sato	Japan	BAR	58	1:26:24.441	+ 1:49.987	+ 38.365	214.840	1:25.858	54
+98	14	2005	Turkish Grand Prix	10	2	Rubens Barrichello	Brazil	Ferrari	57	1:24:37.474	1 Lap	1 Lap	215.581	1:26.635	45
+98	14	2005	Turkish Grand Prix	11	11	Jacques Villeneuve	Canada	Sauber	57	1:25:08.046	1 Lap	+ 30.572	214.291	1:26.967	44
+98	14	2005	Turkish Grand Prix	12	17	Ralf Schumacher	Germany	Toyota	57	1:25:08.608	1 Lap	+ 0.562	214.267	1:27.025	38
+98	14	2005	Turkish Grand Prix	13	20	Robert Doornbos	Netherlands	Minardi	55	1:24:48.942	3 Laps	2 Laps	207.543	1:29.229	53
+98	14	2005	Turkish Grand Prix	14	19	Narain Karthikeyan	India	Jordan	55	1:25:01.551	3 Laps	+ 12.609	207.030	1:29.286	42
+98	14	2005	Turkish Grand Prix	15	18	Tiago Monteiro	Portugal	Jordan	55	1:25:15.082	3 Laps	+ 13.531	206.482	1:29.035	50
+98	14	2005	Turkish Grand Prix	16	21	Christijan Albers	Netherlands	Minardi	48	1:19:07.025			194.154	1:29.392	13
+98	14	2005	Turkish Grand Prix	17	1	Michael Schumacher	Germany	Ferrari	32	1:15:05.648			136.315	1:26.991	21
+98	14	2005	Turkish Grand Prix	18	8	Nick Heidfeld	Germany	Williams	29	45:00.449			206.091	1:27.353	25
+98	14	2005	Turkish Grand Prix	19	12	Felipe Massa	Brazil	Sauber	28	42:06.759			212.652	1:26.514	27
+98	14	2005	Turkish Grand Prix	20	7	Mark Webber	Australia	Williams	20	32:29.364			196.775	1:26.791	12

@@ -1,0 +1,19 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+268	18	2014	Brazilian Grand Prix	1	6	Nico Rosberg	Germany	Mercedes	71	1:30:02.555			203.842	1:13.619	62
+268	18	2014	Brazilian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes	71	1:30:04.012	+ 1.457	+ 1.457	203.787	1:13.555	62
+268	18	2014	Brazilian Grand Prix	3	19	Felipe Massa	Brazil	Williams	71	1:30:43.586	+ 41.031	+ 39.574	202.306	1:14.101	59
+268	18	2014	Brazilian Grand Prix	4	22	Jenson Button	Great Britain	McLaren	71	1:30:51.213	+ 48.658	+ 7.627	202.023	1:13.999	68
+268	18	2014	Brazilian Grand Prix	5	1	Sebastian Vettel	Germany	Red Bull	71	1:30:53.975	+ 51.420	+ 2.762	201.921	1:14.018	68
+268	18	2014	Brazilian Grand Prix	6	14	Fernando Alonso	Spain	Ferrari	71	1:31:04.461	+ 1:01.906	+ 10.486	201.533	1:14.313	55
+268	18	2014	Brazilian Grand Prix	7	7	Kimi Räikkönen	Finland	Ferrari	71	1:31:06.285	+ 1:03.730	+ 1.824	201.466	1:14.963	37
+268	18	2014	Brazilian Grand Prix	8	27	Nico Hülkenberg	Germany	Force India	71	1:31:06.489	+ 1:03.934	+ 0.204	201.458	1:13.728	70
+268	18	2014	Brazilian Grand Prix	9	20	Kevin Magnussen	Denmark	McLaren	71	1:31:12.640	+ 1:10.085	+ 6.151	201.232	1:14.544	62
+268	18	2014	Brazilian Grand Prix	10	77	Valtteri Bottas	Finland	Williams	70	1:30:13.622	1 Lap	1 Lap	200.560	1:14.229	64
+268	18	2014	Brazilian Grand Prix	11	26	Daniil Kvyat	Russia	Toro Rosso	70	1:30:14.317	1 Lap	+ 0.695	200.534	1:14.144	62
+268	18	2014	Brazilian Grand Prix	12	13	Pastor Maldonado	Venezuela	Lotus	70	1:30:20.337	1 Lap	+ 6.020	200.312	1:14.810	47
+268	18	2014	Brazilian Grand Prix	13	25	Jean-Eric Vergne	France	Toro Rosso	70	1:30:21.377	1 Lap	+ 1.040	200.273	1:14.774	65
+268	18	2014	Brazilian Grand Prix	14	21	Esteban Gutiérrez	Mexico	Sauber	70	1:30:25.706	1 Lap	+ 4.329	200.114	1:14.875	64
+268	18	2014	Brazilian Grand Prix	15	11	Sergio Pérez	Mexico	Force India	70	1:30:29.316	1 Lap	+ 3.610	199.980	1:14.550	70
+268	18	2014	Brazilian Grand Prix	16	99	Adrian Sutil	Germany	Sauber	70	1:30:41.360	1 Lap	+ 12.044	199.538	1:14.834	42
+268	18	2014	Brazilian Grand Prix	17	8	Romain Grosjean	France	Lotus	63	1:21:47.393	8 Laps	7 Laps	199.122	1:14.070	63
+268	18	2014	Brazilian Grand Prix	18	3	Daniel Ricciardo	Australia	Red Bull	39	51:06.989			197.221	1:15.387	30

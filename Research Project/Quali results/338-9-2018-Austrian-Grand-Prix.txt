@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+338	9	2018	Austrian Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes AMG Petronas Motorsport	18	1:03.130			246.234		
+338	9	2018	Austrian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas Motorsport	21	1:03.149	0.019	0.019	246.160		
+338	9	2018	Austrian Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari	18	1:03.464	0.334	0.315	244.938		
+338	9	2018	Austrian Grand Prix	4	7	Kimi Räikkönen	Finland	Scuderia Ferrari	21	1:03.660	0.530	0.196	244.184		
+338	9	2018	Austrian Grand Prix	5	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	18	1:03.840	0.710	0.180	243.496		
+338	9	2018	Austrian Grand Prix	6	8	Romain Grosjean	France	Haas F1 Team	17	1:03.892	0.762	0.052	243.298		
+338	9	2018	Austrian Grand Prix	7	3	Daniel Ricciardo	Australia	Aston Martin Red Bull Racing	22	1:03.996	0.866	0.104	242.902		
+338	9	2018	Austrian Grand Prix	8	20	Kevin Magnussen	Denmark	Haas F1 Team	20	1:04.051	0.921	0.055	242.694		
+338	9	2018	Austrian Grand Prix	9	55	Carlos Sainz	Spain	Renault Sport Formula One Team	19	1:04.725	1.595	0.674	240.166		
+338	9	2018	Austrian Grand Prix	10	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team	20	1:05.019	1.889	0.294	239.080		
+338	9	2018	Austrian Grand Prix	11	31	Esteban Ocon	France	Sahara Force India F1 Team	19	1:04.845	1.715		239.722		
+338	9	2018	Austrian Grand Prix	12	10	Pierre Gasly	France	Red Bull Toro Rosso Honda	16	1:04.874	1.744	0.029	239.615		
+338	9	2018	Austrian Grand Prix	13	16	Charles Leclerc	Monaco	Alfa Romeo Sauber F1 Team	19	1:04.979	1.849	0.105	239.228		
+338	9	2018	Austrian Grand Prix	14	14	Fernando Alonso	Spain	McLaren F1 Team	17	1:05.058	1.928	0.079	238.937		
+338	9	2018	Austrian Grand Prix	15	18	Lance Stroll	Canada	Williams Martini Racing	17	1:05.286	2.156	0.228	238.103		
+338	9	2018	Austrian Grand Prix	16	2	Stoffel Vandoorne	Belgium	McLaren F1 Team	9	1:05.271	2.141		238.157		
+338	9	2018	Austrian Grand Prix	17	11	Sergio Pérez	Mexico	Sahara Force India F1 Team	11	1:05.279	2.149	0.008	238.128		
+338	9	2018	Austrian Grand Prix	18	35	Sergey Sirotkin	Russia	Williams Martini Racing	10	1:05.322	2.192	0.043	237.971		
+338	9	2018	Austrian Grand Prix	19	28	Brendon Hartley	New Zealand	Red Bull Toro Rosso Honda	11	1:05.366	2.236	0.044	237.811		
+338	9	2018	Austrian Grand Prix	20	9	Marcus Ericsson	Sweden	Alfa Romeo Sauber F1 Team	11	1:05.479	2.349	0.113	237.401		

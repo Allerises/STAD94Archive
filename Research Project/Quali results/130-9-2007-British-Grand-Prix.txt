@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+130	9	2007	British Grand Prix	1	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	19	1:19.997					
+130	9	2007	British Grand Prix	2	6	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	18	1:20.099	0.102	0.102			
+130	9	2007	British Grand Prix	3	1	Fernando Alonso	Spain	Vodafone McLaren Mercedes	18	1:20.147	0.150	0.048			
+130	9	2007	British Grand Prix	4	5	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	17	1:20.265	0.268	0.118			
+130	9	2007	British Grand Prix	5	10	Robert Kubica	Poland	BMW Sauber F1 Team	22	1:20.401	0.404	0.136			
+130	9	2007	British Grand Prix	6	11	Ralf Schumacher	Germany	Panasonic Toyota Racing	23	1:20.516	0.519	0.115			
+130	9	2007	British Grand Prix	7	4	Heikki Kovalainen	Finland	ING Renault F1 Team	24	1:20.721	0.724	0.205			
+130	9	2007	British Grand Prix	8	3	Giancarlo Fisichella	Italy	ING Renault F1 Team	24	1:20.775	0.778	0.054			
+130	9	2007	British Grand Prix	9	9	Nick Heidfeld	Germany	BMW Sauber F1 Team	17	1:20.894	0.897	0.119			
+130	9	2007	British Grand Prix	10	12	Jarno Trulli	Italy	Panasonic Toyota Racing	24	1:21.240	1.243	0.346			
+130	9	2007	British Grand Prix	11	15	Mark Webber	Australia	Red Bull Racing	12	1:20.235	0.238	0.088			
+130	9	2007	British Grand Prix	12	14	David Coulthard	Great Britain	Red Bull Racing	14	1:20.329	0.332	0.094			
+130	9	2007	British Grand Prix	13	17	Alexander Wurz	Austria	AT&T Williams	15	1:20.350	0.353	0.021			
+130	9	2007	British Grand Prix	14	8	Rubens Barrichello	Brazil	Honda Racing F1 Team	12	1:20.364	0.367	0.014			
+130	9	2007	British Grand Prix	15	19	Scott Speed	USA	Scuderia Toro Rosso	12	1:20.515	0.518	0.151			
+130	9	2007	British Grand Prix	16	18	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	15	1:20.823	0.826	0.308			
+130	9	2007	British Grand Prix	17	16	Nico Rosberg	Germany	AT&T Williams	6	1:21.219	1.222	0.396			
+130	9	2007	British Grand Prix	18	7	Jenson Button	Great Britain	Honda Racing F1 Team	6	1:21.335	1.338	0.116			
+130	9	2007	British Grand Prix	19	23	Anthony Davidson	Great Britain	Super Aguri F1 Team	5	1:21.448	1.451	0.113			
+130	9	2007	British Grand Prix	20	20	Adrian Sutil	Germany	Etihad Aldar Spyker F1 Team	8	1:22.019	2.022	0.571			
+130	9	2007	British Grand Prix	21	22	Takuma Sato	Japan	Super Aguri F1 Team	6	1:22.045	2.048	0.026			
+130	9	2007	British Grand Prix	22	21	Christijan Albers	Netherlands	Etihad Aldar Spyker F1 Team	6	1:22.589	2.592	0.544			

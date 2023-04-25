@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+163	7	2009	Turkish Grand Prix	1	15	Sebastian Vettel	Germany	Red Bull Racing	17	1:28.316	0.795	0.109			
+163	7	2009	Turkish Grand Prix	2	22	Jenson Button	Great Britain	Brawn GP Formula 1 Team	22	1:28.421	0.105	0.105			
+163	7	2009	Turkish Grand Prix	3	23	Rubens Barrichello	Brazil	Brawn GP Formula 1 Team	19	1:28.579	0.263	0.158			
+163	7	2009	Turkish Grand Prix	4	14	Mark Webber	Australia	Red Bull Racing	20	1:28.613	0.297	0.034			
+163	7	2009	Turkish Grand Prix	5	9	Jarno Trulli	Italy	Panasonic Toyota Racing	24	1:28.666	0.350	0.053			
+163	7	2009	Turkish Grand Prix	6	4	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	24	1:28.815	0.499	0.149			
+163	7	2009	Turkish Grand Prix	7	3	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	23	1:28.858	0.542	0.043			
+163	7	2009	Turkish Grand Prix	8	7	Fernando Alonso	Spain	ING Renault F1 Team	20	1:29.075	0.759	0.217			
+163	7	2009	Turkish Grand Prix	9	16	Nico Rosberg	Germany	AT&T Williams	27	1:29.191	0.875	0.116			
+163	7	2009	Turkish Grand Prix	10	5	Robert Kubica	Poland	BMW Sauber F1 Team	20	1:29.357	1.041	0.166			
+163	7	2009	Turkish Grand Prix	11	6	Nick Heidfeld	Germany	BMW Sauber F1 Team	16	1:27.521					
+163	7	2009	Turkish Grand Prix	12	17	Kazuki Nakajima	Japan	AT&T Williams	20	1:27.629	0.108	0.108			
+163	7	2009	Turkish Grand Prix	13	10	Timo Glock	Germany	Panasonic Toyota Racing	18	1:27.795	0.274	0.166			
+163	7	2009	Turkish Grand Prix	14	2	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	18	1:28.207	0.686	0.412			
+163	7	2009	Turkish Grand Prix	15	20	Adrian Sutil	Germany	Force India F1 Team	18	1:28.391	0.075	0.184			
+163	7	2009	Turkish Grand Prix	16	1	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	9	1:28.318	0.002	0.002			
+163	7	2009	Turkish Grand Prix	17	8	Nelson Piquet Jr.	Brazil	Renault	8	1:28.582	0.266	0.264			
+163	7	2009	Turkish Grand Prix	18	12	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	12	1:28.708	0.392	0.126			
+163	7	2009	Turkish Grand Prix	19	21	Giancarlo Fisichella	Italy	Force India F1 Team	11	1:28.717	0.401	0.009			
+163	7	2009	Turkish Grand Prix	20	11	Sebastien Bourdais	France	Scuderia Toro Rosso	9	1:28.918	0.602	0.201			

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+352	2	2019	Bahrain Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	57	1:34:21.295			196.007	1:33.528	36
+352	2	2019	Bahrain Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	57	1:34:24.275	+ 2.980	+ 2.980	195.904	1:34.209	42
+352	2	2019	Bahrain Grand Prix	3	16	Charles Leclerc	Monaco	Ferrari	57	1:34:27.426	+ 6.131	+ 3.151	195.795	1:33.411	38
+352	2	2019	Bahrain Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull	57	1:34:27.703	+ 6.408	+ 0.277	195.785	1:35.311	47
+352	2	2019	Bahrain Grand Prix	5	5	Sebastian Vettel	Germany	Ferrari	57	1:34:57.363	+ 36.068	+ 29.660	194.766	1:34.895	43
+352	2	2019	Bahrain Grand Prix	6	4	Lando Norris	Great Britain	McLaren	57	1:35:07.049	+ 45.754	+ 9.686	194.436	1:35.777	14
+352	2	2019	Bahrain Grand Prix	7	7	Kimi Räikkönen	Finland	Sauber	57	1:35:08.765	+ 47.470	+ 1.716	194.377	1:35.589	45
+352	2	2019	Bahrain Grand Prix	8	10	Pierre Gasly	France	Red Bull	57	1:35:19.389	+ 58.094	+ 10.624	194.016	1:35.291	42
+352	2	2019	Bahrain Grand Prix	9	23	Alexander Albon	Thailand	Toro Rosso	57	1:35:23.992	+ 1:02.697	+ 4.603	193.860	1:36.752	39
+352	2	2019	Bahrain Grand Prix	10	11	Sergio Pérez	Mexico	Aston Martin	57	1:35:24.991	+ 1:03.696	+ 0.999	193.826	1:36.330	51
+352	2	2019	Bahrain Grand Prix	11	99	Antonio Giovinazzi	Italy	Sauber	57	1:35:25.894	+ 1:04.599	+ 0.903	193.796	1:35.237	42
+352	2	2019	Bahrain Grand Prix	12	26	Daniil Kvyat	Russia	Toro Rosso	56	1:34:22.901	1 Lap	1 Lap	192.511	1:34.934	40
+352	2	2019	Bahrain Grand Prix	13	20	Kevin Magnussen	Denmark	Haas	56	1:34:23.842	1 Lap	+ 0.941	192.479	1:35.892	41
+352	2	2019	Bahrain Grand Prix	14	18	Lance Stroll	Canada	Aston Martin	56	1:34:41.504	1 Lap	+ 17.662	191.881	1:37.037	31
+352	2	2019	Bahrain Grand Prix	15	63	George Russell	Great Britain	Williams	56	1:35:21.015	1 Lap	+ 39.511	190.555	1:37.313	14
+352	2	2019	Bahrain Grand Prix	16	88	Robert Kubica	Poland	Williams	55	1:34:22.063	2 Laps	1 Lap	189.098	1:37.903	13
+352	2	2019	Bahrain Grand Prix	17	27	Nico Hülkenberg	Germany	Renault	53	1:27:03.906	4 Laps	2 Laps	197.500	1:35.215	14
+352	2	2019	Bahrain Grand Prix	18	3	Daniel Ricciardo	Australia	Renault	53	1:27:16.482	4 Laps	+ 12.576	197.026	1:36.697	42
+352	2	2019	Bahrain Grand Prix	19	55	Carlos Sainz	Spain	McLaren	53	1:28:36.140	4 Laps	+ 1:19.658	194.073	1:35.586	42
+352	2	2019	Bahrain Grand Prix	20	8	Romain Grosjean	France	Haas	16	27:28.762			188.532	1:37.262	3

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+131	10	2007	European Grand Prix	1	6	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	16	1:31.450					
+131	10	2007	European Grand Prix	2	1	Fernando Alonso	Spain	Vodafone McLaren Mercedes	16	1:31.741	0.291	0.291			
+131	10	2007	European Grand Prix	3	5	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	16	1:31.778	0.328	0.037			
+131	10	2007	European Grand Prix	4	9	Nick Heidfeld	Germany	BMW Sauber F1 Team	20	1:31.840	0.390	0.062			
+131	10	2007	European Grand Prix	5	10	Robert Kubica	Poland	BMW Sauber F1 Team	20	1:32.123	0.673	0.283			
+131	10	2007	European Grand Prix	6	15	Mark Webber	Australia	Red Bull Racing	22	1:32.476	1.026	0.353			
+131	10	2007	European Grand Prix	7	4	Heikki Kovalainen	Finland	ING Renault F1 Team	23	1:32.478	1.028	0.002			
+131	10	2007	European Grand Prix	8	12	Jarno Trulli	Italy	Panasonic Toyota Racing	22	1:32.501	1.051	0.023			
+131	10	2007	European Grand Prix	9	11	Ralf Schumacher	Germany	Panasonic Toyota Racing	22	1:32.570	1.120	0.069			
+131	10	2007	European Grand Prix	10	2	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	12	1:33.833	2.383	1.263			
+131	10	2007	European Grand Prix	11	16	Nico Rosberg	Germany	AT&T Williams	13	1:31.978	0.528	0.138			
+131	10	2007	European Grand Prix	12	17	Alexander Wurz	Austria	AT&T Williams	12	1:31.996	0.546	0.018			
+131	10	2007	European Grand Prix	13	3	Giancarlo Fisichella	Italy	ING Renault F1 Team	13	1:32.010	0.560	0.014			
+131	10	2007	European Grand Prix	14	8	Rubens Barrichello	Brazil	Honda Racing F1 Team	12	1:32.221	0.771	0.211			
+131	10	2007	European Grand Prix	15	23	Anthony Davidson	Great Britain	Super Aguri F1 Team	12	1:32.451	1.001	0.230			
+131	10	2007	European Grand Prix	16	22	Takuma Sato	Japan	Super Aguri F1 Team	11	1:32.838	1.388	0.387			
+131	10	2007	European Grand Prix	17	7	Jenson Button	Great Britain	Honda Racing F1 Team	6	1:32.983	1.533	0.145			
+131	10	2007	European Grand Prix	18	19	Scott Speed	USA	Scuderia Toro Rosso	6	1:33.038	1.588	0.055			
+131	10	2007	European Grand Prix	19	18	Vitantonio Liuzzi	Italy	Scuderia Toro Rosso	6	1:33.148	1.698	0.110			
+131	10	2007	European Grand Prix	20	14	David Coulthard	Great Britain	Red Bull Racing	6	1:33.151	1.701	0.003			
+131	10	2007	European Grand Prix	21	20	Adrian Sutil	Germany	Etihad Aldar Spyker F1 Team	9	1:34.500	3.050	1.349			
+131	10	2007	European Grand Prix	22	21	Markus Winkelhock	Germany	Etihad Aldar Spyker F1 Team	6	1:35.940	4.490	1.440			

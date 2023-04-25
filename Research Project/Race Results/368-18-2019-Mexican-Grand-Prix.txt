@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+368	18	2019	Mexican Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	71	1:36:48.904			189.239	1:19.461	66
+368	18	2019	Mexican Grand Prix	2	5	Sebastian Vettel	Germany	Ferrari	71	1:36:50.670	+ 1.766	+ 1.766	189.182	1:19.381	68
+368	18	2019	Mexican Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes	71	1:36:52.457	+ 3.553	+ 1.787	189.123	1:19.494	66
+368	18	2019	Mexican Grand Prix	4	16	Charles Leclerc	Monaco	Ferrari	71	1:36:55.272	+ 6.368	+ 2.815	189.032	1:19.232	53
+368	18	2019	Mexican Grand Prix	5	23	Alexander Albon	Thailand	Red Bull	71	1:37:10.303	+ 21.399	+ 15.031	188.544	1:19.325	48
+368	18	2019	Mexican Grand Prix	6	33	Max Verstappen	Netherlands	Red Bull	71	1:37:57.711	+ 1:08.807	+ 47.408	187.024	1:20.406	65
+368	18	2019	Mexican Grand Prix	7	11	Sergio Pérez	Mexico	Aston Martin	71	1:38:02.723	+ 1:13.819	+ 5.012	186.864	1:20.485	70
+368	18	2019	Mexican Grand Prix	8	3	Daniel Ricciardo	Australia	Renault	71	1:38:03.828	+ 1:14.924	+ 1.105	186.829	1:20.146	53
+368	18	2019	Mexican Grand Prix	9	10	Pierre Gasly	France	Toro Rosso	70	1:37:12.191	1 Lap	1 Lap	185.827	1:19.530	53
+368	18	2019	Mexican Grand Prix	10	27	Nico Hülkenberg	Germany	Renault	70	1:37:16.515	1 Lap	+ 4.324	185.689	1:20.791	59
+368	18	2019	Mexican Grand Prix	11	26	Daniil Kvyat	Russia	Toro Rosso	70	1:37:19.121	1 Lap	+ 2.606	185.606	1:19.905	48
+368	18	2019	Mexican Grand Prix	12	18	Lance Stroll	Canada	Aston Martin	70	1:37:21.215	1 Lap	+ 2.094	185.540	1:20.922	68
+368	18	2019	Mexican Grand Prix	13	55	Carlos Sainz	Spain	McLaren	70	1:37:24.231	1 Lap	+ 3.016	185.444	1:20.311	66
+368	18	2019	Mexican Grand Prix	14	99	Antonio Giovinazzi	Italy	Sauber	70	1:37:45.156	1 Lap	+ 20.925	184.782	1:21.014	65
+368	18	2019	Mexican Grand Prix	15	20	Kevin Magnussen	Denmark	Haas	69	1:36:50.489	2 Laps	1 Lap	183.854	1:21.682	53
+368	18	2019	Mexican Grand Prix	16	63	George Russell	Great Britain	Williams	69	1:37:36.095	2 Laps	+ 45.606	182.422	1:21.286	69
+368	18	2019	Mexican Grand Prix	17	8	Romain Grosjean	France	Haas	69	1:37:40.796	2 Laps	+ 4.701	182.276	1:21.581	68
+368	18	2019	Mexican Grand Prix	18	88	Robert Kubica	Poland	Williams	69	1:37:50.095	2 Laps	+ 9.299	181.987	1:20.696	63
+368	18	2019	Mexican Grand Prix	19	7	Kimi Räikkönen	Finland	Sauber	58	1:21:35.285			183.410	1:20.082	55
+368	18	2019	Mexican Grand Prix	20	4	Lando Norris	Great Britain	McLaren	48	1:09:26.792			178.291	1:21.643	46

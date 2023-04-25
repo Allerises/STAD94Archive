@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+326	17	2017	United States Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:33.108			213.158		
+326	17	2017	United States Grand Prix	2	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:33.347	0.239	0.239	212.613		
+326	17	2017	United States Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:33.568	0.460	0.221	212.110		
+326	17	2017	United States Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull Racing		1:33.577	0.469	0.009	212.090		
+326	17	2017	United States Grand Prix	5	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:33.577	0.469		212.090		
+326	17	2017	United States Grand Prix	6	31	Esteban Ocon	France	Sahara Force India F1 Team		1:34.647	1.539	1.070	209.692		
+326	17	2017	United States Grand Prix	7	55	Carlos Sainz	Spain	Renault Sport Formula One Team		1:34.852	1.744	0.205	209.239		
+326	17	2017	United States Grand Prix	8	14	Fernando Alonso	Spain	McLaren Honda Formula 1 Team		1:35.007	1.899	0.155	208.898		
+326	17	2017	United States Grand Prix	9	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:35.148	2.040	0.141	208.588		
+326	17	2017	United States Grand Prix	10	19	Felipe Massa	Brazil	Williams Martini Racing		1:35.155	2.047	0.007	208.573		
+326	17	2017	United States Grand Prix	11	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:35.529	2.421	0.374	207.756		
+326	17	2017	United States Grand Prix	12	8	Romain Grosjean	France	Haas F1 Team		1:35.870	2.762	0.341	207.017		
+326	17	2017	United States Grand Prix	13	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:36.842	3.734	0.972	204.940		
+326	17	2017	United States Grand Prix	14	94	Pascal Wehrlein	Germany	Sauber F1 Team		1:37.179	4.071	0.337	204.229		
+326	17	2017	United States Grand Prix	15	18	Lance Stroll	Canada	Williams Martini Racing		1:36.868	3.760		204.884		
+326	17	2017	United States Grand Prix	16	33	Max Verstappen	Netherlands	Red Bull Racing		1:33.658	0.550		211.907		
+326	17	2017	United States Grand Prix	17	20	Kevin Magnussen	Denmark	Haas F1 Team		1:37.394	4.286	3.736	203.778		
+326	17	2017	United States Grand Prix	18	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team							
+326	17	2017	United States Grand Prix	19	39	Brendon Hartley	New Zealand	Scuderia Toro Rosso		1:36.889	3.781		204.840		
+326	17	2017	United States Grand Prix	20	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team		1:35.641	2.533		207.513		

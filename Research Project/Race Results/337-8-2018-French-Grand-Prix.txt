@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+337	8	2018	French Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	53	1:30:11.385			206.025	1:34.509	49
+337	8	2018	French Grand Prix	2	33	Max Verstappen	Netherlands	Red Bull	53	1:30:18.475	+ 7.090	+ 7.090	205.756	1:34.275	47
+337	8	2018	French Grand Prix	3	7	Kimi Räikkönen	Finland	Ferrari	53	1:30:37.273	+ 25.888	+ 18.798	205.044	1:34.398	48
+337	8	2018	French Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull	53	1:30:46.121	+ 34.736	+ 8.848	204.711	1:35.382	37
+337	8	2018	French Grand Prix	5	5	Sebastian Vettel	Germany	Ferrari	53	1:31:13.320	+ 1:01.935	+ 27.199	203.694	1:34.485	42
+337	8	2018	French Grand Prix	6	20	Kevin Magnussen	Denmark	Haas	53	1:31:30.749	+ 1:19.364	+ 17.429	203.047	1:35.425	50
+337	8	2018	French Grand Prix	7	77	Valtteri Bottas	Finland	Mercedes	53	1:31:32.017	+ 1:20.632	+ 1.268	203.000	1:34.225	41
+337	8	2018	French Grand Prix	8	55	Carlos Sainz	Spain	Renault	53	1:31:38.569	+ 1:27.184	+ 6.552	202.758	1:35.638	46
+337	8	2018	French Grand Prix	9	27	Nico Hülkenberg	Germany	Renault	53	1:31:43.374	+ 1:31.989	+ 4.805	202.581	1:35.873	46
+337	8	2018	French Grand Prix	10	16	Charles Leclerc	Monaco	Sauber	53	1:31:45.258	+ 1:33.873	+ 1.884	202.512	1:35.977	45
+337	8	2018	French Grand Prix	11	8	Romain Grosjean	France	Haas	52	1:30:22.411	1 Lap	1 Lap	201.728	1:35.695	47
+337	8	2018	French Grand Prix	12	2	Stoffel Vandoorne	Belgium	McLaren	52	1:30:38.601	1 Lap	+ 16.190	201.127	1:36.675	48
+337	8	2018	French Grand Prix	13	9	Marcus Ericsson	Sweden	Sauber	52	1:30:58.828	1 Lap	+ 20.227	200.382	1:36.494	37
+337	8	2018	French Grand Prix	14	28	Brendon Hartley	New Zealand	Toro Rosso	52	1:31:00.302	1 Lap	+ 1.474	200.328	1:36.839	40
+337	8	2018	French Grand Prix	15	35	Sergey Sirotkin	Russia	Williams	52	1:31:17.064	1 Lap	+ 16.762	199.715	1:38.300	35
+337	8	2018	French Grand Prix	16	14	Fernando Alonso	Spain	McLaren	50	1:27:44.089	3 Laps	2 Laps	199.804	1:35.133	48
+337	8	2018	French Grand Prix	17	18	Lance Stroll	Canada	Williams	48	1:23:49.846	5 Laps	2 Laps	200.747	1:38.319	35
+337	8	2018	French Grand Prix	18	11	Sergio Pérez	Mexico	Force India	27	48:43.202			194.332	1:38.319	25
+337	8	2018	French Grand Prix	19	31	Esteban Ocon	France	Force India							
+337	8	2018	French Grand Prix	20	10	Pierre Gasly	France	Toro Rosso							

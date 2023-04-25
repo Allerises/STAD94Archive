@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+253	3	2014	Bahrain Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	57	1:39:42.743			185.476	1:37.108	49
+253	3	2014	Bahrain Grand Prix	2	6	Nico Rosberg	Germany	Mercedes	57	1:39:43.828	+ 1.085	+ 1.085	185.442	1:37.020	49
+253	3	2014	Bahrain Grand Prix	3	11	Sergio Pérez	Mexico	Force India	57	1:40:06.810	+ 24.067	+ 22.982	184.733	1:39.320	36
+253	3	2014	Bahrain Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull	57	1:40:07.232	+ 24.489	+ 0.422	184.720	1:39.269	38
+253	3	2014	Bahrain Grand Prix	5	27	Nico Hülkenberg	Germany	Force India	57	1:40:11.397	+ 28.654	+ 4.165	184.592	1:38.785	37
+253	3	2014	Bahrain Grand Prix	6	1	Sebastian Vettel	Germany	Red Bull	57	1:40:12.622	+ 29.879	+ 1.225	184.554	1:39.312	18
+253	3	2014	Bahrain Grand Prix	7	19	Felipe Massa	Brazil	Williams	57	1:40:14.008	+ 31.265	+ 1.386	184.512	1:39.272	40
+253	3	2014	Bahrain Grand Prix	8	77	Valtteri Bottas	Finland	Williams	57	1:40:14.619	+ 31.876	+ 0.611	184.493	1:39.762	50
+253	3	2014	Bahrain Grand Prix	9	14	Fernando Alonso	Spain	Ferrari	57	1:40:15.338	+ 32.595	+ 0.719	184.471	1:39.732	53
+253	3	2014	Bahrain Grand Prix	10	7	Kimi Räikkönen	Finland	Ferrari	57	1:40:16.205	+ 33.462	+ 0.867	184.444	1:39.438	35
+253	3	2014	Bahrain Grand Prix	11	26	Daniil Kvyat	Russia	Toro Rosso	57	1:40:24.085	+ 41.342	+ 7.880	184.203	1:40.160	12
+253	3	2014	Bahrain Grand Prix	12	8	Romain Grosjean	France	Lotus	57	1:40:25.886	+ 43.143	+ 1.801	184.148	1:39.443	39
+253	3	2014	Bahrain Grand Prix	13	4	Max Chilton	Great Britain	Marussia	57	1:40:42.652	+ 59.909	+ 16.766	183.637	1:41.825	48
+253	3	2014	Bahrain Grand Prix	14	13	Pastor Maldonado	Venezuela	Lotus	57	1:40:45.546	+ 1:02.803	+ 2.894	183.549	1:39.666	52
+253	3	2014	Bahrain Grand Prix	15	10	Kamui Kobayashi	Japan	Caterham	57	1:41:10.643	+ 1:27.900	+ 25.097	182.790	1:41.246	17
+253	3	2014	Bahrain Grand Prix	16	17	Jules Bianchi	France	Marussia	56	1:40:59.565	1 Lap	1 Lap	179.909	1:42.175	44
+253	3	2014	Bahrain Grand Prix	17	22	Jenson Button	Great Britain	McLaren	55	1:37:37.883	2 Laps	1 Lap	182.777	1:39.565	37
+253	3	2014	Bahrain Grand Prix	18	20	Kevin Magnussen	Denmark	McLaren	40	1:09:15.174			187.342	1:40.108	40
+253	3	2014	Bahrain Grand Prix	19	21	Esteban Gutiérrez	Mexico	Sauber	39	1:07:38.800			186.991	1:40.698	32
+253	3	2014	Bahrain Grand Prix	20	9	Marcus Ericsson	Sweden	Caterham	33	57:58.846			184.561	1:41.134	28
+253	3	2014	Bahrain Grand Prix	21	25	Jean-Eric Vergne	France	Toro Rosso	18	32:48.815			177.676	1:41.650	16
+253	3	2014	Bahrain Grand Prix	22	99	Adrian Sutil	Germany	Sauber	17	32:53.340			167.395	1:41.791	9

@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+205	13	2011	Italian Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull Racing	15	1:22.275					
+205	13	2011	Italian Grand Prix	2	3	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	16	1:22.725	0.450	0.450			
+205	13	2011	Italian Grand Prix	3	4	Jenson Button	Great Britain	Vodafone McLaren Mercedes	17	1:22.777	0.502	0.052			
+205	13	2011	Italian Grand Prix	4	5	Fernando Alonso	Spain	Scuderia Ferrari	18	1:22.841	0.566	0.064			
+205	13	2011	Italian Grand Prix	5	2	Mark Webber	Australia	Red Bull Racing	14	1:22.972	0.697	0.131			
+205	13	2011	Italian Grand Prix	6	6	Felipe Massa	Brazil	Scuderia Ferrari	17	1:23.188	0.913	0.216			
+205	13	2011	Italian Grand Prix	7	10	Vitaly Petrov	Russia	Lotus Renault GP	19	1:23.530	1.255	0.342			
+205	13	2011	Italian Grand Prix	8	7	Michael Schumacher	Germany	Mercedes GP Petronas F1 Team	13	1:23.777	1.502	0.247			
+205	13	2011	Italian Grand Prix	9	8	Nico Rosberg	Germany	Mercedes GP Petronas F1 Team	17	1:25.477	3.202	1.700			
+205	13	2011	Italian Grand Prix	10	9	Bruno Senna	Brazil	Lotus Renault GP	20						
+205	13	2011	Italian Grand Prix	11	15	Paul di Resta	Great Britain	Force India F1 Team	15	1:24.163	1.888	0.386			
+205	13	2011	Italian Grand Prix	12	14	Adrian Sutil	Germany	Force India F1 Team	18	1:24.209	1.934	0.046			
+205	13	2011	Italian Grand Prix	13	11	Rubens Barrichello	Brazil	AT&T Williams	19	1:24.648	2.373	0.439			
+205	13	2011	Italian Grand Prix	14	12	Pastor Maldonado	Venezuela	AT&T Williams	16	1:24.726	2.451	0.078			
+205	13	2011	Italian Grand Prix	15	17	Sergio Pérez	Mexico	Sauber F1 Team	17	1:24.845	2.570	0.119			
+205	13	2011	Italian Grand Prix	16	18	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	18	1:24.932	2.657	0.087			
+205	13	2011	Italian Grand Prix	17	16	Kamui Kobayashi	Japan	Sauber F1 Team	16	1:25.065	2.790	0.133			
+205	13	2011	Italian Grand Prix	18	19	Jaime Alguersuari	Spain	Scuderia Toro Rosso	11	1:25.334	3.059	0.269			
+205	13	2011	Italian Grand Prix	19	21	Jarno Trulli	Italy	Team Lotus	12	1:26.657	4.382	1.323			
+205	13	2011	Italian Grand Prix	20	20	Heikki Kovalainen	Finland	Team Lotus	13	1:27.184	4.909	0.527			
+205	13	2011	Italian Grand Prix	21	24	Timo Glock	Germany	Marussia Virgin Racing	9	1:27.591	5.316	0.407			
+205	13	2011	Italian Grand Prix	22	25	Jerome d'Ambrosio	Belgium	Marussia Virgin Racing	11	1:27.609	5.334	0.018			
+205	13	2011	Italian Grand Prix	23	22	Daniel Ricciardo	Australia	HRT F1 Team	12	1:28.054	5.779	0.445			
+205	13	2011	Italian Grand Prix	24	23	Vitantonio Liuzzi	Italy	HRT F1 Team	11	1:28.231	5.956	0.177			

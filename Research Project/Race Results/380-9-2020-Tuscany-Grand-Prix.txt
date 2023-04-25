@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+380	9	2020	Tuscany Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	59	2:19:35.060			133.036	1:18.833	58
+380	9	2020	Tuscany Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	59	2:19:39.940	+ 4.880	+ 4.880	132.959	1:19.432	53
+380	9	2020	Tuscany Grand Prix	3	23	Alexander Albon	Thailand	Red Bull	59	2:19:43.124	+ 8.064	+ 3.184	132.908	1:20.039	51
+380	9	2020	Tuscany Grand Prix	4	3	Daniel Ricciardo	Australia	Renault	59	2:19:45.477	+ 10.417	+ 2.353	132.871	1:20.426	57
+380	9	2020	Tuscany Grand Prix	5	11	Sergio Pérez	Mexico	Aston Martin	59	2:19:50.710	+ 15.650	+ 5.233	132.788	1:20.632	59
+380	9	2020	Tuscany Grand Prix	6	4	Lando Norris	Great Britain	McLaren	59	2:19:53.943	+ 18.883	+ 3.233	132.737	1:21.198	59
+380	9	2020	Tuscany Grand Prix	7	26	Daniil Kvyat	Russia	Toro Rosso	59	2:19:56.816	+ 21.756	+ 2.873	132.691	1:21.458	51
+380	9	2020	Tuscany Grand Prix	8	16	Charles Leclerc	Monaco	Ferrari	59	2:20:03.405	+ 28.345	+ 6.589	132.587	1:21.229	50
+380	9	2020	Tuscany Grand Prix	9	7	Kimi Räikkönen	Finland	Sauber	59	2:20:04.830	+ 29.770	+ 1.425	132.565	1:21.164	59
+380	9	2020	Tuscany Grand Prix	10	5	Sebastian Vettel	Germany	Ferrari	59	2:20:05.043	+ 29.983	+ 0.213	132.561	1:21.202	59
+380	9	2020	Tuscany Grand Prix	11	63	George Russell	Great Britain	Williams	59	2:20:07.464	+ 32.404	+ 2.421	132.523	1:21.645	58
+380	9	2020	Tuscany Grand Prix	12	8	Romain Grosjean	France	Haas	59	2:20:17.096	+ 42.036	+ 9.632	132.372	1:22.263	59
+380	9	2020	Tuscany Grand Prix	13	18	Lance Stroll	Canada	Aston Martin	42	1:31:32.748			144.407	1:22.068	42
+380	9	2020	Tuscany Grand Prix	14	31	Esteban Ocon	France	Renault	7	15:39.081			140.909	2:11.793	6
+380	9	2020	Tuscany Grand Prix	15	6	Nicholas Latifi	Canada	Williams	6	13:28.971			140.231	2:11.365	6
+380	9	2020	Tuscany Grand Prix	16	20	Kevin Magnussen	Denmark	Haas	5	11:16.573			139.764	2:13.812	4
+380	9	2020	Tuscany Grand Prix	17	99	Antonio Giovinazzi	Italy	Sauber	5	11:18.546			139.358	2:13.809	4
+380	9	2020	Tuscany Grand Prix	18	55	Carlos Sainz	Spain	McLaren	5	11:19.454			139.172	2:14.103	5
+380	9	2020	Tuscany Grand Prix	19	33	Max Verstappen	Netherlands	Red Bull							
+380	9	2020	Tuscany Grand Prix	20	10	Pierre Gasly	France	Toro Rosso							

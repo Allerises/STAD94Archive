@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+52	2	2003	Malaysian Grand Prix	1	6	Kimi Räikkönen	Finland	McLaren	56	1:32:22.195			201.629	1:36.764	10
+52	2	2003	Malaysian Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	56	1:33:01.481	+ 39.286	+ 39.286	200.210	1:36.542	24
+52	2	2003	Malaysian Grand Prix	3	8	Fernando Alonso	Spain	Renault	56	1:33:26.202	+ 1:04.007	+ 24.721	199.327	1:37.078	12
+52	2	2003	Malaysian Grand Prix	4	4	Ralf Schumacher	Germany	Williams	56	1:33:50.221	+ 1:28.026	+ 24.019	198.476	1:38.071	24
+52	2	2003	Malaysian Grand Prix	5	7	Jarno Trulli	Italy	Renault	55	1:32:25.290	1 Lap	1 Lap	197.918	1:37.484	53
+52	2	2003	Malaysian Grand Prix	6	1	Michael Schumacher	Germany	Ferrari	55	1:32:28.475	1 Lap	+ 3.185	197.804	1:36.412	45
+52	2	2003	Malaysian Grand Prix	7	17	Jenson Button	Great Britain	BAR	55	1:32:28.679	1 Lap	+ 0.204	197.797	1:38.413	10
+52	2	2003	Malaysian Grand Prix	8	9	Nick Heidfeld	Germany	Sauber	55	1:32:54.294	1 Lap	+ 25.615	196.888	1:38.528	9
+52	2	2003	Malaysian Grand Prix	9	10	Heinz-Harald Frentzen	Germany	Sauber	55	1:33:50.405	1 Lap	+ 56.111	194.926	1:39.287	19
+52	2	2003	Malaysian Grand Prix	10	12	Ralph Firman	Ireland	Jordan	55	1:33:51.715	1 Lap	+ 1.310	194.880	1:39.665	14
+52	2	2003	Malaysian Grand Prix	11	21	Cristiano da Matta	Brazil	Toyota	55	1:33:51.975	1 Lap	+ 0.260	194.871	1:38.156	35
+52	2	2003	Malaysian Grand Prix	12	3	Juan Pablo Montoya	Colombia	Williams	53	1:32:39.485	3 Laps	2 Laps	190.234	1:37.787	26
+52	2	2003	Malaysian Grand Prix	13	19	Jos Verstappen	Netherlands	Minardi	52	1:32:58.886	4 Laps	1 Lap	185.995	1:39.667	3
+52	2	2003	Malaysian Grand Prix	14	15	Antonio Pizzonia	Brazil	Jaguar	42	1:12:46.694			191.930	1:38.572	3
+52	2	2003	Malaysian Grand Prix	15	18	Justin Wilson	Great Britain	Minardi	41	1:12:23.796			188.348	1:39.752	12
+52	2	2003	Malaysian Grand Prix	16	14	Mark Webber	Australia	Jaguar	35	59:25.781			195.866	1:38.464	6
+52	2	2003	Malaysian Grand Prix	17	20	Olivier Panis	France	Toyota	12	20:02.083			199.202	1:38.176	7
+52	2	2003	Malaysian Grand Prix	18	5	David Coulthard	Great Britain	McLaren	2	3:23.413			196.199	1:38.021	2
+52	2	2003	Malaysian Grand Prix	19	11	Giancarlo Fisichella	Italy	Jordan							
+52	2	2003	Malaysian Grand Prix	20	16	Jacques Villeneuve	Canada	BAR							

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+359	21	2019	Abu Dhabi Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Motorsport	19	1:34.779			210.958		
+359	21	2019	Abu Dhabi Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Motorsport	16	1:34.973	0.194	0.194	210.527		
+359	21	2019	Abu Dhabi Grand Prix	3	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	16	1:35.139	0.360	0.166	210.159		
+359	21	2019	Abu Dhabi Grand Prix	4	16	Charles Leclerc	Monaco	Scuderia Ferrari Mission Winnow	16	1:35.219	0.440	0.080	209.983		
+359	21	2019	Abu Dhabi Grand Prix	5	5	Sebastian Vettel	Germany	Scuderia Ferrari Mission Winnow	16	1:35.339	0.560	0.120	209.719		
+359	21	2019	Abu Dhabi Grand Prix	6	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	21	1:35.682	0.903	0.343	208.967		
+359	21	2019	Abu Dhabi Grand Prix	7	4	Lando Norris	Great Britain	McLaren F1 Team	17	1:36.436	1.657	0.754	207.333		
+359	21	2019	Abu Dhabi Grand Prix	8	3	Daniel Ricciardo	Australia	Renault F1 Team	15	1:36.456	1.677	0.020	207.290		
+359	21	2019	Abu Dhabi Grand Prix	9	55	Carlos Sainz	Spain	McLaren F1 Team	17	1:36.459	1.680	0.003	207.283		
+359	21	2019	Abu Dhabi Grand Prix	10	27	Nico Hülkenberg	Germany	Renault F1 Team	18	1:36.710	1.931	0.251	206.745		
+359	21	2019	Abu Dhabi Grand Prix	11	11	Sergio Pérez	Mexico	SportPesa Racing Point F1 Team	13	1:37.055	2.276	0.345	206.011		
+359	21	2019	Abu Dhabi Grand Prix	12	10	Pierre Gasly	France	Red Bull Toro Rosso Honda	12	1:37.089	2.310	0.034	205.938		
+359	21	2019	Abu Dhabi Grand Prix	13	18	Lance Stroll	Canada	SportPesa Racing Point F1 Team	14	1:37.103	2.324	0.014	205.909		
+359	21	2019	Abu Dhabi Grand Prix	14	26	Daniil Kvyat	Russia	Red Bull Toro Rosso Honda	12	1:37.141	2.362	0.038	205.828		
+359	21	2019	Abu Dhabi Grand Prix	15	20	Kevin Magnussen	Denmark	Haas F1 Team	14	1:37.254	2.475	0.113	205.589		
+359	21	2019	Abu Dhabi Grand Prix	16	8	Romain Grosjean	France	Haas F1 Team	8	1:38.051	3.272	0.797	203.918		
+359	21	2019	Abu Dhabi Grand Prix	17	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing	6	1:38.114	3.335	0.063	203.787		
+359	21	2019	Abu Dhabi Grand Prix	18	7	Kimi Räikkönen	Finland	Alfa Romeo Racing	6	1:38.383	3.604	0.269	203.230		
+359	21	2019	Abu Dhabi Grand Prix	19	63	George Russell	Great Britain	ROKiT Williams Racing	8	1:38.717	3.938	0.334	202.542		
+359	21	2019	Abu Dhabi Grand Prix	20	88	Robert Kubica	Poland	ROKiT Williams Racing	6	1:39.236	4.457	0.519	201.483		

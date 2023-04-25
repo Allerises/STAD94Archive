@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+68	2	2004	Malaysian Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	56	1:31:07.490			204.384	1:34.819	6
+68	2	2004	Malaysian Grand Prix	2	3	Juan Pablo Montoya	Colombia	Williams	56	1:31:12.512	+ 5.022	+ 5.022	204.196	1:34.223	28
+68	2	2004	Malaysian Grand Prix	3	9	Jenson Button	Great Britain	BAR	56	1:31:19.058	+ 11.568	+ 6.546	203.952	1:34.967	28
+68	2	2004	Malaysian Grand Prix	4	2	Rubens Barrichello	Brazil	Ferrari	56	1:31:21.106	+ 13.616	+ 2.048	203.876	1:35.350	7
+68	2	2004	Malaysian Grand Prix	5	7	Jarno Trulli	Italy	Renault	56	1:31:44.850	+ 37.360	+ 23.744	202.997	1:35.039	12
+68	2	2004	Malaysian Grand Prix	6	5	David Coulthard	Great Britain	McLaren	56	1:32:00.588	+ 53.098	+ 15.738	202.418	1:35.852	26
+68	2	2004	Malaysian Grand Prix	7	8	Fernando Alonso	Spain	Renault	56	1:32:15.367	+ 1:07.877	+ 14.779	201.877	1:35.888	7
+68	2	2004	Malaysian Grand Prix	8	12	Felipe Massa	Brazil	Sauber	55	1:31:27.195	1 Lap	1 Lap	200.013	1:36.570	7
+68	2	2004	Malaysian Grand Prix	9	16	Cristiano da Matta	Brazil	Toyota	55	1:31:33.594	1 Lap	+ 6.399	199.780	1:36.544	22
+68	2	2004	Malaysian Grand Prix	10	15	Christian Klien	Austria	Jaguar	55	1:32:07.028	1 Lap	+ 33.434	198.572	1:37.031	12
+68	2	2004	Malaysian Grand Prix	11	11	Giancarlo Fisichella	Italy	Sauber	55	1:32:24.626	1 Lap	+ 17.598	197.941	1:36.675	54
+68	2	2004	Malaysian Grand Prix	12	17	Olivier Panis	France	Toyota	55	1:32:38.018	1 Lap	+ 13.392	197.464	1:35.951	23
+68	2	2004	Malaysian Grand Prix	13	19	Giorgio Pantano	Italy	Jordan	54	1:32:23.137	2 Laps	1 Lap	194.395	1:39.527	41
+68	2	2004	Malaysian Grand Prix	14	20	Gianmaria Bruni	Italy	Minardi	53	1:31:29.590	3 Laps	1 Lap	192.656	1:39.911	11
+68	2	2004	Malaysian Grand Prix	15	10	Takuma Sato	Japan	BAR	52	1:25:54.251	4 Laps	1 Lap	201.319	1:35.679	13
+68	2	2004	Malaysian Grand Prix	16	21	Zsolt Baumgartner	Hungary	Minardi	52	1:31:11.143	4 Laps	+ 5:16.892	189.658	1:40.123	12
+68	2	2004	Malaysian Grand Prix	17	6	Kimi Räikkönen	Finland	McLaren	40	1:05:20.117			203.614	1:35.156	12
+68	2	2004	Malaysian Grand Prix	18	18	Nick Heidfeld	Germany	Jordan	34	58:50.006			192.198	1:37.433	15
+68	2	2004	Malaysian Grand Prix	19	4	Ralf Schumacher	Germany	Williams	27	44:23.259			202.300	1:35.607	10
+68	2	2004	Malaysian Grand Prix	20	14	Mark Webber	Australia	Jaguar	23	39:32.640			193.438	1:36.922	9

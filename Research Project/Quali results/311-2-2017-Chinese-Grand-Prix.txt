@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+311	2	2017	Chinese Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:31.678			214.049		
+311	2	2017	Chinese Grand Prix	2	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:31.864	0.186	0.186	213.615		
+311	2	2017	Chinese Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:31.865	0.187	0.001	213.613		
+311	2	2017	Chinese Grand Prix	4	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:32.140	0.462	0.275	212.975		
+311	2	2017	Chinese Grand Prix	5	3	Daniel Ricciardo	Australia	Red Bull Racing		1:33.033	1.355	0.893	210.931		
+311	2	2017	Chinese Grand Prix	6	19	Felipe Massa	Brazil	Williams Martini Racing		1:33.507	1.829	0.474	209.862		
+311	2	2017	Chinese Grand Prix	7	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:33.580	1.902	0.073	209.698		
+311	2	2017	Chinese Grand Prix	8	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:33.706	2.028	0.126	209.416		
+311	2	2017	Chinese Grand Prix	9	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:33.719	2.041	0.013	209.387		
+311	2	2017	Chinese Grand Prix	10	18	Lance Stroll	Canada	Williams Martini Racing		1:34.220	2.542	0.501	208.274		
+311	2	2017	Chinese Grand Prix	11	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:34.150	2.472		208.429		
+311	2	2017	Chinese Grand Prix	12	20	Kevin Magnussen	Denmark	Haas F1 Team		1:34.164	2.486	0.014	208.398		
+311	2	2017	Chinese Grand Prix	13	14	Fernando Alonso	Spain	McLaren Honda Formula 1 Team		1:34.372	2.694	0.208	207.938		
+311	2	2017	Chinese Grand Prix	14	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:35.046	3.368	0.674	206.464		
+311	2	2017	Chinese Grand Prix	15	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team		1:35.023	3.345		206.514		
+311	2	2017	Chinese Grand Prix	16	33	Max Verstappen	Netherlands	Red Bull Racing		1:35.433	3.755	0.410	205.626		
+311	2	2017	Chinese Grand Prix	17	31	Esteban Ocon	France	Sahara Force India F1 Team		1:35.496	3.818	0.063	205.491		
+311	2	2017	Chinese Grand Prix	18	36	Antonio Giovinazzi	Italy	Sauber							
+311	2	2017	Chinese Grand Prix	19	8	Romain Grosjean	France	Haas F1 Team		1:35.223	3.545		206.080		
+311	2	2017	Chinese Grand Prix	20	30	Jolyon Palmer	Great Britain	Renault Sport Formula One Team		1:35.279	3.601	0.056	205.959		

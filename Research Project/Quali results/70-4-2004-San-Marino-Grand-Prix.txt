@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+70	4	2004	San Marino Grand Prix	1	9	Jenson Button	Great Britain	Lucky Strike BAR Honda	3	1:19.753					
+70	4	2004	San Marino Grand Prix	2	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro	3	1:20.011	0.258	0.258			
+70	4	2004	San Marino Grand Prix	3	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team	3	1:20.212	0.459	0.201			
+70	4	2004	San Marino Grand Prix	4	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro	3	1:20.451	0.698	0.239			
+70	4	2004	San Marino Grand Prix	5	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team	3	1:20.538	0.785	0.087			
+70	4	2004	San Marino Grand Prix	6	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team	3	1:20.895	1.142	0.357			
+70	4	2004	San Marino Grand Prix	7	10	Takuma Sato	Japan	Lucky Strike BAR Honda	3	1:20.913	1.160	0.018			
+70	4	2004	San Marino Grand Prix	8	14	Mark Webber	Australia	Jaguar Racing	3	1:20.921	1.168	0.008			
+70	4	2004	San Marino Grand Prix	9	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team	3	1:21.034	1.281	0.113			
+70	4	2004	San Marino Grand Prix	10	16	Cristiano da Matta	Brazil	Panasonic Toyota Racing	3	1:21.087	1.334	0.053			
+70	4	2004	San Marino Grand Prix	11	5	David Coulthard	Great Britain	West McLaren Mercedes	3	1:21.091	1.338	0.004			
+70	4	2004	San Marino Grand Prix	12	12	Felipe Massa	Brazil	Sauber Petronas	3	1:21.532	1.779	0.441			
+70	4	2004	San Marino Grand Prix	13	17	Olivier Panis	France	Panasonic Toyota Racing	3	1:21.558	1.805	0.026			
+70	4	2004	San Marino Grand Prix	14	15	Christian Klien	Austria	Jaguar Racing	3	1:21.949	2.196	0.391			
+70	4	2004	San Marino Grand Prix	15	19	Giorgio Pantano	Italy	Jordan Ford	3	1:23.352	3.599	1.403			
+70	4	2004	San Marino Grand Prix	16	18	Nick Heidfeld	Germany	Jordan Ford	3	1:23.488	3.735	0.136			
+70	4	2004	San Marino Grand Prix	17	20	Gianmaria Bruni	Italy	Minardi Cosworth	3	1:26.899	7.146	3.411			
+70	4	2004	San Marino Grand Prix	18	21	Zsolt Baumgartner	Hungary	Minardi Cosworth	3	1:46.299	26.546	19.400			
+70	4	2004	San Marino Grand Prix	19	6	Kimi Räikkönen	Finland	West McLaren Mercedes	1						
+70	4	2004	San Marino Grand Prix	20	11	Giancarlo Fisichella	Italy	Sauber Petronas							

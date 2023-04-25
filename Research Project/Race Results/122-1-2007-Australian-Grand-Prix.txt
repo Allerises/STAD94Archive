@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+122	1	2007	Australian Grand Prix	1	6	Kimi Räikkönen	Finland	Ferrari	58	1:25:28.770			215.893	1:25.235	41
+122	1	2007	Australian Grand Prix	2	1	Fernando Alonso	Spain	McLaren	58	1:25:36.012	+ 7.242	+ 7.242	215.588	1:26.314	20
+122	1	2007	Australian Grand Prix	3	2	Lewis Hamilton	Great Britain	McLaren	58	1:25:47.365	+ 18.595	+ 11.353	215.113	1:26.351	20
+122	1	2007	Australian Grand Prix	4	9	Nick Heidfeld	Germany	Sauber	58	1:26:07.533	+ 38.763	+ 20.168	214.273	1:26.722	37
+122	1	2007	Australian Grand Prix	5	3	Giancarlo Fisichella	Italy	Renault	58	1:26:35.239	+ 1:06.469	+ 27.706	213.130	1:26.892	18
+122	1	2007	Australian Grand Prix	6	5	Felipe Massa	Brazil	Ferrari	58	1:26:35.575	+ 1:06.805	+ 0.336	213.117	1:27.044	28
+122	1	2007	Australian Grand Prix	7	16	Nico Rosberg	Germany	Williams	57	1:25:32.237	1 Lap	1 Lap	212.027	1:26.721	40
+122	1	2007	Australian Grand Prix	8	11	Ralf Schumacher	Germany	Toyota	57	1:25:55.972	1 Lap	+ 23.735	211.051	1:27.796	42
+122	1	2007	Australian Grand Prix	9	12	Jarno Trulli	Italy	Toyota	57	1:26:03.643	1 Lap	+ 7.671	210.737	1:28.034	45
+122	1	2007	Australian Grand Prix	10	4	Heikki Kovalainen	Finland	Renault	57	1:26:04.110	1 Lap	+ 0.467	210.718	1:27.592	44
+122	1	2007	Australian Grand Prix	11	8	Rubens Barrichello	Brazil	Honda	57	1:26:05.009	1 Lap	+ 0.899	210.682	1:28.098	17
+122	1	2007	Australian Grand Prix	12	22	Takuma Sato	Japan	Super Aguri	57	1:26:09.506	1 Lap	+ 4.497	210.498	1:28.487	20
+122	1	2007	Australian Grand Prix	13	15	Mark Webber	Australia	Red Bull	57	1:26:39.409	1 Lap	+ 29.903	209.288	1:27.501	21
+122	1	2007	Australian Grand Prix	14	18	Vitantonio Liuzzi	Italy	Toro Rosso	57	1:26:46.364	1 Lap	+ 6.955	209.008	1:28.282	44
+122	1	2007	Australian Grand Prix	15	7	Jenson Button	Great Britain	Honda	57	1:26:47.799	1 Lap	+ 1.435	208.951	1:28.387	42
+122	1	2007	Australian Grand Prix	16	23	Anthony Davidson	Great Britain	Super Aguri	56	1:25:31.618	2 Laps	1 Lap	208.332	1:28.489	41
+122	1	2007	Australian Grand Prix	17	20	Adrian Sutil	Germany	Spyker	56	1:26:43.931	2 Laps	+ 1:12.313	205.437	1:28.687	40
+122	1	2007	Australian Grand Prix	18	17	Alexander Wurz	Austria	Williams	48	1:12:43.760			209.992	1:28.303	24
+122	1	2007	Australian Grand Prix	19	14	David Coulthard	Great Britain	Red Bull	48	1:12:44.295			209.967	1:27.706	44
+122	1	2007	Australian Grand Prix	20	10	Robert Kubica	Poland	Sauber	36	53:24.248			214.486	1:26.642	19
+122	1	2007	Australian Grand Prix	21	19	Scott Speed	USA	Toro Rosso	28	43:01.350			207.078	1:28.953	22
+122	1	2007	Australian Grand Prix	22	21	Christijan Albers	Netherlands	Spyker	10	15:41.020			202.873	1:30.899	9

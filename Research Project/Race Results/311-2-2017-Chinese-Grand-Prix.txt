@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+311	2	2017	Chinese Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	56	1:37:36.158			187.535	1:35.378	44
+311	2	2017	Chinese Grand Prix	2	5	Sebastian Vettel	Germany	Ferrari	56	1:37:42.408	+ 6.250	+ 6.250	187.335	1:35.423	40
+311	2	2017	Chinese Grand Prix	3	33	Max Verstappen	Netherlands	Red Bull	56	1:38:21.350	+ 45.192	+ 38.942	186.099	1:36.722	31
+311	2	2017	Chinese Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull	56	1:38:22.193	+ 46.035	+ 0.843	186.072	1:36.791	36
+311	2	2017	Chinese Grand Prix	5	7	Kimi Räikkönen	Finland	Ferrari	56	1:38:24.234	+ 48.076	+ 2.041	186.008	1:36.003	42
+311	2	2017	Chinese Grand Prix	6	77	Valtteri Bottas	Finland	Mercedes	56	1:38:24.966	+ 48.808	+ 0.732	185.985	1:35.849	41
+311	2	2017	Chinese Grand Prix	7	55	Carlos Sainz	Spain	Toro Rosso	56	1:38:49.051	+ 1:12.893	+ 24.085	185.229	1:37.398	30
+311	2	2017	Chinese Grand Prix	8	20	Kevin Magnussen	Denmark	Haas	55	1:37:45.844	+ 9.686	1 Lap	183.880	1:37.528	35
+311	2	2017	Chinese Grand Prix	9	11	Sergio Pérez	Mexico	Force India	55	1:38:00.090	+ 23.932	+ 14.246	183.434	1:36.531	55
+311	2	2017	Chinese Grand Prix	10	31	Esteban Ocon	France	Force India	55	1:38:06.668	+ 30.510	+ 6.578	183.229	1:37.036	55
+311	2	2017	Chinese Grand Prix	11	8	Romain Grosjean	France	Haas	55	1:38:19.297	+ 43.139	+ 12.629	182.837	1:37.551	50
+311	2	2017	Chinese Grand Prix	12	27	Nico Hülkenberg	Germany	Renault	55	1:38:36.150	+ 59.992	+ 16.853	182.316	1:38.015	36
+311	2	2017	Chinese Grand Prix	13	30	Jolyon Palmer	Great Britain	Renault	55	1:38:38.199	+ 1:02.041	+ 2.049	182.253	1:38.181	47
+311	2	2017	Chinese Grand Prix	14	19	Felipe Massa	Brazil	Williams	55	1:38:44.386	+ 1:08.228	+ 6.187	182.063	1:36.511	50
+311	2	2017	Chinese Grand Prix	15	9	Marcus Ericsson	Sweden	Sauber	55	1:39:12.856	+ 1:36.698	+ 28.470	181.192	1:39.732	50
+311	2	2017	Chinese Grand Prix	16	14	Fernando Alonso	Spain	McLaren	33	1:01:12.183			176.160	1:39.496	31
+311	2	2017	Chinese Grand Prix	17	26	Daniil Kvyat	Russia	Toro Rosso	18	36:36.260			160.518	1:40.090	18
+311	2	2017	Chinese Grand Prix	18	2	Stoffel Vandoorne	Belgium	McLaren	17	35:49.080			154.911	1:41.460	15
+311	2	2017	Chinese Grand Prix	19	36	Antonio Giovinazzi	Italy	Sauber	3	7:11.638			134.804		
+311	2	2017	Chinese Grand Prix	20	18	Lance Stroll	Canada	Williams							

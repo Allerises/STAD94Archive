@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+275	6	2015	Monaco Grand Prix	1	6	Nico Rosberg	Germany	Mercedes	78	1:49:18.420			142.874	1:18.599	76
+275	6	2015	Monaco Grand Prix	2	5	Sebastian Vettel	Germany	Ferrari	78	1:49:22.906	+ 4.486	+ 4.486	142.776	1:18.854	75
+275	6	2015	Monaco Grand Prix	3	44	Lewis Hamilton	Great Britain	Mercedes	78	1:49:24.473	+ 6.053	+ 1.567	142.742	1:18.676	42
+275	6	2015	Monaco Grand Prix	4	26	Daniil Kvyat	Russia	Red Bull	78	1:49:30.385	+ 11.965	+ 5.912	142.614	1:19.130	75
+275	6	2015	Monaco Grand Prix	5	3	Daniel Ricciardo	Australia	Red Bull	78	1:49:32.028	+ 13.608	+ 1.643	142.578	1:18.063	74
+275	6	2015	Monaco Grand Prix	6	7	Kimi Räikkönen	Finland	Ferrari	78	1:49:32.765	+ 14.345	+ 0.737	142.562	1:19.651	74
+275	6	2015	Monaco Grand Prix	7	11	Sergio Pérez	Mexico	Force India	78	1:49:33.433	+ 15.013	+ 0.668	142.547	1:19.657	74
+275	6	2015	Monaco Grand Prix	8	22	Jenson Button	Great Britain	McLaren	78	1:49:34.483	+ 16.063	+ 1.050	142.525	1:19.490	76
+275	6	2015	Monaco Grand Prix	9	12	Felipe Nasr	Brazil	Sauber	78	1:49:42.046	+ 23.626	+ 7.563	142.361	1:20.017	76
+275	6	2015	Monaco Grand Prix	10	55	Carlos Sainz	Spain	Toro Rosso	78	1:49:43.476	+ 25.056	+ 1.430	142.330	1:19.816	48
+275	6	2015	Monaco Grand Prix	11	27	Nico Hülkenberg	Germany	Force India	78	1:49:44.652	+ 26.232	+ 1.176	142.305	1:19.921	46
+275	6	2015	Monaco Grand Prix	12	8	Romain Grosjean	France	Lotus	78	1:49:46.835	+ 28.415	+ 2.183	142.257	1:20.483	40
+275	6	2015	Monaco Grand Prix	13	9	Marcus Ericsson	Sweden	Sauber	78	1:49:49.579	+ 31.159	+ 2.744	142.198	1:19.285	75
+275	6	2015	Monaco Grand Prix	14	77	Valtteri Bottas	Finland	Williams	78	1:50:04.209	+ 45.789	+ 14.630	141.883	1:18.944	74
+275	6	2015	Monaco Grand Prix	15	19	Felipe Massa	Brazil	Williams	77	1:49:47.570	1 Lap	1 Lap	140.418	1:19.764	72
+275	6	2015	Monaco Grand Prix	16	98	Roberto Merhi	Spain	Manor	76	1:50:06.078	2 Laps	1 Lap	138.206	1:21.715	47
+275	6	2015	Monaco Grand Prix	17	28	Will Stevens	Great Britain	Manor	76	1:50:09.760	2 Laps	+ 3.682	138.129	1:22.693	58
+275	6	2015	Monaco Grand Prix	18	33	Max Verstappen	Netherlands	Toro Rosso	62	1:25:02.993			145.957	1:18.873	49
+275	6	2015	Monaco Grand Prix	19	14	Fernando Alonso	Spain	McLaren	41	56:24.122			145.544	1:20.459	36
+275	6	2015	Monaco Grand Prix	20	13	Pastor Maldonado	Venezuela	Lotus	5	7:06.059			140.980	1:22.271	3

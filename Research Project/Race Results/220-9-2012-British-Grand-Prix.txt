@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+220	9	2012	British Grand Prix	1	2	Mark Webber	Australia	Red Bull	52	1:25:11.288					
+220	9	2012	British Grand Prix	2	5	Fernando Alonso	Spain	Ferrari	52	1:25:14.348	+ 3.060	+ 3.060			
+220	9	2012	British Grand Prix	3	1	Sebastian Vettel	Germany	Red Bull	52	1:25:16.124	+ 4.836	+ 1.776			
+220	9	2012	British Grand Prix	4	6	Felipe Massa	Brazil	Ferrari	52	1:25:20.807	+ 9.519	+ 4.683			
+220	9	2012	British Grand Prix	5	9	Kimi Räikkönen	Finland	Lotus	52	1:25:21.602	+ 10.314	+ 0.795		1:34.661	
+220	9	2012	British Grand Prix	6	10	Romain Grosjean	France	Lotus	52	1:25:28.389	+ 17.101	+ 6.787			
+220	9	2012	British Grand Prix	7	7	Michael Schumacher	Germany	Mercedes	52	1:25:40.441	+ 29.153	+ 12.052			
+220	9	2012	British Grand Prix	8	4	Lewis Hamilton	Great Britain	McLaren	52	1:25:47.751	+ 36.463	+ 7.310			
+220	9	2012	British Grand Prix	9	19	Bruno Senna	Brazil	Williams	52	1:25:54.635	+ 43.347	+ 6.884			
+220	9	2012	British Grand Prix	10	3	Jenson Button	Great Britain	McLaren	52	1:25:55.732	+ 44.444	+ 1.097			
+220	9	2012	British Grand Prix	11	14	Kamui Kobayashi	Japan	Sauber	52	1:25:56.658	+ 45.370	+ 0.926			
+220	9	2012	British Grand Prix	12	12	Nico Hülkenberg	Germany	Force India	52	1:25:59.144	+ 47.856	+ 2.486			
+220	9	2012	British Grand Prix	13	16	Daniel Ricciardo	Australia	Toro Rosso	52	1:26:02.529	+ 51.241	+ 3.385			
+220	9	2012	British Grand Prix	14	17	Jean-Eric Vergne	France	Toro Rosso	52	1:26:04.601	+ 53.313	+ 2.072			
+220	9	2012	British Grand Prix	15	8	Nico Rosberg	Germany	Mercedes	52	1:26:08.682	+ 57.394	+ 4.081			
+220	9	2012	British Grand Prix	16	18	Pastor Maldonado	Venezuela	Williams	51		1 Lap	1 Lap			
+220	9	2012	British Grand Prix	17	20	Heikki Kovalainen	Finland	Caterham	51		1 Lap				
+220	9	2012	British Grand Prix	18	24	Timo Glock	Germany	Marussia	51		1 Lap				
+220	9	2012	British Grand Prix	19	25	Charles Pic	France	Marussia	51		1 Lap				
+220	9	2012	British Grand Prix	20	22	Pedro de la Rosa	Spain	HRT	50		2 Laps	1 Lap			
+220	9	2012	British Grand Prix	21	23	Narain Karthikeyan	India	HRT	50		2 Laps				
+220	9	2012	British Grand Prix	22	15	Sergio Pérez	Mexico	Sauber	11						
+220	9	2012	British Grand Prix	23	11	Paul di Resta	Great Britain	Force India	2						
+220	9	2012	British Grand Prix	24	21	Vitaly Petrov	Russia	Caterham							

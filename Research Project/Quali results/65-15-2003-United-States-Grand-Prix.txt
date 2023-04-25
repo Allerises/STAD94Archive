@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+65	15	2003	United States Grand Prix	1	6	Kimi Räikkönen	Finland	West McLaren Mercedes		1:11.670					
+65	15	2003	United States Grand Prix	2	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:11.794	0.124	0.124			
+65	15	2003	United States Grand Prix	3	20	Olivier Panis	France	Panasonic Toyota Racing		1:11.920	0.250	0.126			
+65	15	2003	United States Grand Prix	4	3	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:11.948	0.278	0.028			
+65	15	2003	United States Grand Prix	5	4	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:12.078	0.408	0.130			
+65	15	2003	United States Grand Prix	6	8	Fernando Alonso	Spain	Mild Seven Renault F1 Team		1:12.087	0.417	0.009			
+65	15	2003	United States Grand Prix	7	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:12.194	0.524	0.107			
+65	15	2003	United States Grand Prix	8	5	David Coulthard	Great Britain	West McLaren Mercedes		1:12.297	0.627	0.103			
+65	15	2003	United States Grand Prix	9	21	Cristiano da Matta	Brazil	Panasonic Toyota Racing		1:12.326	0.656	0.029			
+65	15	2003	United States Grand Prix	10	7	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:12.566	0.896	0.240			
+65	15	2003	United States Grand Prix	11	17	Jenson Button	Great Britain	Lucky Strike BAR Honda		1:12.695	1.025	0.129			
+65	15	2003	United States Grand Prix	12	16	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:13.050	1.380	0.355			
+65	15	2003	United States Grand Prix	13	9	Nick Heidfeld	Germany	Sauber Petronas		1:13.083	1.413	0.033			
+65	15	2003	United States Grand Prix	14	14	Mark Webber	Australia	Jaguar Racing		1:13.269	1.599	0.186			
+65	15	2003	United States Grand Prix	15	10	Heinz-Harald Frentzen	Germany	Sauber Petronas		1:13.447	1.777	0.178			
+65	15	2003	United States Grand Prix	16	15	Justin Wilson	Great Britain	Jaguar Racing		1:13.585	1.915	0.138			
+65	15	2003	United States Grand Prix	17	11	Giancarlo Fisichella	Italy	Jordan Ford		1:13.798	2.128	0.213			
+65	15	2003	United States Grand Prix	18	12	Ralph Firman	Ireland	Jordan Ford		1:14.027	2.357	0.229			
+65	15	2003	United States Grand Prix	19	19	Jos Verstappen	Netherlands	European Minardi Cosworth		1:15.360	3.690	1.333			
+65	15	2003	United States Grand Prix	20	18	Nicolas Kiesa	Denmark	European Minardi Cosworth		1:15.644	3.974	0.284			

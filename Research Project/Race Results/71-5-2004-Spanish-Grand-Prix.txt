@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+71	5	2004	Spanish Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	66	1:27:32.841			209.205	1:17.450	12
+71	5	2004	Spanish Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	66	1:27:46.131	+ 13.290	+ 13.290	208.677	1:17.887	16
+71	5	2004	Spanish Grand Prix	3	7	Jarno Trulli	Italy	Renault	66	1:28:05.135	+ 32.294	+ 19.004	207.926	1:18.178	12
+71	5	2004	Spanish Grand Prix	4	8	Fernando Alonso	Spain	Renault	66	1:28:05.793	+ 32.952	+ 0.658	207.900	1:17.556	27
+71	5	2004	Spanish Grand Prix	5	10	Takuma Sato	Japan	BAR	66	1:28:15.168	+ 42.327	+ 9.375	207.532	1:17.678	47
+71	5	2004	Spanish Grand Prix	6	4	Ralf Schumacher	Germany	Williams	66	1:28:46.645	+ 1:13.804	+ 31.477	206.306	1:18.548	27
+71	5	2004	Spanish Grand Prix	7	11	Giancarlo Fisichella	Italy	Sauber	66	1:28:49.949	+ 1:17.108	+ 3.304	206.178	1:19.062	37
+71	5	2004	Spanish Grand Prix	8	9	Jenson Button	Great Britain	BAR	65	1:27:40.536	1 Lap	1 Lap	205.732	1:17.495	46
+71	5	2004	Spanish Grand Prix	9	12	Felipe Massa	Brazil	Sauber	65	1:27:57.220	1 Lap	+ 16.684	205.082	1:18.819	43
+71	5	2004	Spanish Grand Prix	10	5	David Coulthard	Great Britain	McLaren	65	1:28:14.419	1 Lap	+ 17.199	204.416	1:19.175	38
+71	5	2004	Spanish Grand Prix	11	6	Kimi Räikkönen	Finland	McLaren	65	1:28:17.262	1 Lap	+ 2.843	204.306	1:18.842	48
+71	5	2004	Spanish Grand Prix	12	14	Mark Webber	Australia	Jaguar	65	1:28:17.539	1 Lap	+ 0.277	204.295	1:18.617	11
+71	5	2004	Spanish Grand Prix	13	16	Cristiano da Matta	Brazil	Toyota	65	1:28:23.263	1 Lap	+ 5.724	204.075	1:19.112	29
+71	5	2004	Spanish Grand Prix	14	19	Giorgio Pantano	Italy	Jordan	51	1:11:17.704			198.485	1:19.896	27
+71	5	2004	Spanish Grand Prix	15	3	Juan Pablo Montoya	Colombia	Williams	46	1:02:19.938			204.756	1:18.262	28
+71	5	2004	Spanish Grand Prix	16	15	Christian Klien	Austria	Jaguar	43	58:52.203			202.651	1:19.142	18
+71	5	2004	Spanish Grand Prix	17	17	Olivier Panis	France	Toyota	33	45:18.994			201.998	1:19.199	10
+71	5	2004	Spanish Grand Prix	18	18	Nick Heidfeld	Germany	Jordan	33	45:30.426			201.153	1:18.971	25
+71	5	2004	Spanish Grand Prix	19	20	Gianmaria Bruni	Italy	Minardi	31	44:28.507			193.336	1:22.323	3
+71	5	2004	Spanish Grand Prix	20	21	Zsolt Baumgartner	Hungary	Minardi	17	24:31.705			192.102	1:23.390	8

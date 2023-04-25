@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+67	1	2004	Australian Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	58	1:24:15.757			219.010	1:24.125	29
+67	1	2004	Australian Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	58	1:24:29.362	+ 13.605	+ 13.605	218.423	1:24.179	8
+67	1	2004	Australian Grand Prix	3	8	Fernando Alonso	Spain	Renault	58	1:24:50.430	+ 34.673	+ 21.068	217.519	1:25.088	10
+67	1	2004	Australian Grand Prix	4	4	Ralf Schumacher	Germany	Williams	58	1:25:16.180	+ 1:00.423	+ 25.750	216.424	1:25.824	11
+67	1	2004	Australian Grand Prix	5	3	Juan Pablo Montoya	Colombia	Williams	58	1:25:24.293	+ 1:08.536	+ 8.113	216.081	1:25.286	42
+67	1	2004	Australian Grand Prix	6	9	Jenson Button	Great Britain	BAR	58	1:25:26.355	+ 1:10.598	+ 2.062	215.994	1:25.982	24
+67	1	2004	Australian Grand Prix	7	7	Jarno Trulli	Italy	Renault	57	1:24:16.785	1 Lap	1 Lap	215.191	1:26.275	9
+67	1	2004	Australian Grand Prix	8	5	David Coulthard	Great Britain	McLaren	57	1:24:21.176	1 Lap	+ 4.391	215.004	1:26.328	13
+67	1	2004	Australian Grand Prix	9	10	Takuma Sato	Japan	BAR	57	1:24:44.971	1 Lap	+ 23.795	213.998	1:26.077	43
+67	1	2004	Australian Grand Prix	10	11	Giancarlo Fisichella	Italy	Sauber	57	1:25:22.074	1 Lap	+ 37.103	212.448	1:26.282	39
+67	1	2004	Australian Grand Prix	11	15	Christian Klien	Austria	Jaguar	56	1:24:34.124	2 Laps	1 Lap	210.693	1:27.840	6
+67	1	2004	Australian Grand Prix	12	16	Cristiano da Matta	Brazil	Toyota	56	1:24:41.762	2 Laps	+ 7.638	210.376	1:27.820	41
+67	1	2004	Australian Grand Prix	13	17	Olivier Panis	France	Toyota	56	1:25:22.928	2 Laps	+ 41.166	208.686	1:27.807	35
+67	1	2004	Australian Grand Prix	14	19	Giorgio Pantano	Italy	Jordan	55	1:24:16.656	3 Laps	1 Lap	207.645	1:28.523	15
+67	1	2004	Australian Grand Prix	15	12	Felipe Massa	Brazil	Sauber	44	1:05:48.241			212.751	1:26.846	11
+67	1	2004	Australian Grand Prix	16	18	Nick Heidfeld	Germany	Jordan	43	1:06:09.622			206.796	1:27.503	27
+67	1	2004	Australian Grand Prix	17	20	Gianmaria Bruni	Italy	Minardi	43	1:25:15.517			160.473	1:30.161	10
+67	1	2004	Australian Grand Prix	18	14	Mark Webber	Australia	Jaguar	29	43:24.415			212.574	1:25.952	15
+67	1	2004	Australian Grand Prix	19	21	Zsolt Baumgartner	Hungary	Minardi	13	21:44.263			190.284	1:30.621	8
+67	1	2004	Australian Grand Prix	20	6	Kimi Räikkönen	Finland	McLaren	9	13:27.377			212.809	1:27.936	7

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+290	2	2016	Bahrain Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:29.493			217.706		
+290	2	2016	Bahrain Grand Prix	2	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:29.570	0.077	0.077	217.519		
+290	2	2016	Bahrain Grand Prix	3	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:30.012	0.519	0.442	216.451		
+290	2	2016	Bahrain Grand Prix	4	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:30.244	0.751	0.232	215.894		
+290	2	2016	Bahrain Grand Prix	5	3	Daniel Ricciardo	Australia	Red Bull Racing		1:30.854	1.361	0.610	214.445		
+290	2	2016	Bahrain Grand Prix	6	77	Valtteri Bottas	Finland	Williams Martini Racing		1:31.153	1.660	0.299	213.741		
+290	2	2016	Bahrain Grand Prix	7	19	Felipe Massa	Brazil	Williams Martini Racing		1:31.155	1.662	0.002	213.737		
+290	2	2016	Bahrain Grand Prix	8	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:31.620	2.127	0.465	212.652		
+290	2	2016	Bahrain Grand Prix	9	8	Romain Grosjean	France	Haas F1 Team		1:31.756	2.263	0.136	212.337		
+290	2	2016	Bahrain Grand Prix	10	33	Max Verstappen	Netherlands	Scuderia Toro Rosso		1:31.772	2.279	0.016	212.300		
+290	2	2016	Bahrain Grand Prix	11	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:31.816	2.323	0.044	212.198		
+290	2	2016	Bahrain Grand Prix	12	47	Stoffel Vandoorne	Belgium	McLaren Honda		1:31.934	2.441	0.118	211.925		
+290	2	2016	Bahrain Grand Prix	13	21	Esteban Gutiérrez	Mexico	Haas F1 Team		1:31.945	2.452	0.011	211.900		
+290	2	2016	Bahrain Grand Prix	14	22	Jenson Button	Great Britain	McLaren Honda		1:31.998	2.505	0.053	211.778		
+290	2	2016	Bahrain Grand Prix	15	26	Daniil Kvyat	Russia	Red Bull Racing		1:32.241	2.748	0.243	211.220		
+290	2	2016	Bahrain Grand Prix	16	94	Pascal Wehrlein	Germany	Manor Racing MRT		1:32.806	3.313	0.565	209.934		
+290	2	2016	Bahrain Grand Prix	17	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:32.840	3.347	0.034	209.857		
+290	2	2016	Bahrain Grand Prix	18	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:32.911	3.418	0.071	209.697		
+290	2	2016	Bahrain Grand Prix	19	30	Jolyon Palmer	Great Britain	Renault Sport F1 Team		1:33.438	3.945	0.527	208.514		
+290	2	2016	Bahrain Grand Prix	20	88	Rio Haryanto	Indonesia	Manor Racing MRT		1:34.190	4.697	0.752	206.849		
+290	2	2016	Bahrain Grand Prix	21	12	Felipe Nasr	Brazil	Sauber F1 Team		1:34.388	4.895	0.198	206.416		
+290	2	2016	Bahrain Grand Prix	22	20	Kevin Magnussen	Denmark	Renault Sport F1 Team		1:33.181	3.688		209.089		

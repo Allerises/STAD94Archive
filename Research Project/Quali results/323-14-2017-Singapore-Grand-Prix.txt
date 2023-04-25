@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+323	14	2017	Singapore Grand Prix	1	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:39.491			183.272		
+323	14	2017	Singapore Grand Prix	2	33	Max Verstappen	Netherlands	Red Bull Racing		1:39.814	0.323	0.323	182.679		
+323	14	2017	Singapore Grand Prix	3	3	Daniel Ricciardo	Australia	Red Bull Racing		1:39.840	0.349	0.026	182.632		
+323	14	2017	Singapore Grand Prix	4	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:40.069	0.578	0.229	182.214		
+323	14	2017	Singapore Grand Prix	5	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:40.126	0.635	0.057	182.110		
+323	14	2017	Singapore Grand Prix	6	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:40.810	1.319	0.684	180.874		
+323	14	2017	Singapore Grand Prix	7	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:41.013	1.522	0.203	180.511		
+323	14	2017	Singapore Grand Prix	8	14	Fernando Alonso	Spain	McLaren Honda Formula 1 Team		1:41.179	1.688	0.166	180.215		
+323	14	2017	Singapore Grand Prix	9	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team		1:41.398	1.907	0.219	179.826		
+323	14	2017	Singapore Grand Prix	10	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:42.056	2.565	0.658	178.666		
+323	14	2017	Singapore Grand Prix	11	30	Jolyon Palmer	Great Britain	Renault Sport Formula One Team		1:42.107	2.616	0.051	178.577		
+323	14	2017	Singapore Grand Prix	12	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:42.246	2.755	0.139	178.334		
+323	14	2017	Singapore Grand Prix	13	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:42.338	2.847	0.092	178.174		
+323	14	2017	Singapore Grand Prix	14	31	Esteban Ocon	France	Sahara Force India F1 Team		1:42.760	3.269	0.422	177.442		
+323	14	2017	Singapore Grand Prix	15	8	Romain Grosjean	France	Haas F1 Team		1:43.883	4.392	1.123	175.524		
+323	14	2017	Singapore Grand Prix	16	20	Kevin Magnussen	Denmark	Haas F1 Team		1:43.756	4.265		175.739		
+323	14	2017	Singapore Grand Prix	17	19	Felipe Massa	Brazil	Williams Martini Racing		1:44.014	4.523	0.258	175.303		
+323	14	2017	Singapore Grand Prix	18	18	Lance Stroll	Canada	Williams Martini Racing		1:44.728	5.237	0.714	174.108		
+323	14	2017	Singapore Grand Prix	19	94	Pascal Wehrlein	Germany	Sauber F1 Team		1:45.059	5.568	0.331	173.559		
+323	14	2017	Singapore Grand Prix	20	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:45.570	6.079	0.511	172.719		

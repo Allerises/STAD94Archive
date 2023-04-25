@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+110	7	2006	Monaco Grand Prix	1	1	Fernando Alonso	Spain	Renault	78	1:43:43.116			150.707	1:15.671	11
+110	7	2006	Monaco Grand Prix	2	4	Juan Pablo Montoya	Colombia	McLaren	78	1:43:57.683	+ 14.567	+ 14.567	150.355	1:16.008	20
+110	7	2006	Monaco Grand Prix	3	14	David Coulthard	Great Britain	Red Bull	78	1:44:35.414	+ 52.298	+ 37.731	149.451	1:17.849	45
+110	7	2006	Monaco Grand Prix	4	11	Rubens Barrichello	Brazil	Honda	78	1:44:36.453	+ 53.337	+ 1.039	149.427	1:17.320	67
+110	7	2006	Monaco Grand Prix	5	5	Michael Schumacher	Germany	Ferrari	78	1:44:36.946	+ 53.830	+ 0.493	149.415	1:15.143	74
+110	7	2006	Monaco Grand Prix	6	2	Giancarlo Fisichella	Italy	Renault	78	1:44:45.188	+ 1:02.072	+ 8.242	149.219	1:15.919	58
+110	7	2006	Monaco Grand Prix	7	16	Nick Heidfeld	Germany	Sauber	77	1:44:24.512	1 Lap	1 Lap	147.792	1:17.319	72
+110	7	2006	Monaco Grand Prix	8	7	Ralf Schumacher	Germany	Toyota	77	1:44:25.993	1 Lap	+ 1.481	147.757	1:17.540	72
+110	7	2006	Monaco Grand Prix	9	6	Felipe Massa	Brazil	Ferrari	77	1:44:26.526	1 Lap	+ 0.533	147.745	1:16.612	40
+110	7	2006	Monaco Grand Prix	10	20	Vitantonio Liuzzi	Italy	Toro Rosso	77	1:44:29.101	1 Lap	+ 2.575	147.684	1:17.660	75
+110	7	2006	Monaco Grand Prix	11	12	Jenson Button	Great Britain	Honda	77	1:44:38.234	1 Lap	+ 9.133	147.469	1:17.300	59
+110	7	2006	Monaco Grand Prix	12	19	Christijan Albers	Netherlands	MF1 Racing	77	1:44:50.776	1 Lap	+ 12.542	147.175	1:17.603	77
+110	7	2006	Monaco Grand Prix	13	21	Scott Speed	USA	Toro Rosso	77	1:44:52.206	1 Lap	+ 1.430	147.142	1:17.481	77
+110	7	2006	Monaco Grand Prix	14	17	Jacques Villeneuve	Canada	Sauber	77	1:44:58.768	1 Lap	+ 6.562	146.988	1:17.767	74
+110	7	2006	Monaco Grand Prix	15	18	Tiago Monteiro	Portugal	MF1 Racing	76	1:44:18.837	2 Laps	1 Lap	146.005	1:17.329	71
+110	7	2006	Monaco Grand Prix	16	23	Franck Montagny	France	Super Aguri	75	1:43:53.299	3 Laps	1 Lap	144.674	1:19.104	72
+110	7	2006	Monaco Grand Prix	17	8	Jarno Trulli	Italy	Toyota	72	1:36:42.102	6 Laps	3 Laps	149.209	1:17.180	30
+110	7	2006	Monaco Grand Prix	18	15	Christian Klien	Austria	Red Bull	56	1:15:44.322			148.172	1:17.930	19
+110	7	2006	Monaco Grand Prix	19	10	Nico Rosberg	Germany	Williams	51	1:10:16.331			145.440	1:17.227	43
+110	7	2006	Monaco Grand Prix	20	3	Kimi Räikkönen	Finland	McLaren	50	1:06:04.222			151.656	1:15.325	19
+110	7	2006	Monaco Grand Prix	21	9	Mark Webber	Australia	Williams	48	1:02:22.781			154.204	1:15.680	23
+110	7	2006	Monaco Grand Prix	22	22	Takuma Sato	Japan	Super Aguri	46	1:02:38.308			147.168	1:18.793	39

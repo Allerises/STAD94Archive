@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+209	17	2011	Indian Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	60	1:30:35.002				1:27.249	60
+209	17	2011	Indian Grand Prix	2	4	Jenson Button	Great Britain	McLaren	60	1:30:43.435	+ 8.433	+ 8.433		1:27.967	60
+209	17	2011	Indian Grand Prix	3	5	Fernando Alonso	Spain	Ferrari	60	1:30:59.303	+ 24.301	+ 15.868		1:27.953	58
+209	17	2011	Indian Grand Prix	4	2	Mark Webber	Australia	Red Bull	60	1:31:00.531	+ 25.529	+ 1.228		1:27.520	59
+209	17	2011	Indian Grand Prix	5	7	Michael Schumacher	Germany	Mercedes	60	1:31:40.423	+ 1:05.421	+ 39.892		1:28.549	48
+209	17	2011	Indian Grand Prix	6	8	Nico Rosberg	Germany	Mercedes	60	1:31:41.853	+ 1:06.851	+ 1.430		1:28.600	59
+209	17	2011	Indian Grand Prix	7	3	Lewis Hamilton	Great Britain	McLaren	60	1:31:59.185	+ 1:24.183	+ 17.332		1:28.721	58
+209	17	2011	Indian Grand Prix	8	19	Jaime Alguersuari	Spain	Toro Rosso	59		1 Lap	1 Lap		1:29.239	57
+209	17	2011	Indian Grand Prix	9	14	Adrian Sutil	Germany	Force India	59		1 Lap			1:29.289	59
+209	17	2011	Indian Grand Prix	10	17	Sergio Pérez	Mexico	Sauber	59		1 Lap			1:29.345	58
+209	17	2011	Indian Grand Prix	11	10	Vitaly Petrov	Russia	Renault	59		1 Lap			1:29.289	58
+209	17	2011	Indian Grand Prix	12	9	Bruno Senna	Brazil	Renault	59		1 Lap			1:29.310	55
+209	17	2011	Indian Grand Prix	13	15	Paul di Resta	Great Britain	Force India	59		1 Lap			1:28.679	59
+209	17	2011	Indian Grand Prix	14	20	Heikki Kovalainen	Finland	Lotus	58		2 Laps	1 Lap		1:30.294	58
+209	17	2011	Indian Grand Prix	15	11	Rubens Barrichello	Brazil	Williams	58		2 Laps			1:28.635	56
+209	17	2011	Indian Grand Prix	16	25	Jerome d'Ambrosio	Belgium	Virgin	57		3 Laps	1 Lap		1:31.990	51
+209	17	2011	Indian Grand Prix	17	22	Narain Karthikeyan	India	HRT	57		3 Laps			1:31.988	44
+209	17	2011	Indian Grand Prix	18	23	Daniel Ricciardo	Australia	HRT	57		3 Laps			1:31.674	49
+209	17	2011	Indian Grand Prix	19	21	Jarno Trulli	Italy	Lotus	55		5 Laps	2 Laps		1:31.691	52
+209	17	2011	Indian Grand Prix	20	6	Felipe Massa	Brazil	Ferrari	32					1:30.243	19
+209	17	2011	Indian Grand Prix	21	18	Sébastien Buemi	Switzerland	Toro Rosso	24					1:30.956	23
+209	17	2011	Indian Grand Prix	22	12	Pastor Maldonado	Venezuela	Williams	12					1:33.573	12
+209	17	2011	Indian Grand Prix	23	24	Timo Glock	Germany	Virgin	2					2:09.008	2
+209	17	2011	Indian Grand Prix	24	16	Kamui Kobayashi	Japan	Sauber							

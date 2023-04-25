@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+118	15	2006	Italian Grand Prix	1	5	Michael Schumacher	Germany	Ferrari	53	1:14:51.975			245.814	1:22.575	14
+118	15	2006	Italian Grand Prix	2	3	Kimi Räikkönen	Finland	McLaren	53	1:15:00.021	+ 8.046	+ 8.046	245.374	1:22.559	13
+118	15	2006	Italian Grand Prix	3	17	Robert Kubica	Poland	Sauber	53	1:15:18.389	+ 26.414	+ 18.368	244.377	1:23.111	21
+118	15	2006	Italian Grand Prix	4	2	Giancarlo Fisichella	Italy	Renault	53	1:15:24.020	+ 32.045	+ 5.631	244.073	1:23.617	25
+118	15	2006	Italian Grand Prix	5	12	Jenson Button	Great Britain	Honda	53	1:15:24.660	+ 32.685	+ 0.640	244.038	1:23.518	51
+118	15	2006	Italian Grand Prix	6	11	Rubens Barrichello	Brazil	Honda	53	1:15:34.384	+ 42.409	+ 9.724	243.515	1:23.794	27
+118	15	2006	Italian Grand Prix	7	8	Jarno Trulli	Italy	Toyota	53	1:15:36.637	+ 44.662	+ 2.253	243.394	1:23.869	25
+118	15	2006	Italian Grand Prix	8	16	Nick Heidfeld	Germany	Sauber	53	1:15:37.284	+ 45.309	+ 0.647	243.359	1:23.294	20
+118	15	2006	Italian Grand Prix	9	6	Felipe Massa	Brazil	Ferrari	53	1:15:37.930	+ 45.955	+ 0.646	243.325	1:23.003	41
+118	15	2006	Italian Grand Prix	10	9	Mark Webber	Australia	Williams	53	1:16:04.577	+ 1:12.602	+ 26.647	241.904	1:24.197	27
+118	15	2006	Italian Grand Prix	11	15	Christian Klien	Austria	Red Bull	52	1:14:55.976	1 Lap	1 Lap	240.957	1:24.571	37
+118	15	2006	Italian Grand Prix	12	14	David Coulthard	Great Britain	Red Bull	52	1:15:00.600	1 Lap	+ 4.624	240.709	1:24.984	51
+118	15	2006	Italian Grand Prix	13	21	Scott Speed	USA	Toro Rosso	52	1:15:01.696	1 Lap	+ 1.096	240.650	1:25.094	50
+118	15	2006	Italian Grand Prix	14	20	Vitantonio Liuzzi	Italy	Toro Rosso	52	1:15:02.135	1 Lap	+ 0.439	240.627	1:24.764	52
+118	15	2006	Italian Grand Prix	15	7	Ralf Schumacher	Germany	Toyota	52	1:15:03.317	1 Lap	+ 1.182	240.564	1:24.837	41
+118	15	2006	Italian Grand Prix	16	22	Takuma Sato	Japan	Super Aguri	51	1:15:41.343	2 Laps	1 Lap	233.957	1:25.676	15
+118	15	2006	Italian Grand Prix	17	19	Christijan Albers	Netherlands	MF1 Racing	51	1:16:02.248	2 Laps	+ 20.905	232.885	1:25.494	17
+118	15	2006	Italian Grand Prix	18	18	Tiago Monteiro	Portugal	MF1 Racing	44	1:05:40.902			232.560	1:24.822	27
+118	15	2006	Italian Grand Prix	19	1	Fernando Alonso	Spain	Renault	43	1:01:10.341			244.022	1:23.121	38
+118	15	2006	Italian Grand Prix	20	4	Pedro de la Rosa	Spain	McLaren	20	28:54.567			239.819	1:23.702	8
+118	15	2006	Italian Grand Prix	21	23	Sakon Yamamoto	Japan	Super Aguri	18	26:36.310			234.461	1:26.548	15
+118	15	2006	Italian Grand Prix	22	10	Nico Rosberg	Germany	Williams	9	14:16.188			217.920	1:25.362	8

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+167	11	2009	European Grand Prix	1	23	Rubens Barrichello	Brazil	Brawn	57	1:35:51.289			193.344	1:38.990	39
+167	11	2009	European Grand Prix	2	1	Lewis Hamilton	Great Britain	McLaren	57	1:35:53.647	+ 2.358	+ 2.358	193.265	1:39.056	57
+167	11	2009	European Grand Prix	3	4	Kimi Räikkönen	Finland	Ferrari	57	1:36:07.283	+ 15.994	+ 13.636	192.808	1:39.207	39
+167	11	2009	European Grand Prix	4	2	Heikki Kovalainen	Finland	McLaren	57	1:36:11.321	+ 20.032	+ 4.038	192.673	1:39.341	56
+167	11	2009	European Grand Prix	5	16	Nico Rosberg	Germany	Williams	57	1:36:12.159	+ 20.870	+ 0.838	192.645	1:39.329	52
+167	11	2009	European Grand Prix	6	7	Fernando Alonso	Spain	Renault	57	1:36:19.033	+ 27.744	+ 6.874	192.416	1:39.494	46
+167	11	2009	European Grand Prix	7	22	Jenson Button	Great Britain	Brawn	57	1:36:26.202	+ 34.913	+ 7.169	192.177	1:38.874	46
+167	11	2009	European Grand Prix	8	5	Robert Kubica	Poland	Sauber	57	1:36:27.956	+ 36.667	+ 1.754	192.119	1:39.374	55
+167	11	2009	European Grand Prix	9	14	Mark Webber	Australia	Red Bull	57	1:36:36.199	+ 44.910	+ 8.243	191.846	1:39.528	50
+167	11	2009	European Grand Prix	10	20	Adrian Sutil	Germany	Force India	57	1:36:39.224	+ 47.935	+ 3.025	191.746	1:39.622	36
+167	11	2009	European Grand Prix	11	6	Nick Heidfeld	Germany	Sauber	57	1:36:40.111	+ 48.822	+ 0.887	191.716	1:39.704	53
+167	11	2009	European Grand Prix	12	21	Giancarlo Fisichella	Italy	Force India	57	1:36:54.903	+ 1:03.614	+ 14.792	191.229	1:40.111	53
+167	11	2009	European Grand Prix	13	9	Jarno Trulli	Italy	Toyota	57	1:36:55.816	+ 1:04.527	+ 0.913	191.199	1:39.941	52
+167	11	2009	European Grand Prix	14	10	Timo Glock	Germany	Toyota	57	1:37:17.808	+ 1:26.519	+ 21.992	190.478	1:38.683	55
+167	11	2009	European Grand Prix	15	8	Romain Grosjean	France	Renault	57	1:37:23.063	+ 1:31.774	+ 5.255	190.307	1:39.428	41
+167	11	2009	European Grand Prix	16	11	Jaime Alguersuari	Spain	Toro Rosso	56	1:36:38.330	1 Lap	1 Lap	188.411	1:40.935	29
+167	11	2009	European Grand Prix	17	3	Luca Badoer	Italy	Ferrari	56	1:37:13.273	1 Lap	+ 34.943	187.282	1:40.590	52
+167	11	2009	European Grand Prix	18	17	Kazuki Nakajima	Japan	Williams	54	1:33:55.440	3 Laps	2 Laps	186.933	1:39.747	53
+167	11	2009	European Grand Prix	19	12	Sébastien Buemi	Switzerland	Toro Rosso	41	1:11:54.231			185.396	1:41.042	37
+167	11	2009	European Grand Prix	20	15	Sebastian Vettel	Germany	Red Bull	23	39:37.282			188.742	1:39.992	13

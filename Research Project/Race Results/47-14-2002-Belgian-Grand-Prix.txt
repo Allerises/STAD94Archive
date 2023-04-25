@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+47	14	2002	Belgian Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	44	1:21:20.634			225.970	1:47.176	15
+47	14	2002	Belgian Grand Prix	2	2	Rubens Barrichello	Brazil	Ferrari	44	1:21:22.611	+ 1.977	+ 1.977	225.878	1:48.196	16
+47	14	2002	Belgian Grand Prix	3	6	Juan Pablo Montoya	Colombia	Williams	44	1:21:39.079	+ 18.445	+ 16.468	225.119	1:49.293	44
+47	14	2002	Belgian Grand Prix	4	3	David Coulthard	Great Britain	McLaren	44	1:21:39.992	+ 19.358	+ 0.913	225.077	1:49.398	43
+47	14	2002	Belgian Grand Prix	5	5	Ralf Schumacher	Germany	Williams	44	1:22:17.074	+ 56.440	+ 37.082	223.386	1:49.681	15
+47	14	2002	Belgian Grand Prix	6	16	Eddie Irvine	Great Britain	Jaguar	44	1:22:38.004	+ 1:17.370	+ 20.930	222.443	1:50.829	13
+47	14	2002	Belgian Grand Prix	7	24	Mika Salo	Finland	Toyota	44	1:22:38.443	+ 1:17.809	+ 0.439	222.424	1:50.832	18
+47	14	2002	Belgian Grand Prix	8	11	Jacques Villeneuve	Canada	BAR	44	1:22:40.489	+ 1:19.855	+ 2.046	222.332	1:49.787	43
+47	14	2002	Belgian Grand Prix	9	25	Allan McNish	Great Britain	Toyota	43	1:21:23.091	1 Lap	1 Lap	220.723	1:51.479	17
+47	14	2002	Belgian Grand Prix	10	7	Nick Heidfeld	Germany	Sauber	43	1:21:23.830	1 Lap	+ 0.739	220.689	1:51.013	19
+47	14	2002	Belgian Grand Prix	11	10	Takuma Sato	Japan	Jordan	43	1:21:31.573	1 Lap	+ 7.743	220.340	1:50.886	26
+47	14	2002	Belgian Grand Prix	12	12	Olivier Panis	France	BAR	39	1:13:54.306	5 Laps	4 Laps	220.450	1:50.275	34
+47	14	2002	Belgian Grand Prix	13	9	Giancarlo Fisichella	Italy	Jordan	38	1:11:38.781			221.569	1:50.969	17
+47	14	2002	Belgian Grand Prix	14	17	Pedro de la Rosa	Spain	Jaguar	37	1:09:39.607			221.889	1:50.221	14
+47	14	2002	Belgian Grand Prix	15	8	Felipe Massa	Brazil	Sauber	37	1:10:00.499			220.785	1:50.595	30
+47	14	2002	Belgian Grand Prix	16	4	Kimi Räikkönen	Finland	McLaren	35	1:05:24.672			223.528	1:49.764	31
+47	14	2002	Belgian Grand Prix	17	14	Jarno Trulli	Italy	Renault	35	1:05:41.701			222.563	1:50.235	15
+47	14	2002	Belgian Grand Prix	18	22	Anthony Davidson	Great Britain	Minardi	17	32:38.335			217.569	1:51.878	12
+47	14	2002	Belgian Grand Prix	19	15	Jenson Button	Great Britain	Renault	10	18:42.890			223.180	1:51.223	6
+47	14	2002	Belgian Grand Prix	20	23	Mark Webber	Australia	Minardi	4	7:43.383			216.248	1:52.469	3

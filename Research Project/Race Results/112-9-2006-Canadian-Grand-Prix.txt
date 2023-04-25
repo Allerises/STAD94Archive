@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+112	9	2006	Canadian Grand Prix	1	1	Fernando Alonso	Spain	Renault	70	1:34:37.308			193.572	1:15.911	22
+112	9	2006	Canadian Grand Prix	2	5	Michael Schumacher	Germany	Ferrari	70	1:34:39.419	+ 2.111	+ 2.111	193.500	1:15.993	68
+112	9	2006	Canadian Grand Prix	3	3	Kimi Räikkönen	Finland	McLaren	70	1:34:46.121	+ 8.813	+ 6.702	193.272	1:15.841	22
+112	9	2006	Canadian Grand Prix	4	2	Giancarlo Fisichella	Italy	Renault	70	1:34:52.987	+ 15.679	+ 6.866	193.039	1:16.669	49
+112	9	2006	Canadian Grand Prix	5	6	Felipe Massa	Brazil	Ferrari	70	1:35:02.480	+ 25.172	+ 9.493	192.718	1:17.308	31
+112	9	2006	Canadian Grand Prix	6	8	Jarno Trulli	Italy	Toyota	69	1:34:48.881	1 Lap	1 Lap	190.419	1:17.503	15
+112	9	2006	Canadian Grand Prix	7	16	Nick Heidfeld	Germany	Sauber	69	1:34:50.306	1 Lap	+ 1.425	190.371	1:17.454	52
+112	9	2006	Canadian Grand Prix	8	14	David Coulthard	Great Britain	Red Bull	69	1:34:56.187	1 Lap	+ 5.881	190.175	1:17.619	39
+112	9	2006	Canadian Grand Prix	9	12	Jenson Button	Great Britain	Honda	69	1:34:58.332	1 Lap	+ 2.145	190.103	1:18.001	21
+112	9	2006	Canadian Grand Prix	10	21	Scott Speed	USA	Toro Rosso	69	1:34:58.735	1 Lap	+ 0.403	190.089	1:17.720	52
+112	9	2006	Canadian Grand Prix	11	15	Christian Klien	Austria	Red Bull	69	1:35:02.984	1 Lap	+ 4.249	189.948	1:17.576	55
+112	9	2006	Canadian Grand Prix	12	9	Mark Webber	Australia	Williams	69	1:35:08.859	1 Lap	+ 5.875	189.752	1:17.705	17
+112	9	2006	Canadian Grand Prix	13	20	Vitantonio Liuzzi	Italy	Toro Rosso	68	1:35:16.298	2 Laps	1 Lap	186.759	1:18.078	50
+112	9	2006	Canadian Grand Prix	14	18	Tiago Monteiro	Portugal	MF1 Racing	66	1:35:22.575	4 Laps	2 Laps	181.067	1:19.291	5
+112	9	2006	Canadian Grand Prix	15	22	Takuma Sato	Japan	Super Aguri	64	1:32:37.268	6 Laps	2 Laps	180.803	1:20.490	40
+112	9	2006	Canadian Grand Prix	16	17	Jacques Villeneuve	Canada	Sauber	58	1:18:01.352			194.511	1:17.394	29
+112	9	2006	Canadian Grand Prix	17	7	Ralf Schumacher	Germany	Toyota	58	1:23:51.218			180.985	1:18.793	19
+112	9	2006	Canadian Grand Prix	18	4	Juan Pablo Montoya	Colombia	McLaren	13	18:53.407			180.071	1:18.493	5
+112	9	2006	Canadian Grand Prix	19	11	Rubens Barrichello	Brazil	Honda	11	16:06.311			178.716	1:19.286	10
+112	9	2006	Canadian Grand Prix	20	23	Franck Montagny	France	Super Aguri	2	3:44.253			140.016	2:07.709	2
+112	9	2006	Canadian Grand Prix	21	10	Nico Rosberg	Germany	Williams	1	1:26.579			181.332		
+112	9	2006	Canadian Grand Prix	22	19	Christijan Albers	Netherlands	MF1 Racing							

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+36	3	2002	Brazilian Grand Prix	1	1	Michael Schumacher	Germany	Ferrari	71	1:31:43.663			200.098	1:16.235	38
+36	3	2002	Brazilian Grand Prix	2	5	Ralf Schumacher	Germany	Williams	71	1:31:44.251	+ 0.588	+ 0.588	200.076	1:16.224	55
+36	3	2002	Brazilian Grand Prix	3	3	David Coulthard	Great Britain	McLaren	71	1:32:42.773	+ 59.110	+ 58.522	197.971	1:16.670	71
+36	3	2002	Brazilian Grand Prix	4	15	Jenson Button	Great Britain	Renault	71	1:32:50.546	+ 1:06.883	+ 7.773	197.695	1:16.396	70
+36	3	2002	Brazilian Grand Prix	5	6	Juan Pablo Montoya	Colombia	Williams	71	1:32:51.226	+ 1:07.563	+ 0.680	197.671	1:16.079	60
+36	3	2002	Brazilian Grand Prix	6	24	Mika Salo	Finland	Toyota	70	1:32:37.074	1 Lap	1 Lap	195.383	1:17.398	37
+36	3	2002	Brazilian Grand Prix	7	16	Eddie Irvine	Great Britain	Jaguar	70	1:32:41.812	1 Lap	+ 4.738	195.216	1:17.569	60
+36	3	2002	Brazilian Grand Prix	8	17	Pedro de la Rosa	Spain	Jaguar	70	1:32:59.707	1 Lap	+ 17.895	194.590	1:17.575	70
+36	3	2002	Brazilian Grand Prix	9	10	Takuma Sato	Japan	Jordan	69	1:31:52.151	2 Laps	1 Lap	194.161	1:17.320	51
+36	3	2002	Brazilian Grand Prix	10	11	Jacques Villeneuve	Canada	BAR	68	1:30:23.915	3 Laps	1 Lap	194.460	1:17.131	26
+36	3	2002	Brazilian Grand Prix	11	23	Mark Webber	Australia	Minardi	68	1:32:37.634	3 Laps	+ 2:13.719	189.781	1:18.386	62
+36	3	2002	Brazilian Grand Prix	12	4	Kimi Räikkönen	Finland	McLaren	67	1:27:39.929	4 Laps	1 Lap	197.573	1:16.529	54
+36	3	2002	Brazilian Grand Prix	13	22	Alex Yoong	Malaysia	Minardi	67	1:32:14.026	4 Laps	+ 4:34.097	187.787	1:18.837	54
+36	3	2002	Brazilian Grand Prix	14	7	Nick Heidfeld	Germany	Sauber	61	1:21:28.914			193.529	1:17.782	59
+36	3	2002	Brazilian Grand Prix	15	14	Jarno Trulli	Italy	Renault	60	1:18:44.669			196.973	1:17.063	45
+36	3	2002	Brazilian Grand Prix	16	8	Felipe Massa	Brazil	Sauber	41	55:18.570			191.618	1:19.188	11
+36	3	2002	Brazilian Grand Prix	17	25	Allan McNish	Great Britain	Toyota	40	54:31.481			189.635	1:17.868	26
+36	3	2002	Brazilian Grand Prix	18	12	Olivier Panis	France	BAR	25	33:27.282			193.147	1:18.705	23
+36	3	2002	Brazilian Grand Prix	19	20	Heinz-Harald Frentzen	Germany	Arrows	25	33:59.132			190.130	1:17.568	14
+36	3	2002	Brazilian Grand Prix	20	21	Enrique Bernoldi	Brazil	Arrows	19	35:40.964			137.614	1:18.814	14
+36	3	2002	Brazilian Grand Prix	21	2	Rubens Barrichello	Brazil	Ferrari	16	20:42.686			199.640	1:16.511	16
+36	3	2002	Brazilian Grand Prix	22	9	Giancarlo Fisichella	Italy	Jordan	6	9:04.523			170.729	1:17.511	3

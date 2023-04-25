@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+166	10	2009	Hungarian Grand Prix	1	7	Fernando Alonso	Spain	ING Renault F1 Team	20	1:21.569	0.567	0.180			
+166	10	2009	Hungarian Grand Prix	2	15	Sebastian Vettel	Germany	Red Bull Racing	20	1:21.607	0.038	0.038			
+166	10	2009	Hungarian Grand Prix	3	14	Mark Webber	Australia	Red Bull Racing	22	1:21.741	0.172	0.134			
+166	10	2009	Hungarian Grand Prix	4	1	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	23	1:21.839	0.270	0.098			
+166	10	2009	Hungarian Grand Prix	5	16	Nico Rosberg	Germany	AT&T Williams	24	1:21.890	0.321	0.051			
+166	10	2009	Hungarian Grand Prix	6	2	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	29	1:22.095	0.526	0.205			
+166	10	2009	Hungarian Grand Prix	7	4	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	25	1:22.468	0.899	0.373			
+166	10	2009	Hungarian Grand Prix	8	22	Jenson Button	Great Britain	Brawn GP Formula 1 Team	20	1:22.511	0.942	0.043			
+166	10	2009	Hungarian Grand Prix	9	17	Kazuki Nakajima	Japan	AT&T Williams	24	1:22.835	1.266	0.324			
+166	10	2009	Hungarian Grand Prix	10	3	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	18						
+166	10	2009	Hungarian Grand Prix	11	12	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	20	1:21.002					
+166	10	2009	Hungarian Grand Prix	12	9	Jarno Trulli	Italy	Panasonic Toyota Racing	18	1:21.082	0.080	0.080			
+166	10	2009	Hungarian Grand Prix	13	23	Rubens Barrichello	Brazil	Brawn GP Formula 1 Team	17	1:21.222	0.220	0.140			
+166	10	2009	Hungarian Grand Prix	14	10	Timo Glock	Germany	Panasonic Toyota Racing	19	1:21.242	0.240	0.020			
+166	10	2009	Hungarian Grand Prix	15	8	Nelson Piquet Jr.	Brazil	Renault	21	1:21.389	0.387	0.147			
+166	10	2009	Hungarian Grand Prix	16	6	Nick Heidfeld	Germany	BMW Sauber F1 Team	8	1:21.738	0.169	0.349			
+166	10	2009	Hungarian Grand Prix	17	21	Giancarlo Fisichella	Italy	Force India F1 Team	12	1:21.807	0.238	0.069			
+166	10	2009	Hungarian Grand Prix	18	20	Adrian Sutil	Germany	Force India F1 Team	5	1:21.868	0.299	0.061			
+166	10	2009	Hungarian Grand Prix	19	5	Robert Kubica	Poland	BMW Sauber F1 Team	8	1:21.901	0.332	0.033			
+166	10	2009	Hungarian Grand Prix	20	11	Jaime Alguersuari	Spain	Scuderia Toro Rosso	10	1:22.359	0.790	0.458			

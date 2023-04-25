@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+310	1	2017	Australian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:22.188			232.282		
+310	1	2017	Australian Grand Prix	2	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:22.456	0.268	0.268	231.527		
+310	1	2017	Australian Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes AMG Petronas F1 Team		1:22.481	0.293	0.025	231.456		
+310	1	2017	Australian Grand Prix	4	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:23.033	0.845	0.552	229.918		
+310	1	2017	Australian Grand Prix	5	33	Max Verstappen	Netherlands	Red Bull Racing		1:23.485	1.297	0.452	228.673		
+310	1	2017	Australian Grand Prix	6	8	Romain Grosjean	France	Haas F1 Team		1:24.074	1.886	0.589	227.071		
+310	1	2017	Australian Grand Prix	7	19	Felipe Massa	Brazil	Williams Martini Racing		1:24.443	2.255	0.369	226.079		
+310	1	2017	Australian Grand Prix	8	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:24.487	2.299	0.044	225.961		
+310	1	2017	Australian Grand Prix	9	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:24.512	2.324	0.025	225.894		
+310	1	2017	Australian Grand Prix	10	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:25.081	2.893	0.569	224.383		
+310	1	2017	Australian Grand Prix	11	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:25.091	2.903	0.010	224.357		
+310	1	2017	Australian Grand Prix	12	14	Fernando Alonso	Spain	McLaren Honda Formula 1 Team		1:25.425	3.237	0.334	223.480		
+310	1	2017	Australian Grand Prix	13	31	Esteban Ocon	France	Sahara Force India F1 Team		1:25.568	3.380	0.143	223.106		
+310	1	2017	Australian Grand Prix	14	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:26.465	4.277	0.897	220.792		
+310	1	2017	Australian Grand Prix	15	3	Daniel Ricciardo	Australia	Red Bull Racing							
+310	1	2017	Australian Grand Prix	16	36	Antonio Giovinazzi	Italy	Sauber		1:26.419	4.231		220.909		
+310	1	2017	Australian Grand Prix	17	20	Kevin Magnussen	Denmark	Haas F1 Team		1:26.847	4.659	0.428	219.821		
+310	1	2017	Australian Grand Prix	18	2	Stoffel Vandoorne	Belgium	McLaren Honda Formula 1 Team		1:26.858	4.670	0.011	219.793		
+310	1	2017	Australian Grand Prix	19	30	Jolyon Palmer	Great Britain	Renault Sport Formula One Team		1:28.244	6.056	1.386	216.341		
+310	1	2017	Australian Grand Prix	20	18	Lance Stroll	Canada	Williams Martini Racing		1:27.143	4.955		219.074		

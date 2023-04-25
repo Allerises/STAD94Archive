@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+42	9	2002	European Grand Prix	1	6	Juan Pablo Montoya	Colombia	BMW WilliamsF1 Team		1:29.906					
+42	9	2002	European Grand Prix	2	5	Ralf Schumacher	Germany	BMW WilliamsF1 Team		1:29.915	0.009	0.009			
+42	9	2002	European Grand Prix	3	1	Michael Schumacher	Germany	Scuderia Ferrari Marlboro		1:30.035	0.129	0.120			
+42	9	2002	European Grand Prix	4	2	Rubens Barrichello	Brazil	Scuderia Ferrari Marlboro		1:30.387	0.481	0.352			
+42	9	2002	European Grand Prix	5	3	David Coulthard	Great Britain	West McLaren Mercedes		1:30.550	0.644	0.163			
+42	9	2002	European Grand Prix	6	4	Kimi Räikkönen	Finland	West McLaren Mercedes		1:30.591	0.685	0.041			
+42	9	2002	European Grand Prix	7	14	Jarno Trulli	Italy	Mild Seven Renault F1 Team		1:30.927	1.021	0.336			
+42	9	2002	European Grand Prix	8	15	Jenson Button	Great Britain	Mild Seven Renault F1 Team		1:31.136	1.230	0.209			
+42	9	2002	European Grand Prix	9	7	Nick Heidfeld	Germany	Sauber Petronas		1:31.211	1.305	0.075			
+42	9	2002	European Grand Prix	10	24	Mika Salo	Finland	Panasonic Toyota Racing		1:31.389	1.483	0.178			
+42	9	2002	European Grand Prix	11	8	Felipe Massa	Brazil	Sauber Petronas		1:31.733	1.827	0.344			
+42	9	2002	European Grand Prix	12	12	Olivier Panis	France	Lucky Strike BAR Honda		1:31.906	2.000	0.173			
+42	9	2002	European Grand Prix	13	25	Allan McNish	Great Britain	Panasonic Toyota Racing		1:31.941	2.035	0.035			
+42	9	2002	European Grand Prix	14	10	Takuma Sato	Japan	DHL Jordan Honda		1:31.999	2.093	0.058			
+42	9	2002	European Grand Prix	15	20	Heinz-Harald Frentzen	Germany	Orange Arrows		1:32.144	2.238	0.145			
+42	9	2002	European Grand Prix	16	17	Pedro de la Rosa	Spain	Jaguar Racing		1:32.281	2.375	0.137			
+42	9	2002	European Grand Prix	17	16	Eddie Irvine	Great Britain	Jaguar Racing		1:32.510	2.604	0.229			
+42	9	2002	European Grand Prix	18	9	Giancarlo Fisichella	Italy	DHL Jordan Honda		1:32.591	2.685	0.081			
+42	9	2002	European Grand Prix	19	11	Jacques Villeneuve	Canada	Lucky Strike BAR Honda		1:32.968	3.062	0.377			
+42	9	2002	European Grand Prix	20	23	Mark Webber	Australia	KL Minardi Asiatech		1:32.996	3.090	0.028			
+42	9	2002	European Grand Prix	21	21	Enrique Bernoldi	Brazil	Orange Arrows		1:33.360	3.454	0.364			
+42	9	2002	European Grand Prix	22	22	Alex Yoong	Malaysia	KL Minardi Asiatech		1:34.251	4.345	0.891			

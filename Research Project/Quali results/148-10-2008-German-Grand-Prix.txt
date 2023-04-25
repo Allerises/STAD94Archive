@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+148	10	2008	German Grand Prix	1	22	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	13	1:15.666	0.158	0.033			
+148	10	2008	German Grand Prix	2	2	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	16	1:15.859	0.193	0.193			
+148	10	2008	German Grand Prix	3	23	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	17	1:16.143	0.477	0.284			
+148	10	2008	German Grand Prix	4	11	Jarno Trulli	Italy	Panasonic Toyota Racing	21	1:16.191	0.525	0.048			
+148	10	2008	German Grand Prix	5	5	Fernando Alonso	Spain	ING Renault F1 Team	19	1:16.385	0.719	0.194			
+148	10	2008	German Grand Prix	6	1	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	19	1:16.389	0.723	0.004			
+148	10	2008	German Grand Prix	7	4	Robert Kubica	Poland	BMW Sauber F1 Team	20	1:16.521	0.855	0.132			
+148	10	2008	German Grand Prix	8	10	Mark Webber	Australia	Red Bull Racing	20	1:17.014	1.348	0.493			
+148	10	2008	German Grand Prix	9	15	Sebastian Vettel	Germany	Scuderia Toro Rosso	22	1:17.244	1.578	0.230			
+148	10	2008	German Grand Prix	10	9	David Coulthard	Great Britain	Red Bull Racing	20	1:17.503	1.837	0.259			
+148	10	2008	German Grand Prix	11	12	Timo Glock	Germany	Panasonic Toyota Racing	17	1:15.508					
+148	10	2008	German Grand Prix	12	3	Nick Heidfeld	Germany	BMW Sauber F1 Team	14	1:15.581	0.073	0.073			
+148	10	2008	German Grand Prix	13	7	Nico Rosberg	Germany	AT&T Williams	16	1:15.633	0.125	0.052			
+148	10	2008	German Grand Prix	14	16	Jenson Button	Great Britain	Honda Racing F1 Team	15	1:15.701	0.035	0.068			
+148	10	2008	German Grand Prix	15	14	Sebastien Bourdais	France	Scuderia Toro Rosso	15	1:15.858	0.192	0.157			
+148	10	2008	German Grand Prix	16	8	Kazuki Nakajima	Japan	AT&T Williams	10	1:16.083	0.417	0.225			
+148	10	2008	German Grand Prix	17	6	Nelson Piquet Jr.	Brazil	Renault	7	1:16.189	0.523	0.106			
+148	10	2008	German Grand Prix	18	17	Rubens Barrichello	Brazil	Honda Racing F1 Team	10	1:16.246	0.580	0.057			
+148	10	2008	German Grand Prix	19	20	Adrian Sutil	Germany	Force India F1 Team	10	1:16.657	0.991	0.411			
+148	10	2008	German Grand Prix	20	21	Giancarlo Fisichella	Italy	Force India F1 Team	10	1:16.963	1.297	0.306			

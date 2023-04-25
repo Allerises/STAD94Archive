@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+169	13	2009	Italian Grand Prix	1	1	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	23	1:24.066	0.455	0.030			
+169	13	2009	Italian Grand Prix	2	20	Adrian Sutil	Germany	Force India F1 Team	24	1:24.261	0.195	0.195			
+169	13	2009	Italian Grand Prix	3	4	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	28	1:24.523	0.457	0.262			
+169	13	2009	Italian Grand Prix	4	2	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	27	1:24.845	0.779	0.322			
+169	13	2009	Italian Grand Prix	5	23	Rubens Barrichello	Brazil	Brawn GP Formula 1 Team	23	1:25.015	0.949	0.170			
+169	13	2009	Italian Grand Prix	6	22	Jenson Button	Great Britain	Brawn GP Formula 1 Team	26	1:25.030	0.964	0.015			
+169	13	2009	Italian Grand Prix	7	21	Vitantonio Liuzzi	Italy	Force India F1 Team	26	1:25.043	0.977	0.013			
+169	13	2009	Italian Grand Prix	8	7	Fernando Alonso	Spain	ING Renault F1 Team	25	1:25.072	1.006	0.029			
+169	13	2009	Italian Grand Prix	9	15	Sebastian Vettel	Germany	Red Bull Racing	23	1:25.180	1.114	0.108			
+169	13	2009	Italian Grand Prix	10	14	Mark Webber	Australia	Red Bull Racing	24	1:25.314	1.248	0.134			
+169	13	2009	Italian Grand Prix	11	9	Jarno Trulli	Italy	Panasonic Toyota Racing	20	1:23.611					
+169	13	2009	Italian Grand Prix	12	8	Romain Grosjean	France	ING Renault F1 Team	22	1:23.728	0.117	0.117			
+169	13	2009	Italian Grand Prix	13	5	Robert Kubica	Poland	BMW Sauber F1 Team	17	1:23.866	0.255	0.138			
+169	13	2009	Italian Grand Prix	14	3	Giancarlo Fisichella	Italy	Scuderia Ferrari Marlboro	24	1:23.901	0.290	0.035			
+169	13	2009	Italian Grand Prix	15	6	Nick Heidfeld	Germany	BMW Sauber F1 Team	14	1:24.275	0.209	0.374			
+169	13	2009	Italian Grand Prix	16	10	Timo Glock	Germany	Panasonic Toyota Racing	11	1:24.036	0.425	0.135			
+169	13	2009	Italian Grand Prix	17	17	Kazuki Nakajima	Japan	AT&T Williams	9	1:24.074	0.008	0.038			
+169	13	2009	Italian Grand Prix	18	16	Nico Rosberg	Germany	AT&T Williams	12	1:24.121	0.055	0.047			
+169	13	2009	Italian Grand Prix	19	12	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	12	1:24.220	0.154	0.099			
+169	13	2009	Italian Grand Prix	20	11	Jaime Alguersuari	Spain	Scuderia Toro Rosso	11	1:24.951	0.885	0.731			

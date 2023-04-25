@@ -1,0 +1,22 @@
+library(tidyverse)
+
+
+#Find the files in the project directory
+standing_files <- list.files(path = "./Championship Standings", pattern = ".txt", full.names = T)
+race_files <- list.files(path = "./Race Results", pattern = ".txt", full.names = T)
+quali_files <- list.files(path = "./Quali Results", pattern = ".txt", full.names = T)
+
+#Read them into the software
+standings_results <- lapply(standing_files, read_tsv)
+race_results <- lapply(race_files, read_tsv)
+quali_results <- lapply(quali_files, read_tsv)
+
+#Binding data into a single table
+bind_rows(standings_results) -> standings_results
+standings_results %>% rename(Pos = Post) -> standings_results #Fixing typo
+
+race_results[] %>%  map(as.character, race_results[[]]$Pos) -> race_results[] #Fixing formatting inconsistency
+bind_rows(race_results)
+
+quali_results %>% map(as.Date, quali_results$Time) -> quali_results #Fixing formatting inconsistency
+bind_rows(quali_results)

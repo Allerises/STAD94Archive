@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+314	5	2017	Spanish Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	66	1:35:56.497			192.056	1:23.593	64
+314	5	2017	Spanish Grand Prix	2	5	Sebastian Vettel	Germany	Ferrari	66	1:35:59.987	+ 3.490	+ 3.490	191.940	1:23.674	43
+314	5	2017	Spanish Grand Prix	3	3	Daniel Ricciardo	Australia	Red Bull	66	1:37:12.317	+ 1:15.820	+ 1:12.330	189.560	1:23.686	40
+314	5	2017	Spanish Grand Prix	4	11	Sergio Pérez	Mexico	Force India	65	1:36:25.760	+ 29.263	1 Lap	188.188	1:25.755	51
+314	5	2017	Spanish Grand Prix	5	31	Esteban Ocon	France	Force India	65	1:36:37.102	+ 40.605	+ 11.342	187.820	1:26.276	40
+314	5	2017	Spanish Grand Prix	6	27	Nico Hülkenberg	Germany	Renault	65	1:37:00.685	+ 1:04.188	+ 23.583	187.059	1:26.703	56
+314	5	2017	Spanish Grand Prix	7	55	Carlos Sainz	Spain	Toro Rosso	65	1:37:06.506	+ 1:10.009	+ 5.821	186.872	1:26.186	61
+314	5	2017	Spanish Grand Prix	8	94	Pascal Wehrlein	Germany	Sauber	65	1:37:10.366	+ 1:13.869	+ 3.860	186.749	1:26.476	58
+314	5	2017	Spanish Grand Prix	9	26	Daniil Kvyat	Russia	Toro Rosso	65	1:37:19.845	+ 1:23.348	+ 9.479	186.446	1:25.976	37
+314	5	2017	Spanish Grand Prix	10	8	Romain Grosjean	France	Haas	65	1:37:22.513	+ 1:26.016	+ 2.668	186.360	1:26.871	50
+314	5	2017	Spanish Grand Prix	11	9	Marcus Ericsson	Sweden	Sauber	64	1:36:05.401	+ 8.904	1 Lap	185.946	1:26.213	60
+314	5	2017	Spanish Grand Prix	12	14	Fernando Alonso	Spain	McLaren	64	1:36:16.847	+ 20.350	+ 11.446	185.578	1:23.894	64
+314	5	2017	Spanish Grand Prix	13	19	Felipe Massa	Brazil	Williams	64	1:36:22.327	+ 25.830	+ 5.480	185.402	1:26.472	64
+314	5	2017	Spanish Grand Prix	14	20	Kevin Magnussen	Denmark	Haas	64	1:36:27.995	+ 31.498	+ 5.668	185.221	1:26.371	15
+314	5	2017	Spanish Grand Prix	15	30	Jolyon Palmer	Great Britain	Renault	64	1:36:29.251	+ 32.754	+ 1.256	185.180	1:24.843	44
+314	5	2017	Spanish Grand Prix	16	18	Lance Stroll	Canada	Williams	64	1:36:33.918	+ 37.421	+ 4.667	185.031	1:26.838	50
+314	5	2017	Spanish Grand Prix	17	77	Valtteri Bottas	Finland	Mercedes	38	56:41.841			187.060	1:24.696	28
+314	5	2017	Spanish Grand Prix	18	2	Stoffel Vandoorne	Belgium	McLaren	32	48:13.978			185.143	1:27.554	14
+314	5	2017	Spanish Grand Prix	19	33	Max Verstappen	Netherlands	Red Bull	1	2:40.999			101.269		
+314	5	2017	Spanish Grand Prix	20	7	Kimi Räikkönen	Finland	Ferrari							

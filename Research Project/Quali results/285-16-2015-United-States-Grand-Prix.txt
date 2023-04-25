@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+285	16	2015	United States Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:56.824			169.886		
+285	16	2015	United States Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:56.929	0.105	0.105	169.733		
+285	16	2015	United States Grand Prix	3	3	Daniel Ricciardo	Australia	Infiniti Red Bull Racing		1:57.969	1.145	1.040	168.237		
+285	16	2015	United States Grand Prix	4	26	Daniil Kvyat	Russia	Infiniti Red Bull Racing		1:58.434	1.610	0.465	167.576		
+285	16	2015	United States Grand Prix	5	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:59.210	2.386	0.776	166.486		
+285	16	2015	United States Grand Prix	6	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:59.333	2.509	0.123	166.314		
+285	16	2015	United States Grand Prix	7	19	Felipe Massa	Brazil	Williams Martini Racing		1:59.999	3.175	0.666	165.391		
+285	16	2015	United States Grand Prix	8	33	Max Verstappen	Netherlands	Scuderia Toro Rosso		2:00.199	3.375	0.200	165.116		
+285	16	2015	United States Grand Prix	9	14	Fernando Alonso	Spain	McLaren Honda		2:00.265	3.441	0.066	165.025		
+285	16	2015	United States Grand Prix	10	8	Romain Grosjean	France	Lotus F1 Team		2:00.595	3.771	0.330	164.573		
+285	16	2015	United States Grand Prix	11	22	Jenson Button	Great Britain	McLaren Honda		2:01.193	4.369	0.598	163.761		
+285	16	2015	United States Grand Prix	12	13	Pastor Maldonado	Venezuela	Lotus F1 Team		2:01.604	4.780	0.411	163.208		
+285	16	2015	United States Grand Prix	13	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:58.596	1.772		167.347		
+285	16	2015	United States Grand Prix	14	9	Marcus Ericsson	Sweden	Sauber F1 Team		2:02.212	5.388	3.616	162.396		
+285	16	2015	United States Grand Prix	15	12	Felipe Nasr	Brazil	Sauber F1 Team		2:03.194	6.370	0.982	161.102		
+285	16	2015	United States Grand Prix	16	77	Valtteri Bottas	Finland	Williams Martini Racing		2:00.334	3.510		164.930		
+285	16	2015	United States Grand Prix	17	53	Alexander Rossi	USA	Manor Marussia F1 Team		2:04.176	7.352	3.842	159.827		
+285	16	2015	United States Grand Prix	18	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:59.703	2.879		165.800		
+285	16	2015	United States Grand Prix	19	28	Will Stevens	Great Britain	Manor Marussia F1 Team		2:04.526	7.702	4.823	159.378		
+285	16	2015	United States Grand Prix	20	55	Carlos Sainz	Spain	Scuderia Toro Rosso		2:07.304	10.480	2.778	155.900		

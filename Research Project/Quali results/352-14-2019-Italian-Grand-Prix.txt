@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+352	14	2019	Italian Grand Prix	1	16	Charles Leclerc	Monaco	Scuderia Ferrari	18	1:19.307			262.962		
+352	14	2019	Italian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Motorsport	16	1:19.346	0.039	0.039	262.833		
+352	14	2019	Italian Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Motorsport	17	1:19.354	0.047	0.008	262.807		
+352	14	2019	Italian Grand Prix	4	5	Sebastian Vettel	Germany	Scuderia Ferrari	17	1:19.457	0.150	0.103	262.466		
+352	14	2019	Italian Grand Prix	5	3	Daniel Ricciardo	Australia	Renault F1 Team	13	1:19.839	0.532	0.382	261.210		
+352	14	2019	Italian Grand Prix	6	27	Nico Hülkenberg	Germany	Renault F1 Team	14	1:20.049	0.742	0.210	260.525		
+352	14	2019	Italian Grand Prix	7	55	Carlos Sainz	Spain	McLaren F1 Team	20	1:20.455	1.148	0.406	259.210		
+352	14	2019	Italian Grand Prix	8	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	15						
+352	14	2019	Italian Grand Prix	9	18	Lance Stroll	Canada	SportPesa Racing Point F1 Team	19						
+352	14	2019	Italian Grand Prix	10	7	Kimi Räikkönen	Finland	Alfa Romeo Racing	16						
+352	14	2019	Italian Grand Prix	11	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing	15	1:20.517	1.210		259.011		
+352	14	2019	Italian Grand Prix	12	20	Kevin Magnussen	Denmark	Rich Energy Haas F1 Team	14	1:20.615	1.308	0.098	258.696		
+352	14	2019	Italian Grand Prix	13	26	Daniil Kvyat	Russia	Red Bull Toro Rosso Honda	17	1:20.630	1.323	0.015	258.648		
+352	14	2019	Italian Grand Prix	14	4	Lando Norris	Great Britain	McLaren F1 Team	15	1:21.068	1.761	0.438	257.250		
+352	14	2019	Italian Grand Prix	15	10	Pierre Gasly	France	Red Bull Toro Rosso Honda	15	1:21.125	1.818	0.057	257.069		
+352	14	2019	Italian Grand Prix	16	8	Romain Grosjean	France	Rich Energy Haas F1 Team	8	1:20.784	1.477		258.155		
+352	14	2019	Italian Grand Prix	17	11	Sergio Pérez	Mexico	SportPesa Racing Point F1 Team	6	1:21.291	1.984	0.507	256.545		
+352	14	2019	Italian Grand Prix	18	63	George Russell	Great Britain	ROKiT Williams Racing	8	1:21.800	2.493	0.509	254.948		
+352	14	2019	Italian Grand Prix	19	88	Robert Kubica	Poland	ROKiT Williams Racing	9	1:22.356	3.049	0.556	253.227		
+352	14	2019	Italian Grand Prix	20	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	3						

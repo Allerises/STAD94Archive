@@ -1,0 +1,23 @@
+Year	Pos	Driver	Points
+2002	1	Michael Schumacher	144
+2002	2	Rubens Barrichello	77
+2002	3	Juan Pablo Montoya	50
+2002	4	Ralf Schumacher	42
+2002	5	David Coulthard	41
+2002	6	Kimi Räikkönen	24
+2002	7	Jenson Button	14
+2002	8	Jarno Trulli	9
+2002	9	Eddie Irvine	8
+2002	10	Nick Heidfeld	7
+2002	11	Giancarlo Fisichella	7
+2002	12	Jacques Villeneuve	4
+2002	13	Felipe Massa	4
+2002	14	Olivier Panis	3
+2002	15	Takuma Sato	2
+2002	16	Mark Webber	2
+2002	17	Mika Salo	2
+2002	18	Heinz-Harald Frentzen	2
+2002	19	Allan McNish	
+2002	20	Alex Yoong	
+2002	21	Pedro de la Rosa	
+2002	22	Enrique Bernoldi	

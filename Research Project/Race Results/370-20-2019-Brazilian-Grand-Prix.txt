@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+370	20	2019	Brazilian Grand Prix	1	33	Max Verstappen	Netherlands	Red Bull	71	1:33:14.678			196.823	1:10.862	61
+370	20	2019	Brazilian Grand Prix	2	10	Pierre Gasly	France	Toro Rosso	71	1:33:20.755	+ 6.077	+ 6.077	196.609	1:12.425	65
+370	20	2019	Brazilian Grand Prix	3	55	Carlos Sainz	Spain	McLaren	71	1:33:23.574	+ 8.896	+ 2.819	196.511	1:13.158	63
+370	20	2019	Brazilian Grand Prix	4	7	Kimi Räikkönen	Finland	Sauber	71	1:33:24.130	+ 9.452	+ 0.556	196.491	1:13.135	65
+370	20	2019	Brazilian Grand Prix	5	99	Antonio Giovinazzi	Italy	Sauber	71	1:33:24.879	+ 10.201	+ 0.749	196.465	1:13.020	49
+370	20	2019	Brazilian Grand Prix	6	3	Daniel Ricciardo	Australia	Renault	71	1:33:25.219	+ 10.541	+ 0.340	196.453	1:12.733	44
+370	20	2019	Brazilian Grand Prix	7	44	Lewis Hamilton	Great Britain	Mercedes	71	1:33:25.817	+ 11.139	+ 0.598	196.432	1:11.082	46
+370	20	2019	Brazilian Grand Prix	8	4	Lando Norris	Great Britain	McLaren	71	1:33:25.882	+ 11.204	+ 0.065	196.430	1:12.328	63
+370	20	2019	Brazilian Grand Prix	9	11	Sergio Pérez	Mexico	Aston Martin	71	1:33:26.207	+ 11.529	+ 0.325	196.418	1:12.840	64
+370	20	2019	Brazilian Grand Prix	10	26	Daniil Kvyat	Russia	Toro Rosso	71	1:33:26.609	+ 11.931	+ 0.402	196.404	1:12.385	49
+370	20	2019	Brazilian Grand Prix	11	20	Kevin Magnussen	Denmark	Haas	71	1:33:27.410	+ 12.732	+ 0.801	196.376	1:13.262	65
+370	20	2019	Brazilian Grand Prix	12	63	George Russell	Great Britain	Williams	71	1:33:28.277	+ 13.599	+ 0.867	196.346	1:13.752	57
+370	20	2019	Brazilian Grand Prix	13	8	Romain Grosjean	France	Haas	71	1:33:28.925	+ 14.247	+ 0.648	196.323	1:13.619	29
+370	20	2019	Brazilian Grand Prix	14	23	Alexander Albon	Thailand	Red Bull	71	1:33:29.605	+ 14.927	+ 0.680	196.299	1:11.087	52
+370	20	2019	Brazilian Grand Prix	15	27	Nico Hülkenberg	Germany	Renault	71	1:33:32.737	+ 18.059	+ 3.132	196.190	1:12.934	64
+370	20	2019	Brazilian Grand Prix	16	88	Robert Kubica	Poland	Williams	70	1:33:32.670	1 Lap	1 Lap	193.428	1:14.553	63
+370	20	2019	Brazilian Grand Prix	17	5	Sebastian Vettel	Germany	Ferrari	65	1:23:25.347	6 Laps	5 Laps	201.402	1:11.384	51
+370	20	2019	Brazilian Grand Prix	18	16	Charles Leclerc	Monaco	Ferrari	65	1:23:25.801	6 Laps	+ 0.454	201.384	1:11.423	63
+370	20	2019	Brazilian Grand Prix	19	18	Lance Stroll	Canada	Aston Martin	65	1:23:44.211	6 Laps	+ 18.410	200.646	1:12.603	65
+370	20	2019	Brazilian Grand Prix	20	77	Valtteri Bottas	Finland	Mercedes	51	1:03:20.179			208.126	1:10.698	43

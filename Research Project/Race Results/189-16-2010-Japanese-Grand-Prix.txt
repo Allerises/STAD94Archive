@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+189	16	2010	Japanese Grand Prix	1	5	Sebastian Vettel	Germany	Red Bull	53	1:30:27.323			203.948	1:33.653	51
+189	16	2010	Japanese Grand Prix	2	6	Mark Webber	Australia	Red Bull	53	1:30:28.228	+ 0.905	+ 0.905	203.914	1:33.474	53
+189	16	2010	Japanese Grand Prix	3	8	Fernando Alonso	Spain	Ferrari	53	1:30:30.044	+ 2.721	+ 1.816	203.846	1:33.823	53
+189	16	2010	Japanese Grand Prix	4	1	Jenson Button	Great Britain	McLaren	53	1:30:40.845	+ 13.522	+ 10.801	203.441	1:33.529	53
+189	16	2010	Japanese Grand Prix	5	2	Lewis Hamilton	Great Britain	McLaren	53	1:31:06.918	+ 39.595	+ 26.073	202.471	1:35.182	35
+189	16	2010	Japanese Grand Prix	6	3	Michael Schumacher	Germany	Mercedes	53	1:31:27.256	+ 59.933	+ 20.338	201.721	1:34.853	52
+189	16	2010	Japanese Grand Prix	7	23	Kamui Kobayashi	Japan	Sauber	53	1:31:31.361	+ 1:04.038	+ 4.105	201.570	1:34.486	50
+189	16	2010	Japanese Grand Prix	8	22	Nick Heidfeld	Germany	Sauber	53	1:31:36.971	+ 1:09.648	+ 5.610	201.364	1:35.521	52
+189	16	2010	Japanese Grand Prix	9	9	Rubens Barrichello	Brazil	Williams	53	1:31:38.169	+ 1:10.846	+ 1.198	201.320	1:35.597	53
+189	16	2010	Japanese Grand Prix	10	16	Sébastien Buemi	Switzerland	Toro Rosso	53	1:31:40.129	+ 1:12.806	+ 1.960	201.249	1:35.116	52
+189	16	2010	Japanese Grand Prix	11	17	Jaime Alguersuari	Spain	Toro Rosso	52	1:30:33.120	1 Lap	1 Lap	199.883	1:34.365	49
+189	16	2010	Japanese Grand Prix	12	19	Heikki Kovalainen	Finland	Lotus	52	1:32:07.726	1 Lap	+ 1:34.606	196.462	1:37.620	51
+189	16	2010	Japanese Grand Prix	13	18	Jarno Trulli	Italy	Lotus	51	1:31:30.576	2 Laps	1 Lap	193.984	1:39.710	28
+189	16	2010	Japanese Grand Prix	14	24	Timo Glock	Germany	Virgin	51	1:32:00.772	2 Laps	+ 30.196	192.923	1:39.813	51
+189	16	2010	Japanese Grand Prix	15	21	Bruno Senna	Brazil	HRT	51	1:32:02.330	2 Laps	+ 1.558	192.868	1:40.329	49
+189	16	2010	Japanese Grand Prix	16	20	Sakon Yamamoto	Japan	HRT	50	1:31:10.190	3 Laps	1 Lap	190.885	1:39.806	33
+189	16	2010	Japanese Grand Prix	17	4	Nico Rosberg	Germany	Mercedes	47	1:21:52.769	6 Laps	3 Laps	199.778	1:36.108	44
+189	16	2010	Japanese Grand Prix	18	14	Adrian Sutil	Germany	Force India	44	1:17:18.625			198.064	1:36.319	43
+189	16	2010	Japanese Grand Prix	19	11	Robert Kubica	Poland	Renault	2	4:48.741			141.062	2:41.378	2
+189	16	2010	Japanese Grand Prix	20	10	Nico Hülkenberg	Germany	Williams							
+189	16	2010	Japanese Grand Prix	21	7	Felipe Massa	Brazil	Ferrari							
+189	16	2010	Japanese Grand Prix	22	12	Vitaly Petrov	Russia	Renault							
+189	16	2010	Japanese Grand Prix	23	15	Vitantonio Liuzzi	Italy	Force India							
+189	16	2010	Japanese Grand Prix	24	25	Lucas di Grassi	Brazil	Virgin							

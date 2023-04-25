@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+22	6	2001	Austrian Grand Prix	1	4	David Coulthard	Great Britain	McLaren	71	1:27:45.927			209.977	1:10.843	48
+22	6	2001	Austrian Grand Prix	2	1	Michael Schumacher	Germany	Ferrari	71	1:27:48.117	+ 2.190	+ 2.190	209.890	1:11.030	69
+22	6	2001	Austrian Grand Prix	3	2	Rubens Barrichello	Brazil	Ferrari	71	1:27:48.454	+ 2.527	+ 0.337	209.876	1:11.009	68
+22	6	2001	Austrian Grand Prix	4	17	Kimi Räikkönen	Finland	Sauber	71	1:28:27.520	+ 41.593	+ 39.066	208.331	1:11.284	70
+22	6	2001	Austrian Grand Prix	5	9	Olivier Panis	France	BAR	71	1:28:39.702	+ 53.775	+ 12.182	207.854	1:12.204	39
+22	6	2001	Austrian Grand Prix	6	14	Jos Verstappen	Netherlands	Arrows	70	1:28:08.577	1 Lap	1 Lap	206.133	1:12.423	36
+22	6	2001	Austrian Grand Prix	7	18	Eddie Irvine	Great Britain	Jaguar	70	1:28:12.715	1 Lap	+ 4.138	205.972	1:12.088	69
+22	6	2001	Austrian Grand Prix	8	10	Jacques Villeneuve	Canada	BAR	70	1:28:45.106	1 Lap	+ 32.391	204.719	1:11.718	70
+22	6	2001	Austrian Grand Prix	9	16	Nick Heidfeld	Germany	Sauber	69	1:28:18.426	2 Laps	1 Lap	202.810	1:11.388	69
+22	6	2001	Austrian Grand Prix	10	22	Jean Alesi	France	Prost	69	1:28:24.114	2 Laps	+ 5.688	202.593	1:13.130	41
+22	6	2001	Austrian Grand Prix	11	23	Luciano Burti	Brazil	Prost	69	1:28:35.809	2 Laps	+ 11.695	202.147	1:12.642	69
+22	6	2001	Austrian Grand Prix	12	8	Jenson Button	Great Britain	Benneton	60	1:17:47.411			200.200	1:13.498	38
+22	6	2001	Austrian Grand Prix	13	19	Pedro de la Rosa	Spain	Jaguar	48	1:02:40.564			198.782	1:13.978	35
+22	6	2001	Austrian Grand Prix	14	6	Juan Pablo Montoya	Colombia	Williams	41	51:45.684			205.596	1:11.140	40
+22	6	2001	Austrian Grand Prix	15	21	Fernando Alonso	Spain	Minardi	38	50:25.556			195.599	1:14.432	36
+22	6	2001	Austrian Grand Prix	16	20	Tarso Marques	Brazil	Minardi	25	33:29.225			193.776	1:15.212	25
+22	6	2001	Austrian Grand Prix	17	15	Enrique Bernoldi	Brazil	Arrows	17	22:51.990			192.968	1:13.587	15
+22	6	2001	Austrian Grand Prix	18	12	Jarno Trulli	Italy	Jordan	14	20:47.168			174.820	1:14.082	12
+22	6	2001	Austrian Grand Prix	19	5	Ralf Schumacher	Germany	Williams	10	14:31.244			178.751	1:13.888	7
+22	6	2001	Austrian Grand Prix	20	7	Giancarlo Fisichella	Italy	Benneton	3	5:30.188			141.497	1:58.438	2
+22	6	2001	Austrian Grand Prix	21	3	Mika Hakkinen	Finland	McLaren	1	7:26.036			34.915		
+22	6	2001	Austrian Grand Prix	22	11	Heinz-Harald Frentzen	Germany	Jordan							

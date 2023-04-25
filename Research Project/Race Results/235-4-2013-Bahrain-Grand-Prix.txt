@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+235	4	2013	Bahrain Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull	57	1:36:00.498			192.632	1:36.961	55
+235	4	2013	Bahrain Grand Prix	2	7	Kimi Räikkönen	Finland	Lotus	57	1:36:09.609	+ 9.111	+ 9.111	192.327	1:38.164	57
+235	4	2013	Bahrain Grand Prix	3	8	Romain Grosjean	France	Lotus	57	1:36:20.005	+ 19.507	+ 10.396	191.981	1:37.627	52
+235	4	2013	Bahrain Grand Prix	4	14	Paul di Resta	Great Britain	Force India	57	1:36:22.225	+ 21.727	+ 2.220	191.908	1:38.336	57
+235	4	2013	Bahrain Grand Prix	5	10	Lewis Hamilton	Great Britain	Mercedes	57	1:36:35.728	+ 35.230	+ 13.503	191.461	1:38.204	48
+235	4	2013	Bahrain Grand Prix	6	6	Sergio Pérez	Mexico	McLaren	57	1:36:36.496	+ 35.998	+ 0.768	191.435	1:37.913	41
+235	4	2013	Bahrain Grand Prix	7	2	Mark Webber	Australia	Red Bull	57	1:36:37.742	+ 37.244	+ 1.246	191.394	1:38.557	52
+235	4	2013	Bahrain Grand Prix	8	3	Fernando Alonso	Spain	Ferrari	57	1:36:38.072	+ 37.574	+ 0.330	191.383	1:37.204	41
+235	4	2013	Bahrain Grand Prix	9	9	Nico Rosberg	Germany	Mercedes	57	1:36:41.624	+ 41.126	+ 3.552	191.266	1:37.588	48
+235	4	2013	Bahrain Grand Prix	10	5	Jenson Button	Great Britain	McLaren	57	1:36:47.129	+ 46.631	+ 5.505	191.085	1:37.743	49
+235	4	2013	Bahrain Grand Prix	11	16	Pastor Maldonado	Venezuela	Williams	57	1:37:06.948	+ 1:06.450	+ 19.819	190.435	1:38.962	57
+235	4	2013	Bahrain Grand Prix	12	11	Nico Hülkenberg	Germany	Sauber	57	1:37:13.431	+ 1:12.933	+ 6.483	190.223	1:38.770	43
+235	4	2013	Bahrain Grand Prix	13	15	Adrian Sutil	Germany	Force India	57	1:37:17.217	+ 1:16.719	+ 3.786	190.100	1:37.070	44
+235	4	2013	Bahrain Grand Prix	14	17	Valtteri Bottas	Finland	Williams	57	1:37:22.009	+ 1:21.511	+ 4.792	189.944	1:38.192	57
+235	4	2013	Bahrain Grand Prix	15	4	Felipe Massa	Brazil	Ferrari	57	1:37:26.862	+ 1:26.364	+ 4.853	189.786	1:38.839	42
+235	4	2013	Bahrain Grand Prix	16	19	Daniel Ricciardo	Australia	Toro Rosso	56	1:36:06.584	+ 6.086	1 Lap	189.050	1:39.579	51
+235	4	2013	Bahrain Grand Prix	17	20	Charles Pic	France	Caterham	56	1:36:16.347	+ 15.849	+ 9.763	188.730	1:39.546	37
+235	4	2013	Bahrain Grand Prix	18	12	Esteban Gutiérrez	Mexico	Sauber	56	1:36:16.937	+ 16.439	+ 0.590	188.711	1:38.202	45
+235	4	2013	Bahrain Grand Prix	19	22	Jules Bianchi	France	Marussia	56	1:36:54.150	+ 53.652	+ 37.213	187.503	1:38.756	50
+235	4	2013	Bahrain Grand Prix	20	23	Max Chilton	Great Britain	Marussia	56	1:37:06.434	+ 1:05.936	+ 12.284	187.108	1:39.279	50
+235	4	2013	Bahrain Grand Prix	21	21	Giedo van der Garde	Netherlands	Caterham	55	1:36:55.737	+ 55.239	1 Lap	184.102	1:39.334	49
+235	4	2013	Bahrain Grand Prix	22	18	Jean-Eric Vergne	France	Toro Rosso	16	29:54.417			173.229	1:43.107	4

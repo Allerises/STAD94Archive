@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+374	3	2020	Hungarian Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	70	1:36:12.473			191.229	1:16.627	70
+374	3	2020	Hungarian Grand Prix	2	33	Max Verstappen	Netherlands	Red Bull	70	1:36:21.175	+ 8.702	+ 8.702	190.941	1:19.184	60
+374	3	2020	Hungarian Grand Prix	3	77	Valtteri Bottas	Finland	Mercedes	70	1:36:21.925	+ 9.452	+ 0.750	190.917	1:17.665	66
+374	3	2020	Hungarian Grand Prix	4	18	Lance Stroll	Canada	Aston Martin	70	1:37:10.052	+ 57.579	+ 48.127	189.341	1:18.973	68
+374	3	2020	Hungarian Grand Prix	5	23	Alexander Albon	Thailand	Red Bull	70	1:37:30.789	+ 1:18.316	+ 20.737	188.669	1:19.440	68
+374	3	2020	Hungarian Grand Prix	6	5	Sebastian Vettel	Germany	Ferrari	69	1:36:17.961	1 Lap	1 Lap	188.318	1:20.363	49
+374	3	2020	Hungarian Grand Prix	7	11	Sergio Pérez	Mexico	Aston Martin	69	1:36:19.099	1 Lap	+ 1.138	188.281	1:20.090	39
+374	3	2020	Hungarian Grand Prix	8	3	Daniel Ricciardo	Australia	Renault	69	1:36:20.049	1 Lap	+ 0.950	188.250	1:19.532	46
+374	3	2020	Hungarian Grand Prix	9	55	Carlos Sainz	Spain	McLaren	69	1:36:34.468	1 Lap	+ 14.419	187.781	1:19.457	67
+374	3	2020	Hungarian Grand Prix	10	20	Kevin Magnussen	Denmark	Haas	69	1:36:42.396	1 Lap	+ 7.928	187.525	1:20.477	68
+374	3	2020	Hungarian Grand Prix	11	16	Charles Leclerc	Monaco	Ferrari	69	1:36:52.962	1 Lap	+ 10.566	187.184	1:20.821	64
+374	3	2020	Hungarian Grand Prix	12	26	Daniil Kvyat	Russia	Toro Rosso	69	1:36:57.822	1 Lap	+ 4.860	187.028	1:20.946	51
+374	3	2020	Hungarian Grand Prix	13	4	Lando Norris	Great Britain	McLaren	69	1:36:58.561	1 Lap	+ 0.739	187.004	1:19.945	42
+374	3	2020	Hungarian Grand Prix	14	31	Esteban Ocon	France	Renault	69	1:36:59.437	1 Lap	+ 0.876	186.976	1:20.261	40
+374	3	2020	Hungarian Grand Prix	15	7	Kimi Räikkönen	Finland	Sauber	69	1:37:06.078	1 Lap	+ 6.641	186.763	1:20.232	61
+374	3	2020	Hungarian Grand Prix	16	8	Romain Grosjean	France	Haas	69	1:37:14.897	1 Lap	+ 8.819	186.480	1:20.889	67
+374	3	2020	Hungarian Grand Prix	17	99	Antonio Giovinazzi	Italy	Sauber	69	1:37:26.709	1 Lap	+ 11.812	186.104	1:20.096	44
+374	3	2020	Hungarian Grand Prix	18	63	George Russell	Great Britain	Williams	69	1:37:27.844	1 Lap	+ 1.135	186.067	1:19.984	67
+374	3	2020	Hungarian Grand Prix	19	6	Nicholas Latifi	Canada	Williams	65	1:37:02.721	5 Laps	4 Laps	176.036	1:21.198	64
+374	3	2020	Hungarian Grand Prix	20	10	Pierre Gasly	France	Toro Rosso	15	22:50.273			172.542	1:23.939	10

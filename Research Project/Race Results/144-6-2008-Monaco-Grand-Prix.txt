@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+144	6	2008	Monaco Grand Prix	1	22	Lewis Hamilton	Great Britain	McLaren	76	2:00:42.742			126.170	1:18.510	71
+144	6	2008	Monaco Grand Prix	2	4	Robert Kubica	Poland	Sauber	76	2:00:45.806	+ 3.064	+ 3.064	126.117	1:17.933	75
+144	6	2008	Monaco Grand Prix	3	2	Felipe Massa	Brazil	Ferrari	76	2:00:47.553	+ 4.811	+ 1.747	126.087	1:17.886	76
+144	6	2008	Monaco Grand Prix	4	10	Mark Webber	Australia	Red Bull	76	2:01:02.037	+ 19.295	+ 14.484	125.835	1:19.036	74
+144	6	2008	Monaco Grand Prix	5	15	Sebastian Vettel	Germany	Toro Rosso	76	2:01:07.399	+ 24.657	+ 5.362	125.742	1:18.787	74
+144	6	2008	Monaco Grand Prix	6	17	Rubens Barrichello	Brazil	Honda	76	2:01:11.150	+ 28.408	+ 3.751	125.678	1:19.574	75
+144	6	2008	Monaco Grand Prix	7	8	Kazuki Nakajima	Japan	Williams	76	2:01:12.922	+ 30.180	+ 1.772	125.647	1:19.910	75
+144	6	2008	Monaco Grand Prix	8	23	Heikki Kovalainen	Finland	McLaren	76	2:01:15.933	+ 33.191	+ 3.011	125.595	1:17.282	74
+144	6	2008	Monaco Grand Prix	9	1	Kimi Räikkönen	Finland	Ferrari	76	2:01:16.534	+ 33.792	+ 0.601	125.585	1:16.689	74
+144	6	2008	Monaco Grand Prix	10	5	Fernando Alonso	Spain	Renault	75	2:01:05.210	1 Lap	1 Lap	124.125	1:17.869	73
+144	6	2008	Monaco Grand Prix	11	16	Jenson Button	Great Britain	Honda	75	2:01:12.175	1 Lap	+ 6.965	124.006	1:19.582	74
+144	6	2008	Monaco Grand Prix	12	12	Timo Glock	Germany	Toyota	75	2:01:14.066	1 Lap	+ 1.891	123.974	1:19.618	75
+144	6	2008	Monaco Grand Prix	13	11	Jarno Trulli	Italy	Toyota	75	2:01:15.217	1 Lap	+ 1.151	123.955	1:19.830	75
+144	6	2008	Monaco Grand Prix	14	3	Nick Heidfeld	Germany	Sauber	72	2:00:55.670	4 Laps	3 Laps	119.317	1:20.251	72
+144	6	2008	Monaco Grand Prix	15	20	Adrian Sutil	Germany	Force India	67	1:48:51.228			123.347	1:22.039	60
+144	6	2008	Monaco Grand Prix	16	7	Nico Rosberg	Germany	Williams	59	1:35:08.296			124.278	1:21.270	58
+144	6	2008	Monaco Grand Prix	17	6	Nelson Piquet Jr.	Brazil	Renault	47	1:18:18.063			120.289	1:31.187	40
+144	6	2008	Monaco Grand Prix	18	21	Giancarlo Fisichella	Italy	Force India	36	1:00:56.637			118.377	1:32.849	33
+144	6	2008	Monaco Grand Prix	19	9	David Coulthard	Great Britain	Red Bull	7	12:15.453			114.443	1:42.112	7
+144	6	2008	Monaco Grand Prix	20	14	Sebastien Bourdais	France	Toro Rosso	7	12:18.440			113.980	1:41.150	7

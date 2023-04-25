@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+346	17	2018	Japanese Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes	53	1:27:17.062			211.358	1:32.785	51
+346	17	2018	Japanese Grand Prix	2	77	Valtteri Bottas	Finland	Mercedes	53	1:27:29.981	+ 12.919	+ 12.919	210.838	1:33.110	46
+346	17	2018	Japanese Grand Prix	3	33	Max Verstappen	Netherlands	Red Bull	53	1:27:31.357	+ 14.295	+ 1.376	210.782	1:33.367	50
+346	17	2018	Japanese Grand Prix	4	3	Daniel Ricciardo	Australia	Red Bull	53	1:27:36.557	+ 19.495	+ 5.200	210.574	1:33.187	50
+346	17	2018	Japanese Grand Prix	5	7	Kimi Räikkönen	Finland	Ferrari	53	1:28:08.060	+ 50.998	+ 31.503	209.319	1:34.223	28
+346	17	2018	Japanese Grand Prix	6	5	Sebastian Vettel	Germany	Ferrari	53	1:28:26.935	+ 1:09.873	+ 18.875	208.575	1:32.318	53
+346	17	2018	Japanese Grand Prix	7	11	Sergio Pérez	Mexico	Force India	53	1:28:36.441	+ 1:19.379	+ 9.506	208.202	1:34.073	43
+346	17	2018	Japanese Grand Prix	8	8	Romain Grosjean	France	Haas	53	1:28:44.260	+ 1:27.198	+ 7.819	207.896	1:34.786	47
+346	17	2018	Japanese Grand Prix	9	31	Esteban Ocon	France	Force India	53	1:28:45.117	+ 1:28.055	+ 0.857	207.863	1:34.670	50
+346	17	2018	Japanese Grand Prix	10	55	Carlos Sainz	Spain	Renault	52	1:27:26.104	1 Lap	1 Lap	207.008	1:34.197	50
+346	17	2018	Japanese Grand Prix	11	10	Pierre Gasly	France	Toro Rosso	52	1:27:38.955	1 Lap	+ 12.851	206.503	1:34.133	35
+346	17	2018	Japanese Grand Prix	12	9	Marcus Ericsson	Sweden	Sauber	52	1:28:00.266	1 Lap	+ 21.311	205.669	1:36.294	8
+346	17	2018	Japanese Grand Prix	13	28	Brendon Hartley	New Zealand	Toro Rosso	52	1:28:00.804	1 Lap	+ 0.538	205.648	1:34.857	30
+346	17	2018	Japanese Grand Prix	14	14	Fernando Alonso	Spain	McLaren	52	1:28:01.138	1 Lap	+ 0.334	205.635	1:33.943	28
+346	17	2018	Japanese Grand Prix	15	2	Stoffel Vandoorne	Belgium	McLaren	52	1:28:01.966	1 Lap	+ 0.828	205.603	1:35.023	25
+346	17	2018	Japanese Grand Prix	16	35	Sergey Sirotkin	Russia	Williams	52	1:28:04.356	1 Lap	+ 2.390	205.510	1:33.985	41
+346	17	2018	Japanese Grand Prix	17	18	Lance Stroll	Canada	Williams	52	1:28:09.047	1 Lap	+ 4.691	205.328	1:33.354	41
+346	17	2018	Japanese Grand Prix	18	16	Charles Leclerc	Monaco	Sauber	38	1:05:17.298			202.516	1:34.515	37
+346	17	2018	Japanese Grand Prix	19	27	Nico Hülkenberg	Germany	Renault	37	1:03:45.584			201.907	1:34.934	32
+346	17	2018	Japanese Grand Prix	20	20	Kevin Magnussen	Denmark	Haas	8	16:54.683			163.757	1:39.908	6

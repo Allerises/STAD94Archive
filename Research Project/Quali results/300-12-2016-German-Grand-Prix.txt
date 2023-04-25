@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+300	12	2016	German Grand Prix	1	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:14.363			221.432		
+300	12	2016	German Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:14.470	0.107	0.107	221.114		
+300	12	2016	German Grand Prix	3	3	Daniel Ricciardo	Australia	Red Bull Racing		1:14.726	0.363	0.256	220.357		
+300	12	2016	German Grand Prix	4	33	Max Verstappen	Netherlands	Red Bull Racing		1:14.834	0.471	0.108	220.039		
+300	12	2016	German Grand Prix	5	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:15.142	0.779	0.308	219.137		
+300	12	2016	German Grand Prix	6	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:15.315	0.952	0.173	218.633		
+300	12	2016	German Grand Prix	7	77	Valtteri Bottas	Finland	Williams Martini Racing		1:15.530	1.167	0.215	218.011		
+300	12	2016	German Grand Prix	8	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:15.510	1.147		218.069		
+300	12	2016	German Grand Prix	9	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:15.537	1.174	0.027	217.991		
+300	12	2016	German Grand Prix	10	19	Felipe Massa	Brazil	Williams Martini Racing		1:15.615	1.252	0.078	217.766		
+300	12	2016	German Grand Prix	11	21	Esteban Gutiérrez	Mexico	Haas F1 Team		1:15.883	1.520	0.268	216.997		
+300	12	2016	German Grand Prix	12	22	Jenson Button	Great Britain	McLaren Honda		1:15.909	1.546	0.026	216.922		
+300	12	2016	German Grand Prix	13	14	Fernando Alonso	Spain	McLaren Honda		1:16.041	1.678	0.132	216.546		
+300	12	2016	German Grand Prix	14	30	Jolyon Palmer	Great Britain	Renault Sport F1 Team		1:16.665	2.302	0.624	214.783		
+300	12	2016	German Grand Prix	15	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:15.989	1.626		216.694		
+300	12	2016	German Grand Prix	16	20	Kevin Magnussen	Denmark	Renault Sport F1 Team		1:16.716	2.353	0.727	214.641		
+300	12	2016	German Grand Prix	17	94	Pascal Wehrlein	Germany	Manor Racing MRT		1:16.717	2.354	0.001	214.638		
+300	12	2016	German Grand Prix	18	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:16.876	2.513	0.159	214.194		
+300	12	2016	German Grand Prix	19	88	Rio Haryanto	Indonesia	Manor Racing MRT		1:16.977	2.614	0.101	213.913		
+300	12	2016	German Grand Prix	20	8	Romain Grosjean	France	Haas F1 Team		1:16.086	1.723		216.418		
+300	12	2016	German Grand Prix	21	12	Felipe Nasr	Brazil	Sauber F1 Team		1:17.123	2.760	1.037	213.508		
+300	12	2016	German Grand Prix	22	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:17.238	2.875	0.115	213.190		

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+156	18	2008	Brazilian Grand Prix	1	2	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	17	1:12.368	0.231	0.068			
+156	18	2008	Brazilian Grand Prix	2	11	Jarno Trulli	Italy	Panasonic Toyota Racing	15	1:12.737	0.369	0.369			
+156	18	2008	Brazilian Grand Prix	3	1	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	19	1:12.825	0.457	0.088			
+156	18	2008	Brazilian Grand Prix	4	22	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	14	1:12.830	0.462	0.005			
+156	18	2008	Brazilian Grand Prix	5	23	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	17	1:12.917	0.549	0.087			
+156	18	2008	Brazilian Grand Prix	6	5	Fernando Alonso	Spain	ING Renault F1 Team	18	1:12.967	0.599	0.050			
+156	18	2008	Brazilian Grand Prix	7	15	Sebastian Vettel	Germany	Scuderia Toro Rosso	20	1:13.082	0.714	0.115			
+156	18	2008	Brazilian Grand Prix	8	3	Nick Heidfeld	Germany	BMW Sauber F1 Team	18	1:13.297	0.929	0.215			
+156	18	2008	Brazilian Grand Prix	9	14	Sebastien Bourdais	France	Scuderia Toro Rosso	16	1:14.105	1.737	0.808			
+156	18	2008	Brazilian Grand Prix	10	12	Timo Glock	Germany	Panasonic Toyota Racing	24	1:14.230	1.862	0.125			
+156	18	2008	Brazilian Grand Prix	11	6	Nelson Piquet Jr.	Brazil	Renault	13	1:12.137					
+156	18	2008	Brazilian Grand Prix	12	10	Mark Webber	Australia	Red Bull Racing	13	1:12.289	0.152	0.152			
+156	18	2008	Brazilian Grand Prix	13	4	Robert Kubica	Poland	BMW Sauber F1 Team	13	1:12.300	0.163	0.011			
+156	18	2008	Brazilian Grand Prix	14	9	David Coulthard	Great Britain	Red Bull Racing	16	1:12.717	0.349	0.417			
+156	18	2008	Brazilian Grand Prix	15	17	Rubens Barrichello	Brazil	Honda Racing F1 Team	14	1:13.139	0.771	0.422			
+156	18	2008	Brazilian Grand Prix	16	8	Kazuki Nakajima	Japan	AT&T Williams	9	1:12.800	0.432	0.063			
+156	18	2008	Brazilian Grand Prix	17	16	Jenson Button	Great Britain	Honda Racing F1 Team	9	1:12.810	0.442	0.010			
+156	18	2008	Brazilian Grand Prix	18	7	Nico Rosberg	Germany	AT&T Williams	8	1:13.002	0.634	0.192			
+156	18	2008	Brazilian Grand Prix	19	21	Giancarlo Fisichella	Italy	Force India F1 Team	9	1:13.426	1.058	0.424			
+156	18	2008	Brazilian Grand Prix	20	20	Adrian Sutil	Germany	Force India F1 Team	9	1:13.508	1.140	0.082			

@@ -1,0 +1,23 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+309	21	2016	Abu Dhabi Grand Prix	1	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas F1 Team		1:38.755			202.464		
+309	21	2016	Abu Dhabi Grand Prix	2	6	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team		1:39.058	0.303	0.303	201.845		
+309	21	2016	Abu Dhabi Grand Prix	3	3	Daniel Ricciardo	Australia	Red Bull Racing		1:39.589	0.834	0.531	200.769		
+309	21	2016	Abu Dhabi Grand Prix	4	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:39.604	0.849	0.015	200.738		
+309	21	2016	Abu Dhabi Grand Prix	5	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:39.661	0.906	0.057	200.624		
+309	21	2016	Abu Dhabi Grand Prix	6	33	Max Verstappen	Netherlands	Red Bull Racing		1:39.818	1.063	0.157	200.308		
+309	21	2016	Abu Dhabi Grand Prix	7	27	Nico Hülkenberg	Germany	Sahara Force India F1 Team		1:40.501	1.746	0.683	198.947		
+309	21	2016	Abu Dhabi Grand Prix	8	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:40.519	1.764	0.018	198.911		
+309	21	2016	Abu Dhabi Grand Prix	9	14	Fernando Alonso	Spain	McLaren Honda		1:41.106	2.351	0.587	197.756		
+309	21	2016	Abu Dhabi Grand Prix	10	19	Felipe Massa	Brazil	Williams Martini Racing		1:41.213	2.458	0.107	197.547		
+309	21	2016	Abu Dhabi Grand Prix	11	77	Valtteri Bottas	Finland	Williams Martini Racing		1:41.084	2.329		197.799		
+309	21	2016	Abu Dhabi Grand Prix	12	22	Jenson Button	Great Britain	McLaren Honda		1:41.272	2.517	0.188	197.432		
+309	21	2016	Abu Dhabi Grand Prix	13	21	Esteban Gutiérrez	Mexico	Haas F1 Team		1:41.480	2.725	0.208	197.027		
+309	21	2016	Abu Dhabi Grand Prix	14	8	Romain Grosjean	France	Haas F1 Team		1:41.564	2.809	0.084	196.865		
+309	21	2016	Abu Dhabi Grand Prix	15	30	Jolyon Palmer	Great Britain	Renault Sport F1 Team		1:41.820	3.065	0.256	196.370		
+309	21	2016	Abu Dhabi Grand Prix	16	94	Pascal Wehrlein	Germany	Manor Racing MRT		1:41.995	3.240	0.175	196.033		
+309	21	2016	Abu Dhabi Grand Prix	17	26	Daniil Kvyat	Russia	Scuderia Toro Rosso		1:42.003	3.248	0.008	196.017		
+309	21	2016	Abu Dhabi Grand Prix	18	20	Kevin Magnussen	Denmark	Renault Sport F1 Team		1:42.142	3.387	0.139	195.751		
+309	21	2016	Abu Dhabi Grand Prix	19	12	Felipe Nasr	Brazil	Sauber F1 Team		1:42.247	3.492	0.105	195.549		
+309	21	2016	Abu Dhabi Grand Prix	20	31	Esteban Ocon	France	Manor Racing MRT		1:42.286	3.531	0.039	195.475		
+309	21	2016	Abu Dhabi Grand Prix	21	55	Carlos Sainz	Spain	Scuderia Toro Rosso		1:42.393	3.638	0.107	195.271		
+309	21	2016	Abu Dhabi Grand Prix	22	9	Marcus Ericsson	Sweden	Sauber F1 Team		1:42.637	3.882	0.244	194.806		

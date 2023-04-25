@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+335	6	2018	Monaco Grand Prix	1	3	Daniel Ricciardo	Australia	Aston Martin Red Bull Racing		1:10.810			169.654		
+335	6	2018	Monaco Grand Prix	2	5	Sebastian Vettel	Germany	Scuderia Ferrari		1:11.039	0.229	0.229	169.107		
+335	6	2018	Monaco Grand Prix	3	44	Lewis Hamilton	Great Britain	Mercedes AMG Petronas Motorsport		1:11.232	0.422	0.193	168.648		
+335	6	2018	Monaco Grand Prix	4	7	Kimi Räikkönen	Finland	Scuderia Ferrari		1:11.266	0.456	0.034	168.568		
+335	6	2018	Monaco Grand Prix	5	77	Valtteri Bottas	Finland	Mercedes AMG Petronas Motorsport		1:11.441	0.631	0.175	168.155		
+335	6	2018	Monaco Grand Prix	6	31	Esteban Ocon	France	Sahara Force India F1 Team		1:12.061	1.251	0.620	166.708		
+335	6	2018	Monaco Grand Prix	7	14	Fernando Alonso	Spain	McLaren F1 Team		1:12.110	1.300	0.049	166.595		
+335	6	2018	Monaco Grand Prix	8	55	Carlos Sainz	Spain	Renault Sport Formula One Team		1:12.130	1.320	0.020	166.549		
+335	6	2018	Monaco Grand Prix	9	11	Sergio Pérez	Mexico	Sahara Force India F1 Team		1:12.154	1.344	0.024	166.493		
+335	6	2018	Monaco Grand Prix	10	10	Pierre Gasly	France	Red Bull Toro Rosso Honda		1:12.221	1.411	0.067	166.339		
+335	6	2018	Monaco Grand Prix	11	27	Nico Hülkenberg	Germany	Renault Sport Formula One Team		1:12.411	1.601	0.190	165.902		
+335	6	2018	Monaco Grand Prix	12	2	Stoffel Vandoorne	Belgium	McLaren F1 Team		1:12.440	1.630	0.029	165.836		
+335	6	2018	Monaco Grand Prix	13	35	Sergey Sirotkin	Russia	Williams Martini Racing		1:12.521	1.711	0.081	165.651		
+335	6	2018	Monaco Grand Prix	14	16	Charles Leclerc	Monaco	Alfa Romeo Sauber F1 Team		1:12.714	1.904	0.193	165.211		
+335	6	2018	Monaco Grand Prix	15	28	Brendon Hartley	New Zealand	Red Bull Toro Rosso Honda		1:13.179	2.369	0.465	164.161		
+335	6	2018	Monaco Grand Prix	16	9	Marcus Ericsson	Sweden	Alfa Romeo Sauber F1 Team		1:13.265	2.455	0.086	163.969		
+335	6	2018	Monaco Grand Prix	17	18	Lance Stroll	Canada	Williams Martini Racing		1:13.323	2.513	0.058	163.839		
+335	6	2018	Monaco Grand Prix	18	8	Romain Grosjean	France	Haas F1 Team		1:12.728	1.918		165.179		
+335	6	2018	Monaco Grand Prix	19	20	Kevin Magnussen	Denmark	Haas F1 Team		1:13.393	2.583	0.665	163.683		
+335	6	2018	Monaco Grand Prix	20	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing							

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+360	1	2020	Austrian Grand Prix	1	77	Valtteri Bottas	Finland	Mercedes-AMG Petronas Formula One Team	19	1:02.939			246.981		
+360	1	2020	Austrian Grand Prix	2	44	Lewis Hamilton	Great Britain	Mercedes-AMG Petronas Formula One Team	21	1:02.951	0.012	0.012	246.934		
+360	1	2020	Austrian Grand Prix	3	33	Max Verstappen	Netherlands	Aston Martin Red Bull Racing	23	1:03.477	0.538	0.526	244.888		
+360	1	2020	Austrian Grand Prix	4	4	Lando Norris	Great Britain	McLaren F1 Team	17	1:03.626	0.687	0.149	244.315		
+360	1	2020	Austrian Grand Prix	5	23	Alexander Albon	Thailand	Aston Martin Red Bull Racing	18	1:03.868	0.929	0.242	243.389		
+360	1	2020	Austrian Grand Prix	6	11	Sergio Pérez	Mexico	BWT Racing Point F1 Team	19	1:03.868	0.929		243.389		
+360	1	2020	Austrian Grand Prix	7	16	Charles Leclerc	Monaco	Scuderia Ferrari	20	1:03.923	0.984	0.055	243.180		
+360	1	2020	Austrian Grand Prix	8	55	Carlos Sainz	Spain	McLaren F1 Team	18	1:03.971	1.032	0.048	242.997		
+360	1	2020	Austrian Grand Prix	9	18	Lance Stroll	Canada	BWT Racing Point F1 Team	17	1:04.029	1.090	0.058	242.777		
+360	1	2020	Austrian Grand Prix	10	3	Daniel Ricciardo	Australia	Renault DP World F1 Team	15	1:04.239	1.300	0.210	241.983		
+360	1	2020	Austrian Grand Prix	11	5	Sebastian Vettel	Germany	Scuderia Ferrari	13	1:04.206	1.267		242.108		
+360	1	2020	Austrian Grand Prix	12	10	Pierre Gasly	France	Scuderia AlphaTauri Honda	14	1:04.305	1.366	0.099	241.735		
+360	1	2020	Austrian Grand Prix	13	26	Daniil Kvyat	Russia	Scuderia AlphaTauri Honda	14	1:04.431	1.492	0.126	241.262		
+360	1	2020	Austrian Grand Prix	14	31	Esteban Ocon	France	Renault DP World F1 Team	12	1:04.643	1.704	0.212	240.471		
+360	1	2020	Austrian Grand Prix	15	8	Romain Grosjean	France	Haas F1 Team	14	1:04.691	1.752	0.048	240.293		
+360	1	2020	Austrian Grand Prix	16	20	Kevin Magnussen	Denmark	Haas F1 Team	8	1:05.164	2.225	0.473	238.548		
+360	1	2020	Austrian Grand Prix	17	63	George Russell	Great Britain	Williams Racing	10	1:05.167	2.228	0.003	238.537		
+360	1	2020	Austrian Grand Prix	18	99	Antonio Giovinazzi	Italy	Alfa Romeo Racing ORLEN	8	1:05.175	2.236	0.008	238.508		
+360	1	2020	Austrian Grand Prix	19	7	Kimi Räikkönen	Finland	Alfa Romeo Racing ORLEN	9	1:05.224	2.285	0.049	238.329		
+360	1	2020	Austrian Grand Prix	20	6	Nicholas Latifi	Canada	Williams Racing	12	1:05.757	2.818	0.533	236.397		

@@ -1,0 +1,21 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+159	3	2009	Chinese Grand Prix	1	15	Sebastian Vettel	Germany	Red Bull Racing	11	1:36.184	0.209	0.118			
+159	3	2009	Chinese Grand Prix	2	7	Fernando Alonso	Spain	ING Renault F1 Team	21	1:36.381	0.197	0.197			
+159	3	2009	Chinese Grand Prix	3	14	Mark Webber	Australia	Red Bull Racing	19	1:36.466	0.282	0.085			
+159	3	2009	Chinese Grand Prix	4	23	Rubens Barrichello	Brazil	Brawn GP Formula 1 Team	21	1:36.493	0.309	0.027			
+159	3	2009	Chinese Grand Prix	5	22	Jenson Button	Great Britain	Brawn GP Formula 1 Team	19	1:36.532	0.348	0.039			
+159	3	2009	Chinese Grand Prix	6	9	Jarno Trulli	Italy	Panasonic Toyota Racing	21	1:36.835	0.651	0.303			
+159	3	2009	Chinese Grand Prix	7	16	Nico Rosberg	Germany	AT&T Williams	23	1:37.397	1.213	0.562			
+159	3	2009	Chinese Grand Prix	8	4	Kimi Räikkönen	Finland	Scuderia Ferrari Marlboro	19	1:38.089	1.905	0.692			
+159	3	2009	Chinese Grand Prix	9	1	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	17	1:38.595	2.411	0.506			
+159	3	2009	Chinese Grand Prix	10	12	Sébastien Buemi	Switzerland	Scuderia Toro Rosso	21	1:39.321	3.137	0.726			
+159	3	2009	Chinese Grand Prix	11	6	Nick Heidfeld	Germany	BMW Sauber F1 Team	14	1:35.975					
+159	3	2009	Chinese Grand Prix	12	2	Heikki Kovalainen	Finland	Vodafone McLaren Mercedes	10	1:36.032	0.057	0.057			
+159	3	2009	Chinese Grand Prix	13	3	Felipe Massa	Brazil	Scuderia Ferrari Marlboro	11	1:36.033	0.058	0.001			
+159	3	2009	Chinese Grand Prix	14	10	Timo Glock	Germany	Panasonic Toyota Racing	14	1:36.066	0.091	0.033			
+159	3	2009	Chinese Grand Prix	15	17	Kazuki Nakajima	Japan	AT&T Williams	13	1:36.193	0.009	0.127			
+159	3	2009	Chinese Grand Prix	16	11	Sebastien Bourdais	France	Scuderia Toro Rosso	10	1:36.906	0.722	0.713			
+159	3	2009	Chinese Grand Prix	17	8	Nelson Piquet Jr.	Brazil	Renault	10	1:36.908	0.724	0.002			
+159	3	2009	Chinese Grand Prix	18	5	Robert Kubica	Poland	BMW Sauber F1 Team	8	1:36.966	0.782	0.058			
+159	3	2009	Chinese Grand Prix	19	20	Adrian Sutil	Germany	Force India F1 Team	10	1:37.669	1.485	0.703			
+159	3	2009	Chinese Grand Prix	20	21	Giancarlo Fisichella	Italy	Force India F1 Team	10	1:37.672	1.488	0.003			

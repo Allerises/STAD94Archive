@@ -1,0 +1,25 @@
+ID	RoundNo	Year	Race	Pos	No	Driver	Nat	Team	Laps	Time	Gap	Interval	Kph	Best	Lap
+219	8	2012	European Grand Prix	1	1	Sebastian Vettel	Germany	Red Bull Racing	15	1:38.086					
+219	8	2012	European Grand Prix	2	4	Lewis Hamilton	Great Britain	Vodafone McLaren Mercedes	17	1:38.410	0.324	0.324			
+219	8	2012	European Grand Prix	3	18	Pastor Maldonado	Venezuela	Williams F1 Team	21	1:38.475	0.389	0.065			
+219	8	2012	European Grand Prix	4	10	Romain Grosjean	France	Lotus F1 Team	16	1:38.505	0.419	0.030			
+219	8	2012	European Grand Prix	5	9	Kimi Räikkönen	Finland	Lotus F1 Team	16	1:38.513	0.427	0.008			
+219	8	2012	European Grand Prix	6	8	Nico Rosberg	Germany	Mercedes AMG Petronas F1 Team	17	1:38.623	0.537	0.110			
+219	8	2012	European Grand Prix	7	14	Kamui Kobayashi	Japan	Sauber F1 Team	12	1:38.741	0.655	0.118			
+219	8	2012	European Grand Prix	8	12	Nico Hülkenberg	Germany	Sahara Force India F1 Team	19	1:38.752	0.666	0.011			
+219	8	2012	European Grand Prix	9	3	Jenson Button	Great Britain	Vodafone McLaren Mercedes	16	1:38.801	0.715	0.049			
+219	8	2012	European Grand Prix	10	11	Paul di Resta	Great Britain	Sahara Force India F1 Team	18	1:38.992	0.906	0.191			
+219	8	2012	European Grand Prix	11	5	Fernando Alonso	Spain	Scuderia Ferrari	14	1:38.707	0.621	0.084			
+219	8	2012	European Grand Prix	12	7	Michael Schumacher	Germany	Mercedes AMG Petronas F1 Team	12	1:38.770	0.684	0.063			
+219	8	2012	European Grand Prix	13	6	Felipe Massa	Brazil	Scuderia Ferrari	14	1:38.780	0.694	0.010			
+219	8	2012	European Grand Prix	14	19	Bruno Senna	Brazil	Williams F1 Team	15	1:39.207	1.121	0.427			
+219	8	2012	European Grand Prix	15	15	Sergio Pérez	Mexico	Sauber F1 Team	14	1:39.358	1.272	0.151			
+219	8	2012	European Grand Prix	16	20	Heikki Kovalainen	Finland	Caterham F1 Team	11	1:40.295	2.209	0.937			
+219	8	2012	European Grand Prix	17	16	Daniel Ricciardo	Australia	Scuderia Toro Rosso	12	1:40.358	2.272	0.063			
+219	8	2012	European Grand Prix	18	17	Jean-Eric Vergne	France	Scuderia Toro Rosso	9	1:40.203	2.117	0.845			
+219	8	2012	European Grand Prix	19	2	Mark Webber	Australia	Red Bull Racing	7	1:40.395	2.309	0.192			
+219	8	2012	European Grand Prix	20	21	Vitaly Petrov	Russia	Caterham F1 Team	8	1:40.457	2.371	0.062			
+219	8	2012	European Grand Prix	21	22	Pedro de la Rosa	Spain	HRT F1 Team	7	1:42.171	4.085	1.714			
+219	8	2012	European Grand Prix	22	23	Narain Karthikeyan	India	HRT F1 Team	8	1:42.527	4.441	0.356			
+219	8	2012	European Grand Prix	23	25	Charles Pic	France	Marussia F1 Team	10	1:42.675	4.589	0.148			
+219	8	2012	European Grand Prix	24	24	Timo Glock	Germany	Marussia F1 Team							
